@@ -1,0 +1,83 @@
+{
+  "candidate": {
+    "name": "Abdolbaset Rahmatpour",
+    "email": "rahmatpour63@gmail.com",
+    "phone": "+98 914 168 8217",
+    "location": "Piranshahr, Kurdistan Province, Iran",
+    "linkedin": "",
+    "github": "",
+    "website": ""
+  },
+  "profiles": [
+    {
+      "id": "web3",
+      "title": "Web3 Developer | Smart Contract Security Auditor",
+      "resume_pdf": "resumes/Abdolbaset_Rahmatpour_Web3_Developer.pdf",
+      "headline": "Web3 developer and smart contract security specialist with 16+ years of risk assessment and compliance experience applied to blockchain security; Solidity, smart contract auditing, and DeFi protocol security.",
+      "keywords": [
+        "solidity", "smart contract", "smart-contract", "blockchain", "web3",
+        "defi", "ethereum", "polygon", "crypto", "token", "audit", "security",
+        "hardhat", "foundry", "truffle", "dapp", "nft", "evm", "solidity developer"
+      ]
+    },
+    {
+      "id": "hse",
+      "title": "Senior HSE Engineer | Occupational Health & Safety Specialist",
+      "resume_pdf": "resumes/Abdolbaset_Rahmatpour_HSE_Engineer.pdf",
+      "headline": "Accomplished HSE Engineer with 16+ years in industrial safety, occupational health, and regulatory compliance; risk assessment, ISO 45001, hazard analysis, and safety training.",
+      "keywords": [
+        "hse", "ehs", "occupational health", "safety engineer", "safety officer",
+        "safety manager", "health and safety", "industrial hygiene", "risk assessment",
+        "iso 45001", "safety consultant", "workplace safety", "hazard analysis",
+        "incident investigation", "safety compliance", "osha", "occupational hygiene",
+        "fire safety", "fire inspector", "firefighter", "fire officer",
+        "environmental health", "environmental engineer", "quality health safety",
+        "health safety environment", "loss prevention", "safety specialist",
+        "safety supervisor", "safety inspector", "ehs engineer", "hse engineer",
+        "safety advisor", "security advisor", "security officer", "health and safety officer",
+        "site safety", "safety training", "occupational safety"
+      ]
+    }
+  ],
+  "search": {
+    "remote_only": true,
+    "exclude_hybrid": true,
+    "min_salary_usd": 54000,
+    "top_n": 10,
+    "max_days_old": 21,
+    "adzuna_countries": ["gb", "us", "de", "ae", "ca"],
+    "weworkremotely_feeds": [
+      "https://weworkremotely.com/categories/remote-programming-jobs.rss",
+      "https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss",
+      "https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss",
+      "https://weworkremotely.com/categories/remote-front-end-programming-jobs.rss",
+      "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss"
+    ],
+    "jobicy_tags": ["blockchain", "programming", "engineering", "security", "devops"],
+    "linkedin_locations": ["", "Erbil", "Kurdistan Region, Iraq", "United Arab Emirates", "Saudi Arabia", "Qatar", "Kuwait", "Bahrain", "Oman"]
+  },
+  "gulf": {
+    "countries": ["iraq", "uae", "saudi-arabia", "qatar", "kuwait"],
+    "proxy": "https://r.jina.ai/"
+  },
+  "gmail": {
+    "user": "rahmatpour63@gmail.com",
+    "app_password": ""
+  },
+  "telegram": {
+    "bot_token": "",
+    "channel_id": ""
+  },
+  "whatsapp": {
+    "wait_seconds": 15,
+    "close_tab": true
+  },
+  "monitor": {
+    "check_days": 10,
+    "loop_minutes": 0
+  },
+  "adzuna": {
+    "app_id": "",
+    "app_key": ""
+  }
+}

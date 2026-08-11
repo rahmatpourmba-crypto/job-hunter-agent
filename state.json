@@ -1,0 +1,1245 @@
+{
+  "seen": {
+    "https://iq.linkedin.com/jobs/view/warehouseman-mhe-operator-southwest-asia-at-general-dynamics-information-technology-4439357627": {
+      "title": "Warehouseman / MHE Operator (Southwest Asia)",
+      "company": "General Dynamics Information Technology",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/security-advisor-at-sardar-group-4450215119": {
+      "title": "Security Advisor",
+      "company": "Sardar Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-i8is-infiniti-software-solutions-4451670756": {
+      "title": "Blockchain Developer",
+      "company": "I8IS - Infiniti Software Solutions",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-business-needs-inc-4442201598": {
+      "title": "Blockchain Developer",
+      "company": "Business Needs Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488": {
+      "title": "Blockchain Developer",
+      "company": "Altimetrik",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-security-engineer-at-hamonis-4451655291": {
+      "title": "Smart Contract Security Engineer",
+      "company": "Hamonis",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731": {
+      "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
+      "company": "1inch",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform": {
+      "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer": {
+      "title": "Solidity Compiler Frontend Engineer",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796": {
+      "title": "Senior Software Engineer, Stablecoins",
+      "company": "Coinbase",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3": {
+      "title": "Launch Legends: Senior DevOps Engineer (Web3)",
+      "company": "Launch Legends",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network": {
+      "title": "Coinbase: Senior Software Engineer - Blockchain Network",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager": {
+      "title": "Coinbase: Internal Audit IT Manager",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149957-product-marketing-lead-trade": {
+      "title": "Product Marketing Lead - Trade",
+      "company": "Consensys",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-associate-manager": {
+      "title": "Coinbase: Internal Audit IT Associate Manager",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/twilio-security-compliance-regulatory-affairs-analyst": {
+      "title": "Twilio: Security Compliance & Regulatory Affairs Analyst",
+      "company": "Twilio",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-research-intern": {
+      "title": "Bybit: Blockchain Risk Control Research Intern",
+      "company": "Bybit",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/gemini-director-fraud": {
+      "title": "Gemini: Director, Fraud",
+      "company": "Gemini",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/145862-enterprise-security-engineer": {
+      "title": "Enterprise Security Engineer",
+      "company": "DoorDash",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/142500-technical-support-engineer-blockchain-backend-development": {
+      "title": "Technical Support Engineer (Blockchain & Backend Development)",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/144336-staff-security-architect": {
+      "title": "Staff Security Architect",
+      "company": "Kraken",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/143125-senior-machine-learning-engineer-genai-security": {
+      "title": "Senior Machine Learning Engineer, GenAI Security",
+      "company": "Reddit",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/147750-security-software-engineer-iam": {
+      "title": "Security Software Engineer, IAM",
+      "company": "Vercel",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-manager-internal-audit-it": {
+      "title": "Coinbase: Senior Manager, Internal Audit IT",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-cdp-money-movement": {
+      "title": "Coinbase: Senior Software Engineer, CDP - Money Movement",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/142756-distributed-systems-engineer": {
+      "title": "Distributed Systems Engineer",
+      "company": "MLabs",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/customer-io-contract-it-specialist": {
+      "title": "Customer.io: Contract IT Specialist",
+      "company": "Customer.io",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools": {
+      "title": "Gusto, Inc.: Staff Software Engineer, AI Developer Tools",
+      "company": "Gusto, Inc.",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/148200-principal-devops-engineer-2": {
+      "title": "Principal DevOps Engineer",
+      "company": "NBCUniversal",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect": {
+      "title": "Gusto, Inc.: Enterprise Application AI Architect",
+      "company": "Gusto, Inc.",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response": {
+      "title": "Twilio: Senior Security Engineer, Incident Response",
+      "company": "Twilio",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/142690-technical-program-manager-security-2": {
+      "title": "Technical Program Manager, Security",
+      "company": "Figma",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/sailpoint-manager-devops": {
+      "title": "SailPoint: Manager, DevOps",
+      "company": "SailPoint",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149591-manager-of-it-security": {
+      "title": "Manager of IT Security",
+      "company": "Lakeshore Learning Materials, LLC",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-security-sales-engineer": {
+      "title": "Datadog: Security Sales Engineer",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/bright-vision-technologies-site-reliability-engineer-sre-1": {
+      "title": "Bright Vision Technologies: Site Reliability Engineer (SRE)",
+      "company": "Bright Vision Technologies",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-analyst": {
+      "title": "Coinbase: Internal Audit Analyst",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/146769-application-security-engineer-2": {
+      "title": "Application Security Engineer",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/148225-quant-risk-analyst-derivatives-eu-timezone": {
+      "title": "Quant Risk Analyst, Derivatives (EU timezone)",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149872-director-of-sales-2": {
+      "title": "Director of Sales",
+      "company": "Mesh",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/145992-relationship-manager-2": {
+      "title": "Relationship Manager",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/146013-institutional-relationship-manager-vip": {
+      "title": "Institutional Relationship Manager (VIP)",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics": {
+      "title": "Faire: Senior Staff Data Engineer - Platform Data and Analytics",
+      "company": "Faire",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-data-platform": {
+      "title": "Coinbase: Senior Staff Software Engineer, Data Platform",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-legal-automation": {
+      "title": "Coinbase: Senior Staff Software Engineer, Legal Automation",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-finance-automation": {
+      "title": "Coinbase: Senior Staff Software Engineer, Finance Automation",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/descript-engineering-manager-agent": {
+      "title": "Descript: Engineering Manager, Agent",
+      "company": "Descript",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-head-of-finance-canada": {
+      "title": "Coinbase: Head of Finance, Canada",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/dropbox-director-product-design": {
+      "title": "Dropbox: Director, Product Design",
+      "company": "Dropbox",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/firstup-director-of-cloud-operations": {
+      "title": "Firstup: Director of Cloud Operations",
+      "company": "Firstup",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-full-stack-coinbase-advisor-agentic-trading": {
+      "title": "Coinbase: Senior Software Engineer, Full Stack (Coinbase Advisor - Agentic Trading)",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-prediction-markets": {
+      "title": "Coinbase: Senior Software Engineer, Backend (Consumer - Prediction Markets)",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-1": {
+      "title": "Coinbase: Senior Software Engineer",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term": {
+      "title": "Senior Manager, IT Platform Engineering - FIXED TERM",
+      "company": "ŌURA",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-analyst-compliance-technology": {
+      "title": "Coinbase: Senior Analyst, Compliance Technology",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/145319-senior-ai-data-engineer": {
+      "title": "Senior AI Data Engineer",
+      "company": "Scorpion",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-senior-sales-engineer-ohio-valley": {
+      "title": "Datadog: Senior Sales Engineer - Ohio Valley",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery": {
+      "title": "LaunchDarkly: Backend Engineer, Flag Delivery",
+      "company": "LaunchDarkly",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-gsi-amer-west": {
+      "title": "Datadog: Partner Solutions Architect (GSI) - AMER West",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/modivcare-senior-manager-devops": {
+      "title": "Modivcare: Senior Manager, DevOps",
+      "company": "Modivcare",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-cro": {
+      "title": "GitLab: AI Transformation Owner, CRO",
+      "company": "GitLab",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications": {
+      "title": "WME: Senior DevOps Engineer, Applications",
+      "company": "WME",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/amwell-manager-government-compliance-authorization": {
+      "title": "Amwell: Manager, Government Compliance & Authorization",
+      "company": "Amwell",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-rockies": {
+      "title": "Datadog: Enterprise Sales Engineer - Rockies",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149863-senior-ai-research-engineer": {
+      "title": "Senior AI Research Engineer",
+      "company": "Phaidra",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/gitlab-ai-engineer": {
+      "title": "GitLab: AI Engineer",
+      "company": "GitLab",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/common-securitization-solutions-devops-engineer": {
+      "title": "Common Securitization Solutions: DevOps Engineer",
+      "company": "Common Securitization Solutions",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security": {
+      "title": "Stripe: Backend Engineer, AI Security",
+      "company": "Stripe",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/stripe-risk-strategist-screening-financial-crimes": {
+      "title": "Stripe: Risk Strategist - Screening (Financial Crimes)",
+      "company": "Stripe",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy": {
+      "title": "Stripe: Fullstack Engineer, Privy",
+      "company": "Stripe",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus": {
+      "title": "Client Full-Stack Engineer — IM Chat Platform, Android Focus",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149967-senior-manager-brand-social-creators": {
+      "title": "Senior Manager, Brand, Social, & Creators",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149954-compliance-analyst-2": {
+      "title": "Compliance Analyst",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/147145-ai-chatbot-product-manager": {
+      "title": "AI Chatbot Product Manager",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/145057-sr-security-researcher-ii-remote-deu": {
+      "title": "Sr. Security Researcher II (Remote, DEU)",
+      "company": "CrowdStrike",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149060-offensive-security-engineer": {
+      "title": "Offensive Security Engineer",
+      "company": "Sporty Group",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149008-chief-information-security-officer": {
+      "title": "Chief Information Security Officer",
+      "company": "Fortive",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149541-head-of-security-operations": {
+      "title": "Head of Security Operations",
+      "company": "Canonical Ltd.",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/146762-principal-devops-engineer": {
+      "title": "Principal DevOps Engineer",
+      "company": "Zartis",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/talent-pool-software-engineer-blockchain-smart-contracts-at-1inch-4446973485": {
+      "title": "Talent Pool - Software Engineer, Blockchain (Smart Contracts)",
+      "company": "1inch",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america": {
+      "title": "Azumo: Technical Leader - Latin America",
+      "company": "Azumo",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/stripe-security-analyst-bug-bounty": {
+      "title": "Stripe: Security Analyst, Bug Bounty",
+      "company": "Stripe",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-staff-software-engineer-security-agent-1": {
+      "title": "Datadog: Staff Software Engineer - Security Agent",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-staff-software-engineer-security-agent": {
+      "title": "Datadog: Staff Software Engineer - Security Agent",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/keeper-security-account-manager": {
+      "title": "Keeper Security: Account Manager",
+      "company": "Keeper Security",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/twilio-security-engineer-incident-response": {
+      "title": "Twilio: Security Engineer, Incident Response",
+      "company": "Twilio",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/150065-data-java-engineer-ai-llm-chatbot-customer-service": {
+      "title": "Data/ Java Engineer (AI/LLM Chatbot, Customer Service)",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149865-solutions-architect": {
+      "title": "Solutions Architect",
+      "company": "Mesh",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149499-software-engineer-data": {
+      "title": "Software Engineer - Data",
+      "company": "Dune",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service": {
+      "title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/145653-security-engineer-full-remote-france-or-hybrid": {
+      "title": "Security Engineer - Full Remote (France) or Hybrid",
+      "company": "Voyage Privé",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/150221-senior-security-engineer-i-customer-trust-emea-remote-eligible-in-the-uk": {
+      "title": "Senior Security Engineer I, Customer Trust EMEA (Remote Eligible in the UK)",
+      "company": "Smartsheet",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/143147-security-architect-ii": {
+      "title": "Security Architect II",
+      "company": "Akamai Technologies",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/142385-senior-information-security-architect-f-m-d": {
+      "title": "(Senior) Information Security Architect (f/m/d)",
+      "company": "GLS Germany GmbH &#038; Co. OHG",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/144383-industry-sales-director-security-surveillance-video-connectivity-us": {
+      "title": "Industry Sales Director - Security, Surveillance & Video Connectivity (US)",
+      "company": "Webbing",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/146550-sales-engineer-application-security": {
+      "title": "Sales Engineer (Application Security)",
+      "company": "Thales",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149365-offensive-security-lead": {
+      "title": "Offensive Security Lead",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149309-senior-security-engineer-security-incident-response-team-sirt-emea": {
+      "title": "Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/148202-devops-senior-engineer": {
+      "title": "DevOps Senior Engineer",
+      "company": "Experian",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company": {
+      "title": "Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company",
+      "company": "Toptal",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500": {
+      "title": "Toptal: Stibo Sr. Architect/Platform Owner for Global Fortune 500",
+      "company": "Toptal",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+      "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer": {
+      "title": "Twilio: Machine Learning Engineer",
+      "company": "Twilio",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer": {
+      "title": "Reveleer: Full Stack AI Engineer",
+      "company": "Reveleer",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/platform-sh-it-systems-engineer": {
+      "title": "Platform.sh: IT Systems Engineer",
+      "company": "Platform.sh",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-emea": {
+      "title": "Datadog: Partner Solutions Architect (EMEA)",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/proctoru-devops-engineer": {
+      "title": "ProctorU: DevOps Engineer",
+      "company": "ProctorU",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/ppg-it-team-manager-devops-m-f-x": {
+      "title": "PPG: IT Team Manager (DevOps) (m/f/x)",
+      "company": "PPG",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-pan-emea-gsi": {
+      "title": "Datadog: Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-partner-solutions-architect-colombia": {
+      "title": "Datadog: Partner Solutions Architect (Colombia)",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-uk": {
+      "title": "Datadog: Enterprise Sales Engineer - UK",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/avalon-administrative-services-devops-engineer-iii": {
+      "title": "Avalon Administrative Services: DevOps Engineer III",
+      "company": "Avalon Administrative Services",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://weworkremotely.com/remote-jobs/carnival-corporation-engineer-sr-devops": {
+      "title": "Carnival Corporation: Engineer Sr, DevOps",
+      "company": "Carnival Corporation",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/149555-graduate-sales-development-representative": {
+      "title": "Graduate Sales Development Representative",
+      "company": "Canonical Ltd.",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/146041-affiliate-business-development-manager-mena": {
+      "title": "Affiliate Business Development Manager - MENA",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/148918-detection-engineering-response-lead": {
+      "title": "Detection Engineering & Response Lead",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/148737-enterprise-customer-success-manager-2": {
+      "title": "Enterprise Customer Success Manager",
+      "company": "Datadog",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/150207-senior-business-analyst-ai-data": {
+      "title": "Senior Business Analyst, AI & Data",
+      "company": "phData",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://jobicy.com/jobs/150102-senior-customer-success-architect-singapore": {
+      "title": "Senior Customer Success Architect - Singapore",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-engineer-at-analog-4444278361": {
+      "title": "Smart Contract Engineer",
+      "company": "Analog",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/blockchain-dlt-digital-asset-technologies-at-virtusa-4445079847": {
+      "title": "Blockchain / DLT / Digital asset technologies",
+      "company": "Virtusa",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/python-developer-crypto-at-cfi-financial-group-4441315335": {
+      "title": "Python Developer - Crypto",
+      "company": "CFI Financial Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/information-security-sr-expert-at-korek-telecom-4413602602": {
+      "title": "Information Security (Sr.) Expert",
+      "company": "Korek Telecom",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/security-engineer-at-baly-4442371535": {
+      "title": "Security Engineer",
+      "company": "BALY",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/product-owner-crypto-at-revolut-4218028059": {
+      "title": "Product Owner (Crypto)",
+      "company": "Revolut",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/other-founding-operators-and-builders-at-permission-protocol-4449969152": {
+      "title": "Other Founding Operators and Builders",
+      "company": "Permission Protocol",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992": {
+      "title": "Environmental Health and Safety Officer",
+      "company": "Rotana Hotels",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-and-safety-officer-at-khidmah-4439830451": {
+      "title": "Health And Safety Officer",
+      "company": "Khidmah",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754": {
+      "title": "Audit HSE Engineer",
+      "company": "Convergint",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-analyst-safety-officer-offshore-at-penspen-4445033195": {
+      "title": "HSE Analyst/ Safety Officer - Offshore",
+      "company": "Penspen",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/environmental-health-safety-engineer-3-positions-at-ehs-consultants-4445821868": {
+      "title": "Environmental Health & Safety Engineer(3 Positions)",
+      "company": "EHS Consultants",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371": {
+      "title": "Environmental Health Safety Specialist",
+      "company": "Blue Hat HR Services",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303": {
+      "title": "HSE Engineer - Chinese Speaker",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/manager-occupational-health-and-safety-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4447647578": {
+      "title": "Manager Occupational Health and Safety",
+      "company": "Riyadh Air | طيران الرياض",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679": {
+      "title": "HSE Engineer",
+      "company": "Penspen",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258": {
+      "title": "EHS ENGINEER",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300": {
+      "title": "QHSE Manager",
+      "company": "Anton",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164": {
+      "title": "Head of Health, Safety and Environment (HSE)",
+      "company": "Hiwa Rauf for Investment and Development",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558": {
+      "title": "Head of Health, Safety & Environment (HSE)",
+      "company": "Hiwa Rauf for Investment and Development",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4439448621": {
+      "title": "Airfield Safety Manager",
+      "company": "V2X Inc",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-%E2%80%93-hse-oil-gas-at-ad-ports-group-4444238359": {
+      "title": "Manager – HSE Oil & Gas",
+      "company": "AD Ports Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-al-wazan-group-4448907453": {
+      "title": "HSE Officer",
+      "company": "Al Wazan Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-penspen-4416149306": {
+      "title": "HSE Officer",
+      "company": "Penspen",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-target-engineering-construction-co-llc-4443231945": {
+      "title": "Health Safety Environment Officer",
+      "company": "Target Engineering Construction Co LLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-in-charge-at-right-advisors-private-limited-4452475076": {
+      "title": "HSE In-Charge",
+      "company": "Right Advisors Private Limited",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-specialist-at-wood-4450233139": {
+      "title": "HSE Specialist",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/environment-health-safety-officer-at-shangri-la-group-4447299636": {
+      "title": "Environment, Health & Safety Officer",
+      "company": "Shangri-La Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-ali-sons-holding-llc-4438701844": {
+      "title": "Health Safety Environment Officer",
+      "company": "Ali & Sons Holding LLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-nesma-united-industries-4447902154": {
+      "title": "Safety Officer",
+      "company": "Nesma United Industries",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-coordinator-at-h-p-4414740905": {
+      "title": "HSE Coordinator",
+      "company": "H&P",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/field-hse-specialist-at-slb-4434932794": {
+      "title": "Field HSE Specialist",
+      "company": "SLB",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/occupational-health-safety-environment-lead-at-tecnicas-reunidas-saudi-arabia-4445876642": {
+      "title": "Occupational Health, Safety & Environment Lead",
+      "company": "Tecnicas Reunidas Saudi Arabia",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-kbr-inc-4445645989": {
+      "title": "Safety Officer",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-at-tekfen-construction-4442010627": {
+      "title": "HSE Officer",
+      "company": "Tekfen Construction",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-saipem-4443336692": {
+      "title": "Safety Engineer",
+      "company": "Saipem",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-seara-international-4449513310": {
+      "title": "Health Safety Environment Officer",
+      "company": "Seara International",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/officer-hse-at-edge-4444900812": {
+      "title": "Officer, HSE",
+      "company": "EDGE",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/analyst-hse-bcm-at-tabreed-4449851247": {
+      "title": "Analyst HSE & BCM",
+      "company": "Tabreed",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hseq-officer-at-enova-by-veolia-4448085772": {
+      "title": "HSEQ Officer",
+      "company": "Enova by Veolia",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-officer-at-larsen-toubro-4435198104": {
+      "title": "EHS OFFICER",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-%E2%80%93-uae-national-only-abu-dhabi-uae-at-segula-technologies-4421801017": {
+      "title": "HSE Officer – UAE National only-Abu Dhabi, UAE",
+      "company": "SEGULA Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/uae-national-ehs-officer-at-confidential-4444424679": {
+      "title": "UAE National - EHS Officer",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-upnext-uae-4444116596": {
+      "title": "HSE Manager",
+      "company": "UpNext UAE",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/regional-qhse-manager-mec-at-enermech-4447360187": {
+      "title": "Regional QHSE Manager - MEC",
+      "company": "EnerMech",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-offshore-subsea-project-pkg-2-at-kbr-inc-4445715557": {
+      "title": "HSE Manager - Offshore Subsea Project - Pkg 2",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-officer-tamheer-24786507-at-al-salama-hospital-4443361728": {
+      "title": "EHS Officer - Tamheer (24786507)",
+      "company": "Al Salama Hospital",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-mohammed-mansour-al-rumaih-mmr-ksa-4445854262": {
+      "title": "Health Safety Environment Officer",
+      "company": "Mohammed Mansour Al-Rumaih (MMR KSA)",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-and-health-hse-officer-at-ultimate-peaks-talent-strategy-4444589605": {
+      "title": "Safety and Health - HSE Officer",
+      "company": "Ultimate Peaks Talent & Strategy",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-engineer-ehs-at-larsen-toubro-4434482330": {
+      "title": "Sr. Engineer - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-at-talentone-4443120644": {
+      "title": "Safety Engineer",
+      "company": "TalentOne",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/engineer-hse-at-adnoc-group-4451523235": {
+      "title": "Engineer, HSE",
+      "company": "ADNOC Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/engineer-hse-field-dgd-at-adnoc-group-4452486829": {
+      "title": "ENGINEER, HSE (Field)(DGD)",
+      "company": "ADNOC Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/specialist-process-safety-engineer-at-worley-4449006280": {
+      "title": "Specialist Process Safety Engineer",
+      "company": "Worley",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/technical-hse-specialist-at-worley-4441441912": {
+      "title": "Technical HSE Specialist",
+      "company": "Worley",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/lead-technical-risk-safety-engineer-abu-dhabi-uae-at-segula-technologies-4421800023": {
+      "title": "Lead Technical Risk & Safety Engineer-Abu Dhabi, UAE",
+      "company": "SEGULA Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-target-engineering-construction-co-llc-4437676405": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Target Engineering Construction Co LLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-nesma-united-industries-4447905011": {
+      "title": "Safety Engineer",
+      "company": "Nesma United Industries",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-radial-%D8%B1%D8%A7%D8%AF%D9%8A%D8%A7%D9%84-4443148029": {
+      "title": "Safety Engineer",
+      "company": "Radial | راديال",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-confidential-4446232078": {
+      "title": "Safety Engineer",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-midea-shaker-company-4449100101": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Midea Shaker Company",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://www.gulftalent.com/kuwait/jobs/environmental-engineer-610500": {
+      "title": "Environmental Engineer",
+      "company": "Al Hassanain",
+      "source": "gulftalent_kuwait",
+      "first_seen": "2026-08-11"
+    },
+    "https://www.gulftalent.com/kuwait/jobs/hse-manager-605434": {
+      "title": "HSE Manager",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_kuwait",
+      "first_seen": "2026-08-11"
+    },
+    "https://www.gulftalent.com/kuwait/jobs/corporate-hse-manager-605154": {
+      "title": "Corporate HSE Manager",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_kuwait",
+      "first_seen": "2026-08-11"
+    },
+    "https://www.gulftalent.com/kuwait/jobs/corporate-hse-manager-605135": {
+      "title": "Corporate HSE Manager",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_kuwait",
+      "first_seen": "2026-08-11"
+    }
+  },
+  "applied": {
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-i8is-infiniti-software-solutions-4451670756::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Blockchain Developer",
+      "company": "I8IS - Infiniti Software Solutions"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-business-needs-inc-4442201598::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Blockchain Developer",
+      "company": "Business Needs Inc."
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Blockchain Developer",
+      "company": "Altimetrik"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
+      "company": "Coinbase"
+    },
+    "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Solidity Compiler Frontend Engineer",
+      "company": "CertiK"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Senior Software Engineer, Stablecoins",
+      "company": "Coinbase"
+    },
+    "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Launch Legends: Senior DevOps Engineer (Web3)",
+      "company": "Launch Legends"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Coinbase: Senior Software Engineer - Blockchain Network",
+      "company": "Coinbase"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Coinbase: Internal Audit IT Manager",
+      "company": "Coinbase"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Environmental Health and Safety Officer",
+      "company": "Rotana Hotels"
+    },
+    "https://sa.linkedin.com/jobs/view/health-and-safety-officer-at-khidmah-4439830451::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Health And Safety Officer",
+      "company": "Khidmah"
+    },
+    "https://jobicy.com/jobs/149008-chief-information-security-officer::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "applyassistance@fortive.com",
+      "title": "Chief Information Security Officer",
+      "company": "Fortive"
+    },
+    "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Audit HSE Engineer",
+      "company": "Convergint"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-analyst-safety-officer-offshore-at-penspen-4445033195::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "HSE Analyst/ Safety Officer - Offshore",
+      "company": "Penspen"
+    },
+    "https://ae.linkedin.com/jobs/view/environmental-health-safety-engineer-3-positions-at-ehs-consultants-4445821868::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Environmental Health & Safety Engineer(3 Positions)",
+      "company": "EHS Consultants"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Environmental Health Safety Specialist",
+      "company": "Blue Hat HR Services"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "HSE Engineer - Chinese Speaker",
+      "company": "Wood"
+    },
+    "https://sa.linkedin.com/jobs/view/manager-occupational-health-and-safety-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4447647578::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "Manager Occupational Health and Safety",
+      "company": "Riyadh Air | طيران الرياض"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679::draft": {
+      "date": "2026-08-12 00:31",
+      "via": "draft",
+      "to": "manual",
+      "title": "HSE Engineer",
+      "company": "Penspen"
+    }
+  },
+  "sent": {},
+  "replies": []
+}

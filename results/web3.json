@@ -1,0 +1,271 @@
+[
+  {
+    "source": "linkedin",
+    "title": "Blockchain Developer",
+    "company": "I8IS - Infiniti Software Solutions",
+    "location": "Jersey City, NJ",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-i8is-infiniti-software-solutions-4451670756",
+    "description": "About Us A Canadian technology and workforce solutions company headquartered in Vaughan, Ontario. The company helps businesses, enterprises, and public-sector organizations modernize their operations through secure digital transformation, custom software development, staffing, recruitment, payroll, and workforce management solutions. Job Description Role: Blockchain Developer Location: New York, NY/Jersey City, NJ Position Type: Full-time 10+ Years of experience Key Responsibilities Design, develop, and deploy Web3 components and integrations for Citi's Digital Asset Platform, including smart contracts, on-chain event listeners, wallet integrations, and blockchain protocol connectors Build and maintain backend services that interface with public and permissioned blockchain networks (e.g., Ethereum, Hyperledger Besu, Corda, or equivalent) Develop, test, and audit smart contracts written in Solidity or equivalent languages, ensuring security, correctness, and gas efficiency Integrate Web3 libraries and SDKs (e.g., Web3J, Web3JS, Ethers.js, Viem) into enterprise Java and/or Node.js backend services Implement asynchronous, event-driven architectures to handle on-chain events, transaction lifecycle management, and blockchain state synchronization Collaborate with architects and senior engineers to contribute to the design of scalable, secure, and resilient Web3 infrastructure Participate in code reviews, providing and receiving constructive technical feedback to maintain high engineering standards Support the integration of digital asset custody solutions, tokenization frameworks, and DeFi/TradFi bridging components Contribute to technical documentation, including smart contract specifications, integration guides, and architecture notes Stay current with the rapidly evolving Web3 ecosystem — tracking protocol upgrades, new token standards, Layer 2 solutions, and emerging tooling relevant to institutional use cases Work within Agile/Scrum frameworks, participating in sprint planning, stand-ups, and retrospectives within a distributed global team Help identify and resolve technical issues across the Web3 stack, escalating where appropriate to ensure delivery quality and timelines Qualifications / Experience Bachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plus 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development, including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices, containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools Competencies / Skills Web3 Engineering Depth: Strong command of the Web3 technology stack — from smart contract development to on-chain/off-chain integration patterns and blockchain node interaction Backend Engineering Fundamentals: Solid grounding in enterprise software engineering — API design, microservices, data structures, algorithms, and design patterns Security Mindset: Awareness of common smart contract vulnerabilities (reentrancy, front-running, integer overflow, etc.) and best practices for secure on-chain development Curiosity & Adaptability: Genuine enthusiasm for the Web3 ecosystem and the ability to rapidly learn and apply new protocols, standards, and tooling Collaborative Spirit: Strong team player who communicates clearly and constructively with engineers, architects, and non-technical stakeholders Delivery Orientation: Ability to manage personal delivery commitments, prioritize effectively, and produce high-quality output within sprint cycles Attention to Detail: Rigorous approach to testing, code quality, and documentation — particularly important given the immutable nature of on-chain deployments Tooling Proficiency: Working knowledge of engineering tools including Git, Jira, Jenkins, Hardhat/Foundry, Docker, Helm, and observability platforms check(event) ; career-website-detail-template-2 => apply(record.id,meta)\" mousedown=\"lyte-button => check(event)\" final-style=\"background-color:#0055FF;border-color:#0055FF;color:white;\" final-class=\"lyte-button lyteBackgroundColorBtn lyteSuccess\" lyte-rendered=\"\">",
+    "published": "2026-08-05",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 18,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "web3",
+      "defi",
+      "ethereum",
+      "polygon",
+      "crypto",
+      "token"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Blockchain Developer",
+    "company": "Business Needs Inc.",
+    "location": "New York City Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-business-needs-inc-4442201598",
+    "description": "Digital Assets Web3 Engineer NYC NY / Jersey City NJ Open for Fulltime The successful candidate will contribute to the design, development, and deployment of Web3-native components and integrations that power Citi's digital asset infrastructure — spanning tokenization, smart contracts, on-chain settlement, and blockchain protocol integrations. You will work within a collaborative, globally distributed team of engineers, architects, and business technologists who are building the next generation of institutional digital finance capabilities .We are looking for someone who brings strong Web3 engineering fundamentals, a curiosity for emerging blockchain ecosystems, and the ability to bridge decentralized technology patterns with enterprise-grade software standards .Key Responsibilitie sDesign, develop, and deplo y Web3 components and integrations for Citi's Digital Asset Platform, including smart contracts, on-chain event listeners, wallet integrations, and blockchain protocol connector sBuild and maintai n backend services that interface with public and permissioned blockchain networks (e.g., Ethereum, Hyperledger Besu, Corda, or equivalent )Develop, test, and audi t smart contracts written in Solidity or equivalent languages, ensuring security, correctness, and gas efficienc yIntegrate Web3 libraries and SDK s (e.g., Web3J, Web3JS, Ethers.js, Viem) into enterprise Java and/or Node.js backend service sImplement asynchronous, event-driven architecture s to handle on-chain events, transaction lifecycle management, and blockchain state synchronizatio nCollaborate with architects and senior engineer s to contribute to the design of scalable, secure, and resilient Web3 infrastructur eParticipate in code review s, providing and receiving constructive technical feedback to maintain high engineering standard sSupport the integratio n of digital asset custody solutions, tokenization frameworks, and DeFi/TradFi bridging component sContribute to technical documentatio n, including smart contract specifications, integration guides, and architecture note sStay curren t with the rapidly evolving Web3 ecosystem — tracking protocol upgrades, new token standards, Layer 2 solutions, and emerging tooling relevant to institutional use case sWork within Agile/Scrum framework s, participating in sprint planning, stand-ups, and retrospectives within a distributed global tea mHelp identify and resolv e technical issues across the Web3 stack, escalating where appropriate to ensure delivery quality and timeline sQualifications / Experienc eBachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plu s8+ year s of overall software engineering experience, with a strong backend development foundatio n2 to 4 year s of hands-on experience in Web3 and blockchain application developmen t, including smart contract development and blockchain protocol integratio n3 to 5 year s of experience with backend developmen t using Java/Spring, Node.js, or equivalent enterprise framework sProficiency in Solidit y smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practice sHands-on experience with Web3 librarie s such as Web3J, Web3JS, Ethers.js, or Vie mSolid understanding of blockchain fundamental s — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key managemen tExperience with token standard s (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization pattern sFamiliarity with permissioned blockchain network s (Hyperledger Besu, Fabric, Corda, or R3) is a strong plu sExperience with asynchronous programmin g, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent )Familiarity with DevOps practice s, containerization (Docker, Kubernetes), and CI/CD pipeline sUnderstanding of cryptographic concept s — digital signatures, hashing, PKI, and secure key management — as applied to blockchain system sExposure to Layer 2 scaling solution s (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plu sExperience in financial services or regulated industrie s is a plu sFamiliarity with Agile/Scru m methodologies and distributed team collaboration tool sCompetencies / Skill sWeb3 Engineering Depth : Strong command of the Web3 technology stack — from smart contract development to on-chain/off-chain integration patterns and blockchain node interactio nBackend Engineering Fundamentals : Solid grounding in enterprise software engineering — API design, microservices, data structures, algorithms, and design pattern sSecurity Mindset : Awareness of common smart contract vulnerabilities (reentrancy, front-running, integer overflow, etc.) and best practices for secure on-chain developmen tCuriosity & Adaptability : Genuine enthusiasm for the Web3 ecosystem and the ability to rapidly learn and apply new protocols, standards, and toolin gCollaborative Spirit : Strong team player who communicates clearly and constructively with engineers, architects, and non-technical stakeholder sDelivery Orientation : Ability to manage personal delivery commitments, prioritize effectively, and produce high-quality output within sprint cycle sAttention to Detail : Rigorous approach to testing, code quality, and documentation — particularly important given the immutable nature of on-chain deployment sTooling Proficiency : Working knowledge of engineering tools including Git, Jira, Jenkins, Hardhat/Foundry, Docker, Helm, and observability platform sDevelopment Valu eAs a Digital Assets Web3 Engineer at Citi, you will be at the forefront of one of the most exciting and strategically significant technology domains in institutional finance. You will :Work on real-world, production-grade Web3 infrastructur e at the scale and complexity of a global systemically important ban kGain deep exposur e to institutional digital asset use cases — including tokenized securities, digital cash, on-chain settlement, and p",
+    "published": "2026-07-20",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 17,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "web3",
+      "defi",
+      "ethereum",
+      "polygon",
+      "crypto",
+      "token"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Blockchain Developer",
+    "company": "Altimetrik",
+    "location": "New York City Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488",
+    "description": "Altimetrik delivers outcomes for our clients by rapidly enabling digital business & culture and infuse speed and agility into enterprise technology and connected solutions. We are practitioners of end-to-end business and technology transformation. We tap into an organization’s technology, people, and assets to fuel fast, meaningful results for global enterprise customers across financial services, payments, retail, automotive, healthcare, manufacturing, and other industries. Founded in 2012 and with offices across the globe, Altimetrik makes industries, leaders and Fortune 500 companies more agile, empowered and successful. Altimetrik helps get companies get “unstuck”. We’re a technology company that lives organizations a process and context to solve problems in unconventional ways. We’re a catalyst for organization’s talent and technology, helping teams push boundaries and challenge traditional approaches. We make delivery more bold, efficient, collaborative and even more enjoyable. Job Description Role: Blockchain Developer Location: NYC/NJC Position Type: Fulltime Qualifications / Experience Bachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plus 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development, including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices, containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools",
+    "published": "2026-07-28",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 15,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "web3",
+      "polygon",
+      "crypto",
+      "token",
+      "security",
+      "hardhat"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
+    "company": "Coinbase",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform",
+    "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . We're hiring a Senior Staff Software Engineer to join the Blockchain Platform team within Platform and define the technical vision for the infrastructure that connects every Coinbase product to the broader crypto economy. This team builds and operates the nodes, indexers, wallets, and orchestration systems that power every core crypto action (send, receive, stake, bridge, wrap, and more) across 60+ blockchain networks and 300+ tokens. You'll lead the next generation of architecture for our wallet stack, indexing infrastructure, and asset identifier systems, directly shaping how millions of transactions execute with the speed, cost efficiency, and security our customers expect. What you'll do: Define and drive the multi-quarter technical strategy for Blockchain Platform, spanning nodes, wallets, indexing, and asset lifecycle, to support new chain integrations, new products, and significant growth in onchain transaction volume. Architect and evolve core platform infrastructure, including nodes, indexers, wallet systems, and liquidity primitives, for high availability, low latency, cost efficiency, and security at global scale. Lead end-to-end design and rollout of large, cross-team architectural initiatives (e.g., wallet stack rearchitecture, indexing stack redesign, asset identifier system), breaking high ambiguity into clear milestones and measurable outcomes. Drive engineering standards for correctness, security, reliability, testing, and observability across all crypto asset operations, including transaction finality, key management, reconciliation, and failure-mode handling. Own data-driven reliability improvements by using observability signals (transaction success rates, node reliability, indexing latency, on-call burden) to identify structural platform gaps and lead systematic remediation. Represent Blockchain Platform in executive and cross-org forums, communicating tradeoffs, aligning stakeholders on strategy, and securing buy-in for high-impact technical bets in areas like Yield and Stablecoins. Required Skills and Experience: 12+ years of software engineering experience, including 4+ years operating at a staff-plus level designing and scaling high-throughput transaction systems requiring strong auditability, idempotency, and financial precision. Hands-on experience with one or more blockchain protocols at the node or protocol level (e.g., EVM chains, Solana, Bitcoin, L2s), with demonstrated depth in staking infrastructure, bridging protocols, or tokenization systems. Proven track record of leading large-scale, multi-team architectural initiatives from design through production at a company operating critical infrastructure at global scale. Experience applying AI or agent-based automation to reduce operational toil in platform or infrastructure contexts, with measurable results in efficiency or reliability gains. Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. Pay Transparency Notice: Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)). Annual base salary range (excluding equity and bonus): $253,895 — $298,700 USD Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period. Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation. Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial . Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you agree to Arbitration of Disputes . To apply: https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform",
+    "published": "Thu, 23 Jul 2026",
+    "remote": true,
+    "currency": null,
+    "salary_min": 253895,
+    "salary_max": 298700,
+    "score": 13,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "defi",
+      "crypto",
+      "token",
+      "audit",
+      "security",
+      "evm"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$253,895-$298,700",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Solidity Compiler Frontend Engineer",
+    "company": "CertiK",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
+    "description": "About the Company One of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz. Investors = Insight Partners, Sequoia, Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank, Hillhouse Capital, Goldman Sachs, Shunwei Capital, IDG Capital, Wing, Legend Star, Danhua Capital and other investors. About the Role We are seeking an experienced Solidity Compiler Frontend Engineer to join our team working on cutting-edge blockchain compiler infrastructure and formal verification tools. You will participate in developing and optimizing the frontend components of Solidity compilation pipelines, with a focus on static analysis, type checking, and integration with formal verification systems. Responsibilities Design and implement frontend components for the Solidity compiler, including lexical analysis, parsing, AST generation, and semantic analysis. Optimize compiler performance and improve error reporting and diagnostics. Develop integration layers between the Solidity compiler and formal verification tools. Contribute to the evolution of Solidity language features and specification. Collaborate with security researchers to implement static analysis and security checks. Maintain and improve existing compiler infrastructure and tooling. Requirements 3+ years of professional experience in Solidity compiler development or related compiler projects (e.g., EVM-based languages, smart contract compilers) Strong proficiency in Java with deep understanding of Java based compiler development and optimization Solid foundation in compiler theory, including parsing techniques, type systems, and intermediate representations Experience with formal methods or formal verification tools (e.g., SMT solvers, theorem provers, or verification frameworks) Strong understanding of the Ethereum Virtual Machine (EVM) and smart contract execution models Excellent problem-solving skills and attention to detail Preferred Qualifications Experience with LLVM or similar compiler infrastructure Knowledge of programming language semantics and type theory Contributions to open-source compiler projects Experience with Solidity or other blockchain programming languages What We Offer Opportunity to shape the national conversation on blockchain and security. Collaborate with industry-leading security researchers, technologists, and global institutions. Flexible work environment and mission-driven culture. Compensation: If the role is performed in the US, the target annual compensation is $140,000 - $220,000. The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates. #blockchain#startups#hiring CertiK accepts applications for this position on an ongoing basis. CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements. https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf All CertiK employees are expected to actively support diversity on their teams, and in the Company. About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =…",
+    "published": "2026-07-28",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 140000,
+    "salary_max": 597000,
+    "score": 13,
+    "title_hits": [
+      "solidity"
+    ],
+    "desc_hits": [
+      "smart contract",
+      "blockchain",
+      "ethereum",
+      "polygon",
+      "security",
+      "evm"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$140,000-$597,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Senior Software Engineer, Stablecoins",
+    "company": "Coinbase",
+    "location": "Los Angeles, CA",
+    "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796",
+    "description": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase. As a Senior Software Engineer on the Stablecoin team within the Developer group, you'll help build and scale Coinbase Custom Stablecoins (CCS), the platform that lets partners launch their own branded, USDC-backed stablecoins on Coinbase's infrastructure. This role sits at the intersection of backend engineering and smart contract development - you'll own the services and onchain contracts that power issuance, reserves, minting and burning, and rewards distribution for a fast-growing roster of partners. What you'll do: Own and evolve the smart contracts that mint, burn, and safeguard custom stablecoin supply, shipping changes in a secure and auditable way. Build and scale backend services that power onboarding, issuance, reserve accounting, and rewards distribution. Partner with product, design, and tech leads to turn the stablecoin roadmap into shipped features every quarter. Drive architectural decisions across the backend and smart contract surface, balancing security, scalability, and speed of delivery. Write high-quality, well-tested code and raise the bar for operational excellence across the team. Required Skills and Experience: 5+ years of experience in software engineering, including designing, building, and operating production backend services. Experience writing, testing, and deploying smart contracts (Solidity or similar EVM languages) in production, ideally where real economic value was at stake. Comfort owning a service end to end and composing service-oriented architecture at scale. Working knowledge of security and correctness tradeoffs unique to onchain systems - audits, upgradeability, access control, and key management. Familiarity with Golang and onchain fundamentals (Ethereum or similar), with direct experience building DeFi or stablecoin infrastructure preferred. Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. Pay Transparency Notice: Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)). Annual base salary range (excluding equity and bonus):: $186,065 USD - $218,900 USD Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period. Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. US Applicants: View Employee Rights, Know Your Rights, and E-Verify Notice of Participation. Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial. Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice. US applicants: By submitting your application, you agree to Arbitration of Disputes.",
+    "published": "2026-08-06",
+    "remote": true,
+    "currency": null,
+    "salary_min": 186065,
+    "salary_max": 218900,
+    "score": 11,
+    "title_hits": [],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "defi",
+      "ethereum",
+      "audit",
+      "security",
+      "evm"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$186,065-$218,900",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Launch Legends: Senior DevOps Engineer (Web3)",
+    "company": "Launch Legends",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3",
+    "description": "Headquarters: [REMOTE] URL: http://launchlegends.io Shape the Future of Blockchain—Bringing Business On-Chain We’re offering a unique opportunity to join Launch Legends (and Autheo) as a part-time Equity Cofounder . Founded nearly four years ago, Launch Legends is at the forefront of bridging Web3 blockchain technology with the next evolution of Web2 integration—bringing businesses on-chain through enterprise-grade solutions, DePIN innovations, and decentralized financial infrastructure. Our flagship project, Autheo , is an AI enabled Layer-Zero OS with an integrated Layer-1 blockchain and complete decentralized infrastructure thast includes decentralized compute, storage, identity, and service marketplaces, as well as a Full-stack development enveronment (DevHub)—engineered for scalable enterprise adoption, developer innovation, and real-world blockchain integration. Our Projects Autheo – www.autheo.com Autheo Team - https://www.autheo.com/teams Launch Legends (Parent Company) – www.launchlegends.io Twitter : https://x.com/Autheo_Network About Autheo With nearly 100 equity cofounders from leading companies and institutions—many with advanced degrees and PhDs—Autheo is solving the critical challenges blocking business adoption of blockchain technology. Key Features: Enterprise-Grade Layer-1 Blockchain – High-speed, self-securing, and cost-efficient infrastructure built for scale. Developer Hub & Application Marketplace – A decentralized platform where developers build, deploy, and monetize real-world apps. Web2-Web3 Integration – Microservices, SDKs, and governance frameworks for seamless business migration. Decentralized Cloud & Compute – Secure, privacy-preserving storage and AI-powered compute for next-gen applications. DePIN Infrastructure – On-chain networks powering real-world infrastructure ownership and resource sharing. Traction (Testnet Launch): Wallet Accounts: 290,000+ Twitter Followers: 30,000+ Discord Members: 19,000+ Smart Contracts Deployed: 30,000+ Developers Registered for MVP DevHub: 7,500+ Compensation & Growth Path This is a part time equity / token-based cofounder opportunity. You will receive equity in Launch Legends , Autheo , and the WFO Creator Network , along with token allocations in the Autheo blockchain. We have already completed an initial financing round to support infrastructure and marketing, and are currently in discussions with VCs and crypto investors to fund expansion and salaries. Salaried compensation is expected to begin within 4 to 5 months, following our node, token sales or funding. POSITION - SENIOR DEVOPS ENGINEER (WEB3) We are seeking a highly experienced and knowledgeable DevOps Specialist to join our team as a co-founder. The ideal candidate will have a strong background in DevOps for blockchain systems, experience with Digital Ocean and other cloud platforms, and proficiency with GitHub. This role is crucial for the successful implementation and maintenance of our blockchain infrastructure. Responsibilities : Design, implement, and manage the infrastructure for our blockchain ecosystem Take ownership of designing, implementing, and managing the company's cloud infrastructure on AWS, GCP, and Cloudflare. Architect and optimize cloud solutions to ensure scalability, security, and efficiency on Layer 1 and Layer 2. Optimize the deployment, monitoring, and scaling of blockchain nodes and related services. Automate the deployment process using CI/CD pipelines. Ensure high availability, reliability, and security of the infrastructure. Collaborate with the development team to integrate DevOps practices and tools. Manage and optimize cloud resources on platforms Digital Ocean and other cloud platforms such as Oracle Cloud Infrastructure. Maintain and manage code repositories and workflows on GitHub. Troubleshoot and resolve infrastructure-related issues Continuously improve and document DevOps processes and best practices. Expertise in AWS services, EC2, S3, RDS, and Lambda, Terraform, Docker, Kubernetes, etc. Implement monitoring solutions to ensure proactive identification and resolution of issues. Tooling such as Salt, Vault, Python, and Bash scripting for automation and configuration management and version control using Git to manage code repositories effectively Collaborate with cross-functional teams to understand application requirements and provide infrastructure solutions. Lead and mentor a team of DevOps professionals, fostering a culture of continuous improvement and innovation. Maintain comprehensive documentation of infrastructure configurations, processes, and best practices Stay abreast of industry trends, emerging technologies, and best practices to drive continuous improvement in the DevOps practices. Requirements: Proven experience as a DevOps Engineer (8+ years experience), with additional in blockchain projects. Strong knowledge of cloud platforms, especially Digital Ocean, and experience with other cloud services (e.g., AWS, Oracle Cloud). Proficiency in using and managing GitHub repositories and workflows. Experience with containerization technologies such as Docker and orchestration tools like Kubernetes. Familiarity with infrastructure-as-code tools (e.g., Terraform, Ansible). Strong scripting skills (e.g., Bash, Python). Knowledge of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI). Excellent problem-solving skills and attention to detail. Strong communication and collaboration abilities.Expert knowledge of infrastructure and DevOps with experience in AWS services, IAM policies, Terraform, Docker and Kubernete Must have significant Web3 and Blockchain Experience in decentralized systems. Proficiency in Salt, Vault, Python and Bash scripting. Proficiency in CDN Management. Knowledge of AWS Secrets Manage. Able to lead a small team of DevOps engineers, this role is mostly hands-on with a managerial component. Possess a understanding of networking principles and be adept at configuring and troubleshooting network components within the cloud environment. Preferred Qualifications: Experience with Testnet and Mainnet blockchain deployments Experience with deploying Nodes and Setting up Validators Experience with Digital Ocean and GitHub. Understanding of blockchain technologies and protocols. Previous startup experience and a passion for innovation. 🌐 🚀 WHY JOIN LAUNCH LEGENDS? Traction with Momentum : Autheo is already gaining significant traction in the blockchain space, with rapid developer adoption, platform growth, and partnership interest. Cross-Industry Impact ; Autheo is positioned to transform not only the Web3 ecosystem—but also Web2 and the broader technology sector—by enabling real-world business adoption of decentralized infrastructure. Real Innovation, Not Hype : Unlike many blockchain ventures, Autheo is focused on substance over speculation. We are building real solutions: modular fullstack infrastructure, enterprise-grade toolkits, decentralized identity, cloud, compute, and service orchestration. Backed by Elite Talent : You’ll join a team composed of professionals from top-tier universities, Fortune 500 companies, and major blockchain platforms. Our team includes multiple PhDs and senior engineers who have launched and scaled world-class technologies. If you're ready to redefine blockchain adoption , empower global business integration , and help shape the next generation of Web3 and developer ecosystems , we invite you to take the next step. To apply: https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3",
+    "published": "Thu, 16 Jul 2026",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 11,
+    "title_hits": [
+      "web3"
+    ],
+    "desc_hits": [
+      "smart contract",
+      "blockchain",
+      "defi",
+      "crypto",
+      "token",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Coinbase: Senior Software Engineer - Blockchain Network",
+    "company": "Coinbase",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network",
+    "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . As a Senior Software Engineer on the Blockchain Networks team within the Platform group, you'll build the critical infrastructure that integrates blockchain protocols with Coinbase's internal services for new assets, stablecoins, and staking. This team translates complex blockchain operations and state machines into simple, reliable APIs that product teams across Coinbase depend on. You'll own multi-quarter technical initiatives and ship platform primitives that directly improve the latency, reliability, and cost of our crypto stack. What you'll do: Own the design and delivery of blockchain network infrastructure that abstracts blockchain complexity into reliable, platform APIs Lead multi-quarter initiatives including new chain integrations, re-architecture efforts, and data migrations that improve system latency, reliability, and cost Define and maintain APIs, SLOs, and observability for the systems you build, including on-call ownership Partner with product and platform teams to establish data contracts and ship SDKs and platform primitives that drive adoption across Coinbase Build deep technical context across multiple top blockchain protocols (e.g., Bitcoin, Ethereum) and apply that knowledge to simplify cross-chain operations Required Skills and Experience: 5+ years of software engineering experience, with demonstrated ownership of production services in a service-oriented architecture Proven track record designing, scaling, and maintaining distributed systems handling high-throughput, low-latency workloads Hands-on experience with at least two of the following: Golang, Kafka, Redis, MongoDB, or similar infrastructure technologies Direct experience with blockchain protocols or crypto infrastructure (e.g., integrating with Ethereum, Bitcoin, or similar L1/L2 networks) Demonstrated ability to decompose complex systems (monoliths, legacy architectures) into well-bounded microservices with clear API contracts Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. Job ID#: P77047 Pay Transparency Notice: Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)). Annual base salary range (excluding equity and bonus): $186,065 — $218,900 USD Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period. Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation. Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial . Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you agree to Arbitration of Disputes . To apply: https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network",
+    "published": "Thu, 23 Jul 2026",
+    "remote": true,
+    "currency": null,
+    "salary_min": 186065,
+    "salary_max": 218900,
+    "score": 10,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "defi",
+      "ethereum",
+      "crypto"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$186,065-$218,900",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Coinbase: Internal Audit IT Manager",
+    "company": "Coinbase",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager",
+    "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . As an Internal Audit IT Manager, you'll join the Internal Audit team and own a portfolio of complex IT and security audits across Coinbase's global cloud infrastructure, security operations, and crypto-native products. This team delivers independent, third-line assurance over technology, information security, and IT governance, helping Coinbase protect customers and maintain trust at scale. . You'll shape audit coverage, ensure that findings from complex audit work are communicated appropriately to executive and Board-level audiences, and lead team members to build a best-in-class IT audit function. What you'll do: Own and coordinate a portfolio of IT and security audits covering cloud infrastructure (AWS, GCP), application security, identity and access management, vendor/third-party risk, and blockchain-related products including wallets and cold storage. Shape the execution of the multi-year IT and security audit roadmap, coordinating coverage with co-sourced partners and aligning with enterprise risk initiatives. Synthesize complex audit findings into high-impact reports and presentations for executive leadership, the Chief Audit Executive, and the Audit Committee, ensuring conclusions are rigorous and actionable. Drive remediation strategy for IT and security findings, challenging management on risk-based solutions, validating corrective actions, and escalating thematic concerns to senior leadership. Partner with senior technology and security leadership across Engineering, Security, and IT to deliver independent advisory value while maintaining third-line independence and objectivity. Evaluate and develop audit talent, mentoring team members, assessing candidates, and contributing to the growth and modernization of the Internal Audit function. Required Skills and Experience: 8+ years of experience in IT internal audit, information security audit, or first-line technology/security operations, with demonstrated experience managing audit teams, processes, and co-sourced engagements. Hands-on audit experience with cloud platforms (AWS, GCP), including IAM policies, security configurations, encryption, logging, and network architecture. Relevant professional certifications (e.g., CISA, CISSP, CIA, or CISM) required; working knowledge of frameworks such as NIST CSF, COBIT, SOC 2, and ITIL. Proven ability to manage multiple concurrent audits and initiatives across time zones (EMEA, APAC), presenting findings and recommendations to executive and Board-level audiences. Experience in crypto, blockchain infrastructure, or financial services audit environments. Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. P76564 #LI-Remote Pay Transparency Notice: Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)). Annual base salary range (excluding equity and bonus): $166,345 — $195,700 USD Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period. Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation. Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial . Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you agree to Arbitration of Disputes . To apply: https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager",
+    "published": "Wed, 22 Jul 2026",
+    "remote": true,
+    "currency": null,
+    "salary_min": 166345,
+    "salary_max": 195700,
+    "score": 10,
+    "title_hits": [
+      "audit"
+    ],
+    "desc_hits": [
+      "blockchain",
+      "crypto",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$166,345-$195,700",
+    "emails": [],
+    "phones": []
+  }
+]
