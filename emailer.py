@@ -86,6 +86,8 @@ def build_letter(job, profile_cfg, candidate, matched):
 
     subject = f"{name.split()[0]} {name.split()[-1]} - {job.get('title') or 'Application'}"[:100]
 
+    fa_info = _company_info_fa(job).replace("\n", "<br>")
+
     body = f"""<html><body dir="ltr" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#222;line-height:1.6">
 <p>Hi {company} Hiring Team,</p>
 <p>I saw your posting for a <b>{job.get('title')}</b> ({location}) and wanted to say directly: this is exactly the kind of
@@ -96,6 +98,9 @@ work I do best. I am <b>{name}</b> — {headline}.</p>
 </ul>
 <p>I've attached my full CV. I'm fully set up for remote work, can start immediately, and would welcome a 15-minute
 call this week to show you how I can deliver from day one. Just reply with a time that suits you.</p>
+<p dir="rtl" lang="fa" style="font-family:Tahoma,Arial;background:#f7f7f7;padding:10px;border-radius:6px">
+{fa_info}
+</p>
 <p>Best regards,<br><b>{name}</b><br>Email: {candidate.get('email', '')}<br>Phone: {candidate.get('phone', '')}<br>{links_html}</p>
 <p style="color:#888;font-size:12px">Job reference: {job.get('url')}</p>
 </body></html>"""
@@ -132,12 +137,58 @@ def build_whatsapp_message(job, profile_cfg, candidate, matched):
         f"Phone: {candidate.get('phone', '')}",
         *([links_text] if links_text else []),
         f"Job reference: {job.get('url')}",
+        "",
+        _company_info_fa(job),
     ]
     return "\n".join(line for line in lines if line)
 
 
 def re_strip_tags(text):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", text or "")).strip()
+
+
+def _fa_flags(job):
+    parts = []
+    if job.get("remote"):
+        parts.append("دورکاری (Remote)")
+    elif job.get("gulf_onsite"):
+        parts.append("حضوری در خاورمیانه/خلیج")
+    if job.get("salary_ok"):
+        parts.append("حقوق بالا")
+    if job.get("salary_str"):
+        parts.append("حقوق اعلامی: " + job["salary_str"])
+    return parts
+
+
+def _company_info_fa(job):
+    """پاراگراف فارسی درباره شغل و شرکت مقصد."""
+    company = job.get("company") or "شرکت کارفرما"
+    title = job.get("title") or "این موقعیت"
+    location = job.get("location") or "دورکاری"
+    source = job.get("source") or ""
+    src_fa = {
+        "linkedin": "لینکدین",
+        "remotive": "Remotive",
+        "weworkremotely": "WeWorkRemotely",
+        "jobicy": "Jobicy",
+        "adzuna": "Adzuna",
+    }.get(source.split("_")[0], source)
+    flags = _fa_flags(job)
+    flag_txt = "، ".join(flags) if flags else ""
+    lines = [
+        f"اطلاعات موقعیت ({src_fa}):",
+        f"شرکت مقصد: {company}",
+        f"عنوان شغل: {title}",
+        f"محل: {location}",
+    ]
+    if flag_txt:
+        lines.append(flag_txt)
+    lines.append(f"لینک آگهی: {job.get('url', '')}")
+    if job.get("emails"):
+        lines.append("ایمیل درج‌شده در آگهی: " + ", ".join(job["emails"]))
+    if job.get("phones"):
+        lines.append("شماره تماس درج‌شده در آگهی: " + ", ".join(job["phones"]))
+    return "\n".join(lines)
 
 
 def make_message(sender_name, sender_email, to, subject, html, attachments):

@@ -1103,136 +1103,9 @@
       "company": "RTC-1 Employment Services",
       "source": "gulftalent_kuwait",
       "first_seen": "2026-08-11"
-    },
-    "https://www.linkedin.com/jobs/view/head-of-safety-health-environment-at-lonza-4447440155": {
-      "title": "Head of Safety, Health & Environment",
-      "company": "Lonza",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602": {
-      "title": "HSE Engineer",
-      "company": "PrimeGate for Communications and IT",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474": {
-      "title": "Senior Environmental Engineer - HSE Manager",
-      "company": "Penspen",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-eastern-province-at-confidential-careers-4447378638": {
-      "title": "Health Safety Environment Officer - Eastern Province",
-      "company": "Confidential Careers",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-confidential-4446211617": {
-      "title": "Health Safety Environment Engineer",
-      "company": "Confidential",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/sr-hse-officer-at-aljomaih-energy-and-water-company-4440000585": {
-      "title": "Sr. HSE Officer",
-      "company": "Aljomaih Energy and Water Company",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/hse-officer-fresh-graduate-at-ucc-holding-4432094951": {
-      "title": "HSE Officer (Fresh Graduate)",
-      "company": "UCC Holding",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/senior-officer-%E2%80%93-occupational-health-safety-at-the-sanad-group-4440907299": {
-      "title": "Senior Officer – Occupational Health & Safety",
-      "company": "The Sanad Group",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/whs-officer-safety-officer-at-amazon-4446345468": {
-      "title": "WHS Officer, Safety Officer",
-      "company": "Amazon",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/senior-specialist-occupational-health-safety-su-at-ad-ports-group-4440556165": {
-      "title": "Senior Specialist - Occupational Health & Safety - SU",
-      "company": "AD Ports Group",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/safety-specialist-at-emirates-flight-catering-4447342907": {
-      "title": "Safety Specialist",
-      "company": "Emirates Flight Catering",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/safety-specialist-at-emirates-flight-catering-4449487140": {
-      "title": "Safety Specialist",
-      "company": "Emirates Flight Catering",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/health-safety-officer-at-gulbahar-4449699092": {
-      "title": "Health & Safety Officer",
-      "company": "GULBAHAR",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/health-safety-officer-i-factory-at-mbrf-4446802366": {
-      "title": "Health & Safety Officer I - Factory",
-      "company": "MBRF",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/principal-security-engineer-crypto-digital-assets-at-capital-com-4445191088": {
-      "title": "Principal Security Engineer (Crypto / Digital Assets)",
-      "company": "Capital.com",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://ae.linkedin.com/jobs/view/qa-automation-engineer-%E2%80%94-crypto-trading-platform-admin-console-at-zento-era-4445857148": {
-      "title": "QA Automation Engineer — Crypto Trading Platform & Admin Console",
-      "company": "Zento Era",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/senior-staff-cyber-security-engineer-riyadh-ksa-at-qualcomm-4438320203": {
-      "title": "Senior Staff Cyber Security Engineer - Riyadh, KSA",
-      "company": "Qualcomm",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/ot-cybersecurity-design-engineer-great-opportunity-for-saudi-nationals-at-siemens-4412602079": {
-      "title": "OT Cybersecurity Design Engineer - Great Opportunity for Saudi Nationals",
-      "company": "Siemens",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/cyber-security-consultant-saudi-nationals-only-at-honeywell-technologies-4444708113": {
-      "title": "Cyber Security Consultant- Saudi Nationals Only",
-      "company": "Honeywell Technologies",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
-    },
-    "https://sa.linkedin.com/jobs/view/ot-security-senior-consultant-at-hays-4448748545": {
-      "title": "OT Security Senior Consultant",
-      "company": "Hays",
-      "source": "linkedin",
-      "first_seen": "2026-08-11"
     }
   },
   "applied": {
-    "https://www.linkedin.com/jobs/view/blockchain-developer-at-i8is-infiniti-software-solutions-4451670756::draft": {
-      "date": "2026-08-12 00:31",
-      "via": "draft",
-      "to": "manual",
-      "title": "Blockchain Developer",
-      "company": "I8IS - Infiniti Software Solutions"
-    },
     "https://www.linkedin.com/jobs/view/blockchain-developer-at-business-needs-inc-4442201598::draft": {
       "date": "2026-08-12 00:31",
       "via": "draft",
@@ -1241,56 +1114,56 @@
       "company": "Business Needs Inc."
     },
     "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:53",
       "via": "draft",
       "to": "manual",
       "title": "Blockchain Developer",
       "company": "Altimetrik"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:53",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
       "company": "Coinbase"
     },
     "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:53",
       "via": "draft",
       "to": "manual",
       "title": "Solidity Compiler Frontend Engineer",
       "company": "CertiK"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:53",
       "via": "draft",
       "to": "manual",
       "title": "Senior Software Engineer, Stablecoins",
       "company": "Coinbase"
     },
     "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:53",
       "via": "draft",
       "to": "manual",
       "title": "Launch Legends: Senior DevOps Engineer (Web3)",
       "company": "Launch Legends"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:53",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Senior Software Engineer - Blockchain Network",
       "company": "Coinbase"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:53",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Internal Audit IT Manager",
       "company": "Coinbase"
     },
     "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:43",
       "via": "draft",
       "to": "manual",
       "title": "Environmental Health and Safety Officer",
@@ -1302,13 +1175,6 @@
       "to": "manual",
       "title": "Health And Safety Officer",
       "company": "Khidmah"
-    },
-    "https://jobicy.com/jobs/149008-chief-information-security-officer::draft": {
-      "date": "2026-08-12 00:31",
-      "via": "draft",
-      "to": "applyassistance@fortive.com",
-      "title": "Chief Information Security Officer",
-      "company": "Fortive"
     },
     "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754::draft": {
       "date": "2026-08-12 00:31",
@@ -1332,7 +1198,7 @@
       "company": "EHS Consultants"
     },
     "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:45",
       "via": "draft",
       "to": "manual",
       "title": "Environmental Health Safety Specialist",
@@ -1346,55 +1212,117 @@
       "company": "Wood"
     },
     "https://sa.linkedin.com/jobs/view/manager-occupational-health-and-safety-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4447647578::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:46",
       "via": "draft",
       "to": "manual",
       "title": "Manager Occupational Health and Safety",
       "company": "Riyadh Air | طيران الرياض"
     },
     "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679::draft": {
-      "date": "2026-08-12 00:31",
+      "date": "2026-08-12 01:46",
       "via": "draft",
       "to": "manual",
       "title": "HSE Engineer",
       "company": "Penspen"
     },
-    "https://jobicy.com/jobs/149957-product-marketing-lead-trade::draft": {
-      "date": "2026-08-11 21:15",
-      "via": "draft",
-      "to": "manual",
-      "title": "Product Marketing Lead - Trade",
-      "company": "Consensys"
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-i8is-infiniti-software-solutions-4451670756::email": {
+      "date": "2026-08-12 00:50",
+      "via": "email",
+      "to": "rahmatpour63@gmail.com",
+      "title": "[TEST] Blockchain Developer",
+      "company": "I8IS - Infiniti Software Solutions"
     },
-    "https://www.linkedin.com/jobs/view/head-of-safety-health-environment-at-lonza-4447440155::draft": {
-      "date": "2026-08-11 21:15",
-      "via": "draft",
-      "to": "manual",
-      "title": "Head of Safety, Health & Environment",
-      "company": "Lonza"
+    "https://jobicy.com/jobs/149008-chief-information-security-officer::email": {
+      "date": "2026-08-12 01:00",
+      "via": "email",
+      "to": "applyassistance@fortive.com",
+      "title": "Chief Information Security Officer",
+      "company": "Fortive"
     },
-    "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602::draft": {
-      "date": "2026-08-11 21:15",
-      "via": "draft",
-      "to": "manual",
-      "title": "HSE Engineer",
-      "company": "PrimeGate for Communications and IT"
+    "https://sa.linkedin.com/jobs/view/health-and-safety-officer-at-khidmah-4439830451::email": {
+      "date": "2026-08-12 01:44",
+      "via": "email",
+      "to": "info@khidmah.com",
+      "title": "Health And Safety Officer",
+      "company": "Khidmah"
     },
-    "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474::draft": {
-      "date": "2026-08-11 21:15",
-      "via": "draft",
-      "to": "manual",
-      "title": "Senior Environmental Engineer - HSE Manager",
+    "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754::email": {
+      "date": "2026-08-12 01:44",
+      "via": "email",
+      "to": "accommodation.apply@convergint.com",
+      "title": "Audit HSE Engineer",
+      "company": "Convergint"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-analyst-safety-officer-offshore-at-penspen-4445033195::email": {
+      "date": "2026-08-12 01:45",
+      "via": "email",
+      "to": "contact@penspen.com",
+      "title": "HSE Analyst/ Safety Officer - Offshore",
       "company": "Penspen"
     },
-    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258::draft": {
-      "date": "2026-08-11 22:13",
-      "via": "draft",
-      "to": "manual",
-      "title": "EHS ENGINEER",
-      "company": "Larsen & Toubro"
+    "https://ae.linkedin.com/jobs/view/environmental-health-safety-engineer-3-positions-at-ehs-consultants-4445821868::email": {
+      "date": "2026-08-12 01:45",
+      "via": "email",
+      "to": "info@ehsconsultants.com",
+      "title": "Environmental Health & Safety Engineer(3 Positions)",
+      "company": "EHS Consultants"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303::email": {
+      "date": "2026-08-12 01:45",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "HSE Engineer - Chinese Speaker",
+      "company": "Wood"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-business-needs-inc-4442201598::email": {
+      "date": "2026-08-12 01:53",
+      "via": "email",
+      "to": "service@nhc.com",
+      "title": "Blockchain Developer",
+      "company": "Business Needs Inc."
     }
   },
-  "sent": {},
+  "sent": {
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-i8is-infiniti-software-solutions-4451670756": {
+      "subject": "Abdolbaset Rahmatpour - [TEST] Blockchain Developer",
+      "to": "rahmatpour63@gmail.com",
+      "date": "2026-08-12 00:50"
+    },
+    "https://jobicy.com/jobs/149008-chief-information-security-officer": {
+      "subject": "Abdolbaset Rahmatpour - Chief Information Security Officer",
+      "to": "applyassistance@fortive.com",
+      "date": "2026-08-12 01:00"
+    },
+    "https://sa.linkedin.com/jobs/view/health-and-safety-officer-at-khidmah-4439830451": {
+      "subject": "Abdolbaset Rahmatpour - Health And Safety Officer",
+      "to": "info@khidmah.com",
+      "date": "2026-08-12 01:44"
+    },
+    "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754": {
+      "subject": "Abdolbaset Rahmatpour - Audit HSE Engineer",
+      "to": "accommodation.apply@convergint.com",
+      "date": "2026-08-12 01:44"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-analyst-safety-officer-offshore-at-penspen-4445033195": {
+      "subject": "Abdolbaset Rahmatpour - HSE Analyst/ Safety Officer - Offshore",
+      "to": "contact@penspen.com",
+      "date": "2026-08-12 01:45"
+    },
+    "https://ae.linkedin.com/jobs/view/environmental-health-safety-engineer-3-positions-at-ehs-consultants-4445821868": {
+      "subject": "Abdolbaset Rahmatpour - Environmental Health & Safety Engineer(3 Positions)",
+      "to": "info@ehsconsultants.com",
+      "date": "2026-08-12 01:45"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303": {
+      "subject": "Abdolbaset Rahmatpour - HSE Engineer - Chinese Speaker",
+      "to": "info@wood.com",
+      "date": "2026-08-12 01:45"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-business-needs-inc-4442201598": {
+      "subject": "Abdolbaset Rahmatpour - Blockchain Developer",
+      "to": "service@nhc.com",
+      "date": "2026-08-12 01:53"
+    }
+  },
   "replies": []
 }

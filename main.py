@@ -11,6 +11,7 @@ import resume_parser as rp
 import telegram
 import tracker
 import whatsapp
+import company_lookup as cl
 from emailer import build_letter, build_whatsapp_message, make_message, send_via_gmail, write_draft
 from matcher import rank
 
@@ -119,6 +120,39 @@ def cmd_search(cfg, args):
             print(f"   لینک: {j['url']}")
 
 
+def cmd_enrich(cfg, args):
+    """Find employer emails for top-ranked jobs that have none, save back to results."""
+    limit = args.limit or cfg["search"]["top_n"]
+    for p in get_profiles(cfg, args.profile):
+        pid = p["config"]["id"]
+        result_path = os.path.join(BASE_DIR, "results", f"{pid}.json")
+        if not os.path.exists(result_path):
+            print(f"ابتدا جستجو کنید: python main.py search --profile {pid}")
+            continue
+        with open(result_path, "r", encoding="utf-8") as f:
+            ranked = json.load(f)
+        found = 0
+        print(f"\n=== پیدا کردن ایمیل کارفرما: {pid} ===")
+        for j in ranked[:limit]:
+            if (j.get("emails") or []):
+                continue
+            company = j.get("company")
+            if not company or company in ("-", "Anonymous"):
+                continue
+            info = cl.lookup(company)
+            if info.get("emails"):
+                j["emails"] = info["emails"]
+                j["emails_source"] = info.get("domain") or "company website"
+                found += 1
+                print(f"  ✅ {j['title'][:40]} -> {info['emails'][0]} ({company})")
+            else:
+                print(f"  ❌ {j['title'][:40]} ({company}): ایمیل یافت نشد")
+            time.sleep(0.2)
+        with open(result_path, "w", encoding="utf-8") as f:
+            json.dump(ranked, f, ensure_ascii=False, indent=2)
+        print(f"خلاصه {pid}: {found} ایمیل جدید پیدا شد -> {result_path}")
+
+
 def _tg_post(text, silent_ok=False):
     ok, err = telegram.send_message(cfg_global["telegram"]["bot_token"], cfg_global["telegram"]["channel_id"], text)
     if ok:
@@ -158,8 +192,12 @@ def cmd_email(cfg, args):
         sent, drafted = 0, 0
         print(f"\n=== آماده‌سازی نامه‌ها برای پروفایل: {pid} ===")
         for j in ranked[:limit]:
-            if tracker.applied(j["url"]):
-                continue
+            if args.send:
+                if tracker.applied(j["url"], "email"):
+                    continue
+            else:
+                if tracker.applied(j["url"]):
+                    continue
             subject, html = build_letter(j, p["config"], cfg["candidate"], j)
             to = (j.get("emails") or [None])[0]
             attachments = ([os.path.join(BASE_DIR, p["config"]["resume_pdf"]) if not os.path.isabs(p["config"]["resume_pdf"]) else p["config"]["resume_pdf"]] if p["config"].get("resume_pdf") else [])
@@ -452,6 +490,9 @@ def main():
     sp = sub.add_parser("search")
     sp.add_argument("--profile", default="all")
     sp.add_argument("--top", type=int, default=None)
+    sen = sub.add_parser("enrich")
+    sen.add_argument("--profile", default="all")
+    sen.add_argument("--limit", type=int, default=None)
     se = sub.add_parser("email")
     se.add_argument("--profile", default="all")
     se.add_argument("--limit", type=int, default=None)
@@ -493,6 +534,8 @@ def main():
         cfg.setdefault("telegram", {})["channel_id"] = env["TG_CHANNEL_ID"]
     if args.cmd == "search":
         cmd_search(cfg, args)
+    elif args.cmd == "enrich":
+        cmd_enrich(cfg, args)
     elif args.cmd == "email":
         cmd_email(cfg, args)
     elif args.cmd == "whatsapp":

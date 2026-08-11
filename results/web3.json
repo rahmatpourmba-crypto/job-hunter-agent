@@ -28,8 +28,12 @@
     "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "contact@i8is.com",
+      "user@website.com"
+    ],
+    "phones": [],
+    "emails_source": "i8is.com"
   },
   {
     "source": "linkedin",
@@ -60,8 +64,11 @@
     "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "service@nhc.com"
+    ],
+    "phones": [],
+    "emails_source": "needs.com"
   },
   {
     "source": "linkedin",

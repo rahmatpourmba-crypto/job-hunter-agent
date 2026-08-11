@@ -74,8 +74,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "info@khidmah.com"
+    ],
+    "phones": [],
+    "emails_source": "khidmah.com"
   },
   {
     "source": "jobicy",
@@ -126,8 +129,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "accommodation.apply@convergint.com"
+    ],
+    "phones": [],
+    "emails_source": "convergint.com"
   },
   {
     "source": "linkedin",
@@ -150,8 +156,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
   },
   {
     "source": "linkedin",
@@ -174,8 +183,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "info@ehsconsultants.com"
+    ],
+    "phones": [],
+    "emails_source": "ehsconsultants.com"
   },
   {
     "source": "linkedin",
@@ -203,6 +215,36 @@
   },
   {
     "source": "linkedin",
+<<<<<<< HEAD
+=======
+    "title": "HSE Engineer - Chinese Speaker",
+    "company": "Wood",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@wood.com"
+    ],
+    "phones": [],
+    "emails_source": "wood.com"
+  },
+  {
+    "source": "linkedin",
+>>>>>>> 838f185 (add company email lookup + Persian job info in letters + send draft-override)
     "title": "Manager Occupational Health and Safety",
     "company": "Riyadh Air | طيران الرياض",
     "location": "Riyadh Region",
