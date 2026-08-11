@@ -1223,6 +1223,48 @@
       "company": "SATCO ARABIA",
       "source": "linkedin",
       "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602": {
+      "title": "HSE Engineer",
+      "company": "PrimeGate for Communications and IT",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559": {
+      "title": "HSE Engineer - Saudi",
+      "company": "TRACTEBEL",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-guardian-industries-4444152160": {
+      "title": "EHS Engineer",
+      "company": "Guardian Industries",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-saudi-national-at-wsp-in-the-middle-east-4410642215": {
+      "title": "Safety Engineer (Saudi National)",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-confidential-4446211617": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/principal-security-engineer-crypto-digital-assets-at-capital-com-4445191088": {
+      "title": "Principal Security Engineer (Crypto / Digital Assets)",
+      "company": "Capital.com",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/qa-automation-engineer-%E2%80%94-crypto-trading-platform-admin-console-at-zento-era-4445857148": {
+      "title": "QA Automation Engineer — Crypto Trading Platform & Admin Console",
+      "company": "Zento Era",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
     }
   },
   "applied": {
@@ -1234,42 +1276,42 @@
       "company": "Business Needs Inc."
     },
     "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488::draft": {
-      "date": "2026-08-11 22:32",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Blockchain Developer",
       "company": "Altimetrik"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform::draft": {
-      "date": "2026-08-11 22:32",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
       "company": "Coinbase"
     },
     "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer::draft": {
-      "date": "2026-08-11 22:32",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Solidity Compiler Frontend Engineer",
       "company": "CertiK"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796::draft": {
-      "date": "2026-08-11 22:32",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Senior Software Engineer, Stablecoins",
       "company": "Coinbase"
     },
     "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3::draft": {
-      "date": "2026-08-11 22:32",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Launch Legends: Senior DevOps Engineer (Web3)",
       "company": "Launch Legends"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network::draft": {
-      "date": "2026-08-11 22:32",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Senior Software Engineer - Blockchain Network",
@@ -1283,7 +1325,7 @@
       "company": "Coinbase"
     },
     "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992::draft": {
-      "date": "2026-08-12 01:43",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Environmental Health and Safety Officer",
@@ -1318,7 +1360,7 @@
       "company": "EHS Consultants"
     },
     "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371::draft": {
-      "date": "2026-08-12 01:45",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Environmental Health Safety Specialist",
@@ -1332,7 +1374,7 @@
       "company": "Wood"
     },
     "https://sa.linkedin.com/jobs/view/manager-occupational-health-and-safety-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4447647578::draft": {
-      "date": "2026-08-12 01:46",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Manager Occupational Health and Safety",
@@ -1402,14 +1444,14 @@
       "company": "Business Needs Inc."
     },
     "https://ae.linkedin.com/jobs/view/smart-contract-security-engineer-at-hamonis-4451655291::draft": {
-      "date": "2026-08-11 22:32",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Smart Contract Security Engineer",
       "company": "Hamonis"
     },
     "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731::draft": {
-      "date": "2026-08-11 22:32",
+      "date": "2026-08-11 23:13",
       "via": "draft",
       "to": "manual",
       "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
