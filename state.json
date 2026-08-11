@@ -1103,6 +1103,102 @@
       "company": "RTC-1 Employment Services",
       "source": "gulftalent_kuwait",
       "first_seen": "2026-08-11"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-safety-health-environment-at-lonza-4447440155": {
+      "title": "Head of Safety, Health & Environment",
+      "company": "Lonza",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602": {
+      "title": "HSE Engineer",
+      "company": "PrimeGate for Communications and IT",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474": {
+      "title": "Senior Environmental Engineer - HSE Manager",
+      "company": "Penspen",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-eastern-province-at-confidential-careers-4447378638": {
+      "title": "Health Safety Environment Officer - Eastern Province",
+      "company": "Confidential Careers",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-confidential-4446211617": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/sr-hse-officer-at-aljomaih-energy-and-water-company-4440000585": {
+      "title": "Sr. HSE Officer",
+      "company": "Aljomaih Energy and Water Company",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-fresh-graduate-at-ucc-holding-4432094951": {
+      "title": "HSE Officer (Fresh Graduate)",
+      "company": "UCC Holding",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-officer-%E2%80%93-occupational-health-safety-at-the-sanad-group-4440907299": {
+      "title": "Senior Officer – Occupational Health & Safety",
+      "company": "The Sanad Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/whs-officer-safety-officer-at-amazon-4446345468": {
+      "title": "WHS Officer, Safety Officer",
+      "company": "Amazon",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-specialist-occupational-health-safety-su-at-ad-ports-group-4440556165": {
+      "title": "Senior Specialist - Occupational Health & Safety - SU",
+      "company": "AD Ports Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-specialist-at-emirates-flight-catering-4447342907": {
+      "title": "Safety Specialist",
+      "company": "Emirates Flight Catering",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-specialist-at-emirates-flight-catering-4449487140": {
+      "title": "Safety Specialist",
+      "company": "Emirates Flight Catering",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-officer-at-gulbahar-4449699092": {
+      "title": "Health & Safety Officer",
+      "company": "GULBAHAR",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-officer-i-factory-at-mbrf-4446802366": {
+      "title": "Health & Safety Officer I - Factory",
+      "company": "MBRF",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/principal-security-engineer-crypto-digital-assets-at-capital-com-4445191088": {
+      "title": "Principal Security Engineer (Crypto / Digital Assets)",
+      "company": "Capital.com",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/qa-automation-engineer-%E2%80%94-crypto-trading-platform-admin-console-at-zento-era-4445857148": {
+      "title": "QA Automation Engineer — Crypto Trading Platform & Admin Console",
+      "company": "Zento Era",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
     }
   },
   "applied": {
@@ -1237,6 +1333,34 @@
       "via": "draft",
       "to": "manual",
       "title": "HSE Engineer",
+      "company": "Penspen"
+    },
+    "https://jobicy.com/jobs/149957-product-marketing-lead-trade::draft": {
+      "date": "2026-08-11 21:15",
+      "via": "draft",
+      "to": "manual",
+      "title": "Product Marketing Lead - Trade",
+      "company": "Consensys"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-safety-health-environment-at-lonza-4447440155::draft": {
+      "date": "2026-08-11 21:15",
+      "via": "draft",
+      "to": "manual",
+      "title": "Head of Safety, Health & Environment",
+      "company": "Lonza"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602::draft": {
+      "date": "2026-08-11 21:15",
+      "via": "draft",
+      "to": "manual",
+      "title": "HSE Engineer",
+      "company": "PrimeGate for Communications and IT"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474::draft": {
+      "date": "2026-08-11 21:15",
+      "via": "draft",
+      "to": "manual",
+      "title": "Senior Environmental Engineer - HSE Manager",
       "company": "Penspen"
     }
   },
