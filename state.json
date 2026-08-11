@@ -1103,6 +1103,126 @@
       "company": "RTC-1 Employment Services",
       "source": "gulftalent_kuwait",
       "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4443145652": {
+      "title": "Sr. HSE Engineer | alfanar Electric",
+      "company": "alfanar",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-and-safety-manager-saudi-national-at-mace-4437772041": {
+      "title": "Health and Safety Manager (Saudi National)",
+      "company": "Mace",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/fresh-graduate-safety-engineer-saudi-aramco-smp-at-abdullah-a-al-barrak-son-co-4447362585": {
+      "title": "Fresh Graduate Safety Engineer - Saudi Aramco SMP",
+      "company": "Abdullah A. Al-Barrak & Son Co.",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-eastern-province-at-confidential-careers-4447378638": {
+      "title": "Health Safety Environment Officer - Eastern Province",
+      "company": "Confidential Careers",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/officer-hse-at-alfanar-4450952479": {
+      "title": "OFFICER, HSE",
+      "company": "alfanar",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/associate-hse-specialist-at-hitachi-energy-4439719601": {
+      "title": "Associate HSE Specialist",
+      "company": "Hitachi Energy",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-fresh-graduate-at-ucc-holding-4432094951": {
+      "title": "HSE Officer (Fresh Graduate)",
+      "company": "UCC Holding",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-specialist-at-nov-4441552203": {
+      "title": "HSE Specialist",
+      "company": "NOV",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-confidential-4446209569": {
+      "title": "Health Safety Environment Officer",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-officer-%E2%80%93-occupational-health-safety-at-the-sanad-group-4440907299": {
+      "title": "Senior Officer – Occupational Health & Safety",
+      "company": "The Sanad Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/whs-officer-safety-officer-at-amazon-4446345468": {
+      "title": "WHS Officer, Safety Officer",
+      "company": "Amazon",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-specialist-occupational-health-safety-su-at-ad-ports-group-4440556165": {
+      "title": "Senior Specialist - Occupational Health & Safety - SU",
+      "company": "AD Ports Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-specialist-at-emirates-flight-catering-4447342907": {
+      "title": "Safety Specialist",
+      "company": "Emirates Flight Catering",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-specialist-at-emirates-flight-catering-4449487140": {
+      "title": "Safety Specialist",
+      "company": "Emirates Flight Catering",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-officer-at-gulbahar-4449699092": {
+      "title": "Health & Safety Officer",
+      "company": "GULBAHAR",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-officer-i-factory-at-mbrf-4446802366": {
+      "title": "Health & Safety Officer I - Factory",
+      "company": "MBRF",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/occupational-health-nurse-at-meena-health-4451515858": {
+      "title": "Occupational Health Nurse",
+      "company": "Meena Health",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-health-safety-manager-infrastructure-at-parsons-corporation-4442764546": {
+      "title": "Senior Health & Safety Manager (Infrastructure)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-manager-at-aecom-4448237491": {
+      "title": "Health & Safety Manager",
+      "company": "AECOM",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-satco-arabia-4449888130": {
+      "title": "Health Safety Environment Engineer",
+      "company": "SATCO ARABIA",
+      "source": "linkedin",
+      "first_seen": "2026-08-11"
     }
   },
   "applied": {
@@ -1114,42 +1234,42 @@
       "company": "Business Needs Inc."
     },
     "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488::draft": {
-      "date": "2026-08-12 01:53",
+      "date": "2026-08-11 22:32",
       "via": "draft",
       "to": "manual",
       "title": "Blockchain Developer",
       "company": "Altimetrik"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform::draft": {
-      "date": "2026-08-12 01:53",
+      "date": "2026-08-11 22:32",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
       "company": "Coinbase"
     },
     "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer::draft": {
-      "date": "2026-08-12 01:53",
+      "date": "2026-08-11 22:32",
       "via": "draft",
       "to": "manual",
       "title": "Solidity Compiler Frontend Engineer",
       "company": "CertiK"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796::draft": {
-      "date": "2026-08-12 01:53",
+      "date": "2026-08-11 22:32",
       "via": "draft",
       "to": "manual",
       "title": "Senior Software Engineer, Stablecoins",
       "company": "Coinbase"
     },
     "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3::draft": {
-      "date": "2026-08-12 01:53",
+      "date": "2026-08-11 22:32",
       "via": "draft",
       "to": "manual",
       "title": "Launch Legends: Senior DevOps Engineer (Web3)",
       "company": "Launch Legends"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network::draft": {
-      "date": "2026-08-12 01:53",
+      "date": "2026-08-11 22:32",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Senior Software Engineer - Blockchain Network",
@@ -1280,6 +1400,62 @@
       "to": "service@nhc.com",
       "title": "Blockchain Developer",
       "company": "Business Needs Inc."
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-security-engineer-at-hamonis-4451655291::draft": {
+      "date": "2026-08-11 22:32",
+      "via": "draft",
+      "to": "manual",
+      "title": "Smart Contract Security Engineer",
+      "company": "Hamonis"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731::draft": {
+      "date": "2026-08-11 22:32",
+      "via": "draft",
+      "to": "manual",
+      "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
+      "company": "1inch"
+    },
+    "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4443145652::draft": {
+      "date": "2026-08-11 22:32",
+      "via": "draft",
+      "to": "manual",
+      "title": "Sr. HSE Engineer | alfanar Electric",
+      "company": "alfanar"
+    },
+    "https://sa.linkedin.com/jobs/view/health-and-safety-manager-saudi-national-at-mace-4437772041::draft": {
+      "date": "2026-08-11 22:32",
+      "via": "draft",
+      "to": "manual",
+      "title": "Health and Safety Manager (Saudi National)",
+      "company": "Mace"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679::email": {
+      "date": "2026-08-11 22:32",
+      "via": "email",
+      "to": "contact@penspen.com",
+      "title": "HSE Engineer",
+      "company": "Penspen"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258::email": {
+      "date": "2026-08-11 22:32",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "EHS ENGINEER",
+      "company": "Larsen & Toubro"
+    },
+    "https://iq.linkedin.com/jobs/view/security-advisor-at-sardar-group-4450215119::draft": {
+      "date": "2026-08-11 22:32",
+      "via": "draft",
+      "to": "manual",
+      "title": "Security Advisor",
+      "company": "Sardar Group"
+    },
+    "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300::draft": {
+      "date": "2026-08-11 22:32",
+      "via": "draft",
+      "to": "manual",
+      "title": "QHSE Manager",
+      "company": "Anton"
     }
   },
   "sent": {
@@ -1322,6 +1498,16 @@
       "subject": "Abdolbaset Rahmatpour - Blockchain Developer",
       "to": "service@nhc.com",
       "date": "2026-08-12 01:53"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679": {
+      "subject": "Abdolbaset Rahmatpour - HSE Engineer",
+      "to": "contact@penspen.com",
+      "date": "2026-08-11 22:32"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258": {
+      "subject": "Abdolbaset Rahmatpour - EHS ENGINEER",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-08-11 22:32"
     }
   },
   "replies": []
