@@ -1223,6 +1223,60 @@
       "company": "SATCO ARABIA",
       "source": "linkedin",
       "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467": {
+      "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
+      "company": "Abdullah Al-Othaim Markets",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4435188482": {
+      "title": "EHS ENGINEER",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-worley-4438184985": {
+      "title": "HSE Manager",
+      "company": "Worley",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-officer-uae-amzl-whs-at-amazon-4453006534": {
+      "title": "Health & Safety Officer, UAE AMZL WHS",
+      "company": "Amazon",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/occupational-health-specialist-sales-at-almarai-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B9%D9%8A-4453076061": {
+      "title": "Occupational Health Specialist (Sales)",
+      "company": "Almarai - المراعي",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-engineer-ehs-at-larsen-toubro-4453056794": {
+      "title": "Sr. Engineer - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://jobicy.com/jobs/149862-senior-ai-research-scientist-model-based-rl": {
+      "title": "Senior AI Research Scientist (Model-based RL)",
+      "company": "Phaidra",
+      "source": "jobicy",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/junior-data-scientist-crypto-fintech-at-why-hiring-4450105452": {
+      "title": "Junior Data Scientist - Crypto & FinTech",
+      "company": "Why Hiring",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://www.gulftalent.com/uae/jobs/senior-auditor-451493": {
+      "title": "Senior Auditor",
+      "company": "XB4 - CPAs & Advisors (Dubai Branch",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
@@ -1470,6 +1524,13 @@
       "to": "admin@hamonis.io",
       "title": "Smart Contract Security Engineer",
       "company": "Hamonis"
+    },
+    "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467::email": {
+      "date": "2026-08-12 08:12",
+      "via": "email",
+      "to": "privacy@markets.com",
+      "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
+      "company": "Abdullah Al-Othaim Markets"
     }
   },
   "sent": {
@@ -1532,6 +1593,11 @@
       "subject": "Abdolbaset Rahmatpour - Smart Contract Security Engineer",
       "to": "admin@hamonis.io",
       "date": "2026-08-12 11:38"
+    },
+    "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467": {
+      "kind": "email",
+      "to": "privacy@markets.com",
+      "date": "2026-08-12 08:12"
     }
   },
   "replies": []
