@@ -38,41 +38,6 @@
   {
     "source": "linkedin",
     "title": "Blockchain Developer",
-    "company": "Business Needs Inc.",
-    "location": "New York City Metropolitan Area",
-    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-business-needs-inc-4442201598",
-    "description": "Digital Assets Web3 Engineer NYC NY / Jersey City NJ Open for Fulltime The successful candidate will contribute to the design, development, and deployment of Web3-native components and integrations that power Citi's digital asset infrastructure — spanning tokenization, smart contracts, on-chain settlement, and blockchain protocol integrations. You will work within a collaborative, globally distributed team of engineers, architects, and business technologists who are building the next generation of institutional digital finance capabilities .We are looking for someone who brings strong Web3 engineering fundamentals, a curiosity for emerging blockchain ecosystems, and the ability to bridge decentralized technology patterns with enterprise-grade software standards .Key Responsibilitie sDesign, develop, and deplo y Web3 components and integrations for Citi's Digital Asset Platform, including smart contracts, on-chain event listeners, wallet integrations, and blockchain protocol connector sBuild and maintai n backend services that interface with public and permissioned blockchain networks (e.g., Ethereum, Hyperledger Besu, Corda, or equivalent )Develop, test, and audi t smart contracts written in Solidity or equivalent languages, ensuring security, correctness, and gas efficienc yIntegrate Web3 libraries and SDK s (e.g., Web3J, Web3JS, Ethers.js, Viem) into enterprise Java and/or Node.js backend service sImplement asynchronous, event-driven architecture s to handle on-chain events, transaction lifecycle management, and blockchain state synchronizatio nCollaborate with architects and senior engineer s to contribute to the design of scalable, secure, and resilient Web3 infrastructur eParticipate in code review s, providing and receiving constructive technical feedback to maintain high engineering standard sSupport the integratio n of digital asset custody solutions, tokenization frameworks, and DeFi/TradFi bridging component sContribute to technical documentatio n, including smart contract specifications, integration guides, and architecture note sStay curren t with the rapidly evolving Web3 ecosystem — tracking protocol upgrades, new token standards, Layer 2 solutions, and emerging tooling relevant to institutional use case sWork within Agile/Scrum framework s, participating in sprint planning, stand-ups, and retrospectives within a distributed global tea mHelp identify and resolv e technical issues across the Web3 stack, escalating where appropriate to ensure delivery quality and timeline sQualifications / Experienc eBachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plu s8+ year s of overall software engineering experience, with a strong backend development foundatio n2 to 4 year s of hands-on experience in Web3 and blockchain application developmen t, including smart contract development and blockchain protocol integratio n3 to 5 year s of experience with backend developmen t using Java/Spring, Node.js, or equivalent enterprise framework sProficiency in Solidit y smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practice sHands-on experience with Web3 librarie s such as Web3J, Web3JS, Ethers.js, or Vie mSolid understanding of blockchain fundamental s — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key managemen tExperience with token standard s (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization pattern sFamiliarity with permissioned blockchain network s (Hyperledger Besu, Fabric, Corda, or R3) is a strong plu sExperience with asynchronous programmin g, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent )Familiarity with DevOps practice s, containerization (Docker, Kubernetes), and CI/CD pipeline sUnderstanding of cryptographic concept s — digital signatures, hashing, PKI, and secure key management — as applied to blockchain system sExposure to Layer 2 scaling solution s (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plu sExperience in financial services or regulated industrie s is a plu sFamiliarity with Agile/Scru m methodologies and distributed team collaboration tool sCompetencies / Skill sWeb3 Engineering Depth : Strong command of the Web3 technology stack — from smart contract development to on-chain/off-chain integration patterns and blockchain node interactio nBackend Engineering Fundamentals : Solid grounding in enterprise software engineering — API design, microservices, data structures, algorithms, and design pattern sSecurity Mindset : Awareness of common smart contract vulnerabilities (reentrancy, front-running, integer overflow, etc.) and best practices for secure on-chain developmen tCuriosity & Adaptability : Genuine enthusiasm for the Web3 ecosystem and the ability to rapidly learn and apply new protocols, standards, and toolin gCollaborative Spirit : Strong team player who communicates clearly and constructively with engineers, architects, and non-technical stakeholder sDelivery Orientation : Ability to manage personal delivery commitments, prioritize effectively, and produce high-quality output within sprint cycle sAttention to Detail : Rigorous approach to testing, code quality, and documentation — particularly important given the immutable nature of on-chain deployment sTooling Proficiency : Working knowledge of engineering tools including Git, Jira, Jenkins, Hardhat/Foundry, Docker, Helm, and observability platform sDevelopment Valu eAs a Digital Assets Web3 Engineer at Citi, you will be at the forefront of one of the most exciting and strategically significant technology domains in institutional finance. You will :Work on real-world, production-grade Web3 infrastructur e at the scale and complexity of a global systemically important ban kGain deep exposur e to institutional digital asset use cases — including tokenized securities, digital cash, on-chain settlement, and p",
-    "published": "2026-07-20",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 17,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "web3",
-      "defi",
-      "ethereum",
-      "polygon",
-      "crypto",
-      "token"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "service@nhc.com"
-    ],
-    "phones": [],
-    "emails_source": "needs.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "Blockchain Developer",
     "company": "Altimetrik",
     "location": "New York City Metropolitan Area",
     "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488",
@@ -104,6 +69,39 @@
       "+12482812500"
     ],
     "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
+  },
+  {
+    "source": "linkedin",
+    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
+    "company": "1inch",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
+    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
+    "published": "2026-07-31",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 14,
+    "title_hits": [
+      "smart contract",
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "web3",
+      "defi",
+      "ethereum",
+      "crypto",
+      "audit",
+      "security",
+      "evm"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
   },
   {
     "source": "weworkremotely",

@@ -1733,6 +1733,13 @@
       "to": "https://www.coinbase.com",
       "title": "Coinbase: Senior Software Engineer - Blockchain Network",
       "company": "Coinbase"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager::contact_form": {
+      "date": "2026-08-12 17:32",
+      "via": "contact_form",
+      "to": "https://www.coinbase.com",
+      "title": "Coinbase: Internal Audit IT Manager",
+      "company": "Coinbase"
     }
   },
   "sent": {
@@ -1820,6 +1827,11 @@
       "kind": "contact_form",
       "to": "coinbase.com",
       "date": "2026-08-12 16:30"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager": {
+      "kind": "contact_form",
+      "to": "coinbase.com",
+      "date": "2026-08-12 17:32"
     }
   },
   "replies": []
