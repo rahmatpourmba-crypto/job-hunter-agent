@@ -1,5 +1,59 @@
 [
   {
+    "source": "linkedin",
+    "title": "Environmental Health and Safety Officer",
+    "company": "Rotana Hotels",
+    "location": "Mecca, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 12,
+    "title_hits": [
+      "safety officer",
+      "health and safety",
+      "environmental health",
+      "health and safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health And Safety Officer",
+    "company": "Khidmah",
+    "location": "Abqaiq, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-officer-at-khidmah-4439830451",
+    "description": "",
+    "published": "2026-07-14",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 9,
+    "title_hits": [
+      "safety officer",
+      "health and safety",
+      "health and safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@khidmah.com"
+    ],
+    "phones": [],
+    "emails_source": "khidmah.com"
+  },
+  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -83,57 +137,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "PrimeGate for Communications and IT",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602",
-    "description": "",
-    "published": "2026-08-06",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Senior Environmental Engineer - HSE Manager",
-    "company": "Penspen",
-    "location": "Khafji, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474",
-    "description": "",
-    "published": "2026-07-24",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "environmental engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
     "title": "Environmental Health & Safety Engineer(3 Positions)",
     "company": "EHS Consultants",
     "location": "United Arab Emirates",
@@ -161,20 +164,20 @@
   },
   {
     "source": "linkedin",
-    "title": "Sr. HSE Engineer | alfanar Electric",
-    "company": "alfanar",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4443145652",
+    "title": "Environmental Health Safety Specialist",
+    "company": "Blue Hat HR Services",
+    "location": "Al Khobar, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371",
     "description": "",
-    "published": "2026-07-22",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "hse",
-      "hse engineer"
+      "environmental health",
+      "safety specialist"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -185,46 +188,43 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer - Chinese Speaker",
-    "company": "Wood",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303",
+    "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
+    "company": "Abdullah Al-Othaim Markets",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467",
     "description": "",
-    "published": "2026-08-04",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "hse",
-      "hse engineer"
+      "occupational health",
+      "safety specialist"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "info@wood.com"
-    ],
-    "phones": [],
-    "emails_source": "wood.com"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
-    "title": "Health and Safety Manager (Saudi National)",
-    "company": "Mace",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-manager-saudi-national-at-mace-4437772041",
+    "title": "Manager Occupational Health and Safety",
+    "company": "Riyadh Air | طيران الرياض",
+    "location": "Riyadh Region",
+    "url": "https://sa.linkedin.com/jobs/view/manager-occupational-health-and-safety-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4447647578",
     "description": "",
-    "published": "2026-07-28",
+    "published": "2026-08-02",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "safety manager",
+      "occupational health",
       "health and safety"
     ],
     "desc_hits": [],
