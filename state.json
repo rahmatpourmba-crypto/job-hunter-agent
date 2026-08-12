@@ -1367,6 +1367,24 @@
       "company": "AAA Global",
       "source": "linkedin",
       "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-leader-at-edge-4452386367": {
+      "title": "HSE Leader",
+      "company": "EDGE",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-saudi-national-at-parsons-corporation-4453118090": {
+      "title": "Safety Engineer (Saudi National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform": {
+      "title": "Toptal: Senior Software Engineer for AI-Powered Banking Platform",
+      "company": "Toptal",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
@@ -1635,6 +1653,13 @@
       "to": "contact@penspen.com",
       "title": "Senior Environmental Engineer - HSE Manager",
       "company": "Penspen"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796::contact_form": {
+      "date": "2026-08-12 13:01",
+      "via": "contact_form",
+      "to": "https://www.coinbase.com",
+      "title": "Senior Software Engineer, Stablecoins",
+      "company": "Coinbase"
     }
   },
   "sent": {
@@ -1712,6 +1737,11 @@
       "kind": "email",
       "to": "contact@penspen.com",
       "date": "2026-08-12 09:27"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796": {
+      "kind": "contact_form",
+      "to": "coinbase.com",
+      "date": "2026-08-12 13:01"
     }
   },
   "replies": []
