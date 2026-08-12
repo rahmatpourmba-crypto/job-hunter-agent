@@ -1421,6 +1421,36 @@
       "company": "Veeam Software",
       "source": "jobicy",
       "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-ehs-engineer-%E2%80%93-substation-%E2%80%93-uae-at-hudson-it-and-manpower-4450696648": {
+      "title": "Safety / EHS Engineer – Substation – UAE",
+      "company": "Hudson IT and Manpower",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-technical-hse-engineer-at-target-engineering-construction-co-llc-4448087434": {
+      "title": "Senior Technical HSE Engineer",
+      "company": "Target Engineering Construction Co LLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-wsp-in-the-middle-east-4437682794": {
+      "title": "HSE Engineer",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/principal-safety-engineer-offshore-detailed-engineering-at-worley-4392578927": {
+      "title": "Principal Safety Engineer - Offshore (Detailed Engineering)",
+      "company": "Worley",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/graduate-tech-safety-engineer-uae-nationals-at-wood-4450266716": {
+      "title": "Graduate Tech Safety Engineer (UAE Nationals)",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
@@ -1696,6 +1726,13 @@
       "to": "https://www.coinbase.com",
       "title": "Senior Software Engineer, Stablecoins",
       "company": "Coinbase"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network::contact_form": {
+      "date": "2026-08-12 16:30",
+      "via": "contact_form",
+      "to": "https://www.coinbase.com",
+      "title": "Coinbase: Senior Software Engineer - Blockchain Network",
+      "company": "Coinbase"
     }
   },
   "sent": {
@@ -1778,6 +1815,11 @@
       "kind": "contact_form",
       "to": "coinbase.com",
       "date": "2026-08-12 13:01"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network": {
+      "kind": "contact_form",
+      "to": "coinbase.com",
+      "date": "2026-08-12 16:30"
     }
   },
   "replies": []
