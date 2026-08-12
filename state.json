@@ -1481,6 +1481,18 @@
       "company": "Amazon",
       "source": "linkedin",
       "first_seen": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-smart-contract-engineer-us-latam-at-x-team-4441606512": {
+      "title": "Senior Smart Contract Engineer (US / Latam)",
+      "company": "X-Team",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-ondo-finance-4444080332": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Ondo Finance",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
