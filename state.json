@@ -1313,6 +1313,24 @@
       "company": "Elite Talent",
       "source": "linkedin",
       "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602": {
+      "title": "HSE Engineer",
+      "company": "PrimeGate for Communications and IT",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474": {
+      "title": "Senior Environmental Engineer - HSE Manager",
+      "company": "Penspen",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-confidential-4446211617": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
@@ -1574,6 +1592,13 @@
       "to": "https://www.coinbase.com",
       "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
       "company": "Coinbase"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474::email": {
+      "date": "2026-08-12 09:27",
+      "via": "email",
+      "to": "contact@penspen.com",
+      "title": "Senior Environmental Engineer - HSE Manager",
+      "company": "Penspen"
     }
   },
   "sent": {
@@ -1646,6 +1671,11 @@
       "kind": "contact_form",
       "to": "coinbase.com",
       "date": "2026-08-12 09:17"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474": {
+      "kind": "email",
+      "to": "contact@penspen.com",
+      "date": "2026-08-12 09:27"
     }
   },
   "replies": []
