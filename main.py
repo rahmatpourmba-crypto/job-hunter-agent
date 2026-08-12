@@ -12,7 +12,15 @@ import telegram
 import tracker
 import whatsapp
 import company_lookup as cl
-from emailer import build_letter, build_whatsapp_message, make_message, send_via_gmail, write_draft
+import contact_form as cf
+from emailer import (
+    build_letter,
+    build_whatsapp_message,
+    company_profile_fa,
+    make_message,
+    send_via_gmail,
+    write_draft,
+)
 from matcher import rank
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -121,7 +129,7 @@ def cmd_search(cfg, args):
 
 
 def cmd_enrich(cfg, args):
-    """Find employer emails for top-ranked jobs that have none, save back to results."""
+    """Find employer emails, phones and about-info for top-ranked jobs, save back to results."""
     limit = args.limit or cfg["search"]["top_n"]
     for p in get_profiles(cfg, args.profile):
         pid = p["config"]["id"]
@@ -131,26 +139,36 @@ def cmd_enrich(cfg, args):
             continue
         with open(result_path, "r", encoding="utf-8") as f:
             ranked = json.load(f)
-        found = 0
-        print(f"\n=== پیدا کردن ایمیل کارفرما: {pid} ===")
+        found_mail = found_phone = 0
+        print(f"\n=== پیدا کردن اطلاعات کارفرما: {pid} ===")
         for j in ranked[:limit]:
-            if (j.get("emails") or []):
+            if (j.get("emails") or []) and (j.get("phones") or []) and j.get("about"):
                 continue
             company = j.get("company")
             if not company or company in ("-", "Anonymous"):
                 continue
             info = cl.lookup(company)
-            if info.get("emails"):
+            changed = False
+            if info.get("emails") and not j.get("emails"):
                 j["emails"] = info["emails"]
                 j["emails_source"] = info.get("domain") or "company website"
-                found += 1
-                print(f"  ✅ {j['title'][:40]} -> {info['emails'][0]} ({company})")
-            else:
-                print(f"  ❌ {j['title'][:40]} ({company}): ایمیل یافت نشد")
+                found_mail += 1
+                changed = True
+                print(f"  ✅ ایمیل {j['title'][:40]} -> {info['emails'][0]} ({company})")
+            if info.get("phones") and not j.get("phones"):
+                j["phones"] = info["phones"]
+                changed = True
+                found_phone += 1
+                print(f"  📞 تلفن {j['title'][:40]} -> {info['phones'][0]} ({company})")
+            if info.get("about") and not j.get("about"):
+                j["about"] = info["about"]
+                changed = True
+            if not changed and not info.get("emails"):
+                print(f"  ❌ {j['title'][:40]} ({company}): اطلاعاتی یافت نشد")
             time.sleep(0.2)
         with open(result_path, "w", encoding="utf-8") as f:
             json.dump(ranked, f, ensure_ascii=False, indent=2)
-        print(f"خلاصه {pid}: {found} ایمیل جدید پیدا شد -> {result_path}")
+        print(f"خلاصه {pid}: {found_mail} ایمیل، {found_phone} تلفن پیدا شد -> {result_path}")
 
 
 def _tg_post(text, silent_ok=False):
@@ -307,23 +325,26 @@ def cmd_apply(cfg, args):
         if args.send_email and not gmail.get("app_password"):
             print(f"خطا: برای ارسال ایمیل، gmail.app_password را تنظیم کنید (python main.py setup).")
             args.send_email = False
-        sent_mail = sent_wa = 0
+        sent_mail = sent_wa = sent_form = 0
         print(f"\n=== ارسال درخواست‌ها برای پروفایل: {pid} ===")
         for j in ranked[:limit]:
             to = (j.get("emails") or [None])[0]
+            resume_pdf = p["config"].get("resume_pdf")
+            resume_pdf = os.path.join(BASE_DIR, resume_pdf) if resume_pdf and not os.path.isabs(resume_pdf) else resume_pdf
+            company = j.get("company") or "the company"
             if args.send_email and to and not tracker.applied(j["url"], "email"):
                 subject, html = build_letter(j, p["config"], cfg["candidate"], j)
-                attachments = ([os.path.join(BASE_DIR, p["config"]["resume_pdf"]) if not os.path.isabs(p["config"]["resume_pdf"]) else p["config"]["resume_pdf"]] if p["config"].get("resume_pdf") else [])
+                attachments = [resume_pdf] if resume_pdf else []
                 msg = make_message(cfg["candidate"]["name"], gmail["user"] or cfg["candidate"]["email"], to, subject, html, attachments)
                 try:
                     send_via_gmail(gmail["user"], gmail["app_password"], msg)
-                    tracker.mark_applied(j["url"], "email", to, j.get("title", ""), j.get("company", ""))
+                    tracker.mark_applied(j["url"], "email", to, j.get("title", ""), company)
                     tracker.record_sent(j["url"], {"kind": "email", "to": to, "date": time.strftime("%Y-%m-%d %H:%M")})
                     sent_mail += 1
                     _tg_post(
                         "ایمیل ارسال شد\n"
                         f"عنوان شغل: {j.get('title')}\n"
-                        f"شرکت: {j.get('company') or '-'}\n"
+                        f"شرکت: {company}\n"
                         f"گیرنده: {to}\n"
                         f"{_job_contacts(j)}\n"
                         f"حقوق اعلامی: {j.get('salary_str') or 'نامشخص'}\n"
@@ -341,24 +362,75 @@ def cmd_apply(cfg, args):
                 if not ok:
                     print(f"خطا در واتساپ {j['title']} به {phones[0]}: {info}")
                     continue
-                tracker.mark_applied(j["url"], "whatsapp", phones[0], j.get("title", ""), j.get("company", ""))
+                tracker.mark_applied(j["url"], "whatsapp", phones[0], j.get("title", ""), company)
                 tracker.record_sent(j["url"], {"kind": "whatsapp", "to": phones[0], "date": time.strftime("%Y-%m-%d %H:%M")})
                 sent_wa += 1
                 _tg_post(
                     "واتساپ ارسال شد\n"
                     f"عنوان شغل: {j.get('title')}\n"
-                    f"شرکت: {j.get('company') or '-'}\n"
+                    f"شرکت: {company}\n"
                     f"شماره: {phones[0]}\n"
                     f"{_job_contacts(j)}\n"
                     f"حقوق اعلامی: {j.get('salary_str') or 'نامشخص'}\n"
                     f"لینک: {j.get('url')}"
                 )
                 print(f"واتساپ -> {j['title']} به {phones[0]}")
-            if not args.send_email and not args.send_whatsapp:
+            if args.send_form and not to and not tracker.applied(j["url"], "contact_form"):
+                info = cl.lookup(company)
+                domain = info.get("domain")
+                if not domain:
+                    print(f"فرم تماس -> {j['title']}: دامنه شرکت نامشخص")
+                    continue
+                letter_html = build_letter(j, p["config"], cfg["candidate"], j)[1]
+                letter = re.sub(r"<[^>]+>", " ", letter_html)
+                letter = re.sub(r"\s+", " ", letter).strip()
+                ok, detail, form_url = cf.find_and_submit(
+                    domain, j, cfg["candidate"], letter, company,
+                    resume_pdf=resume_pdf if resume_pdf and os.path.exists(resume_pdf) else None,
+                )
+                if ok:
+                    tracker.mark_applied(j["url"], "contact_form", form_url or domain, j.get("title", ""), company)
+                    tracker.record_sent(j["url"], {"kind": "contact_form", "to": domain, "date": time.strftime("%Y-%m-%d %H:%M")})
+                    sent_form += 1
+                    _tg_post(
+                        "درخواست از طریق فرم تماس سایت ارسال شد\n"
+                        f"عنوان شغل: {j.get('title')}\n"
+                        f"شرکت: {company}\n"
+                        f"دامنه: {domain}\n"
+                        f"وضعیت: {detail}\n"
+                        f"{_job_contacts(j)}\n"
+                        f"حقوق اعلامی: {j.get('salary_str') or 'نامشخص'}\n"
+                        f"لینک: {j.get('url')}"
+                    )
+                print(f"فرم تماس -> {j['title']} ({company}): {detail}")
+            if not args.send_email and not args.send_whatsapp and not args.send_form:
                 print(f"پیش‌نویس -> {j['title']} | ایمیل: {to or 'ندارد'} | تلفن: {', '.join(phones) or 'ندارد'}")
-        print(f"خلاصه {pid}: {sent_mail} ایمیل، {sent_wa} واتساپ")
-    if not args.send_email and not args.send_whatsapp:
-        print("\nتوجه: چیزی ارسال نشد. از: python main.py apply --email --whatsapp")
+        print(f"خلاصه {pid}: {sent_mail} ایمیل، {sent_wa} واتساپ، {sent_form} فرم تماس")
+    if not args.send_email and not args.send_whatsapp and not args.send_form:
+        print("\nتوجه: چیزی ارسال نشد. از: python main.py apply --email --whatsapp --form")
+
+
+def cmd_report(cfg, args):
+    """گزارش فارسی هر آگهی: نوع کار، مکان، حقوق، مشخصات و تماس شرکت."""
+    limit = args.limit or cfg["search"]["top_n"]
+    for p in get_profiles(cfg, args.profile):
+        pid = p["config"]["id"]
+        ranked = _require_results(pid)
+        if ranked is None:
+            continue
+        print(f"\n=== گزارش فارسی آگهی‌ها: {pid} ===")
+        for i, j in enumerate(ranked[:limit], 1):
+            company = j.get("company") or "شرکت کارفرما"
+            info = cl.lookup(company)
+            text = (
+                f"📋 گزارش آگهی {i}/{len(ranked[:limit])} ({pid})\n"
+                + company_profile_fa(j, info)
+                + f"\nمنبع: {j.get('source', '-')}\n"
+                + f"لینک: {j.get('url', '')}"
+            )
+            print("\n" + text)
+            if args.telegram:
+                _tg_post(text)
 
 
 def cmd_reply(cfg, args):
@@ -505,6 +577,11 @@ def main():
     sa.add_argument("--limit", type=int, default=None)
     sa.add_argument("--email", dest="send_email", action="store_true")
     sa.add_argument("--whatsapp", dest="send_whatsapp", action="store_true")
+    sa.add_argument("--form", dest="send_form", action="store_true")
+    srp = sub.add_parser("report")
+    srp.add_argument("--profile", default="all")
+    srp.add_argument("--limit", type=int, default=None)
+    srp.add_argument("--telegram", action="store_true")
     sr = sub.add_parser("reply")
     sr.add_argument("--frm", default="")
     sr.add_argument("--text", default="")
@@ -542,6 +619,8 @@ def main():
         cmd_whatsapp(cfg, args)
     elif args.cmd == "apply":
         cmd_apply(cfg, args)
+    elif args.cmd == "report":
+        cmd_report(cfg, args)
     elif args.cmd == "reply":
         cmd_reply(cfg, args)
     elif args.cmd == "monitor":

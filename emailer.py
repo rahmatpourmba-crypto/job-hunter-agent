@@ -160,6 +160,94 @@ def _fa_flags(job):
     return parts
 
 
+def _job_type_fa(job):
+    if job.get("remote"):
+        return "دورکاری (Remote)"
+    if job.get("gulf_onsite"):
+        return "حضوری در خاورمیانه/خلیج"
+    if job.get("location"):
+        return "حضوری"
+    return "نامشخص"
+
+
+def _fa_country(location):
+    """ترجمه و تمیزکردن مکان به فارسی (فقط شهر + کشور)."""
+    loc = location or ""
+    if not loc.strip():
+        return "دورکاری"
+    parts = [p.strip() for p in re.split(r"[,\u0600-\u06FF]?\s*,\s*", loc) if p.strip()]
+    # remove noisy segments (duplicated country words, regions)
+    clean = []
+    for p in parts:
+        low = p.lower()
+        if low in ("usa", "united states") or "governorate" in low or "emirate" in low or low in ("uae",):
+            continue
+        clean.append(p)
+    if not clean:
+        clean = parts[:1]
+    out = ", ".join(clean)
+    mapping = [
+        ("United Arab Emirates", "امارات متحده عربی"),
+        ("UAE", "امارات متحده عربی"),
+        ("Abu Dhabi", "ابوظبی"),
+        ("Dubai", "دبی"),
+        ("Saudi Arabia", "عربستان سعودی"),
+        ("Riyadh", "ریاض"),
+        ("Jeddah", "جده"),
+        ("Mecca", "مکه"),
+        ("Basra", "بصره"),
+        ("Erbil", "اربیل"),
+        ("Baghdad", "بغداد"),
+        ("Kurdistan", "کردستان عراق"),
+        ("Sulaymaniyah", "سلیمانیه"),
+        ("Qatar", "قطر"),
+        ("Kuwait", "کویت"),
+        ("Bahrain", "بحرین"),
+        ("Oman", "عمان"),
+        ("Iraq", "عراق"),
+        ("Iran", "ایران"),
+        ("USA", "ایالات متحده آمریکا"),
+        ("United States", "ایالات متحده آمریکا"),
+        ("Germany", "آلمان"),
+        ("Canada", "کانادا"),
+        ("United Kingdom", "انگلستان"),
+        ("UK", "انگلستان"),
+        ("Netherlands", "هلند"),
+        ("Singapore", "سنگاپور"),
+        ("Australia", "استرالیا"),
+        ("Turkey", "ترکیه"),
+        ("Türkiye", "ترکیه"),
+        ("India", "هند"),
+    ]
+    for en, fa in mapping:
+        if en.lower() in out.lower():
+            out = out.replace(en, fa)
+    return out or "دورکاری"
+
+
+def company_profile_fa(job, company_info=None):
+    """گزارش فارسی درباره شغل: نوع کار، مکان، حقوق و مشخصات شرکت."""
+    company = job.get("company") or "شرکت کارفرما"
+    title = job.get("title") or "این موقعیت"
+    location = _fa_country(job.get("location") or "")
+    salary = job.get("salary_str") or "نامشخص"
+    lines = [
+        f"عنوان شغل: {title}",
+        f"نوع کار: {_job_type_fa(job)}",
+        f"مکان: {location}",
+        f"حقوق اعلامی: {salary}",
+    ]
+    if company_info and company_info.get("about"):
+        about = company_info["about"].strip()
+        if about:
+            lines.append(f"درباره {company}: {about}")
+    if job.get("emails"):
+        lines.append("ایمیل‌های شرکت: " + ", ".join(job["emails"]))
+    if job.get("phones"):
+        lines.append("شماره تماس/واتساپ: " + ", ".join(job["phones"]))
+    return "\n".join(lines)
+
+
 def _company_info_fa(job):
     """پاراگراف فارسی درباره شغل و شرکت مقصد."""
     company = job.get("company") or "شرکت کارفرما"

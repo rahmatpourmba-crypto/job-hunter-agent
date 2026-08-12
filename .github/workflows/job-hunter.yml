@@ -42,7 +42,10 @@ jobs:
           python main.py search --profile web3 --top 8
           python main.py enrich --profile hse --limit 8
           python main.py enrich --profile web3 --limit 8
-          python main.py email --send
+          python main.py apply --email --form --profile hse --limit 8
+          python main.py apply --email --form --profile web3 --limit 8
+          python main.py report --profile hse --limit 8 --telegram
+          python main.py report --profile web3 --limit 8 --telegram
 
       - name: Commit state back
         run: |
