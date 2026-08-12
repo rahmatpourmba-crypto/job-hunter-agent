@@ -1265,6 +1265,18 @@
       "company": "Zento Era",
       "source": "linkedin",
       "first_seen": "2026-08-11"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4435188482": {
+      "title": "EHS ENGINEER",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-officer-uae-amzl-whs-at-amazon-4453006534": {
+      "title": "Health & Safety Officer, UAE AMZL WHS",
+      "company": "Amazon",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
@@ -1276,56 +1288,56 @@
       "company": "Business Needs Inc."
     },
     "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Blockchain Developer",
       "company": "Altimetrik"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
       "company": "Coinbase"
     },
     "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Solidity Compiler Frontend Engineer",
       "company": "CertiK"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Senior Software Engineer, Stablecoins",
       "company": "Coinbase"
     },
     "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Launch Legends: Senior DevOps Engineer (Web3)",
       "company": "Launch Legends"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Senior Software Engineer - Blockchain Network",
       "company": "Coinbase"
     },
     "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager::draft": {
-      "date": "2026-08-12 01:53",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Coinbase: Internal Audit IT Manager",
       "company": "Coinbase"
     },
     "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Environmental Health and Safety Officer",
@@ -1360,7 +1372,7 @@
       "company": "EHS Consultants"
     },
     "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Environmental Health Safety Specialist",
@@ -1374,7 +1386,7 @@
       "company": "Wood"
     },
     "https://sa.linkedin.com/jobs/view/manager-occupational-health-and-safety-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4447647578::draft": {
-      "date": "2026-08-11 23:13",
+      "date": "2026-08-12 00:09",
       "via": "draft",
       "to": "manual",
       "title": "Manager Occupational Health and Safety",
@@ -1498,6 +1510,27 @@
       "to": "manual",
       "title": "QHSE Manager",
       "company": "Anton"
+    },
+    "https://jobicy.com/jobs/149957-product-marketing-lead-trade::draft": {
+      "date": "2026-08-12 00:09",
+      "via": "draft",
+      "to": "manual",
+      "title": "Product Marketing Lead - Trade",
+      "company": "Consensys"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-associate-manager::draft": {
+      "date": "2026-08-12 00:09",
+      "via": "draft",
+      "to": "manual",
+      "title": "Coinbase: Internal Audit IT Associate Manager",
+      "company": "Coinbase"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4435188482::draft": {
+      "date": "2026-08-12 00:09",
+      "via": "draft",
+      "to": "manual",
+      "title": "EHS ENGINEER",
+      "company": "Larsen & Toubro"
     }
   },
   "sent": {
