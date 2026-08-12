@@ -169,7 +169,7 @@
     "location": "Al Khobar, Eastern, Saudi Arabia",
     "url": "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371",
     "description": "",
-    "published": "",
+    "published": "2026-08-11",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -250,30 +250,6 @@
     "title_hits": [
       "hse",
       "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS ENGINEER",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258",
-    "description": "",
-    "published": "2026-08-09",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "ehs",
-      "ehs engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -391,6 +367,29 @@
     "score": 3,
     "title_hits": [
       "safety manager"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Specialist",
+    "company": "Worley",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-worley-4453081834",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -562,19 +561,19 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Worley",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-manager-at-worley-4438184985",
+    "title": "Safety Officer",
+    "company": "Nesma United Industries",
+    "location": "Yanbu, Al Madinah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-nesma-united-industries-4447902154",
     "description": "",
-    "published": "2026-07-30",
+    "published": "2026-08-03",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "hse"
+      "safety officer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
