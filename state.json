@@ -1385,6 +1385,42 @@
       "company": "Toptal",
       "source": "weworkremotely",
       "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-hse-engineer-at-kn-international-4450014877": {
+      "title": "Sr. HSE Engineer",
+      "company": "KN International",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-penspen-4427325786": {
+      "title": "HSE Manager",
+      "company": "Penspen",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-advisor-uae-at-enermech-4447365049": {
+      "title": "HSE Advisor - UAE",
+      "company": "EnerMech",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/job-title-specialist-hse-projects-engineer-%E2%80%93-offshore-water-injection-project-at-kbr-inc-4449005807": {
+      "title": "Job Title: Specialist HSE (Projects) Engineer – Offshore Water Injection Project",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://jobicy.com/jobs/150537-staff-security-engineer-customer-support-and-integrity": {
+      "title": "Staff Security Engineer, Customer Support and Integrity",
+      "company": "DoorDash",
+      "source": "jobicy",
+      "first_seen": "2026-08-12"
+    },
+    "https://jobicy.com/jobs/150553-senior-manager-customer-success-engineering": {
+      "title": "Senior Manager, Customer Success Engineering",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
