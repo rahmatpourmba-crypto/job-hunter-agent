@@ -26,34 +26,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Health And Safety Officer",
-    "company": "Khidmah",
-    "location": "Abqaiq, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-officer-at-khidmah-4439830451",
-    "description": "",
-    "published": "2026-07-14",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 9,
-    "title_hits": [
-      "safety officer",
-      "health and safety",
-      "health and safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "info@khidmah.com"
-    ],
-    "phones": [],
-    "emails_source": "khidmah.com"
-  },
-  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -137,12 +109,69 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "PrimeGate for Communications and IT",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602",
+    "title": "HSE Engineer - Chinese Speaker",
+    "company": "Wood",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303",
     "description": "",
-    "published": "2026-08-06",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@wood.com"
+    ],
+    "phones": [],
+    "emails_source": "wood.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Parsons Corporation",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "cybersecurity@parsons.com"
+    ],
+    "phones": [
+      "+17039888500"
+    ],
+    "emails_source": "parsons.com",
+    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
+  },
+  {
+    "source": "linkedin",
+    "title": "Sr. HSE Engineer",
+    "company": "KN International",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/sr-hse-engineer-at-kn-international-4450014877",
+    "description": "",
+    "published": "2026-08-07",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -161,12 +190,12 @@
   },
   {
     "source": "linkedin",
-    "title": "Senior Environmental Engineer - HSE Manager",
+    "title": "HSE Engineer",
     "company": "Penspen",
-    "location": "Khafji, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
     "description": "",
-    "published": "2026-07-24",
+    "published": "2026-07-23",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -174,7 +203,7 @@
     "score": 6,
     "title_hits": [
       "hse",
-      "environmental engineer"
+      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -185,33 +214,6 @@
     ],
     "phones": [],
     "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "Environmental Health & Safety Engineer(3 Positions)",
-    "company": "EHS Consultants",
-    "location": "United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/environmental-health-safety-engineer-3-positions-at-ehs-consultants-4445821868",
-    "description": "",
-    "published": "2026-08-02",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety engineer",
-      "environmental health"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "info@ehsconsultants.com"
-    ],
-    "phones": [],
-    "emails_source": "ehsconsultants.com"
   },
   {
     "source": "linkedin",
@@ -239,68 +241,20 @@
   },
   {
     "source": "linkedin",
-    "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
-    "company": "Abdullah Al-Othaim Markets",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467",
+    "title": "Health and Safety Manager (Saudi National)",
+    "company": "Mace",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-manager-saudi-national-at-mace-4437772041",
     "description": "",
-    "published": "",
+    "published": "2026-07-28",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "occupational health",
-      "safety specialist"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Manager Occupational Health and Safety",
-    "company": "Riyadh Air | طيران الرياض",
-    "location": "Riyadh Region",
-    "url": "https://sa.linkedin.com/jobs/view/manager-occupational-health-and-safety-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4447647578",
-    "description": "",
-    "published": "2026-08-02",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "occupational health",
+      "safety manager",
       "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
-    "description": "",
-    "published": "2026-07-23",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -383,10 +337,10 @@
   },
   {
     "source": "linkedin",
-    "title": "Head of Health, Safety and Environment (HSE)",
+    "title": "Head of Health, Safety & Environment (HSE)",
     "company": "Hiwa Rauf for Investment and Development",
-    "location": "Sulaymaniyah, Diyala Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164",
+    "location": "Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558",
     "description": "",
     "published": "2026-08-08",
     "remote": false,
@@ -406,10 +360,10 @@
   },
   {
     "source": "linkedin",
-    "title": "Head of Health, Safety & Environment (HSE)",
+    "title": "Head of Health, Safety and Environment (HSE)",
     "company": "Hiwa Rauf for Investment and Development",
-    "location": "Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558",
+    "location": "Sulaymaniyah, Diyala Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164",
     "description": "",
     "published": "2026-08-08",
     "remote": false,
@@ -580,6 +534,52 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Environment, Health & Safety Officer",
+    "company": "Shangri-La Group",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/environment-health-safety-officer-at-shangri-la-group-4447299636",
+    "description": "",
+    "published": "2026-07-31",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Officer",
+    "company": "Ali & Sons Holding LLC",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-ali-sons-holding-llc-4438701844",
+    "description": "",
+    "published": "2026-07-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,

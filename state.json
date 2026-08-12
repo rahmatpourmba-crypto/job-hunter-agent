@@ -1493,6 +1493,24 @@
       "company": "Ondo Finance",
       "source": "linkedin",
       "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200": {
+      "title": "HSE Engineer",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4453607207": {
+      "title": "HSE Manager",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/solidity-protocol-engineer-at-nodveta-4450184774": {
+      "title": "Solidity Protocol Engineer",
+      "company": "Nodveta",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
@@ -1789,6 +1807,20 @@
       "to": "https://www.consensys.com/contact-us",
       "title": "Product Marketing Lead - Trade",
       "company": "Consensys"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200::email": {
+      "date": "2026-08-12 23:39",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Engineer",
+      "company": "Parsons Corporation"
+    },
+    "https://www.linkedin.com/jobs/view/solidity-protocol-engineer-at-nodveta-4450184774::email": {
+      "date": "2026-08-12 23:39",
+      "via": "email",
+      "to": "hr@nodveta.com",
+      "title": "Solidity Protocol Engineer",
+      "company": "Nodveta"
     }
   },
   "sent": {
@@ -1886,6 +1918,16 @@
       "kind": "contact_form",
       "to": "consensys.com",
       "date": "2026-08-12 19:41"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-08-12 23:39"
+    },
+    "https://www.linkedin.com/jobs/view/solidity-protocol-engineer-at-nodveta-4450184774": {
+      "kind": "email",
+      "to": "hr@nodveta.com",
+      "date": "2026-08-12 23:39"
     }
   },
   "replies": []
