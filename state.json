@@ -1277,6 +1277,42 @@
       "company": "XB4 - CPAs & Advisors (Dubai Branch",
       "source": "gulftalent_uae",
       "first_seen": "2026-08-12"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-global-lubricant-industry-llc-4450118546": {
+      "title": "Health Safety Environment Officer",
+      "company": "Global Lubricant Industry LLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-staff-cyber-security-engineer-riyadh-ksa-at-qualcomm-4438320203": {
+      "title": "Senior Staff Cyber Security Engineer - Riyadh, KSA",
+      "company": "Qualcomm",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/ot-cybersecurity-design-engineer-great-opportunity-for-saudi-nationals-at-siemens-4412602079": {
+      "title": "OT Cybersecurity Design Engineer - Great Opportunity for Saudi Nationals",
+      "company": "Siemens",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/ot-security-senior-consultant-at-hays-4448748545": {
+      "title": "OT Security Senior Consultant",
+      "company": "Hays",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/cyber-security-consultant-saudi-nationals-only-at-honeywell-technologies-4444708113": {
+      "title": "Cyber Security Consultant- Saudi Nationals Only",
+      "company": "Honeywell Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://iq.linkedin.com/jobs/view/project-manager-at-elite-talent-4440963241": {
+      "title": "Project Manager",
+      "company": "Elite Talent",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
@@ -1531,6 +1567,13 @@
       "to": "privacy@markets.com",
       "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
       "company": "Abdullah Al-Othaim Markets"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform::contact_form": {
+      "date": "2026-08-12 09:17",
+      "via": "contact_form",
+      "to": "https://www.coinbase.com",
+      "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
+      "company": "Coinbase"
     }
   },
   "sent": {
@@ -1598,6 +1641,11 @@
       "kind": "email",
       "to": "privacy@markets.com",
       "date": "2026-08-12 08:12"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-blockchain-platform": {
+      "kind": "contact_form",
+      "to": "coinbase.com",
+      "date": "2026-08-12 09:17"
     }
   },
   "replies": []
