@@ -1463,6 +1463,18 @@
       "company": "FNRCO",
       "source": "linkedin",
       "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559": {
+      "title": "HSE Engineer - Saudi",
+      "company": "TRACTEBEL",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-saudi-national-at-wsp-in-the-middle-east-4410642215": {
+      "title": "Safety Engineer (Saudi National)",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-08-12"
     }
   },
   "applied": {
@@ -1752,6 +1764,13 @@
       "to": "https://www.coinbase.com",
       "title": "Coinbase: Internal Audit IT Manager",
       "company": "Coinbase"
+    },
+    "https://jobicy.com/jobs/149957-product-marketing-lead-trade::contact_form": {
+      "date": "2026-08-12 19:41",
+      "via": "contact_form",
+      "to": "https://www.consensys.com/contact-us",
+      "title": "Product Marketing Lead - Trade",
+      "company": "Consensys"
     }
   },
   "sent": {
@@ -1844,6 +1863,11 @@
       "kind": "contact_form",
       "to": "coinbase.com",
       "date": "2026-08-12 17:32"
+    },
+    "https://jobicy.com/jobs/149957-product-marketing-lead-trade": {
+      "kind": "contact_form",
+      "to": "consensys.com",
+      "date": "2026-08-12 19:41"
     }
   },
   "replies": []
