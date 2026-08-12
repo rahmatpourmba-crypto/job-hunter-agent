@@ -65,6 +65,9 @@ KNOWN_DOMAINS = {
     "rotana": "rotanatimes.com",
     "anton": "anton-oil.com",
     "sardar group": "sardargroup.com",
+    "abdullah al-othaim": "alothaimgroup.com",
+    "al-othaim": "alothaimgroup.com",
+    "al othaim markets": "alothaimgroup.com",
     "jobicy": "jobicy.com",
     "launch legends": "launchlegends.com",
 }
@@ -162,7 +165,7 @@ def _about_snippet(text, limit=220):
     sentences = re.split(r"(?<=[.!?])\s+", t)
     for s in sentences:
         s = s.strip()
-        if 60 < len(s) < 400 and s[0].isupper():
+        if 60 < len(s) < 400 and s[0].isupper() and not re.search(r"cookie|privacy|consent|subscribe|newsletter", s, re.I):
             return s[:limit]
     if t:
         return t[:limit]

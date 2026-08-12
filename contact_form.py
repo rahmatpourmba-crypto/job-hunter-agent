@@ -232,6 +232,8 @@ def find_and_submit(domain, job, candidate, letter, company, resume_pdf=None, ti
                         r = requests.post(action, data=data, files=files or None, headers=post_headers, timeout=timeout)
                 else:
                     r = requests.post(action, data=data, headers=post_headers, timeout=timeout)
+            if r.status_code >= 400:
+                return False, f"فرم رد شد (HTTP {r.status_code}) -> {action}", url
             return True, f"فرم ارسال شد (HTTP {r.status_code}) -> {action}", url
         except Exception as e:
             return False, f"خطا در ارسال فرم: {e}", url

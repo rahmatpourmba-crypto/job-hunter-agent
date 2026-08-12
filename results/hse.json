@@ -207,13 +207,7 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "privacy@markets.com",
-      "support@markets.com"
-    ],
-    "phones": [],
-    "emails_source": "markets.com",
-    "about": "If you’re happy with the use of cookies by markets.com, click accept."
+    "phones": []
   },
   {
     "source": "linkedin",
