@@ -1,38 +1,36 @@
 [
   {
     "source": "linkedin",
-    "title": "Blockchain Developer",
-    "company": "Altimetrik",
-    "location": "New York City Metropolitan Area",
-    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488",
-    "description": "Altimetrik delivers outcomes for our clients by rapidly enabling digital business & culture and infuse speed and agility into enterprise technology and connected solutions. We are practitioners of end-to-end business and technology transformation. We tap into an organization’s technology, people, and assets to fuel fast, meaningful results for global enterprise customers across financial services, payments, retail, automotive, healthcare, manufacturing, and other industries. Founded in 2012 and with offices across the globe, Altimetrik makes industries, leaders and Fortune 500 companies more agile, empowered and successful. Altimetrik helps get companies get “unstuck”. We’re a technology company that lives organizations a process and context to solve problems in unconventional ways. We’re a catalyst for organization’s talent and technology, helping teams push boundaries and challenge traditional approaches. We make delivery more bold, efficient, collaborative and even more enjoyable. Job Description Role: Blockchain Developer Location: NYC/NJC Position Type: Fulltime Qualifications / Experience Bachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plus 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development, including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices, containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools",
-    "published": "2026-07-28",
-    "remote": true,
+    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
+    "company": "1inch",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
+    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
+    "published": "2026-07-31",
+    "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 15,
+    "score": 14,
     "title_hits": [
+      "smart contract",
       "blockchain"
     ],
     "desc_hits": [
       "solidity",
-      "smart contract",
       "web3",
-      "polygon",
+      "defi",
+      "ethereum",
       "crypto",
-      "token",
+      "audit",
       "security",
-      "hardhat"
+      "evm"
     ],
-    "gulf_onsite": false,
+    "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
-    "phones": [
-      "+12482812500"
-    ],
-    "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
+    "phones": []
   },
   {
     "source": "weworkremotely",
@@ -93,6 +91,48 @@
     "salary_str": "$140,000-$597,000",
     "emails": [],
     "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Blockchain Architect and Developer",
+    "company": "Tech Observer",
+    "location": "Jersey City, NJ",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-architect-and-developer-at-tech-observer-4450801103",
+    "description": "Job Title: Lead Blockchain Architect and Developer Location: Hybrid/Jersey City, NJ (2 DAYS A WEEK) Duration: FTE Job Description: Primary Responsibilities: • Define and drive technical architecture and strategy for digital asset platform components across smart contracts, integrations, and infrastructure • Lead design reviews, establish coding standards, and ensure architectural consistency across the digital asset technology stack • Mentor and develop team members across blockchain engineering, QA, and platform development disciplines • Serve as escalation point for complex technical issues spanning smart contracts, blockchain integrations, and platform services • Collaborate with enterprise architecture, security, and infrastructure teams to ensure alignment with RBC standards • Research, evaluate and recommend blockchain protocols, consensus mechanisms, custody solutions, and related technologies • Interface directly with business leaders, product managers, and stakeholders to translate business requirements into technical roadmaps • Lead technical due diligence for vendor selections, protocol evaluations, and technology partnerships • Establish and enforce security practices including threat modeling, code review processes, and secure development lifecycle • Drive DevOps maturity, CI/CD pipeline optimization, and operational excellence across environments • Participate in cross-functional working groups, architecture review boards, and regulatory/compliance discussions • Own technical planning, sprint planning coordination, and delivery forecasting in partnership with Project Managers Key Relationships: • Engineering team members across smart contracts, blockchain integration, QA, and platform development • Enterprise Architecture, Security Architecture, and Infrastructure teams • Product Managers, Business Analysts, and Executive Stakeholders • Production Support, Site Reliability Engineering (SRE), and Operations teams • Vendor technical teams and blockchain protocol foundations • Regulatory, Compliance, and Legal teams • PMO, Finance, and Budgetary teams • External consultants and technology partners Required Education/Experience: • University degree in Computer Science, Engineering or equivalent work experience • 8+ years software engineering experience with 3+ years in technical leadership roles • Deep technical expertise across distributed systems, blockchain technologies, and platform engineering • Proven track record leading complex technical initiatives from conception through production Preferred Education/Experience: • Degree in Computer Science or related field • Extensive experience with blockchain protocols (Ethereum, Canton, Solana, or similar) • Experience in financial services, capital markets, or regulated environments • Track record building and scaling engineering teams • Familiarity with regulatory frameworks (MiFID II, EMIR, CFTC, SEC requirements for digital assets) Technical Competencies: • Blockchain architecture patterns and protocol design • Smart contract platforms and security (Solidity, Rust, Move, DAML, etc.) • Distributed ledger technologies and consensus mechanisms • Digital asset custody solutions and key management systems • API design and event-driven systems • Security best practices including cryptography, secure coding, and threat modeling • Performance optimization and scalability patterns Regulatory technology considerations for digital assets BLOCKCHAIN DEVELOPER Primary Responsibilities: • Design, develop, test, and maintain integration services connecting blockchain networks with RBC's digital asset platform • Build and optimize blockchain node infrastructure, RPC connections, and network monitoring solutions • Develop middleware APIs and services that abstract blockchain complexity for platform consumers • Implement transaction construction, signing, submission, and confirmation tracking mechanisms • Create robust error handling, retry logic, and circuit breaker patterns for blockchain connectivity • Build data indexing and event streaming pipelines from blockchain networks to enterprise data stores • Research and evaluate blockchain protocols, node implementations, and infrastructure providers • Collaborate with smart contract engineers to understand on-chain requirements and design appropriate integration patterns • Work with security teams to implement secure key management, transaction signing, and access control • Implement monitoring, alerting, and observability solutions for blockchain integrations and node health • Translate business and functional requirements into technical specifications for blockchain connectivity • Document integration architectures, API specifications, and operational runbooks • Mentor team members on blockchain integration patterns, node operations, and troubleshooting techniques • Conduct code reviews and ensure adherence to security and quality standards • Follow DevOps practices including automated testing, continuous integration, and infrastructure as code • Collaborate on resolving production incidents related to blockchain connectivity or network issues • Work with Project Managers and stakeholders on integration roadmaps and delivery timelines Key Relationships: • Smart contract engineers and platform developers within the digital asset team • Infrastructure, Cloud Engineering, and Site Reliability teams • Security Engineering and Cybersecurity teams • Project Managers, Business Analysts, and QA engineers • Production Support and Application Support teams • Blockchain protocol teams and node infrastructure providers • Offshore and remote development teams • Technology working groups and architecture forums Required Education/Experience: • University degree in Computer Science, Engineering or equivalent work experience • Strong software engineering background with experience in distributed systems • Experience integrating with external APIs, protocols, or third-party systems • Solid understanding of n",
+    "published": "",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 11,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "defi",
+      "ethereum",
+      "crypto",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "bill.mooney@politickernj.com",
+      "charles.bittermann@politickernj.com",
+      "editor@politickernj.com",
+      "editorial@observer.com",
+      "mark.bonamo@politickernj.com",
+      "matt.arco@politickernj.com",
+      "max.pizarro@politickernj.com",
+      "minhaj.hassan@politickernj.com",
+      "paul@politickernj.com"
+    ],
+    "phones": [],
+    "emails_source": "observer.com",
+    "about": "Inside the $129B Reclusive Family Behind the Candy Empire](https://observer.com/2026/08/mars-family-five-generation-food-company/) Five generations after Frank C."
   },
   {
     "source": "weworkremotely",
@@ -625,29 +665,6 @@
     "emails": [
       "recruiting@pairteam.com"
     ],
-    "phones": []
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Twilio: Senior Security Engineer, Incident Response",
-    "company": "Twilio",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
-    "description": "Headquarters: Remote - US Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! . See yourself at Twilio Join the team as Twilio’s next Senior Security Engineer, Incident Response About the job The Security Incident Response Team (SIRT) is looking for a Senior Security Engineer who is passionate about solving Twilio’s mission of security and reliability by working across the organization to lead the technical response to security events and incidents across Twilio’s global infrastructure, services and applications by effectively conducting triage, containment, remediation and driving post-incident betterments. You will work within a team that partners with R&D Engineering and R&D Business teams to develop scalable processes and technical solutions. You will be a valued member of a team of deeply technical Security Engineers to focus on creating bespoke and standard Security response processes, enhancing our capabilities for threat mitigation and incident response, and then automating as much as you possibly can (and more)! You will help us to grow our global, scaled team and program. Responsibilities In this role, you’ll: Be an Owner : Lead and support the response to all security events and incidents across Twilio’s complex global infrastructure, services and applications. Write It Down : Be responsible for documentation of incidents and projects you work on and craft best practices as runbooks and standard operating procedures to share knowledge across teams. Wear the customer’s shoes : Work cross-collaboratively to understand and help solve challenges related to a broad spectrum of threat actors and activity. Ruthlessly Prioritize: Work to improve Twilio’s security and reliability posture by driving identified betterments from security events and incidents. Don’t Settle : Rapidly acquire new technical skills and knowledge in a fast-paced, highly disruptive industry environment. Draw the Owl : Own the security incident lifecycle, respond to incidents and participate in on-call rotation and participate in RCAs for security incidents. Empower Others : Build, cultivate, and maintain positive relationships with internal customers to identify and facilitate solutions to increase the impact of the team’s work. Be Inclusive : Provide mentorship, support, and care for the team in a way that enables long-term career development, happiness, and success at scale. Qualifications Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table! *Required: Proven experience: 5+ years of security incident response in a production-cloud environment Subject-matter expert on security issues and technologies Ability to utilize AI for comprehensive, complex security incident response activities delivering high fidelity detections Advanced knowledge of service-oriented architectures, as well as experience with security tools and technologies fit for a cloud environment Experience working across a technology stack on difficult security challenges and initiatives Experience with SIEM platforms and the ability to extend their functionality Experience with SOAR tools and automating manual security processes Experience in either AWS, GCP, or other large cloud platform Excellent written and verbal communication skills Ability to influence and build effective working relationships with every level of the organization. Desired: AI Model Security & Posture Management: Support Implementation of controls and safeguards to prevent AI vulnerabilities, such as prompt injections, model evasion, and data poisoning AI-Driven Threat Response: Utilize GenAI and LLM-based security use cases to rapidly interpret alerts, reduce false positives, and contextualize threat data Artifact & Evidence Triage: Collects intrusion artifacts and forensically sound images to analyze malware, trojans, and source code. Threat Intelligence Integration: Monitors external vendor data and threat intelligence to analyze trends and proactively defend against emerging risks Location This role will be remote, but is not eligible to be hired in CA, CT, NJ, NY, PA, WA. Travel We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings. What We Offer Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location. Compensation *Please note this role is open to candidates outside of California, Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Vermont, Washington D.C., and Washington State. The information below is provided for candidates hired in those locations only. The estimated pay ranges for this role are as follows: Based in Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, Vermont or Washington D.C. : $141,520.00 - $176,900.00. Based in New York, New Jersey, Washington State, or California (outside of the San Francisco Bay area): $149,840.00 - $187,300.00 Based in the San Francisco Bay area, California: $166,400.00 - $208,000.00. This role may be eligible to participate in Twilio’s equity plan and corporate bonus plan. All roles are generally eligible for the following benefits: health care insurance, 401(k) retirement account, paid sick time, paid personal time off, paid parental leave. The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. Application deadline information Applications for this role are intended to be accepted until 30th Aug, but may change based on business needs. Twilio thinks big. Do you? We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call Twilio Magic . Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts. So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, please consider other open positions. Twilio is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law. To apply: https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
-    "published": "Thu, 23 Jul 2026",
-    "remote": true,
-    "currency": null,
-    "salary_min": 141520,
-    "salary_max": 208000,
-    "score": 7,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$141,520-$208,000",
-    "emails": [],
     "phones": []
   }
 ]
