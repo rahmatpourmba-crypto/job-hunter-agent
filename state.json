@@ -1997,6 +1997,102 @@
       "company": "WSP in the Middle East",
       "source": "linkedin",
       "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-wsp-in-the-middle-east-4443295784": {
+      "title": "HSE Engineer (Saudi national)",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-specialist-at-nov-4431213703": {
+      "title": "HSE Specialist",
+      "company": "NOV",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-ucc-holding-4434966986": {
+      "title": "Health Safety Environment Engineer",
+      "company": "UCC Holding",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/150537-staff-security-engineer-customer-support-and-integrity": {
+      "title": "Staff Security Engineer, Customer Support and Integrity",
+      "company": "DoorDash",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/146199-senior-security-engineer": {
+      "title": "Senior Security Engineer",
+      "company": "Pair Team",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/146055-identity-pam-security-engineer": {
+      "title": "Identity & PAM Security Engineer",
+      "company": "Sporty Group",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/145920-solution-engineer": {
+      "title": "Solution Engineer",
+      "company": "Sigma Computing",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform": {
+      "title": "Toptal: Senior Software Engineer for AI-Powered Banking Platform",
+      "company": "Toptal",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/150553-senior-manager-customer-success-engineering": {
+      "title": "Senior Manager, Customer Success Engineering",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/145940-genai-engineer": {
+      "title": "GenAI Engineer",
+      "company": "NTT DATA",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company": {
+      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
+      "company": "Truelogic",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/forensic-accountant-%E2%80%93-cryptocurrency-investigations-senior-associate-at-forensic-risk-alliance-4449869512": {
+      "title": "Forensic Accountant – Cryptocurrency Investigations, Senior Associate",
+      "company": "Forensic Risk Alliance",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/staff-security-architect-at-kraken-4415966237": {
+      "title": "Staff Security Architect",
+      "company": "Kraken",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/ai-security-lead-at-confidential-4445738096": {
+      "title": "AI Security Lead",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/crypto-trader-at-bitcoin-suisse-4437239815": {
+      "title": "Crypto Trader",
+      "company": "Bitcoin Suisse",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/wealth-product-risk-control-crypto-at-bybit-4447663031": {
+      "title": "Wealth Product Risk Control- Crypto",
+      "company": "Bybit",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
     }
   },
   "applied": {
@@ -2384,6 +2480,13 @@
       "to": "recruitment@sardargroup.iq",
       "title": "Security Advisor",
       "company": "Sardar Group"
+    },
+    "https://jobicy.com/jobs/149957-product-marketing-lead-trade::contact_form": {
+      "date": "2026-08-13 15:58",
+      "via": "contact_form",
+      "to": "https://www.consensys.com/contact-us",
+      "title": "Product Marketing Lead - Trade",
+      "company": "Consensys"
     }
   },
   "sent": {
@@ -2546,6 +2649,11 @@
       "kind": "email",
       "to": "recruitment@sardargroup.iq",
       "date": "2026-08-13 18:59"
+    },
+    "https://jobicy.com/jobs/149957-product-marketing-lead-trade": {
+      "kind": "contact_form",
+      "to": "consensys.com",
+      "date": "2026-08-13 15:58"
     }
   },
   "replies": []
