@@ -1667,6 +1667,36 @@
       "company": "Bitcoin Suisse",
       "source": "linkedin",
       "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-batterjee-medical-college-4452968825": {
+      "title": "Safety Officer",
+      "company": "Batterjee Medical College",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/146199-senior-security-engineer": {
+      "title": "Senior Security Engineer",
+      "company": "Pair Team",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/146055-identity-pam-security-engineer": {
+      "title": "Identity & PAM Security Engineer",
+      "company": "Sporty Group",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/145920-solution-engineer": {
+      "title": "Solution Engineer",
+      "company": "Sigma Computing",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/145940-genai-engineer": {
+      "title": "GenAI Engineer",
+      "company": "NTT DATA",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
     }
   },
   "applied": {

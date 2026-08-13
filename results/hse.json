@@ -1,31 +1,5 @@
 [
   {
-    "source": "linkedin",
-    "title": "Cluster Environmental Health and Safety Officer",
-    "company": "Rotana Hotels",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/cluster-environmental-health-and-safety-officer-at-rotana-hotels-4437272282",
-    "description": "",
-    "published": "2026-08-03",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "safety officer",
-      "health and safety",
-      "environmental health",
-      "health and safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -232,32 +206,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Head of Health, Safety & Environment (HSE)",
-    "company": "Hiwa Rauf for Investment and Development",
-    "location": "Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558",
-    "description": "Hiwa Rauf for Investment and Development (HRID) is seeking a highly experienced Head of Health, Safety & Environment (HSE) to lead and oversee all HSE activities across the organization. Reporting directly to the Chief Operating Officer (COO), the successful candidate will be responsible for developing and implementing HSE strategies, ensuring regulatory compliance, driving risk management initiatives, strengthening environmental stewardship, and promoting a proactive safety culture throughout all construction projects and operational facilities. The ideal candidate will possess extensive experience in large-scale construction and real estate development projects, with a proven track record of leading HSE teams and implementing international HSE management systems. Key Requirements: • Bachelor's Degree in Engineering or an HSE-related discipline • NEBOSH International Diploma (Level 6) or equivalent (Required) • Professional certifications such as CMIOSH, CSP, CRSP, or equivalent are highly desirable • Minimum 15 years of HSE experience • Minimum 5 years in executive or senior leadership positions • Extensive experience within construction, infrastructure, or real estate development sectors • Strong knowledge of ISO 45001, ISO 14001, risk management, incident investigation, and contractor management • Excellent English communication and reporting skills HRID offers an opportunity to join a leading investment and development company and play a key role in shaping a world-class HSE culture across its growing portfolio of projects and operations.",
-    "published": "2026-08-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 5,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [
-      "iso 45001",
-      "incident investigation"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Security Advisor",
     "company": "Sardar Group",
     "location": "Erbil, Erbil Governorate, Iraq",
@@ -287,19 +235,40 @@
     "company": "Hiwa Rauf for Investment and Development",
     "location": "Sulaymaniyah, Diyala Governorate, Iraq",
     "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164",
-    "description": "The Head of Health, Safety & Environment (HSE) provides strategic leadership for all Health, Safety, Environmental, Occupational Health across Hiwa Rauf for Investment and Development. The position is responsible for developing, implementing, and continuously improving the company's HSE Management System to meet the highest international standards while ensuring full compliance with international regulations, industry best practices. The Head of HSE serves as the organization's principal advisor on HSE matters to the Chief Operating Officer (COO), ensuring that health, safety, environmental protection, and sustainability remain integral components of all business operations. This role is expected to transform and continuously develop the HSE Department into a high-performing function that supports operational excellence, protects people and the environment, and contributes to the successful delivery of world-class construction and real estate developments. Read more in here Sulaymaniyah, Iraq Deadline: 2026-09-08",
+    "description": "",
     "published": "2026-08-08",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 4,
+    "score": 3,
     "title_hits": [
       "hse"
     ],
-    "desc_hits": [
-      "occupational health"
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Head of Health, Safety & Environment (HSE)",
+    "company": "Hiwa Rauf for Investment and Development",
+    "location": "Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558",
+    "description": "",
+    "published": "2026-08-08",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
+    "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
@@ -574,6 +543,29 @@
     "score": 3,
     "title_hits": [
       "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety Engineer",
+    "company": "Saipem",
+    "location": "Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-engineer-at-saipem-4443336692",
+    "description": "",
+    "published": "2026-08-11",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
