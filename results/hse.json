@@ -29,6 +29,114 @@
   },
   {
     "source": "linkedin",
+    "title": "HSE Engineer - Chinese Speaker",
+    "company": "Wood",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@wood.com"
+    ],
+    "phones": [],
+    "emails_source": "wood.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Parsons Corporation",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "cybersecurity@parsons.com"
+    ],
+    "phones": [
+      "+17039888500"
+    ],
+    "emails_source": "parsons.com",
+    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
+    "description": "",
+    "published": "2026-07-23",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety / EHS Engineer – Substation – UAE",
+    "company": "Hudson IT and Manpower",
+    "location": "Ras Al Khaimah, Ras al-Khaimah, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/safety-ehs-engineer-%E2%80%93-substation-%E2%80%93-uae-at-hudson-it-and-manpower-4450696648",
+    "description": "",
+    "published": "2026-08-07",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "ehs engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Environmental Health Safety Specialist",
     "company": "Blue Hat HR Services",
     "location": "Al Khobar, Eastern, Saudi Arabia",
@@ -101,12 +209,12 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
+    "title": "Sr. HSE Engineer | alfanar Electric",
+    "company": "alfanar",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4443145652",
     "description": "",
-    "published": "2026-07-23",
+    "published": "2026-07-22",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -120,11 +228,32 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer - Saudi",
+    "company": "TRACTEBEL",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559",
+    "description": "",
+    "published": "2026-07-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
     ],
-    "phones": [],
-    "emails_source": "penspen.com"
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -147,20 +276,17 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "infodesk@larsentoubro.com"
-    ],
-    "phones": [],
-    "emails_source": "larsentoubro.com"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer - Saudi",
-    "company": "TRACTEBEL",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559",
+    "title": "HSE Engineer (Saudi national)",
+    "company": "WSP in the Middle East",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-wsp-in-the-middle-east-4443295784",
     "description": "",
-    "published": "2026-07-16",
+    "published": "2026-07-28",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -196,6 +322,29 @@
     "desc_hits": [
       "risk assessment"
     ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Head of Health, Safety and Environment (HSE)",
+    "company": "Hiwa Rauf for Investment and Development",
+    "location": "Sulaymaniyah, Diyala Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164",
+    "description": "",
+    "published": "2026-08-08",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
@@ -250,58 +399,12 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Specialist",
-    "company": "Worley",
+    "title": "HSE Manager",
+    "company": "Parsons Corporation",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-worley-4453081834",
-    "description": "",
-    "published": "2026-08-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Office, Site",
-    "company": "KBR, Inc.",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-office-site-at-kbr-inc-4454071396",
+    "url": "https://ae.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4453607207",
     "description": "",
     "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Specialist",
-    "company": "Wood",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-wood-4450233139",
-    "description": "",
-    "published": "2026-08-06",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -342,35 +445,12 @@
   },
   {
     "source": "linkedin",
-    "title": "Manager-HSE",
-    "company": "Penspen",
+    "title": "HSEW Manager",
+    "company": "AtkinsRéalis",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/manager-hse-at-penspen-4411574523",
+    "url": "https://ae.linkedin.com/jobs/view/hsew-manager-at-atkinsr%C3%A9alis-4454027088",
     "description": "",
-    "published": "2026-08-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Worley",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-manager-at-worley-4438184985",
-    "description": "",
-    "published": "2026-07-30",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -411,10 +491,10 @@
   },
   {
     "source": "linkedin",
-    "title": "Analyst HSE & BCM",
-    "company": "Tabreed",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/analyst-hse-bcm-at-tabreed-4449851247",
+    "title": "HSE Officer | Trakhees License holder",
+    "company": "ABU ALNAGA CONTRACTING",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-officer-trakhees-license-holder-at-abu-alnaga-contracting-4452402372",
     "description": "",
     "published": "2026-08-11",
     "remote": false,
@@ -493,75 +573,6 @@
     "score": 3,
     "title_hits": [
       "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Safety Engineer",
-    "company": "Saipem",
-    "location": "Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-engineer-at-saipem-4443336692",
-    "description": "",
-    "published": "2026-08-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health Safety Environment Officer",
-    "company": "Seara International",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-seara-international-4449513310",
-    "description": "",
-    "published": "2026-08-09",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health Safety Environment Supervisor",
-    "company": "KSA.",
-    "location": "Ar Rass, Al Qasim, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-supervisor-4445020947",
-    "description": "",
-    "published": "2026-07-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
