@@ -29,33 +29,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Audit HSE Engineer",
-    "company": "Convergint",
-    "location": "Basra, Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754",
-    "description": "",
-    "published": "2026-08-04",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "accommodation.apply@convergint.com"
-    ],
-    "phones": [],
-    "emails_source": "convergint.com"
-  },
-  {
-    "source": "linkedin",
     "title": "Environmental Health Safety Specialist",
     "company": "Blue Hat HR Services",
     "location": "Al Khobar, Eastern, Saudi Arabia",
@@ -155,54 +128,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Sr. HSE Engineer | alfanar Electric",
-    "company": "alfanar",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4443145652",
-    "description": "",
-    "published": "2026-07-22",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer - Saudi",
-    "company": "TRACTEBEL",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559",
-    "description": "",
-    "published": "2026-07-16",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "EHS ENGINEER",
     "company": "Larsen & Toubro",
     "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -222,17 +147,20 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "infodesk@larsentoubro.com"
+    ],
+    "phones": [],
+    "emails_source": "larsentoubro.com"
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer (Saudi national)",
-    "company": "WSP in the Middle East",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-wsp-in-the-middle-east-4443295784",
+    "title": "HSE Engineer - Saudi",
+    "company": "TRACTEBEL",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559",
     "description": "",
-    "published": "2026-07-28",
+    "published": "2026-07-16",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -565,6 +493,75 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety Officer",
+    "company": "KBR, Inc.",
+    "location": "Rabigh, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-kbr-inc-4445645989",
+    "description": "",
+    "published": "2026-07-27",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety Engineer",
+    "company": "Saipem",
+    "location": "Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-engineer-at-saipem-4443336692",
+    "description": "",
+    "published": "2026-08-11",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Officer",
+    "company": "Seara International",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-seara-international-4449513310",
+    "description": "",
+    "published": "2026-08-09",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
