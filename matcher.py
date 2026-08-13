@@ -119,7 +119,10 @@ def _extract_emails(desc):
 def rank(jobs, profile, cfg):
     search = cfg["search"]
     scored = []
+    strict = profile["config"].get("id") == "krd"
     for j in jobs:
+        if strict and not _krd_relevant(j):
+            continue
         info = score_job(
             j,
             profile["config"]["keywords"],
@@ -135,3 +138,35 @@ def rank(jobs, profile, cfg):
         scored.append({**j, **info})
     scored.sort(key=lambda x: (-x["score"], 0 if x["remote"] else (1 if x["gulf_onsite"] else 2), -(x.get("salary_min") or 0)))
     return scored
+
+
+# Strict filter for the Kurdistan oil & gas profile (id="krd"): keep only
+# real oil/gas/refinery roles or jobs physically located in Kurdistan/Iraq.
+KRD_TITLE_RE = re.compile(
+    r"oil|gas|refinery|petrochemical|drilling|wellsite|well site|rig|upstream|downstream|"
+    r"plant|process|hse|ehs|safety|health|hazop|maintenance|field service|production|"
+    r"pipeline|ncr|dno|krmg", re.I
+)
+KRD_LOC_RE = re.compile(
+    r"erbil|irbil|sulaymaniyah|slemani|zakho|shaqlawa|dohuk|kirkuk|kurdistan|iraq|"
+    r"basra|baghdad", re.I
+)
+
+
+def _krd_relevant(job):
+    title = job.get("title") or ""
+    loc = job.get("location") or ""
+    desc = job.get("description") or ""
+    text = f"{title} {loc}"
+    if KRD_LOC_RE.search(loc):
+        return True
+    if not KRD_TITLE_RE.search(title):
+        return False
+    # remote-friendly general dev jobs that merely mention a keyword don't pass
+    if KRD_TITLE_RE.search(title) and "coinbase" in (job.get("company") or "").lower():
+        return False
+    if "software" in title.lower() or "engineer, data" in title.lower() or "devops" in title.lower():
+        return False
+    return KRD_LOC_RE.search(text) or ("oil" in text.lower() and "gas" in text.lower()) or \
+        bool(re.search(r"refinery|petrochemical|drilling|wellsite|rig|upstream|downstream|pipeline|hazop", desc, re.I)) or \
+        KRD_LOC_RE.search(desc)
