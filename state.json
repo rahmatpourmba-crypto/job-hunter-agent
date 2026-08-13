@@ -2159,6 +2159,42 @@
       "company": "FNRCO",
       "source": "linkedin",
       "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-ehs-engineer-%E2%80%93-substation-%E2%80%93-uae-at-hudson-it-and-manpower-4450696648": {
+      "title": "Safety / EHS Engineer – Substation – UAE",
+      "company": "Hudson IT and Manpower",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-technical-hse-engineer-at-target-engineering-construction-co-llc-4448087434": {
+      "title": "Senior Technical HSE Engineer",
+      "company": "Target Engineering Construction Co LLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-power-plants-background-at-pgesco-4454022874": {
+      "title": "HSE Engineer- Power Plants Background",
+      "company": "PGESCO",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-azizi-developments-4452766977": {
+      "title": "HSE Engineer",
+      "company": "Azizi Developments",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://iq.linkedin.com/jobs/view/qhsse-manager-at-t-all-inspection-4443088290": {
+      "title": "QHSSE Manager",
+      "company": "T-ALL Inspection",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-sars-approved-only-at-naffco-careers-4449791500": {
+      "title": "Safety Engineer (SARS Approved Only)",
+      "company": "NAFFCO Careers",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
     }
   },
   "applied": {
@@ -2567,6 +2603,20 @@
       "to": "bill.mooney@politickernj.com",
       "title": "Blockchain Architect and Developer",
       "company": "Tech Observer"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-technical-hse-engineer-at-target-engineering-construction-co-llc-4448087434::contact_form": {
+      "date": "2026-08-13 19:02",
+      "via": "contact_form",
+      "to": "https://www.target.com/contactus",
+      "title": "Senior Technical HSE Engineer",
+      "company": "Target Engineering Construction Co LLC"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-power-plants-background-at-pgesco-4454022874::email": {
+      "date": "2026-08-13 19:02",
+      "via": "email",
+      "to": "pgescocareers@pgesco.com",
+      "title": "HSE Engineer- Power Plants Background",
+      "company": "PGESCO"
     }
   },
   "sent": {
@@ -2744,6 +2794,16 @@
       "kind": "email",
       "to": "bill.mooney@politickernj.com",
       "date": "2026-08-13 17:58"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-technical-hse-engineer-at-target-engineering-construction-co-llc-4448087434": {
+      "kind": "contact_form",
+      "to": "target.com",
+      "date": "2026-08-13 19:02"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-power-plants-background-at-pgesco-4454022874": {
+      "kind": "email",
+      "to": "pgescocareers@pgesco.com",
+      "date": "2026-08-13 19:02"
     }
   },
   "replies": []

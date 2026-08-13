@@ -1,6 +1,41 @@
 [
   {
     "source": "linkedin",
+    "title": "Blockchain Developer",
+    "company": "Altimetrik",
+    "location": "New York City Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488",
+    "description": "Altimetrik delivers outcomes for our clients by rapidly enabling digital business & culture and infuse speed and agility into enterprise technology and connected solutions. We are practitioners of end-to-end business and technology transformation. We tap into an organization’s technology, people, and assets to fuel fast, meaningful results for global enterprise customers across financial services, payments, retail, automotive, healthcare, manufacturing, and other industries. Founded in 2012 and with offices across the globe, Altimetrik makes industries, leaders and Fortune 500 companies more agile, empowered and successful. Altimetrik helps get companies get “unstuck”. We’re a technology company that lives organizations a process and context to solve problems in unconventional ways. We’re a catalyst for organization’s talent and technology, helping teams push boundaries and challenge traditional approaches. We make delivery more bold, efficient, collaborative and even more enjoyable. Job Description Role: Blockchain Developer Location: NYC/NJC Position Type: Fulltime Qualifications / Experience Bachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plus 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development, including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices, containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools",
+    "published": "2026-07-28",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 15,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "web3",
+      "polygon",
+      "crypto",
+      "token",
+      "security",
+      "hardhat"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": [
+      "+12482812500"
+    ],
+    "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
+  },
+  {
+    "source": "linkedin",
     "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
     "company": "1inch",
     "location": "Dubai, United Arab Emirates",
@@ -91,48 +126,6 @@
     "salary_str": "$140,000-$597,000",
     "emails": [],
     "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Blockchain Architect and Developer",
-    "company": "Tech Observer",
-    "location": "Jersey City, NJ",
-    "url": "https://www.linkedin.com/jobs/view/blockchain-architect-and-developer-at-tech-observer-4450801103",
-    "description": "Job Title: Lead Blockchain Architect and Developer Location: Hybrid/Jersey City, NJ (2 DAYS A WEEK) Duration: FTE Job Description: Primary Responsibilities: • Define and drive technical architecture and strategy for digital asset platform components across smart contracts, integrations, and infrastructure • Lead design reviews, establish coding standards, and ensure architectural consistency across the digital asset technology stack • Mentor and develop team members across blockchain engineering, QA, and platform development disciplines • Serve as escalation point for complex technical issues spanning smart contracts, blockchain integrations, and platform services • Collaborate with enterprise architecture, security, and infrastructure teams to ensure alignment with RBC standards • Research, evaluate and recommend blockchain protocols, consensus mechanisms, custody solutions, and related technologies • Interface directly with business leaders, product managers, and stakeholders to translate business requirements into technical roadmaps • Lead technical due diligence for vendor selections, protocol evaluations, and technology partnerships • Establish and enforce security practices including threat modeling, code review processes, and secure development lifecycle • Drive DevOps maturity, CI/CD pipeline optimization, and operational excellence across environments • Participate in cross-functional working groups, architecture review boards, and regulatory/compliance discussions • Own technical planning, sprint planning coordination, and delivery forecasting in partnership with Project Managers Key Relationships: • Engineering team members across smart contracts, blockchain integration, QA, and platform development • Enterprise Architecture, Security Architecture, and Infrastructure teams • Product Managers, Business Analysts, and Executive Stakeholders • Production Support, Site Reliability Engineering (SRE), and Operations teams • Vendor technical teams and blockchain protocol foundations • Regulatory, Compliance, and Legal teams • PMO, Finance, and Budgetary teams • External consultants and technology partners Required Education/Experience: • University degree in Computer Science, Engineering or equivalent work experience • 8+ years software engineering experience with 3+ years in technical leadership roles • Deep technical expertise across distributed systems, blockchain technologies, and platform engineering • Proven track record leading complex technical initiatives from conception through production Preferred Education/Experience: • Degree in Computer Science or related field • Extensive experience with blockchain protocols (Ethereum, Canton, Solana, or similar) • Experience in financial services, capital markets, or regulated environments • Track record building and scaling engineering teams • Familiarity with regulatory frameworks (MiFID II, EMIR, CFTC, SEC requirements for digital assets) Technical Competencies: • Blockchain architecture patterns and protocol design • Smart contract platforms and security (Solidity, Rust, Move, DAML, etc.) • Distributed ledger technologies and consensus mechanisms • Digital asset custody solutions and key management systems • API design and event-driven systems • Security best practices including cryptography, secure coding, and threat modeling • Performance optimization and scalability patterns Regulatory technology considerations for digital assets BLOCKCHAIN DEVELOPER Primary Responsibilities: • Design, develop, test, and maintain integration services connecting blockchain networks with RBC's digital asset platform • Build and optimize blockchain node infrastructure, RPC connections, and network monitoring solutions • Develop middleware APIs and services that abstract blockchain complexity for platform consumers • Implement transaction construction, signing, submission, and confirmation tracking mechanisms • Create robust error handling, retry logic, and circuit breaker patterns for blockchain connectivity • Build data indexing and event streaming pipelines from blockchain networks to enterprise data stores • Research and evaluate blockchain protocols, node implementations, and infrastructure providers • Collaborate with smart contract engineers to understand on-chain requirements and design appropriate integration patterns • Work with security teams to implement secure key management, transaction signing, and access control • Implement monitoring, alerting, and observability solutions for blockchain integrations and node health • Translate business and functional requirements into technical specifications for blockchain connectivity • Document integration architectures, API specifications, and operational runbooks • Mentor team members on blockchain integration patterns, node operations, and troubleshooting techniques • Conduct code reviews and ensure adherence to security and quality standards • Follow DevOps practices including automated testing, continuous integration, and infrastructure as code • Collaborate on resolving production incidents related to blockchain connectivity or network issues • Work with Project Managers and stakeholders on integration roadmaps and delivery timelines Key Relationships: • Smart contract engineers and platform developers within the digital asset team • Infrastructure, Cloud Engineering, and Site Reliability teams • Security Engineering and Cybersecurity teams • Project Managers, Business Analysts, and QA engineers • Production Support and Application Support teams • Blockchain protocol teams and node infrastructure providers • Offshore and remote development teams • Technology working groups and architecture forums Required Education/Experience: • University degree in Computer Science, Engineering or equivalent work experience • Strong software engineering background with experience in distributed systems • Experience integrating with external APIs, protocols, or third-party systems • Solid understanding of n",
-    "published": "",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 11,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "ethereum",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "bill.mooney@politickernj.com",
-      "charles.bittermann@politickernj.com",
-      "editor@politickernj.com",
-      "editorial@observer.com",
-      "mark.bonamo@politickernj.com",
-      "matt.arco@politickernj.com",
-      "max.pizarro@politickernj.com",
-      "minhaj.hassan@politickernj.com",
-      "paul@politickernj.com"
-    ],
-    "phones": [],
-    "emails_source": "observer.com",
-    "about": "Inside the $129B Reclusive Family Behind the Candy Empire](https://observer.com/2026/08/mars-family-five-generation-food-company/) Five generations after Frank C."
   },
   {
     "source": "weworkremotely",
