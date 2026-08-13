@@ -1848,6 +1848,12 @@
       "source": "gulftalent_iraq",
       "first_seen": "2026-08-12"
     },
+    "https://www.linkedin.com/jobs/view/head-of-safety-health-environment-at-lonza-4447440155": {
+      "title": "Head of Safety, Health & Environment",
+      "company": "Lonza",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
     "https://sa.linkedin.com/jobs/view/ehs-engineer-at-leshines-4453619809": {
       "title": "EHS Engineer",
       "company": "Leshines",
@@ -1857,42 +1863,6 @@
     "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559": {
       "title": "HSE Engineer - Saudi",
       "company": "TRACTEBEL",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://sa.linkedin.com/jobs/view/health-and-safety-manager-%E2%80%93-marine-projects-at-saudi-pan-kingdom-company-sapac-4452709048": {
-      "title": "Health and Safety Manager – Marine projects",
-      "company": "Saudi Pan Kingdom Company - SAPAC",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://ae.linkedin.com/jobs/view/safety-ehs-engineer-%E2%80%93-substation-%E2%80%93-uae-at-hudson-it-and-manpower-4450696648": {
-      "title": "Safety / EHS Engineer – Substation – UAE",
-      "company": "Hudson IT and Manpower",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://ae.linkedin.com/jobs/view/senior-technical-hse-engineer-at-target-engineering-construction-co-llc-4448087434": {
-      "title": "Senior Technical HSE Engineer",
-      "company": "Target Engineering Construction Co LLC",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://ae.linkedin.com/jobs/view/hse-engineer-power-plants-background-at-pgesco-4454022874": {
-      "title": "HSE Engineer- Power Plants Background",
-      "company": "PGESCO",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://ae.linkedin.com/jobs/view/hse-engineer-at-azizi-developments-4452766977": {
-      "title": "HSE Engineer",
-      "company": "Azizi Developments",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200": {
-      "title": "HSE Engineer",
-      "company": "Parsons Corporation",
       "source": "linkedin",
       "first_seen": "2026-08-13"
     },
@@ -1992,15 +1962,21 @@
       "source": "linkedin",
       "first_seen": "2026-08-13"
     },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-batterjee-medical-college-4452968825": {
+      "title": "Safety Officer",
+      "company": "Batterjee Medical College",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
     "https://sa.linkedin.com/jobs/view/safety-officer-at-apico-arabian-plastic-industrial-co-4444285853": {
       "title": "Safety Officer",
       "company": "APICO - Arabian Plastic Industrial Co.",
       "source": "linkedin",
       "first_seen": "2026-08-13"
     },
-    "https://ae.linkedin.com/jobs/view/principal-safety-engineer-offshore-detailed-engineering-at-worley-4392578927": {
-      "title": "Principal Safety Engineer - Offshore (Detailed Engineering)",
-      "company": "Worley",
+    "https://ae.linkedin.com/jobs/view/technical-hse-specialist-at-wood-4443505329": {
+      "title": "Technical HSE Specialist",
+      "company": "Wood",
       "source": "linkedin",
       "first_seen": "2026-08-13"
     },
@@ -2019,72 +1995,6 @@
     "https://sa.linkedin.com/jobs/view/safety-engineer-saudi-national-at-wsp-in-the-middle-east-4410642215": {
       "title": "Safety Engineer (Saudi National)",
       "company": "WSP in the Middle East",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://jobicy.com/jobs/150537-staff-security-engineer-customer-support-and-integrity": {
-      "title": "Staff Security Engineer, Customer Support and Integrity",
-      "company": "DoorDash",
-      "source": "jobicy",
-      "first_seen": "2026-08-13"
-    },
-    "https://jobicy.com/jobs/146199-senior-security-engineer": {
-      "title": "Senior Security Engineer",
-      "company": "Pair Team",
-      "source": "jobicy",
-      "first_seen": "2026-08-13"
-    },
-    "https://jobicy.com/jobs/146055-identity-pam-security-engineer": {
-      "title": "Identity & PAM Security Engineer",
-      "company": "Sporty Group",
-      "source": "jobicy",
-      "first_seen": "2026-08-13"
-    },
-    "https://jobicy.com/jobs/145920-solution-engineer": {
-      "title": "Solution Engineer",
-      "company": "Sigma Computing",
-      "source": "jobicy",
-      "first_seen": "2026-08-13"
-    },
-    "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform": {
-      "title": "Toptal: Senior Software Engineer for AI-Powered Banking Platform",
-      "company": "Toptal",
-      "source": "weworkremotely",
-      "first_seen": "2026-08-13"
-    },
-    "https://jobicy.com/jobs/150553-senior-manager-customer-success-engineering": {
-      "title": "Senior Manager, Customer Success Engineering",
-      "company": "Veeam Software",
-      "source": "jobicy",
-      "first_seen": "2026-08-13"
-    },
-    "https://jobicy.com/jobs/145940-genai-engineer": {
-      "title": "GenAI Engineer",
-      "company": "NTT DATA",
-      "source": "jobicy",
-      "first_seen": "2026-08-13"
-    },
-    "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company": {
-      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
-      "company": "Truelogic",
-      "source": "jobicy",
-      "first_seen": "2026-08-13"
-    },
-    "https://ae.linkedin.com/jobs/view/staff-security-architect-at-kraken-4415966237": {
-      "title": "Staff Security Architect",
-      "company": "Kraken",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://sa.linkedin.com/jobs/view/ai-security-lead-at-confidential-4445738096": {
-      "title": "AI Security Lead",
-      "company": "Confidential",
-      "source": "linkedin",
-      "first_seen": "2026-08-13"
-    },
-    "https://ae.linkedin.com/jobs/view/crypto-trader-at-bitcoin-suisse-4437239815": {
-      "title": "Crypto Trader",
-      "company": "Bitcoin Suisse",
       "source": "linkedin",
       "first_seen": "2026-08-13"
     }
@@ -2418,6 +2328,62 @@
       "to": "erbil@worldwide-rs.com",
       "title": "HSE Engineer",
       "company": "WRS Iraq"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371::email": {
+      "date": "2026-08-13 18:58",
+      "via": "email",
+      "to": "inquiry@bluehatglobal.com",
+      "title": "Environmental Health Safety Specialist",
+      "company": "Blue Hat HR Services"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559::email": {
+      "date": "2026-08-13 18:58",
+      "via": "email",
+      "to": "recruitment.ksa@tractebel.engie.com",
+      "title": "HSE Engineer - Saudi",
+      "company": "TRACTEBEL"
+    },
+    "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164::email": {
+      "date": "2026-08-13 18:58",
+      "via": "email",
+      "to": "careers@hiwarauf.com",
+      "title": "Head of Health, Safety and Environment (HSE)",
+      "company": "Hiwa Rauf for Investment and Development"
+    },
+    "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558::email": {
+      "date": "2026-08-13 18:58",
+      "via": "email",
+      "to": "careers@hiwarauf.com",
+      "title": "Head of Health, Safety & Environment (HSE)",
+      "company": "Hiwa Rauf for Investment and Development"
+    },
+    "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4439448621::email": {
+      "date": "2026-08-13 18:58",
+      "via": "email",
+      "to": "hello@v2x.com",
+      "title": "Airfield Safety Manager",
+      "company": "V2X Inc"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-specialist-at-worley-4453081834::email": {
+      "date": "2026-08-13 18:59",
+      "via": "email",
+      "to": "wuae.recruitment@worley.com",
+      "title": "HSE Specialist",
+      "company": "Worley"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-worley-4438184985::email": {
+      "date": "2026-08-13 18:59",
+      "via": "email",
+      "to": "wuae.recruitment@worley.com",
+      "title": "HSE Manager",
+      "company": "Worley"
+    },
+    "https://iq.linkedin.com/jobs/view/security-advisor-at-sardar-group-4450215119::email": {
+      "date": "2026-08-13 18:59",
+      "via": "email",
+      "to": "recruitment@sardargroup.iq",
+      "title": "Security Advisor",
+      "company": "Sardar Group"
     }
   },
   "sent": {
@@ -2540,6 +2506,46 @@
       "kind": "email",
       "to": "erbil@worldwide-rs.com",
       "date": "2026-08-13 17:47"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-blue-hat-hr-services-4451666371": {
+      "kind": "email",
+      "to": "inquiry@bluehatglobal.com",
+      "date": "2026-08-13 18:58"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559": {
+      "kind": "email",
+      "to": "recruitment.ksa@tractebel.engie.com",
+      "date": "2026-08-13 18:58"
+    },
+    "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164": {
+      "kind": "email",
+      "to": "careers@hiwarauf.com",
+      "date": "2026-08-13 18:58"
+    },
+    "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558": {
+      "kind": "email",
+      "to": "careers@hiwarauf.com",
+      "date": "2026-08-13 18:58"
+    },
+    "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4439448621": {
+      "kind": "email",
+      "to": "hello@v2x.com",
+      "date": "2026-08-13 18:58"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-specialist-at-worley-4453081834": {
+      "kind": "email",
+      "to": "wuae.recruitment@worley.com",
+      "date": "2026-08-13 18:59"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-worley-4438184985": {
+      "kind": "email",
+      "to": "wuae.recruitment@worley.com",
+      "date": "2026-08-13 18:59"
+    },
+    "https://iq.linkedin.com/jobs/view/security-advisor-at-sardar-group-4450215119": {
+      "kind": "email",
+      "to": "recruitment@sardargroup.iq",
+      "date": "2026-08-13 18:59"
     }
   },
   "replies": []
