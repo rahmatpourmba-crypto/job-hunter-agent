@@ -1523,6 +1523,96 @@
       "company": "Dubai Golf",
       "source": "linkedin",
       "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/cluster-environmental-health-and-safety-officer-at-rotana-hotels-4437272282": {
+      "title": "Cluster Environmental Health and Safety Officer",
+      "company": "Rotana Hotels",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-leshines-4453619809": {
+      "title": "EHS Engineer",
+      "company": "Leshines",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-specialist-at-kbr-inc-4451957728": {
+      "title": "HSE Specialist",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-supervisor-4445020947": {
+      "title": "Health Safety Environment Supervisor",
+      "company": "KSA.",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/pmc-hse-specialist-at-wood-4441202600": {
+      "title": "PMC HSE Specialist",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/ehsms-manager-at-minor-hotels-4440582375": {
+      "title": "EHSMS Manager",
+      "company": "Minor Hotels",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-coordinator-at-jotun-middle-east-india-and-africa-meia-4451640032": {
+      "title": "HSE Coordinator",
+      "company": "Jotun Middle East, India and Africa (MEIA)",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-analyst-at-applicantz-4443324241": {
+      "title": "HSE Analyst",
+      "company": "Applicantz",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-officer-at-al-ghurair-4452727258": {
+      "title": "Safety Officer",
+      "company": "Al Ghurair",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/inspector-hse-at-adnoc-group-4453694522": {
+      "title": "Inspector, HSE",
+      "company": "ADNOC Group",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-confidential-4453086739": {
+      "title": "Health Safety Environment Officer",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-officer-at-cscec-middle-east-4452424215": {
+      "title": "Safety Officer",
+      "company": "CSCEC Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-apico-arabian-plastic-industrial-co-4444285853": {
+      "title": "Safety Officer",
+      "company": "APICO - Arabian Plastic Industrial Co.",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-advisor-mining-at-wood-4452432008": {
+      "title": "HSE Advisor - Mining",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/engineer-hse-at-alfanar-4452360839": {
+      "title": "ENGINEER, HSE",
+      "company": "alfanar",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
     }
   },
   "applied": {
@@ -1833,6 +1923,13 @@
       "to": "hr@nodveta.com",
       "title": "Solidity Protocol Engineer",
       "company": "Nodveta"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4435188482::email": {
+      "date": "2026-08-13 11:08",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "EHS ENGINEER",
+      "company": "Larsen & Toubro"
     }
   },
   "sent": {
@@ -1940,6 +2037,11 @@
       "kind": "email",
       "to": "hr@nodveta.com",
       "date": "2026-08-12 23:39"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4435188482": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-08-13 11:08"
     }
   },
   "replies": []
