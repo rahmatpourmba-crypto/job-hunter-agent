@@ -1613,6 +1613,60 @@
       "company": "alfanar",
       "source": "linkedin",
       "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-hse-at-penspen-4411574523": {
+      "title": "Manager-HSE",
+      "company": "Penspen",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-specialist-at-nov-4431213703": {
+      "title": "HSE Specialist",
+      "company": "NOV",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-f%C3%A4m-properties-dubai-4450323299": {
+      "title": "HSE Officer",
+      "company": "fäm Properties Dubai",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/technical-hse-specialist-at-wood-4443505329": {
+      "title": "Technical HSE Specialist",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company": {
+      "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
+      "company": "Truelogic",
+      "source": "jobicy",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/staff-security-architect-at-kraken-4415966237": {
+      "title": "Staff Security Architect",
+      "company": "Kraken",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://iq.linkedin.com/jobs/view/it-cyber-security-manager-at-kbr-inc-4453689988": {
+      "title": "IT Cyber Security Manager",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://sa.linkedin.com/jobs/view/ai-security-lead-at-confidential-4445738096": {
+      "title": "AI Security Lead",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/crypto-trader-at-bitcoin-suisse-4437239815": {
+      "title": "Crypto Trader",
+      "company": "Bitcoin Suisse",
+      "source": "linkedin",
+      "first_seen": "2026-08-13"
     }
   },
   "applied": {
