@@ -2794,6 +2794,13 @@
       "to": "https://www.coinbase.com",
       "title": "Coinbase: Internal Audit IT Manager",
       "company": "Coinbase"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4435188482::email": {
+      "date": "2026-08-14 22:50",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "EHS ENGINEER",
+      "company": "Larsen & Toubro"
     }
   },
   "sent": {
@@ -2996,6 +3003,11 @@
       "kind": "contact_form",
       "to": "coinbase.com",
       "date": "2026-08-14 19:30"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4435188482": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-08-14 22:50"
     }
   },
   "replies": []
