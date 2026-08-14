@@ -81,6 +81,33 @@
   },
   {
     "source": "linkedin",
+    "title": "HSE Engineer - Chinese Speaker",
+    "company": "Wood",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@wood.com"
+    ],
+    "phones": [],
+    "emails_source": "wood.com"
+  },
+  {
+    "source": "linkedin",
     "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
     "company": "Abdullah Al-Othaim Markets",
     "location": "Riyadh, Saudi Arabia",
@@ -543,29 +570,6 @@
     "score": 3,
     "title_hits": [
       "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Safety Engineer",
-    "company": "Saipem",
-    "location": "Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-engineer-at-saipem-4443336692",
-    "description": "",
-    "published": "2026-08-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
