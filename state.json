@@ -2285,6 +2285,24 @@
       "company": "PointClickCare",
       "source": "jobicy",
       "first_seen": "2026-08-14"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-hse-advisor-at-technipfmc-4427504510": {
+      "title": "Senior HSE Advisor",
+      "company": "TechnipFMC",
+      "source": "linkedin",
+      "first_seen": "2026-08-14"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-immediate-joiner-at-basatin-landscaping-spllc-4453533693": {
+      "title": "Health Safety Environment Officer - Immediate Joiner",
+      "company": "Basatin Landscaping SPLLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-14"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-tunnelling-at-talentone-4453532620": {
+      "title": "HSE Officer (Tunnelling)",
+      "company": "TalentOne",
+      "source": "linkedin",
+      "first_seen": "2026-08-14"
     }
   },
   "applied": {
