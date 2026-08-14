@@ -2303,6 +2303,18 @@
       "company": "TalentOne",
       "source": "linkedin",
       "first_seen": "2026-08-14"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-safety-officer-%E2%80%93-warehouse-at-astek-middle-east-4451228774": {
+      "title": "EHS Safety Officer – Warehouse",
+      "company": "Astek Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-08-14"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-engineer-ot-cybersecurity-at-cpx-4432748736": {
+      "title": "Senior Engineer - OT Cybersecurity",
+      "company": "CPX",
+      "source": "linkedin",
+      "first_seen": "2026-08-14"
     }
   },
   "applied": {
@@ -2732,6 +2744,13 @@
       "to": "https://www.coinbase.com",
       "title": "Coinbase: Senior Software Engineer - Blockchain Network",
       "company": "Coinbase"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-safety-officer-%E2%80%93-warehouse-at-astek-middle-east-4451228774::email": {
+      "date": "2026-08-14 15:17",
+      "via": "email",
+      "to": "info@astek.com",
+      "title": "EHS Safety Officer – Warehouse",
+      "company": "Astek Middle East"
     }
   },
   "sent": {
@@ -2924,6 +2943,11 @@
       "kind": "contact_form",
       "to": "coinbase.com",
       "date": "2026-08-14 01:35"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-safety-officer-%E2%80%93-warehouse-at-astek-middle-east-4451228774": {
+      "kind": "email",
+      "to": "info@astek.com",
+      "date": "2026-08-14 15:17"
     }
   },
   "replies": []
