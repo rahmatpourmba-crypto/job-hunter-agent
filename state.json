@@ -2315,6 +2315,12 @@
       "company": "CPX",
       "source": "linkedin",
       "first_seen": "2026-08-14"
+    },
+    "https://jobicy.com/jobs/150666-data-engineer-product-analytics": {
+      "title": "Data Engineer, Product Analytics",
+      "company": "Meta",
+      "source": "jobicy",
+      "first_seen": "2026-08-14"
     }
   },
   "applied": {
