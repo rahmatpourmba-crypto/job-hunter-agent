@@ -2321,6 +2321,12 @@
       "company": "Meta",
       "source": "jobicy",
       "first_seen": "2026-08-14"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-officer-at-worley-4454562062": {
+      "title": "Safety Officer",
+      "company": "Worley",
+      "source": "linkedin",
+      "first_seen": "2026-08-14"
     }
   },
   "applied": {
