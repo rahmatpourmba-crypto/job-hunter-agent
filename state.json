@@ -2213,6 +2213,18 @@
       "company": "Aertssen Machinery Services",
       "source": "linkedin",
       "first_seen": "2026-08-13"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-worley-4440957666": {
+      "title": "HSE Manager",
+      "company": "Worley",
+      "source": "linkedin",
+      "first_seen": "2026-08-14"
+    },
+    "https://www.gulftalent.com/iraq/jobs/it-cybersecurity-manager-621449": {
+      "title": "IT Cybersecurity Manager",
+      "company": "KBR",
+      "source": "gulftalent_iraq",
+      "first_seen": "2026-08-14"
     }
   },
   "applied": {
@@ -2635,6 +2647,13 @@
       "to": "pgescocareers@pgesco.com",
       "title": "HSE Engineer- Power Plants Background",
       "company": "PGESCO"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network::contact_form": {
+      "date": "2026-08-14 01:35",
+      "via": "contact_form",
+      "to": "https://www.coinbase.com",
+      "title": "Coinbase: Senior Software Engineer - Blockchain Network",
+      "company": "Coinbase"
     }
   },
   "sent": {
@@ -2822,6 +2841,11 @@
       "kind": "email",
       "to": "pgescocareers@pgesco.com",
       "date": "2026-08-13 19:02"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-blockchain-network": {
+      "kind": "contact_form",
+      "to": "coinbase.com",
+      "date": "2026-08-14 01:35"
     }
   },
   "replies": []
