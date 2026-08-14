@@ -29,6 +29,57 @@
   },
   {
     "source": "linkedin",
+    "title": "Audit HSE Engineer",
+    "company": "Convergint",
+    "location": "Basra, Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "accommodation.apply@convergint.com"
+    ],
+    "phones": [],
+    "emails_source": "convergint.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "Environmental Health and Safety Coordinator",
+    "company": "Rotana Hotels",
+    "location": "Al Khobar, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-coordinator-at-rotana-hotels-4399362703",
+    "description": "",
+    "published": "2026-07-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "health and safety",
+      "environmental health"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "EHS Engineer",
     "company": "Leshines",
     "location": "Riyadh, Saudi Arabia",
@@ -520,52 +571,6 @@
     "score": 3,
     "title_hits": [
       "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Safety Officer",
-    "company": "KBR, Inc.",
-    "location": "Rabigh, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-kbr-inc-4445645989",
-    "description": "",
-    "published": "2026-07-27",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Safety Engineer",
-    "company": "Saipem",
-    "location": "Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-engineer-at-saipem-4443336692",
-    "description": "",
-    "published": "2026-08-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
