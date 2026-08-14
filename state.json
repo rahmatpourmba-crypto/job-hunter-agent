@@ -2769,6 +2769,13 @@
       "to": "info@astek.com",
       "title": "EHS Safety Officer – Warehouse",
       "company": "Astek Middle East"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager::contact_form": {
+      "date": "2026-08-14 19:30",
+      "via": "contact_form",
+      "to": "https://www.coinbase.com",
+      "title": "Coinbase: Internal Audit IT Manager",
+      "company": "Coinbase"
     }
   },
   "sent": {
@@ -2966,6 +2973,11 @@
       "kind": "email",
       "to": "info@astek.com",
       "date": "2026-08-14 15:17"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-manager": {
+      "kind": "contact_form",
+      "to": "coinbase.com",
+      "date": "2026-08-14 19:30"
     }
   },
   "replies": []

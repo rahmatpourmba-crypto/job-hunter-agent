@@ -105,57 +105,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer - Saudi",
-    "company": "TRACTEBEL",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559",
-    "description": "",
-    "published": "2026-07-16",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health and Safety Manager – Marine projects",
-    "company": "Saudi Pan Kingdom Company - SAPAC",
-    "location": "Sharma, Tabuk, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-manager-%E2%80%93-marine-projects-at-saudi-pan-kingdom-company-sapac-4452709048",
-    "description": "",
-    "published": "2026-08-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety manager",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": [
-      "+17813736808"
-    ],
-    "about": "Premium Verified Domain ##### Get a price in less than 24 hours * * * First Name Last Name Email Phone United States By submitting, you agree to our ."
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Engineer",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -207,6 +156,30 @@
     ],
     "phones": [],
     "emails_source": "larsentoubro.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer - Saudi",
+    "company": "TRACTEBEL",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-at-tractebel-4438701559",
+    "description": "",
+    "published": "2026-07-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -294,6 +267,29 @@
     "score": 3,
     "title_hits": [
       "safety manager"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety and Security Officer – Iraq (National)",
+    "company": "ReliefWeb",
+    "location": "Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/safety-and-security-officer-%E2%80%93-iraq-national-at-reliefweb-4454558535",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "security officer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
