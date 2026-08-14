@@ -2231,6 +2231,18 @@
       "company": "Saudi Pan Kingdom Company - SAPAC",
       "source": "linkedin",
       "first_seen": "2026-08-14"
+    },
+    "https://iq.linkedin.com/jobs/view/firefighter-at-v2x-inc-4444003672": {
+      "title": "Firefighter",
+      "company": "V2X Inc",
+      "source": "linkedin",
+      "first_seen": "2026-08-14"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-inspector-621749": {
+      "title": "HSE Inspector",
+      "company": "J10 Consulting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-08-14"
     }
   },
   "applied": {
