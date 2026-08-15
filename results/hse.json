@@ -55,33 +55,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Analyst/ Safety Officer - Offshore",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-analyst-safety-officer-offshore-at-penspen-4445033195",
-    "description": "",
-    "published": "2026-07-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
     "title": "Audit HSE Engineer",
     "company": "Convergint",
     "location": "Basra, Al-Basra Governorate, Iraq",
@@ -106,6 +79,90 @@
     ],
     "phones": [],
     "emails_source": "convergint.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer - Chinese Speaker",
+    "company": "Wood",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4448849303",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@wood.com"
+    ],
+    "phones": [],
+    "emails_source": "wood.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Parsons Corporation",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200",
+    "description": "",
+    "published": "2026-08-13",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "cybersecurity@parsons.com"
+    ],
+    "phones": [
+      "+17039888500"
+    ],
+    "emails_source": "parsons.com",
+    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
   },
   {
     "source": "linkedin",
@@ -174,6 +231,29 @@
     "desc_hits": [
       "risk assessment"
     ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "QHSE Manager",
+    "company": "Anton",
+    "location": "Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300",
+    "description": "",
+    "published": "2026-07-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
@@ -251,10 +331,10 @@
   },
   {
     "source": "linkedin",
-    "title": "Safety and Security Officer – Iraq (National)",
-    "company": "ReliefWeb",
-    "location": "Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/safety-and-security-officer-%E2%80%93-iraq-national-at-reliefweb-4454558535",
+    "title": "HSE Manager",
+    "company": "Parsons Corporation",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4453607207",
     "description": "",
     "published": "",
     "remote": false,
@@ -263,29 +343,6 @@
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "security officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Specialist",
-    "company": "Worley",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-worley-4453081834",
-    "description": "",
-    "published": "2026-08-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
       "hse"
     ],
     "desc_hits": [],
@@ -297,81 +354,12 @@
   },
   {
     "source": "linkedin",
-    "title": "Manager – HSE Oil & Gas",
-    "company": "AD Ports Group",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/manager-%E2%80%93-hse-oil-gas-at-ad-ports-group-4444238359",
-    "description": "",
-    "published": "2026-08-13",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Safety Officer",
-    "company": "Worley",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/safety-officer-at-worley-4454562062",
-    "description": "",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer",
-    "company": "Al Wazan Group",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-at-al-wazan-group-4448907453",
-    "description": "",
-    "published": "2026-08-05",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer",
+    "title": "HSE Manager",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-at-penspen-4416149306",
+    "url": "https://ae.linkedin.com/jobs/view/hse-manager-at-penspen-4427325786",
     "description": "",
-    "published": "",
+    "published": "2026-07-29",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -389,10 +377,10 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Office, Site",
-    "company": "KBR, Inc.",
+    "title": "HSEW Manager",
+    "company": "AtkinsRéalis",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-office-site-at-kbr-inc-4454071396",
+    "url": "https://ae.linkedin.com/jobs/view/hsew-manager-at-atkinsr%C3%A9alis-4454027088",
     "description": "",
     "published": "2026-08-13",
     "remote": false,
@@ -412,19 +400,19 @@
   },
   {
     "source": "linkedin",
-    "title": "Health Safety Environment Officer",
-    "company": "Target Engineering Construction Co LLC",
+    "title": "HSE Officer — Oil & Gas / Energy (Offshore/Onshore)",
+    "company": "TalentOne",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-target-engineering-construction-co-llc-4443231945",
+    "url": "https://ae.linkedin.com/jobs/view/hse-officer-%E2%80%94-oil-gas-energy-offshore-onshore-at-talentone-4453528704",
     "description": "",
-    "published": "2026-07-28",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "health safety environment"
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -436,11 +424,11 @@
   {
     "source": "linkedin",
     "title": "HSE Specialist",
-    "company": "Wood",
+    "company": "KBR, Inc.",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-wood-4450233139",
+    "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-kbr-inc-4451957728",
     "description": "",
-    "published": "2026-08-06",
+    "published": "2026-08-11",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -563,6 +551,29 @@
     "score": 3,
     "title_hits": [
       "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Officer",
+    "company": "Tekfen Construction",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-officer-at-tekfen-construction-4442010627",
+    "description": "",
+    "published": "2026-07-20",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
