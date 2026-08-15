@@ -29,33 +29,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Audit HSE Engineer",
-    "company": "Convergint",
-    "location": "Basra, Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754",
-    "description": "",
-    "published": "2026-08-04",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "accommodation.apply@convergint.com"
-    ],
-    "phones": [],
-    "emails_source": "convergint.com"
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Analyst/ Safety Officer - Offshore",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -83,20 +56,20 @@
   },
   {
     "source": "linkedin",
-    "title": "EHS Engineer",
-    "company": "Leshines",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-leshines-4453619809",
+    "title": "Sr. HSE Engineer | alfanar Electric",
+    "company": "alfanar",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4443145652",
     "description": "",
-    "published": "2026-08-13",
+    "published": "2026-07-22",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "ehs",
-      "ehs engineer"
+      "hse",
+      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -156,6 +129,33 @@
     "salary_str": "",
     "emails": [],
     "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Audit HSE Engineer",
+    "company": "Convergint",
+    "location": "Basra, Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "accommodation.apply@convergint.com"
+    ],
+    "phones": [],
+    "emails_source": "convergint.com"
   },
   {
     "source": "linkedin",
@@ -238,12 +238,12 @@
   },
   {
     "source": "linkedin",
-    "title": "QHSE Manager",
-    "company": "Anton",
-    "location": "Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300",
+    "title": "Head of Health, Safety & Environment (HSE)",
+    "company": "Hiwa Rauf for Investment and Development",
+    "location": "Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558",
     "description": "",
-    "published": "2026-07-30",
+    "published": "2026-08-08",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -265,29 +265,6 @@
     "company": "Hiwa Rauf for Investment and Development",
     "location": "Sulaymaniyah, Diyala Governorate, Iraq",
     "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164",
-    "description": "",
-    "published": "2026-08-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Head of Health, Safety & Environment (HSE)",
-    "company": "Hiwa Rauf for Investment and Development",
-    "location": "Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558",
     "description": "",
     "published": "2026-08-08",
     "remote": false,
@@ -514,6 +491,29 @@
   },
   {
     "source": "linkedin",
+    "title": "Safety Officer",
+    "company": "Nesma United Industries",
+    "location": "Yanbu, Al Madinah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-nesma-united-industries-4447902154",
+    "description": "",
+    "published": "2026-08-03",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Coordinator",
     "company": "H&P",
     "location": "Saudi Arabia",
@@ -560,19 +560,19 @@
   },
   {
     "source": "linkedin",
-    "title": "Safety Officer",
-    "company": "KBR, Inc.",
-    "location": "Rabigh, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-kbr-inc-4445645989",
+    "title": "Occupational Health, Safety & Environment Lead",
+    "company": "Tecnicas Reunidas Saudi Arabia",
+    "location": "Al Khobar, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-environment-lead-at-tecnicas-reunidas-saudi-arabia-4445876642",
     "description": "",
-    "published": "2026-07-27",
+    "published": "2026-08-03",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "safety officer"
+      "occupational health"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
