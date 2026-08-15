@@ -2423,6 +2423,36 @@
       "company": "AAA Global",
       "source": "linkedin",
       "first_seen": "2026-08-15"
+    },
+    "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-finops": {
+      "title": "ZoomInfo Technologies LLC: Director, FinOps",
+      "company": "ZoomInfo Technologies LLC",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-15"
+    },
+    "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst": {
+      "title": "ZoomInfo Technologies LLC: Principal Business Intelligence Analyst",
+      "company": "ZoomInfo Technologies LLC",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-15"
+    },
+    "https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2": {
+      "title": "Senior Software Engineer - Data Platform",
+      "company": "Samsara",
+      "source": "jobicy",
+      "first_seen": "2026-08-15"
+    },
+    "https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan": {
+      "title": "OKX: Affiliate BD Manager (Taiwan)",
+      "company": "OKX",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-15"
+    },
+    "https://jobicy.com/jobs/146325-customer-success-manager-35": {
+      "title": "Customer Success Manager",
+      "company": "Sonatype",
+      "source": "jobicy",
+      "first_seen": "2026-08-15"
     }
   },
   "applied": {
@@ -2873,6 +2903,13 @@
       "to": "infodesk@larsentoubro.com",
       "title": "EHS ENGINEER",
       "company": "Larsen & Toubro"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-associate-manager::contact_form": {
+      "date": "2026-08-15 07:54",
+      "via": "contact_form",
+      "to": "https://www.coinbase.com",
+      "title": "Coinbase: Internal Audit IT Associate Manager",
+      "company": "Coinbase"
     }
   },
   "sent": {
@@ -3080,6 +3117,11 @@
       "kind": "email",
       "to": "infodesk@larsentoubro.com",
       "date": "2026-08-14 22:50"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-internal-audit-it-associate-manager": {
+      "kind": "contact_form",
+      "to": "coinbase.com",
+      "date": "2026-08-15 07:54"
     }
   },
   "replies": []
