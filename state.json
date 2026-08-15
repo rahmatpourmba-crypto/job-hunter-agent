@@ -2459,6 +2459,12 @@
       "company": "Ashby",
       "source": "jobicy",
       "first_seen": "2026-08-15"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-ondo-finance-4444080332": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Ondo Finance",
+      "source": "linkedin",
+      "first_seen": "2026-08-15"
     }
   },
   "applied": {
