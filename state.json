@@ -2471,6 +2471,12 @@
       "company": "KBR, Inc.",
       "source": "linkedin",
       "first_seen": "2026-08-15"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4455130592": {
+      "title": "Blockchain Developer",
+      "company": "Altimetrik",
+      "source": "linkedin",
+      "first_seen": "2026-08-15"
     }
   },
   "applied": {
@@ -2928,6 +2934,13 @@
       "to": "https://www.coinbase.com",
       "title": "Coinbase: Internal Audit IT Associate Manager",
       "company": "Coinbase"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4455130592::contact_form": {
+      "date": "2026-08-15 15:46",
+      "via": "contact_form",
+      "to": "https://www.altimetrik.com/contact",
+      "title": "Blockchain Developer",
+      "company": "Altimetrik"
     }
   },
   "sent": {
@@ -3140,6 +3153,11 @@
       "kind": "contact_form",
       "to": "coinbase.com",
       "date": "2026-08-15 07:54"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4455130592": {
+      "kind": "contact_form",
+      "to": "altimetrik.com",
+      "date": "2026-08-15 15:46"
     }
   },
   "replies": []
