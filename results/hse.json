@@ -1,31 +1,5 @@
 [
   {
-    "source": "linkedin",
-    "title": "Environmental Health and Safety Officer",
-    "company": "Rotana Hotels",
-    "location": "Mecca, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992",
-    "description": "",
-    "published": "2026-08-04",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "safety officer",
-      "health and safety",
-      "environmental health",
-      "health and safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -51,6 +25,160 @@
     "emails": [
       "applyassistance@fortive.com"
     ],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Analyst/ Safety Officer - Offshore",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-analyst-safety-officer-offshore-at-penspen-4445033195",
+    "description": "",
+    "published": "2026-07-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "Sr. HSE Engineer | alfanar Electric",
+    "company": "alfanar",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4443145652",
+    "description": "",
+    "published": "2026-07-22",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS ENGINEER",
+    "company": "Larsen & Toubro",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258",
+    "description": "",
+    "published": "2026-08-09",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "ehs engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "infodesk@larsentoubro.com"
+    ],
+    "phones": [],
+    "emails_source": "larsentoubro.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Engineer",
+    "company": "Leshines",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-leshines-4453619809",
+    "description": "",
+    "published": "2026-08-13",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "ehs engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Safety Officer – Warehouse",
+    "company": "Astek Middle East",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-safety-officer-%E2%80%93-warehouse-at-astek-middle-east-4451228774",
+    "description": "",
+    "published": "2026-08-14",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@astek.com"
+    ],
+    "phones": [],
+    "emails_source": "astek.com",
+    "about": "Translation missing: en.sections.slideshow.pause_slideshow Translation missing: en.sections.slideshow.play_slideshow ![Image 3](https://www.astek.com/) ## Opaline Opaline is a study in restraint—where texture, light, and"
+  },
+  {
+    "source": "linkedin",
+    "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
+    "company": "Abdullah Al-Othaim Markets",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467",
+    "description": "",
+    "published": "2026-08-12",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "occupational health",
+      "safety specialist"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
     "phones": []
   },
   {
@@ -82,54 +210,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Environmental Health and Safety Coordinator",
-    "company": "Rotana Hotels",
-    "location": "Al Khobar, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-coordinator-at-rotana-hotels-4399362703",
-    "description": "",
-    "published": "2026-07-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "health and safety",
-      "environmental health"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
-    "company": "Abdullah Al-Othaim Markets",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467",
-    "description": "",
-    "published": "2026-08-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "occupational health",
-      "safety specialist"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Engineer",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -149,38 +229,34 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
-    "title": "EHS ENGINEER",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258",
-    "description": "",
-    "published": "2026-08-09",
+    "title": "Head of Health, Safety & Environment (HSE)",
+    "company": "Hiwa Rauf for Investment and Development",
+    "location": "Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558",
+    "description": "Hiwa Rauf for Investment and Development (HRID) is seeking a highly experienced Head of Health, Safety & Environment (HSE) to lead and oversee all HSE activities across the organization. Reporting directly to the Chief Operating Officer (COO), the successful candidate will be responsible for developing and implementing HSE strategies, ensuring regulatory compliance, driving risk management initiatives, strengthening environmental stewardship, and promoting a proactive safety culture throughout all construction projects and operational facilities. The ideal candidate will possess extensive experience in large-scale construction and real estate development projects, with a proven track record of leading HSE teams and implementing international HSE management systems. Key Requirements: • Bachelor's Degree in Engineering or an HSE-related discipline • NEBOSH International Diploma (Level 6) or equivalent (Required) • Professional certifications such as CMIOSH, CSP, CRSP, or equivalent are highly desirable • Minimum 15 years of HSE experience • Minimum 5 years in executive or senior leadership positions • Extensive experience within construction, infrastructure, or real estate development sectors • Strong knowledge of ISO 45001, ISO 14001, risk management, incident investigation, and contractor management • Excellent English communication and reporting skills HRID offers an opportunity to join a leading investment and development company and play a key role in shaping a world-class HSE culture across its growing portfolio of projects and operations.",
+    "published": "2026-08-08",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 6,
+    "score": 5,
     "title_hits": [
-      "ehs",
-      "ehs engineer"
+      "hse"
     ],
-    "desc_hits": [],
+    "desc_hits": [
+      "iso 45001",
+      "incident investigation"
+    ],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "infodesk@larsentoubro.com"
-    ],
-    "phones": [],
-    "emails_source": "larsentoubro.com"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -209,56 +285,10 @@
   },
   {
     "source": "linkedin",
-    "title": "QHSE Manager",
-    "company": "Anton",
-    "location": "Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300",
-    "description": "",
-    "published": "2026-07-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Head of Health, Safety and Environment (HSE)",
     "company": "Hiwa Rauf for Investment and Development",
     "location": "Sulaymaniyah, Diyala Governorate, Iraq",
     "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-and-environment-hse-at-hiwa-rauf-for-investment-and-development-4449269164",
-    "description": "",
-    "published": "2026-08-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Head of Health, Safety & Environment (HSE)",
-    "company": "Hiwa Rauf for Investment and Development",
-    "location": "Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/head-of-health-safety-environment-hse-at-hiwa-rauf-for-investment-and-development-4451064558",
     "description": "",
     "published": "2026-08-08",
     "remote": false,
@@ -371,6 +401,29 @@
   {
     "source": "linkedin",
     "title": "HSE Officer",
+    "company": "Al Wazan Group",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-officer-at-al-wazan-group-4448907453",
+    "description": "",
+    "published": "2026-08-05",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Officer",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://ae.linkedin.com/jobs/view/hse-officer-at-penspen-4416149306",
@@ -416,6 +469,29 @@
   },
   {
     "source": "linkedin",
+    "title": "Health Safety Environment Officer",
+    "company": "Target Engineering Construction Co LLC",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-target-engineering-construction-co-llc-4443231945",
+    "description": "",
+    "published": "2026-07-28",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Specialist",
     "company": "Wood",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -439,79 +515,10 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-manager-at-penspen-4427325786",
-    "description": "",
-    "published": "2026-07-29",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer — Oil & Gas / Energy (Offshore/Onshore)",
-    "company": "TalentOne",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-%E2%80%94-oil-gas-energy-offshore-onshore-at-talentone-4453528704",
-    "description": "",
-    "published": "2026-08-14",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Safety Officer",
-    "company": "Nesma United Industries",
-    "location": "Yanbu, Al Madinah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-nesma-united-industries-4447902154",
-    "description": "",
-    "published": "2026-08-03",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Coordinator",
-    "company": "H&P",
-    "location": "Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-coordinator-at-h-p-4414740905",
+    "title": "Health Safety Environment Officer",
+    "company": "Seara International",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-seara-international-4449513310",
     "description": "",
     "published": "2026-08-09",
     "remote": false,
@@ -520,7 +527,30 @@
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "hse"
+      "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety Engineer (Saudi National)",
+    "company": "Parsons Corporation",
+    "location": "Mecca, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-engineer-saudi-national-at-parsons-corporation-4453118090",
+    "description": "",
+    "published": "2026-08-12",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -544,29 +574,6 @@
     "score": 3,
     "title_hits": [
       "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Occupational Health, Safety & Environment Lead",
-    "company": "Tecnicas Reunidas Saudi Arabia",
-    "location": "Al Khobar, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-environment-lead-at-tecnicas-reunidas-saudi-arabia-4445876642",
-    "description": "",
-    "published": "2026-08-03",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "occupational health"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
