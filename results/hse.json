@@ -1,35 +1,5 @@
 [
   {
-    "source": "linkedin",
-    "title": "QHSE Manager",
-    "company": "Anton",
-    "location": "Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300",
-    "description": "The QHSE Manager is responsible for leading the development, implementation, and continuous improvement of the Quality, Health, Safety, and Environmental (QHSE) management system across the Iraq region. The role ensures operational excellence, regulatory compliance, customer satisfaction, and risk management while supporting safe and efficient project execution across all business operations. Key Responsibilities: QHSE Strategy & Management System Development Develop and implement the regional QHSE strategy aligned with corporate objectives and international standards. Establish and continuously improve the Quality, Health, Safety, and Environmental Management System. Standardize QHSE policies, procedures, operating standards, templates, and risk management processes across all operations. Drive continuous improvement initiatives to enhance QHSE performance. Operational QHSE Management & Risk Control Lead QHSE oversight throughout the complete project lifecycle, from project initiation through execution to final delivery. Identify, assess, and manage operational risks associated with: Ensure implementation of the operational control process covering: Ensure technical execution is fully integrated with safety and environmental compliance. Project Risk Management & Emergency Response Develop project risk identification and assessment methodologies. Establish and maintain project risk registers and dynamic risk monitoring systems. Lead emergency response planning, preparedness, and resource coordination. Organize emergency drills and evaluate emergency response effectiveness. Provide leadership during emergency situations, incidents, and crisis management activities. Customer Compliance & Satisfaction Develop and manage customer-focused QHSE performance measurement programs. Conduct regular customer satisfaction surveys related to QHSE performance. Analyze customer feedback and implement improvement actions. Lead customer audits and inspections. Ensure compliance with contractual QHSE requirements and customer standards. Build strong relationships with clients through proactive QHSE engagement. Auditing, Compliance & Corrective Action Management Develop and execute the annual internal QHSE audit program. Conduct inspections across all operational sites, business units, and contractors. Lead incident investigations and Root Cause Analysis (RCA). Develop corrective and preventive action plans (CAPA). Ensure effective closure and verification of all audit findings and corrective actions. Regional Coordination & Operational Support Coordinate QHSE activities across all Iraq operations. Support business units in implementing corporate QHSE initiatives. Facilitate communication between Headquarters and regional operations. Mobilize QHSE support teams QHSE Culture, Training & Competency Development Promote a proactive safety culture across employees, contractors, and leadership teams. Develop and implement annual QHSE training plans. Qualifications: Education Bachelor's degree in Safety Engineering, Quality Management, Petroleum Engineering, Environmental Engineering, or a related discipline. Experience Minimum 8 years of QHSE experience within the oil & gas industry. Minimum 5 years in a QHSE Manager or equivalent leadership role supporting overseas oilfield service projects. Demonstrated experience managing QHSE systems in drilling, well services, production, or oilfield operations. Proven experience leading serious incident investigations, risk management, and corrective action programs. Technical Knowledge Strong knowledge of: ISO 45001 Occupational Health & Safety Management Systems ISO 14001 Environmental Management Systems ISO 9001 Quality Management Systems API Q1 / API Q2 Risk Assessment & Hazard Identification (HIRA/JSA) Incident Investigation & Root Cause Analysis Emergency Response Planning Contractor Management Iraqi HSE regulations and applicable international standards Certifications NEBOSH International Diploma or International General Certificate IOSH Managing Safely or equivalent ISO 9001 Lead Auditor ISO 14001 Lead Auditor ISO 45001 Lead Auditor Registered Safety Engineer or equivalent professional certification Working Conditions Based in Iraq with regular travel to operational sites. Frequent visits to remote field locations. Ability to support emergency response activities outside normal working hours. Willingness to undertake extended regional travel when required. Language Requirements Fluent in Arabic (spoken and written). Professional working proficiency in English .",
-    "published": "2026-07-30",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 11,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [
-      "occupational health",
-      "safety engineer",
-      "risk assessment",
-      "iso 45001",
-      "incident investigation",
-      "environmental engineer"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -83,33 +53,6 @@
     ],
     "phones": [],
     "emails_source": "convergint.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Analyst/ Safety Officer - Offshore",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-analyst-safety-officer-offshore-at-penspen-4445033195",
-    "description": "",
-    "published": "2026-07-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
   },
   {
     "source": "linkedin",
@@ -235,8 +178,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "infodesk@larsentoubro.com"
+    ],
+    "phones": [],
+    "emails_source": "larsentoubro.com"
   },
   {
     "source": "linkedin",
@@ -257,6 +203,29 @@
     "desc_hits": [
       "risk assessment"
     ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "QHSE Manager",
+    "company": "Anton",
+    "location": "Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300",
+    "description": "",
+    "published": "2026-07-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
@@ -404,29 +373,6 @@
   {
     "source": "linkedin",
     "title": "HSE Officer",
-    "company": "Al Wazan Group",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-at-al-wazan-group-4448907453",
-    "description": "",
-    "published": "2026-08-05",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://ae.linkedin.com/jobs/view/hse-officer-at-penspen-4416149306",
@@ -472,29 +418,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Health Safety Environment Officer",
-    "company": "Target Engineering Construction Co LLC",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-target-engineering-construction-co-llc-4443231945",
-    "description": "",
-    "published": "2026-07-28",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Specialist",
     "company": "Wood",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -518,19 +441,42 @@
   },
   {
     "source": "linkedin",
-    "title": "Safety Officer",
-    "company": "Nesma United Industries",
-    "location": "Yanbu, Al Madinah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-nesma-united-industries-4447902154",
+    "title": "HSE Manager",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-manager-at-penspen-4427325786",
     "description": "",
-    "published": "2026-08-03",
+    "published": "2026-07-29",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "safety officer"
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Officer — Oil & Gas / Energy (Offshore/Onshore)",
+    "company": "TalentOne",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-officer-%E2%80%94-oil-gas-energy-offshore-onshore-at-talentone-4453528704",
+    "description": "",
+    "published": "2026-08-14",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -577,6 +523,52 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety Officer",
+    "company": "KBR, Inc.",
+    "location": "Rabigh, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-kbr-inc-4445645989",
+    "description": "",
+    "published": "2026-07-27",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety Engineer",
+    "company": "Saipem",
+    "location": "Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-engineer-at-saipem-4443336692",
+    "description": "",
+    "published": "2026-08-11",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
