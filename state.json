@@ -2513,6 +2513,18 @@
       "company": "Guardian Industries",
       "source": "linkedin",
       "first_seen": "2026-08-16"
+    },
+    "https://jobicy.com/jobs/150834-senior-application-security-engineer": {
+      "title": "Senior Application Security Engineer",
+      "company": "Consensys",
+      "source": "jobicy",
+      "first_seen": "2026-08-16"
+    },
+    "https://jobicy.com/jobs/146254-atlassian-administrator-1726": {
+      "title": "Atlassian Administrator 1726",
+      "company": "Softgic",
+      "source": "jobicy",
+      "first_seen": "2026-08-16"
     }
   },
   "applied": {
@@ -2977,6 +2989,13 @@
       "to": "https://www.altimetrik.com/contact",
       "title": "Blockchain Developer",
       "company": "Altimetrik"
+    },
+    "https://jobicy.com/jobs/150834-senior-application-security-engineer::contact_form": {
+      "date": "2026-08-16 07:28",
+      "via": "contact_form",
+      "to": "https://www.consensys.com/contact-us",
+      "title": "Senior Application Security Engineer",
+      "company": "Consensys"
     }
   },
   "sent": {
@@ -3194,6 +3213,11 @@
       "kind": "contact_form",
       "to": "altimetrik.com",
       "date": "2026-08-15 15:46"
+    },
+    "https://jobicy.com/jobs/150834-senior-application-security-engineer": {
+      "kind": "contact_form",
+      "to": "consensys.com",
+      "date": "2026-08-16 07:28"
     }
   },
   "replies": []
