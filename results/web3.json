@@ -70,39 +70,6 @@
     "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
   },
   {
-    "source": "linkedin",
-    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-07-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "audit",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "weworkremotely",
     "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
     "company": "Coinbase",
@@ -653,6 +620,29 @@
     "emails": [
       "applicationassistance@sailpoint.com"
     ],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Manager of IT Security",
+    "company": "Lakeshore Learning Materials, LLC",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/149591-manager-of-it-security",
+    "description": "Company Description At Lakeshore, we create innovative learning materials and world-class guest experiences for teachers, parents and children. Since 1954, we’ve grown into a global community—with a thriving e-commerce business, multiple catalogs, over 50 stores, a peerless national sales force, plus international offices that support our preeminent supply chain division. But today we’re working better, smarter and faster than ever—and setting our sights even higher. We’re building an infrastructure designed for scalability, embracing data-driven decision-making and using technology to improve efficiency and ensure the best tools for the best work. Most importantly, we continue to invest in a diverse team of inquisitive top talent who fuel each other’s passions and curiosity, take risks, try new things and believe that every new day brings opportunities for growth. Job Description Lakeshore Learning's products end up in the hands of millions of children, educators, and families — and keeping those interactions safe starts with the security of our systems. As our Manager of IT Security , you'll lead a team of security engineers and analysts protecting Lakeshore across vulnerability management, incident detection and response, and identity and access management. You'll help shape how we think about security as we grow, partnering across the business to reduce risk and develop a security program that's built to last. This is a remote role; candidates must be able to work effectively in a distributed environment and are welcome to apply from anywhere in the U.S. A day on the job looks like this: Leading, coaching, and developing a team of security engineers and analysts — setting clear expectations, giving direct feedback and building the individual capabilities that make the whole team stronger Guiding your team through the day-to-day work of vulnerability management, incident detection and response, and identity and access management, keeping quality high and risks in check Driving execution of multi-year security initiatives, helping translate strategy into execution and keeping work moving when priorities or conditions shift Partnering with senior stakeholders/leadership to develop and maintain information security policies, procedures, GRC, procedures and plans that reflect where the organization is and where it's headed Evaluating security technologies and controls — from proof-of-concept testing to vendor partnerships — and leading implementation and continuous improvement efforts that measurably strengthen our security posture Spotting the root causes behind technical and operational problems, not just the surface symptoms, and leading your team to solutions that hold up over time Qualifications Got the skills and experience? Here’s what we’re looking for: Required 5+ years of hands-on experience in information security, with meaningful exposure across multiple domains such as vulnerability management, incident response, endpoint security, or identity and access management 2+ years of experience leading a team of security professionals, including hiring, coaching, performance management and career development Working experience securing both on-premises and cloud environments, with a solid understanding of cloud networking and operations concepts Demonstrated ability to communicate security risks and recommendations clearly to both technical teams and non-technical stakeholders Experience contributing to or executing security roadmaps, policies or programs in a growing or maturing organization Preferred: Bachelor's degree in Information Security, Computer Science or a related field. CISSP or equivalent security certification 8+ years of experience in information security 5+ years of people management experience in a security or technology function What sets you apart: You give feedback early and often — specific, direct and framed around growth — because you know that's how good teams get better When something breaks, you're wired to ask why it broke before you ask how to fix it, and you bring your team along in that thinking You can hold your own in a room with senior leadership and shift perspectives when the security risk is real — without losing the trust of the engineers you're representing You keep your team pointed at a shared goal even when the work is fragmented, ambiguous, or moving fast Additional Information And here’s our end of the bargain! At Lakeshore, we pay local market wages for employees that reside within Los Angeles and Orange Counties. For employees residing outside of Los Angeles and Orange Counties, pay is based on national market. For this position, new employees joining Lakeshore are typically brought into the organization at a salary rate between $123,000-$185,000 depending on relevant experience & skillset. This range is indicative of projected hiring range. The annual base compensation will take into account each candidate's relevant experience, location, and skillset. Bonus eligible Paid leave for new parents to support work/life balance and family bonding Excellent medical/dental and vision coverage—EPO, PPO and HSA 401(k) retirement plan with company contribution (because you will retire someday) Flexible benefits—choose what you like, ignore the rest On-site preschool for our employees’ children On-site employee gym for all levels/fitness needs Generous employee discount Casual dress…and we really mean it At Lakeshore, we know our diversity makes us stronger, and when everyone feels included and valued, we all win. We strive to embrace our differences and create an intentionally diverse and inclusive community that is representative of the teachers, families and children we serve. We know we couldn’t do the extraordinary things we’re doing without the people on our team. Thanks to the passion and enthusiasm of this spectacular group, Lakeshore is more than a great place to work—it’s a great experience to be part of. Day in and day out, we give everything we’ve got to create products that instill a sense of wonder and foster a true love of learning. To help maintain this high bar for success, we’re constantly on the lookout for people to join us. So if you’re a down-to-earth professional who shares our desire for making a difference, we’d love to hear from you. To learn more about Lakeshore, visit www.lakeshorelearning.com/careers Equal Employment Opportunity Policy People are selected to become members of the Lakeshore family based on skill, merit and mind-boggling talent—not based on race, color, creed, sexual orientation, gender or gender identity, marital status, domestic partnership status, military status, religion, age, national origin, ancestry, alienage, AIDS or AIDS-related complex status, genetic information, predisposition or carrier status, status as a victim of domestic violence, physical or mental disability, or any other characteristic protected by applicable law. If things aren’t equal, we all lose. To learn about how we collect and use Applicant information, please visit our Employee/Applicant Privacy Policy. Lakeshore is an E-Verify employer. We use E-Verify to confirm the employment eligibility of all newly hired employees. Please see the E-Verify Participation Poster and Know Your Rights Poster in English and Spanish for more information. INDRLL1 Company DescriptionAt Lakeshore, we create innovative learning materials and world-class guest experiences for teachers, parents and children. Since 1954, we’ve grown into a global community—with a thriving e-commerce business, multiple catalogs, over 50 stores, a peerless national sales force, plus international offices that support our preeminent supply chain division. But today we’re working better, smarter…",
+    "published": "2026-07-22",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 123000,
+    "salary_max": 185000,
+    "score": 7,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$123,000-$185,000",
+    "emails": [],
     "phones": []
   }
 ]

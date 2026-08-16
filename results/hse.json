@@ -1,29 +1,25 @@
 [
   {
     "source": "linkedin",
-    "title": "QHSE Manager",
-    "company": "Anton",
-    "location": "Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300",
-    "description": "The QHSE Manager is responsible for leading the development, implementation, and continuous improvement of the Quality, Health, Safety, and Environmental (QHSE) management system across the Iraq region. The role ensures operational excellence, regulatory compliance, customer satisfaction, and risk management while supporting safe and efficient project execution across all business operations. Key Responsibilities: QHSE Strategy & Management System Development Develop and implement the regional QHSE strategy aligned with corporate objectives and international standards. Establish and continuously improve the Quality, Health, Safety, and Environmental Management System. Standardize QHSE policies, procedures, operating standards, templates, and risk management processes across all operations. Drive continuous improvement initiatives to enhance QHSE performance. Operational QHSE Management & Risk Control Lead QHSE oversight throughout the complete project lifecycle, from project initiation through execution to final delivery. Identify, assess, and manage operational risks associated with: Ensure implementation of the operational control process covering: Ensure technical execution is fully integrated with safety and environmental compliance. Project Risk Management & Emergency Response Develop project risk identification and assessment methodologies. Establish and maintain project risk registers and dynamic risk monitoring systems. Lead emergency response planning, preparedness, and resource coordination. Organize emergency drills and evaluate emergency response effectiveness. Provide leadership during emergency situations, incidents, and crisis management activities. Customer Compliance & Satisfaction Develop and manage customer-focused QHSE performance measurement programs. Conduct regular customer satisfaction surveys related to QHSE performance. Analyze customer feedback and implement improvement actions. Lead customer audits and inspections. Ensure compliance with contractual QHSE requirements and customer standards. Build strong relationships with clients through proactive QHSE engagement. Auditing, Compliance & Corrective Action Management Develop and execute the annual internal QHSE audit program. Conduct inspections across all operational sites, business units, and contractors. Lead incident investigations and Root Cause Analysis (RCA). Develop corrective and preventive action plans (CAPA). Ensure effective closure and verification of all audit findings and corrective actions. Regional Coordination & Operational Support Coordinate QHSE activities across all Iraq operations. Support business units in implementing corporate QHSE initiatives. Facilitate communication between Headquarters and regional operations. Mobilize QHSE support teams QHSE Culture, Training & Competency Development Promote a proactive safety culture across employees, contractors, and leadership teams. Develop and implement annual QHSE training plans. Qualifications: Education Bachelor's degree in Safety Engineering, Quality Management, Petroleum Engineering, Environmental Engineering, or a related discipline. Experience Minimum 8 years of QHSE experience within the oil & gas industry. Minimum 5 years in a QHSE Manager or equivalent leadership role supporting overseas oilfield service projects. Demonstrated experience managing QHSE systems in drilling, well services, production, or oilfield operations. Proven experience leading serious incident investigations, risk management, and corrective action programs. Technical Knowledge Strong knowledge of: ISO 45001 Occupational Health & Safety Management Systems ISO 14001 Environmental Management Systems ISO 9001 Quality Management Systems API Q1 / API Q2 Risk Assessment & Hazard Identification (HIRA/JSA) Incident Investigation & Root Cause Analysis Emergency Response Planning Contractor Management Iraqi HSE regulations and applicable international standards Certifications NEBOSH International Diploma or International General Certificate IOSH Managing Safely or equivalent ISO 9001 Lead Auditor ISO 14001 Lead Auditor ISO 45001 Lead Auditor Registered Safety Engineer or equivalent professional certification Working Conditions Based in Iraq with regular travel to operational sites. Frequent visits to remote field locations. Ability to support emergency response activities outside normal working hours. Willingness to undertake extended regional travel when required. Language Requirements Fluent in Arabic (spoken and written). Professional working proficiency in English .",
-    "published": "2026-07-30",
-    "remote": true,
+    "title": "Environmental Health and Safety Officer",
+    "company": "Rotana Hotels",
+    "location": "Mecca, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 11,
+    "score": 12,
     "title_hits": [
-      "hse"
+      "safety officer",
+      "health and safety",
+      "environmental health",
+      "health and safety officer"
     ],
-    "desc_hits": [
-      "occupational health",
-      "safety engineer",
-      "risk assessment",
-      "iso 45001",
-      "incident investigation",
-      "environmental engineer"
-    ],
-    "gulf_onsite": false,
+    "desc_hits": [],
+    "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
@@ -59,33 +55,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Audit HSE Engineer",
-    "company": "Convergint",
-    "location": "Basra, Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754",
-    "description": "",
-    "published": "2026-08-04",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "accommodation.apply@convergint.com"
-    ],
-    "phones": [],
-    "emails_source": "convergint.com"
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Analyst/ Safety Officer - Offshore",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -113,20 +82,47 @@
   },
   {
     "source": "linkedin",
-    "title": "EHS Engineer",
-    "company": "Leshines",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-leshines-4453619809",
+    "title": "Audit HSE Engineer",
+    "company": "Convergint",
+    "location": "Basra, Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754",
     "description": "",
-    "published": "2026-08-13",
+    "published": "2026-08-04",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "ehs",
-      "ehs engineer"
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "accommodation.apply@convergint.com"
+    ],
+    "phones": [],
+    "emails_source": "convergint.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "Environmental Health and Safety Coordinator",
+    "company": "Rotana Hotels",
+    "location": "Al Khobar, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-coordinator-at-rotana-hotels-4399362703",
+    "description": "",
+    "published": "2026-07-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "health and safety",
+      "environmental health"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -134,34 +130,6 @@
     "salary_str": "",
     "emails": [],
     "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Safety Officer – Warehouse",
-    "company": "Astek Middle East",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-safety-officer-%E2%80%93-warehouse-at-astek-middle-east-4451228774",
-    "description": "",
-    "published": "2026-08-14",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "ehs",
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "info@astek.com"
-    ],
-    "phones": [],
-    "emails_source": "astek.com",
-    "about": "Translation missing: en.sections.slideshow.pause_slideshow Translation missing: en.sections.slideshow.play_slideshow ![Image 3](https://www.astek.com/) ## Opaline Opaline is a study in restraint—where texture, light, and"
   },
   {
     "source": "linkedin",
@@ -216,6 +184,33 @@
   },
   {
     "source": "linkedin",
+    "title": "EHS ENGINEER",
+    "company": "Larsen & Toubro",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258",
+    "description": "",
+    "published": "2026-08-09",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "ehs engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "infodesk@larsentoubro.com"
+    ],
+    "phones": [],
+    "emails_source": "larsentoubro.com"
+  },
+  {
+    "source": "linkedin",
     "title": "Security Advisor",
     "company": "Sardar Group",
     "location": "Erbil, Erbil Governorate, Iraq",
@@ -232,6 +227,31 @@
     ],
     "desc_hits": [
       "risk assessment"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "QHSSE Manager",
+    "company": "T-ALL Inspection",
+    "location": "Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/qhsse-manager-at-t-all-inspection-4443088290",
+    "description": "We are seeking a highly experienced QHSSE Manager to spearhead the evolution of our Integrated Management System (IMS). The successful candidate will be responsible for a comprehensive overhaul of our existing QHSSE framework—conducting rigorous gap analyses against the latest international standards—and ensuring our TIC services remain benchmark leaders in the Oil & Gas and industrial sectors. Key Responsibilities System Overhaul & Gap Analysis: Perform a deep-dive review of the existing QHSSE Manual. Identify and bridge gaps between current practices and the latest versions of ISO 9001, ISO 14001, ISO 45001, and ISO/IEC 17020/17025 . IMS Documentation: Lead the drafting, updating, and streamlining of the Integrated Management System (IMS) to ensure a cohesive \"Digital Ecology\" for asset management and service delivery. Operational Implementation: Drive the rollout of the updated system across all business units, ensuring that field-level NDT and inspection teams operate in full compliance with global safety and quality benchmarks. Audit & Compliance: Establish and execute a robust internal audit schedule. Lead the preparation for external certification bodies and client audits (O&G Operators or major EPCs). Risk Management: Develop advanced risk assessment protocols specifically for high-risk O&G environments, including radiation safety for NDT and pressure vessel inspection safety. Culture & Leadership: Foster a proactive \"Safety First\" culture through continuous training, workshops, and high-level reporting on QHSSE KPIs to senior leadership. Required Qualifications & Experience Education: Bachelor’s degree in Engineering, QHSE Management, or a related technical field. Experience: Minimum of 8–10 years in QHSSE, with at least 5 years specifically within the TIC (Testing, Inspection, and Certification) industry. Standards Expertise: Proven track record in implementing ISO/IEC 17020 (Inspection Body) and ISO/IEC 17025 (Testing/Calibration) is mandatory. Certifications: Lead Auditor certification in ISO 9001/45001. NEBOSH International Diploma or equivalent is highly preferred. Technical Knowledge: Familiarity with NDT methods (UT, RT, MPI, LPI) and industrial inspection standards (API, ASME, AWS). Preferred Competencies Ability to integrate digital/AI-driven reporting tools into traditional QHSSE workflows. Strong communication skills for interacting with international investors and high-level stakeholders. Experience with the Amoeba Management System or similar decentralized accountability models is a significant plus.",
+    "published": "2026-07-21",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [],
+    "desc_hits": [
+      "hse",
+      "risk assessment",
+      "iso 45001"
     ],
     "gulf_onsite": true,
     "salary_ok": false,
@@ -300,6 +320,29 @@
     "score": 3,
     "title_hits": [
       "safety manager"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Safety and Security Officer – Iraq (National)",
+    "company": "ReliefWeb",
+    "location": "Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/safety-and-security-officer-%E2%80%93-iraq-national-at-reliefweb-4454558535",
+    "description": "",
+    "published": "2026-08-14",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "security officer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -530,52 +573,6 @@
     "score": 3,
     "title_hits": [
       "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Field HSE Specialist",
-    "company": "SLB",
-    "location": "Dhahran, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/field-hse-specialist-at-slb-4434932794",
-    "description": "",
-    "published": "2026-08-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Occupational Health, Safety & Environment Lead",
-    "company": "Tecnicas Reunidas Saudi Arabia",
-    "location": "Al Khobar, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-environment-lead-at-tecnicas-reunidas-saudi-arabia-4445876642",
-    "description": "",
-    "published": "2026-08-03",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "occupational health"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
