@@ -2525,6 +2525,24 @@
       "company": "Softgic",
       "source": "jobicy",
       "first_seen": "2026-08-16"
+    },
+    "https://weworkremotely.com/remote-jobs/hightouch-application-security-lead": {
+      "title": "Hightouch: Application Security Lead",
+      "company": "Hightouch",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-16"
+    },
+    "https://weworkremotely.com/remote-jobs/vercel-grc-analyst": {
+      "title": "Vercel: GRC Analyst",
+      "company": "Vercel",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-16"
+    },
+    "https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent": {
+      "title": "Vercel: Member of the Technical Staff, Internal Agent",
+      "company": "Vercel",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-16"
     }
   },
   "applied": {
