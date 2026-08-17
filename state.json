@@ -2591,6 +2591,12 @@
       "company": "NetDocuments",
       "source": "jobicy",
       "first_seen": "2026-08-16"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4455217464": {
+      "title": "HSE Manager",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-17"
     }
   },
   "applied": {
