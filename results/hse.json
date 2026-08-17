@@ -109,33 +109,27 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Parsons Corporation",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200",
+    "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
+    "company": "Abdullah Al-Othaim Markets",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467",
     "description": "",
-    "published": "2026-08-13",
+    "published": "2026-08-12",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "hse",
-      "hse engineer"
+      "occupational health",
+      "safety specialist"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "cybersecurity@parsons.com"
-    ],
-    "phones": [
-      "+17039888500"
-    ],
-    "emails_source": "parsons.com",
-    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -166,58 +160,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
-    "company": "Abdullah Al-Othaim Markets",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467",
-    "description": "",
-    "published": "2026-08-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "occupational health",
-      "safety specialist"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Safety Officer – Warehouse",
-    "company": "Astek Middle East",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-safety-officer-%E2%80%93-warehouse-at-astek-middle-east-4451228774",
-    "description": "",
-    "published": "2026-08-14",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "ehs",
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "info@astek.com"
-    ],
-    "phones": [],
-    "emails_source": "astek.com",
-    "about": "Translation missing: en.sections.slideshow.pause_slideshow Translation missing: en.sections.slideshow.play_slideshow ![Image 3](https://www.astek.com/) ## Opaline Opaline is a study in restraint—where texture, light, and"
-  },
-  {
-    "source": "linkedin",
     "title": "EHS ENGINEER",
     "company": "Larsen & Toubro",
     "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -237,8 +179,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "infodesk@larsentoubro.com"
+    ],
+    "phones": [],
+    "emails_source": "larsentoubro.com"
   },
   {
     "source": "linkedin",
@@ -336,12 +281,104 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Parsons Corporation",
+    "title": "HSE Specialist",
+    "company": "Worley",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4453607207",
+    "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-worley-4453081834",
+    "description": "",
+    "published": "2026-08-12",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Manager – HSE Oil & Gas",
+    "company": "AD Ports Group",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/manager-%E2%80%93-hse-oil-gas-at-ad-ports-group-4444238359",
+    "description": "",
+    "published": "2026-08-13",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Officer",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-officer-at-penspen-4416149306",
     "description": "",
     "published": "2026-08-14",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Office, Site",
+    "company": "KBR, Inc.",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-office-site-at-kbr-inc-4454071396",
+    "description": "",
+    "published": "2026-08-13",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Specialist",
+    "company": "Wood",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-wood-4450233139",
+    "description": "",
+    "published": "2026-08-06",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -411,29 +448,6 @@
     "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-kbr-inc-4451957728",
     "description": "",
     "published": "2026-08-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer | Trakhees License holder",
-    "company": "ABU ALNAGA CONTRACTING",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-trakhees-license-holder-at-abu-alnaga-contracting-4451711308",
-    "description": "",
-    "published": "2026-08-15",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -556,29 +570,6 @@
     "score": 3,
     "title_hits": [
       "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer",
-    "company": "Tekfen Construction",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-officer-at-tekfen-construction-4442010627",
-    "description": "",
-    "published": "2026-07-20",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
