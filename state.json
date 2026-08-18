@@ -3369,6 +3369,13 @@
       "to": "support@information.com",
       "title": "Warehouseman / MHE Operator (Southwest Asia)",
       "company": "General Dynamics Information Technology"
+    },
+    "https://jobicy.com/jobs/150995-security-specialist-emea-location-flexible::email": {
+      "date": "2026-08-18 22:51",
+      "via": "email",
+      "to": "paytransparency@clickhouse.com",
+      "title": "Security Specialist - EMEA (location flexible)",
+      "company": "Clickhouse"
     }
   },
   "sent": {
@@ -3596,6 +3603,11 @@
       "kind": "email",
       "to": "support@information.com",
       "date": "2026-08-17 22:23"
+    },
+    "https://jobicy.com/jobs/150995-security-specialist-emea-location-flexible": {
+      "kind": "email",
+      "to": "paytransparency@clickhouse.com",
+      "date": "2026-08-18 22:51"
     }
   },
   "replies": []
