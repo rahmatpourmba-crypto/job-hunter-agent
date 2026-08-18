@@ -2801,6 +2801,18 @@
       "company": "Amazon",
       "source": "linkedin",
       "first_seen": "2026-08-18"
+    },
+    "https://jobicy.com/jobs/151026-security-engineer": {
+      "title": "Security Engineer",
+      "company": "Figma",
+      "source": "jobicy",
+      "first_seen": "2026-08-18"
+    },
+    "https://jobicy.com/jobs/151020-infrastructure-engineer-brazil": {
+      "title": "Infrastructure Engineer (Brazil)",
+      "company": "Articul8",
+      "source": "jobicy",
+      "first_seen": "2026-08-18"
     }
   },
   "applied": {
