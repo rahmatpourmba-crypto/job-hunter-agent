@@ -2681,6 +2681,18 @@
       "company": "Phaidra",
       "source": "jobicy",
       "first_seen": "2026-08-18"
+    },
+    "https://ae.linkedin.com/jobs/view/health-and-safety-officer-at-gulbahar-4455593645": {
+      "title": "Health and Safety Officer",
+      "company": "GULBAHAR",
+      "source": "linkedin",
+      "first_seen": "2026-08-18"
+    },
+    "https://iq.linkedin.com/jobs/view/back-end-developer-at-national-bank-of-iraq-4454701084": {
+      "title": "Back End Developer",
+      "company": "National Bank of Iraq",
+      "source": "linkedin",
+      "first_seen": "2026-08-18"
     }
   },
   "applied": {

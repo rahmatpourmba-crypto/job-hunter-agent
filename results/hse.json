@@ -26,6 +26,31 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Health and Safety Officer",
+    "company": "GULBAHAR",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/health-and-safety-officer-at-gulbahar-4455593645",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 9,
+    "title_hits": [
+      "safety officer",
+      "health and safety",
+      "health and safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -109,57 +134,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "PrimeGate for Communications and IT",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602",
-    "description": "",
-    "published": "2026-08-06",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Senior Environmental Engineer - HSE Manager",
-    "company": "Penspen",
-    "location": "Khafji, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474",
-    "description": "",
-    "published": "2026-08-15",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "environmental engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
     "title": "EHS Safety Officer – Warehouse",
     "company": "Astek Middle East",
     "location": "Jeddah, Makkah, Saudi Arabia",
@@ -188,20 +162,20 @@
   },
   {
     "source": "linkedin",
-    "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
-    "company": "Abdullah Al-Othaim Markets",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467",
+    "title": "Health and Safety Manager (Saudi National)",
+    "company": "Mace",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-manager-saudi-national-at-mace-4437772041",
     "description": "",
-    "published": "2026-08-12",
+    "published": "2026-07-28",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "occupational health",
-      "safety specialist"
+      "safety manager",
+      "health and safety"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -231,8 +205,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
   },
   {
     "source": "linkedin",
@@ -538,19 +515,19 @@
   },
   {
     "source": "linkedin",
-    "title": "Health Safety Environment Engineer",
-    "company": "iHR (International Human Resources)",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-ihr-international-human-resources-4452294411",
+    "title": "Safety Officer",
+    "company": "Nesma United Industries",
+    "location": "Yanbu, Al Madinah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-nesma-united-industries-4447902154",
     "description": "",
-    "published": "",
+    "published": "2026-08-03",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "health safety environment"
+      "safety officer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -561,19 +538,42 @@
   },
   {
     "source": "linkedin",
-    "title": "Health Safety Environment Officer - Eastern Province",
-    "company": "Confidential Careers",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-eastern-province-at-confidential-careers-4447378638",
+    "title": "HSE Coordinator",
+    "company": "H&P",
+    "location": "Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-coordinator-at-h-p-4414740905",
     "description": "",
-    "published": "2026-08-05",
+    "published": "2026-08-09",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "health safety environment"
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Field HSE Specialist",
+    "company": "SLB",
+    "location": "Dhahran, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/field-hse-specialist-at-slb-4434932794",
+    "description": "",
+    "published": "2026-08-11",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
