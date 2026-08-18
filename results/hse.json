@@ -55,33 +55,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Audit HSE Engineer",
-    "company": "Convergint",
-    "location": "Basra, Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754",
-    "description": "",
-    "published": "2026-08-04",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "accommodation.apply@convergint.com"
-    ],
-    "phones": [],
-    "emails_source": "convergint.com"
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Analyst/ Safety Officer - Offshore",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -137,6 +110,57 @@
   },
   {
     "source": "linkedin",
+    "title": "Audit HSE Engineer",
+    "company": "Convergint",
+    "location": "Basra, Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/audit-hse-engineer-at-convergint-4326124754",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "accommodation.apply@convergint.com"
+    ],
+    "phones": [],
+    "emails_source": "convergint.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "Occupational Health & Safety Specialist (Saudi Nationals)",
+    "company": "Abdullah Al-Othaim Markets",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-specialist-saudi-nationals-at-abdullah-al-othaim-markets-4453072467",
+    "description": "",
+    "published": "2026-08-12",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "occupational health",
+      "safety specialist"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Security Advisor",
     "company": "Sardar Group",
     "location": "Erbil, Erbil Governorate, Iraq",
@@ -154,29 +178,6 @@
     "desc_hits": [
       "risk assessment"
     ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "QHSE Manager",
-    "company": "Anton",
-    "location": "Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/qhse-manager-at-anton-4445038300",
-    "description": "",
-    "published": "2026-07-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
