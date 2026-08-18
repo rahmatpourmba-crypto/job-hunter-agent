@@ -2765,6 +2765,18 @@
       "company": "OKX",
       "source": "jobicy",
       "first_seen": "2026-08-18"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-at-mbrf-4455752438": {
+      "title": "HSE Officer",
+      "company": "MBRF",
+      "source": "linkedin",
+      "first_seen": "2026-08-18"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-techneptune-consulting-inc-4452812792": {
+      "title": "Blockchain Engineer",
+      "company": "TechNeptune Consulting Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-08-18"
     }
   },
   "applied": {
