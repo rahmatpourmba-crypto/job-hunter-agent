@@ -2903,6 +2903,12 @@
       "company": "HireAlpha",
       "source": "linkedin",
       "first_seen": "2026-08-19"
+    },
+    "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build": {
+      "title": "Senior Site Reliability Engineer (Remote Build)",
+      "company": "Remote",
+      "source": "jobicy",
+      "first_seen": "2026-08-19"
     }
   },
   "applied": {
