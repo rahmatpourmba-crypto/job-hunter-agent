@@ -2975,6 +2975,12 @@
       "company": "Binance",
       "source": "jobicy",
       "first_seen": "2026-08-19"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4456310037": {
+      "title": "HSE Engineer",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-19"
     }
   },
   "applied": {
