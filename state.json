@@ -3017,6 +3017,12 @@
       "company": "Leshines",
       "source": "linkedin",
       "first_seen": "2026-08-20"
+    },
+    "https://www.gulftalent.com/uae/jobs/qhse-inspector-623734": {
+      "title": "QHSE Inspector",
+      "company": "Veolia",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-08-20"
     }
   },
   "applied": {
