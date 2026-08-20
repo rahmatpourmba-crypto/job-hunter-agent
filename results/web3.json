@@ -1,5 +1,38 @@
 [
   {
+    "source": "linkedin",
+    "title": "Solidity/Solana Smart Contract Developer",
+    "company": "Gaurav Dot One",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/solidity-solana-smart-contract-developer-at-gaurav-dot-one-4455689978",
+    "description": "EngineeringRemote Worldwide (Remote) Full-time engineering About The Role Join us as a Smart Contract Developer specializing in Solidity and Solana. You'll architect and implement secure, gas-efficient smart contracts for DeFi protocols, NFT platforms, and cross-chain bridges. Security and optimization are paramount. Responsibilities Design and implement smart contracts in Solidity and Rust Conduct security audits and vulnerability assessments Optimize contracts for gas efficiency Write comprehensive test suites for all contracts Document contract architecture and interfaces Collaborate on protocol design decisions Stay updated with latest blockchain security practices Requirements 2+ years of smart contract development Deep expertise in Solidity or Rust/Anchor Strong understanding of EVM and Solana runtime Experience with contract security best practices Familiarity with common attack vectors Track record of deployed mainnet contracts Strong algorithmic thinking Nice to Have Experience with formal verification Knowledge of MEV and flashloans Cross-chain bridge development DeFi protocol experience Security audit experience Tech Stack SolidityRustAnchorHardhatFoundryOpenZeppelinWeb3.jsEthers.js",
+    "published": "",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 17,
+    "title_hits": [
+      "solidity",
+      "smart contract"
+    ],
+    "desc_hits": [
+      "blockchain",
+      "web3",
+      "defi",
+      "audit",
+      "security",
+      "hardhat",
+      "foundry",
+      "nft"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Senior Application Security Engineer",
     "company": "Consensys",
@@ -27,39 +60,6 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$130,000-$218,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-07-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "audit",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
     "emails": [],
     "phones": []
   },
