@@ -3083,6 +3083,24 @@
       "company": "BNB Chain",
       "source": "linkedin",
       "first_seen": "2026-08-20"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-infrastructure-at-parsons-corporation-4456776395": {
+      "title": "HSE Manager (Infrastructure)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-20"
+    },
+    "https://jobicy.com/jobs/151224-software-engineer-security-observability": {
+      "title": "Software Engineer, Security Observability",
+      "company": "OpenAI",
+      "source": "jobicy",
+      "first_seen": "2026-08-20"
+    },
+    "https://jobicy.com/jobs/151221-senior-technical-program-manager-security": {
+      "title": "Senior Technical Program Manager - Security",
+      "company": "OpenAI",
+      "source": "jobicy",
+      "first_seen": "2026-08-20"
     }
   },
   "applied": {
