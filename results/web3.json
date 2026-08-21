@@ -1,5 +1,40 @@
 [
   {
+    "source": "linkedin",
+    "title": "Blockchain Developer",
+    "company": "Altimetrik",
+    "location": "New York City Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488",
+    "description": "Altimetrik delivers outcomes for our clients by rapidly enabling digital business & culture and infuse speed and agility into enterprise technology and connected solutions. We are practitioners of end-to-end business and technology transformation. We tap into an organization’s technology, people, and assets to fuel fast, meaningful results for global enterprise customers across financial services, payments, retail, automotive, healthcare, manufacturing, and other industries. Founded in 2012 and with offices across the globe, Altimetrik makes industries, leaders and Fortune 500 companies more agile, empowered and successful. Altimetrik helps get companies get “unstuck”. We’re a technology company that lives organizations a process and context to solve problems in unconventional ways. We’re a catalyst for organization’s talent and technology, helping teams push boundaries and challenge traditional approaches. We make delivery more bold, efficient, collaborative and even more enjoyable. Job Description Role: Blockchain Developer Location: NYC/NJC Position Type: Fulltime Qualifications / Experience Bachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plus 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development, including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices, containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools",
+    "published": "2026-07-28",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 15,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "web3",
+      "polygon",
+      "crypto",
+      "token",
+      "security",
+      "hardhat"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": [
+      "+12482812500"
+    ],
+    "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
+  },
+  {
     "source": "jobicy",
     "title": "Senior Application Security Engineer",
     "company": "Consensys",
@@ -120,66 +155,6 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$140,000-$597,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Smart Contract Engineer",
-    "company": "RBC",
-    "location": "Jersey City, NJ",
-    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-rbc-4454831329",
-    "description": "Job Description Primary Responsibilities Design, develop, test, maintain and optimize all smart contracts. Research & evaluate relevant technologies and develop prototype solutions. Work with team to gather functional requirements and translate them into technical specifications. This includes interfacing with project managers, business analysts and end users. Ensure software security by adopting a defensive approach to software development (both happy and unhappy paths) and Principle of Least Privilege (especially as this comes to blockchains). Document developed software by providing appropriate developer docs, architecture diagrams and user guides. Share knowledge with junior developers and help newcomers quickly onboard into the team. Collaborate with other team members on resolving technical issues, improving current products and developing new ones. Follow standard dev-ops practices and SDLC principles. (where applicable) Help establish best practices, conventions and selection of development tools. Ensure adequate code reviews are conducted and technical standards are upheld. Work with Project Managers and stakeholders on goals, planning and delivery roadmaps. Authorities, Impact, Risk Decision Authority: all project deliverables, non-prod environments, consulted by production support on PROD environment setup and maintenance (where applicable). Scope, complexity & risk: decision making for all projects; high complexity tasks. Sizing: large Impact; immediate and within team as well as group wide. Working Conditions Open Office Plan Occasional off-hours and weekend work may be required within the position. Key Relationships Developers within current team and collaborative teams. Project managers, Business Analysts and QA. Production support teams. Helpdesk, Infrastructure and Application support teams. Offshore support and development teams. Working groups, technology/architecture groups. PMO and finance/budgetary teams. Outside consultants. Vendors. Required Education/Experience Holds a university degree and or equivalent work experience. Excellent technical skills and familiarity with wide array of technologies. The Expected Salary Range For The Above Position Is $135,000 - $225,000 Depending On Factors Including But Not Limited To The Candidate's Experience, Skills, Registration Status; Market Conditions; And Business Needs. This Salary Range Does Not Include Other Elements Of Total Compensation, Including A Discretionary Bonus And Benefits Such As A 401(K) Program With Company-Matching Contributions; Health, Dental, Vision, Life And Disability Insurance; And Paid Time-Off Plan. RBC's Compensation Philosophy And Principles Recognize The Importance Of A Highly Qualified Global Workforce And Plays A Critical Role In Attracting, Engaging And Retaining Talent That: Drives RBC's High Performance Culture Enables Collective Achievement Of Our Strategic Goals Generates Sustainable Shareholder Returns And Above Market Shareholder Value Preferred Education/Experience University degree Strong exposure to web3. Experience with modern technologies and dev-ops. Poses strong grasp on modern design pattern and architectures. Working with offshore, remote and onsite teams. Behavioural Competencies Be able to work across multiple facets of a project and juggle tasks across multiple projects at the same time. Be Able to communicate both orally and in writing and clearly articulate technical issues, solutions and architecture. Innovative / entrepreneurial. Excellent interpersonal and problem-solving skills. Proven team player. Technical Competencies Smart Contract Security Decentralized Application Patterns Familiarity with at least two Smart Contract Languages (Solidity, DAML, Move, Vyper, Rust, Cairo, Clarity etc.) Familiarity with Contract testing frameworks Defi primitives Decentralized Architecture patterns (state / gas optmizations etc.) MEV awareness and mitigation strategies Job Skills Application Development, Application Integrations, Application Maintenance, Applications Architecture, Detail-Oriented, Enterprise Application Delivery, Group Problem Solving, Programming Languages, Software Development Life Cycle (SDLC), System Applications Additional Job Details Address: CNB, 30 HUDSON STREET:JERSEY CITY City: Jersey City Country: United States of America Work hours/week: 40 Employment Type: Full time Platform: CAPITAL MARKETS Job Type: Regular Pay Type: Salaried Posted Date: 2026-08-14 Application Deadline: 2026-09-25 Note : Applications will be accepted until 11:59 PM on the day prior to the application deadline date above Our Employment Opportunities At RBC, we are guided by living shared values of Client First, Integrity, Collaboration, Respect and Excellence and winning together as One RBC. We believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all. Join our Talent Community Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you. Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com</a/span> RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.",
-    "published": "2026-08-15",
-    "remote": true,
-    "currency": null,
-    "salary_min": 135000,
-    "salary_max": 225000,
-    "score": 12,
-    "title_hits": [
-      "smart contract"
-    ],
-    "desc_hits": [
-      "solidity",
-      "blockchain",
-      "web3",
-      "defi",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$135,000-$225,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Senior Blockchain Engineer",
-    "company": "Ondo Finance",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-ondo-finance-4444080332",
-    "description": "About The Role As a Senior Blockchain Engineer at Ondo, you will own the design of our smart contract systems - not just the contracts themselves, but how they're deployed, secured, monitored, and managed across their entire lifetime, and how they connect to the people and products that depend on them. You'll design secure, efficient, and scalable smart contract solutions across many blockchain ecosystems powering Real World Asset (RWA) tokenization. But the harder and more important part of this role is everything around the contract: keeping it secure from deploy through every day it's live, building tooling that lets non-technical teammates safely view and manage on-chain state, and creating automated systems that take manual, error-prone work off the table. You'll think about how a smart contract design decision ripples outward, to the web app, to the teams operating the system day to day, and ultimately to our end users. You'll collaborate with product, legal, compliance, web, and ops to make sure contracts are technically sound, regulatorily aligned, and genuinely operable by the teams who rely on them day to day. Throughout, you'll favor simple, elegant designs that let us move quickly and safely. This is a unique opportunity to shape the future of finance by building the systems that bring real-world assets on-chain, and by making those systems something a whole organization can build on with confidence. Responsibilities Smart Contract System Design: Architect entire smart contract systems for Ondo's evolving product suite — covering new chain deployments, novel DeFi interoperability and bridging solutions, and DeFi protocols — with security, operability, and long-term maintainability designed in from the start. Lifecycle Security & Operations: Own contract security not just at deploy but across the full lifetime of the system — including upgrade safety, administrative controls, and the operational guardrails that keep things safe as they evolve. Tooling & Automation: Build tooling and automated systems that let non-technical teammates safely view, monitor, and manage contracts without writing scripts or touching raw chain operations directly. Cross-Functional Integration: Connect smart contract design to the rest of the product — helping the web team integrate cleanly, helping operational teams monitor and manage without direct scripting, and ensuring design decisions flow sensibly through to end users. Technical Leadership: Serve as tech lead and subject matter expert for blockchain projects, guiding the engineering team toward high-impact, scalable solutions and making sound technical decisions aligned with long-term goals. Requirements Based in PT, MT, CT, or ET time zones. Excellent technical and non-technical communication skills, verbal and written. Bachelor's degree in Computer Science, Engineering, or a related technical field. 5+ years of software engineering experience. 3+ years in blockchain engineering, ideally from another DeFi protocol live on multiple chains. Strong competency with Solidity; exposure to non-EVM smart contract languages a plus — particularly Solana. Demonstrated ability to design systems, not just contracts — including tooling, automation, security across the contract lifecycle, and the integration points between contracts, applications, and operational teams. Proven results building and scaling a DeFi protocol. Python and/or TypeScript experience preferred (for building tooling and automation). Strong technical grasp and excellent judgment on task prioritization. Strong emphasis on understanding the \"why\" behind requirements and a commitment to defining the \"minimum scope.\" What We Offer Competitive compensation including salary, future token rights, and/or equity (according to your preferences) — we're well-funded and believe that great talent deserves great compensation. Full benefits (medical, vision, and dental) and flexible vacation policy (PTO). Small remote-first team across many countries — you'll be an early team member helping shape our vision, culture, and design practices. A+ colleagues — our team includes alumni from: Goldman Sachs, Blackrock, Two Sigma, Bridgewater, SpaceX, AWS, Meta, Google, McKinsey, Circle, Uniswap. Best-in-class investors — we are proud to be backed by leading crypto experts and VCs, including Pantera Capital, Founders Fund and Coinbase Ventures.",
-    "published": "2026-07-24",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "crypto",
-      "token",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
     "emails": [],
     "phones": []
   },
@@ -654,6 +629,29 @@
     "emails": [
       "applicationassistance@sailpoint.com"
     ],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Manager of IT Security",
+    "company": "Lakeshore Learning Materials, LLC",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/149591-manager-of-it-security",
+    "description": "Company Description At Lakeshore, we create innovative learning materials and world-class guest experiences for teachers, parents and children. Since 1954, we’ve grown into a global community—with a thriving e-commerce business, multiple catalogs, over 50 stores, a peerless national sales force, plus international offices that support our preeminent supply chain division. But today we’re working better, smarter and faster than ever—and setting our sights even higher. We’re building an infrastructure designed for scalability, embracing data-driven decision-making and using technology to improve efficiency and ensure the best tools for the best work. Most importantly, we continue to invest in a diverse team of inquisitive top talent who fuel each other’s passions and curiosity, take risks, try new things and believe that every new day brings opportunities for growth. Job Description Lakeshore Learning's products end up in the hands of millions of children, educators, and families — and keeping those interactions safe starts with the security of our systems. As our Manager of IT Security , you'll lead a team of security engineers and analysts protecting Lakeshore across vulnerability management, incident detection and response, and identity and access management. You'll help shape how we think about security as we grow, partnering across the business to reduce risk and develop a security program that's built to last. This is a remote role; candidates must be able to work effectively in a distributed environment and are welcome to apply from anywhere in the U.S. A day on the job looks like this: Leading, coaching, and developing a team of security engineers and analysts — setting clear expectations, giving direct feedback and building the individual capabilities that make the whole team stronger Guiding your team through the day-to-day work of vulnerability management, incident detection and response, and identity and access management, keeping quality high and risks in check Driving execution of multi-year security initiatives, helping translate strategy into execution and keeping work moving when priorities or conditions shift Partnering with senior stakeholders/leadership to develop and maintain information security policies, procedures, GRC, procedures and plans that reflect where the organization is and where it's headed Evaluating security technologies and controls — from proof-of-concept testing to vendor partnerships — and leading implementation and continuous improvement efforts that measurably strengthen our security posture Spotting the root causes behind technical and operational problems, not just the surface symptoms, and leading your team to solutions that hold up over time Qualifications Got the skills and experience? Here’s what we’re looking for: Required 5+ years of hands-on experience in information security, with meaningful exposure across multiple domains such as vulnerability management, incident response, endpoint security, or identity and access management 2+ years of experience leading a team of security professionals, including hiring, coaching, performance management and career development Working experience securing both on-premises and cloud environments, with a solid understanding of cloud networking and operations concepts Demonstrated ability to communicate security risks and recommendations clearly to both technical teams and non-technical stakeholders Experience contributing to or executing security roadmaps, policies or programs in a growing or maturing organization Preferred: Bachelor's degree in Information Security, Computer Science or a related field. CISSP or equivalent security certification 8+ years of experience in information security 5+ years of people management experience in a security or technology function What sets you apart: You give feedback early and often — specific, direct and framed around growth — because you know that's how good teams get better When something breaks, you're wired to ask why it broke before you ask how to fix it, and you bring your team along in that thinking You can hold your own in a room with senior leadership and shift perspectives when the security risk is real — without losing the trust of the engineers you're representing You keep your team pointed at a shared goal even when the work is fragmented, ambiguous, or moving fast Additional Information And here’s our end of the bargain! At Lakeshore, we pay local market wages for employees that reside within Los Angeles and Orange Counties. For employees residing outside of Los Angeles and Orange Counties, pay is based on national market. For this position, new employees joining Lakeshore are typically brought into the organization at a salary rate between $123,000-$185,000 depending on relevant experience & skillset. This range is indicative of projected hiring range. The annual base compensation will take into account each candidate's relevant experience, location, and skillset. Bonus eligible Paid leave for new parents to support work/life balance and family bonding Excellent medical/dental and vision coverage—EPO, PPO and HSA 401(k) retirement plan with company contribution (because you will retire someday) Flexible benefits—choose what you like, ignore the rest On-site preschool for our employees’ children On-site employee gym for all levels/fitness needs Generous employee discount Casual dress…and we really mean it At Lakeshore, we know our diversity makes us stronger, and when everyone feels included and valued, we all win. We strive to embrace our differences and create an intentionally diverse and inclusive community that is representative of the teachers, families and children we serve. We know we couldn’t do the extraordinary things we’re doing without the people on our team. Thanks to the passion and enthusiasm of this spectacular group, Lakeshore is more than a great place to work—it’s a great experience to be part of. Day in and day out, we give everything we’ve got to create products that instill a sense of wonder and foster a true love of learning. To help maintain this high bar for success, we’re constantly on the lookout for people to join us. So if you’re a down-to-earth professional who shares our desire for making a difference, we’d love to hear from you. To learn more about Lakeshore, visit www.lakeshorelearning.com/careers Equal Employment Opportunity Policy People are selected to become members of the Lakeshore family based on skill, merit and mind-boggling talent—not based on race, color, creed, sexual orientation, gender or gender identity, marital status, domestic partnership status, military status, religion, age, national origin, ancestry, alienage, AIDS or AIDS-related complex status, genetic information, predisposition or carrier status, status as a victim of domestic violence, physical or mental disability, or any other characteristic protected by applicable law. If things aren’t equal, we all lose. To learn about how we collect and use Applicant information, please visit our Employee/Applicant Privacy Policy. Lakeshore is an E-Verify employer. We use E-Verify to confirm the employment eligibility of all newly hired employees. Please see the E-Verify Participation Poster and Know Your Rights Poster in English and Spanish for more information. INDRLL1 Company DescriptionAt Lakeshore, we create innovative learning materials and world-class guest experiences for teachers, parents and children. Since 1954, we’ve grown into a global community—with a thriving e-commerce business, multiple catalogs, over 50 stores, a peerless national sales force, plus international offices that support our preeminent supply chain division. But today we’re working better, smarter…",
+    "published": "2026-07-22",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 123000,
+    "salary_max": 185000,
+    "score": 7,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$123,000-$185,000",
+    "emails": [],
     "phones": []
   }
 ]
