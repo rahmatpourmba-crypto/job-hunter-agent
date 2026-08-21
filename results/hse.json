@@ -271,6 +271,30 @@
   },
   {
     "source": "linkedin",
+    "title": "Environmental Health Safety Specialist",
+    "company": "Right Advisors Private Limited",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/environmental-health-safety-specialist-at-right-advisors-private-limited-4456469365",
+    "description": "",
+    "published": "2026-08-20",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "environmental health",
+      "safety specialist"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Officer – Heat Stress & Occupational Safety",
     "company": "Jaheziya",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -285,6 +309,54 @@
     "title_hits": [
       "hse",
       "occupational safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Sr. HSE Engineer | alfanar Electric",
+    "company": "alfanar",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4443145652",
+    "description": "",
+    "published": "2026-07-22",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health and Safety Engineer",
+    "company": "WSP in the Middle East",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
+    "description": "",
+    "published": "2026-08-19",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "safety engineer",
+      "health and safety"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -518,75 +590,6 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health Safety Environment Engineer",
-    "company": "Confidential",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-confidential-4446211617",
-    "description": "",
-    "published": "2026-08-03",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Field HSE Specialist",
-    "company": "SLB",
-    "location": "Dhahran, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/field-hse-specialist-at-slb-4434932794",
-    "description": "",
-    "published": "2026-08-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer (Fresh Graduate)",
-    "company": "UCC Holding",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-officer-fresh-graduate-at-ucc-holding-4432094951",
-    "description": "",
-    "published": "2026-08-19",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,

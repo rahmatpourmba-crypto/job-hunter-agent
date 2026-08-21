@@ -3137,6 +3137,18 @@
       "company": "eMerchantPay",
       "source": "jobicy",
       "first_seen": "2026-08-21"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-specialist-at-emerson-4457311414": {
+      "title": "HSE Specialist",
+      "company": "Emerson",
+      "source": "linkedin",
+      "first_seen": "2026-08-21"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-at-bruders-building-contracting-llc-4454612101": {
+      "title": "Safety Engineer",
+      "company": "Bruders Building Contracting LLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-21"
     }
   },
   "applied": {
