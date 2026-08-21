@@ -3179,6 +3179,12 @@
       "company": "Boulevard",
       "source": "jobicy",
       "first_seen": "2026-08-21"
+    },
+    "https://jobicy.com/jobs/151348-backend-engineer-flag-delivery": {
+      "title": "Backend Engineer, Flag Delivery",
+      "company": "LaunchDarkly",
+      "source": "jobicy",
+      "first_seen": "2026-08-21"
     }
   },
   "applied": {
