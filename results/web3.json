@@ -31,39 +31,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-07-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "audit",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "weworkremotely",
     "title": "Coinbase: Senior Staff Software Engineer - Blockchain Platform",
     "company": "Coinbase",
@@ -649,6 +616,29 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$123,000-$185,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Application Security Engineer",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
+    "url": "https://jobicy.com/jobs/146769-application-security-engineer-2",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role The Security Engineering Team within the Platform Security organization is responsible for the strategic selection, implementation, management, and optimization of cybersecurity tools and technologies that improve security capabilities of the organization's platform. This team is instrumental in fortifying the security posture, proactively identifying and responding to security threats, ensuring the resilience and protection of critical data, systems, and services. We are looking for an Application Security Engineer who will ensure the security of our software by identifying and mitigating vulnerabilities, implementing best security practices, and collaborating with development teams. The ideal candidate will have a strong background in secure coding, vulnerability assessment, and penetration testing. Your responsibilities will include: Build and maintain ASPM tools and their rules. Identify, analyze, and remediate application security vulnerabilities using tools like ASPM. Collaborate with development teams to integrate security best practices into the software development lifecycle (SDLC). Conduct manual and automated penetration testing of applications. Develop and maintain secure coding guidelines for development teams. Facilitate threat modeling and risk assessments on new and existing applications. Stay updated on the latest security threats, vulnerabilities, and mitigation techniques. Serve as an application security subject matter expert to other teams. We expect you to have: 4+ years of experience in application security. Strong knowledge of common application security risks (e.g. OWASP Top 10) and how to mitigate them. Experience with secure coding practices in languages such as Python, Go, Java, or JavaScript. Proficiency in a common programming language (such as Go or Python) with a willingness to learn Go, if necessary. Hands-on experience with security testing tools (Burp Suite, ZAP, Semgrep, etc.). Understanding of authentication protocols like SAML or OIDC. Experience in conducting threat-modeling sessions. Strong problem-solving and analytical skills. Good written and verbal communication skills in English. Willingness to learn new things. Being comfortable working independently. It would be an added bonus if you had: Confidence in presenting your ideas and opinions in a manner that can be challenged, while responding well to feedback. Experience in designing, building, and maintaining security automation. Experience in translating compliance and regulation requirements into technical specifications. Experience in exploiting vulnerabilities in web applications, Linux kernels, containers, and networks. Security certifications such as OSCP or OSWE. We conduct coding interviews as part of the process. Pay Transparency We offer competitive compensation and benefits packages. Actual compensation will be determined based on job-related factors, including experience, skills, qualifications, the level at which the candidate is hired, and geographic location, consistent with applicable law. Base Compensation Range €75.000—€240.000 EUR Benefits & Perks: Competitive compensation Career growth and learning opportunities Flexibility and ownership Collaborative and innovative culture Opportunity to work on impactful AI projects International environment and talented teams What's it like to work at Nebius: Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI Equal Opportunity Statement: Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. If you need accommodations during the application process, please let us know. About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From…",
+    "published": "2026-08-18",
+    "remote": true,
+    "currency": "EUR",
+    "salary_min": 81000,
+    "salary_max": 259200,
+    "score": 7,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$81,000-$259,200",
     "emails": [],
     "phones": []
   }
