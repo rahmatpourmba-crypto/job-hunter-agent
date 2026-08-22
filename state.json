@@ -3215,6 +3215,36 @@
       "company": "Builder.io",
       "source": "jobicy",
       "first_seen": "2026-08-22"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-at-aum-development-4455018955": {
+      "title": "Safety Engineer",
+      "company": "Aum Development",
+      "source": "linkedin",
+      "first_seen": "2026-08-22"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer-624530": {
+      "title": "HSE Officer",
+      "company": "Kalyon Holding",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-08-22"
+    },
+    "https://weworkremotely.com/remote-jobs/temporal-technologies-senior-application-security-engineer": {
+      "title": "Temporal Technologies: Senior Application Security Engineer",
+      "company": "Temporal Technologies",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-22"
+    },
+    "https://jobicy.com/jobs/151379-cloud-release-quality-manager": {
+      "title": "Cloud Release Quality Manager",
+      "company": "Legion",
+      "source": "jobicy",
+      "first_seen": "2026-08-22"
+    },
+    "https://jobicy.com/jobs/151374-chief-architect": {
+      "title": "Chief Architect",
+      "company": "Legion",
+      "source": "jobicy",
+      "first_seen": "2026-08-22"
     }
   },
   "applied": {
