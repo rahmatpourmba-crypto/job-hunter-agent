@@ -1,29 +1,25 @@
 [
   {
     "source": "linkedin",
-    "title": "Environment, Health and Safety Manager",
-    "company": "TASC Towers",
-    "location": "Baghdad Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/environment-health-and-safety-manager-at-tasc-towers-4452591431",
-    "description": "Job Purpose: The HSE Manager will be responsible for developing and implementing HSE policies, procedures, and programs to ensure compliance with regulatory requirements and maintain a safe working environment at TASC Towers Iraq. The role will conduct risk assessments, provide guidance and support to management and employees, conduct audits and inspections, and develop and deliver HSE training programs. Roles and Responsibilities: Develop, implement, and maintain a comprehensive HSE management system, including policies, procedures, and guidelines, to ensure compliance with local and international HSE regulations, industry standards, and company requirements. Monitor and evaluate the effectiveness of HSE management systems and practices through regular audits, inspections, and reviews, identifying areas for improvement and implementing corrective actions as necessary. Promote a strong HSE culture within the organization by providing regular training and awareness programs, fostering employee engagement, and leading by example. Investigate accidents, incidents, and near-misses, ensuring proper documentation, root cause analysis, and implementation of corrective and preventive actions to prevent a recurrence. Collaborate with project and operations teams to identify potential risks and hazards and implement appropriate risk mitigation measures. Liaise with local authorities, clients, and contractors to ensure compliance with HSE regulations and requirements, representing the company in HSE-related meetings and forums. Ensuring that emergency response and evacuation plans are tailored to the specific challenges and constraints of operating in Iraq, including limited infrastructure, remote locations, and ongoing security risks. Monitor and analyse HSE performance data, identifying trends and areas for improvement, and providing regular reports to senior management. Keep up to date with changes in HSE legislation, industry best practices, and emerging risks, ensuring that the company remains compliant and proactive in managing HSE risks. Implementing effective supply chain management processes to ensure that HSE-related equipment, materials, and resources are sourced, stored, and transported safely and efficiently in the challenging Iraqi environment. Manage the HSE budget and resources, ensuring that adequate provisions are made for HSE management activities. Perform any relevant tasks assigned by the Line Manager. Required Qualifications: Education Bachelor’s degree in Environmental Science, Engineering, Occupational Health and Safety, or a related field. Professional HSE certifications such as NEBOSH, OSHA, or IOSH are preferred. Experience 5–7 years of experience in HSE, preferably within the telecommunications or a related industry, with a strong background in managing HSE risks in challenging environments. Competencies Behavioral Excellent communication, negotiation, and interpersonal skills, with the ability to influence and engage stakeholders at all levels of the organization. Proven leadership and team management skills, with the ability to foster a positive and collaborative work environment. Strong problem-solving and decision-making skills. Technical Strong knowledge of local and international HSE regulations, industry standards, and best practices. Strong analytical skills, with the ability to conduct root cause analysis and implement effective corrective and preventive actions. Knowledge of HSE risk assessment and risk mitigation methodologies. Knowledge of incident investigation, HSE audits, and inspection processes. Working Relationships Internal All departments External Clients Vendors and Contractors Government and regulatory authorities TASC Towers offers a dynamic work environment, professional development opportunities, challenging careers, and competitive compensation. TASC Towers is an Equal Opportunity Employer. Employment decisions are made without regard to race, religion, national or ethnic origin, sex, age, disability, or other characteristics protected by applicable law. TASC Towers will only employ those who are legally authorized to work in the country for this opening. Any offer of employment is conditioned upon the successful completion of background verification and any other pre-employment checks as required by company policy and applicable regulations.",
-    "published": "2026-08-18",
-    "remote": true,
+    "title": "Environmental Health and Safety Officer",
+    "company": "Rotana Hotels",
+    "location": "Mecca, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 13,
+    "score": 12,
     "title_hits": [
-      "safety manager",
-      "health and safety"
+      "safety officer",
+      "health and safety",
+      "environmental health",
+      "health and safety officer"
     ],
-    "desc_hits": [
-      "hse",
-      "occupational health",
-      "risk assessment",
-      "incident investigation",
-      "osha"
-    ],
-    "gulf_onsite": false,
+    "desc_hits": [],
+    "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
@@ -89,6 +85,30 @@
   },
   {
     "source": "linkedin",
+    "title": "Environment, Health and Safety Manager",
+    "company": "TASC Towers",
+    "location": "Baghdad Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/environment-health-and-safety-manager-at-tasc-towers-4452591431",
+    "description": "",
+    "published": "2026-08-18",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "safety manager",
+      "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Audit HSE Engineer",
     "company": "Convergint",
     "location": "Basra, Al-Basra Governorate, Iraq",
@@ -144,6 +164,57 @@
   {
     "source": "linkedin",
     "title": "HSE Engineer",
+    "company": "PrimeGate for Communications and IT",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602",
+    "description": "",
+    "published": "2026-08-06",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Senior Environmental Engineer - HSE Manager",
+    "company": "Penspen",
+    "location": "Khafji, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474",
+    "description": "",
+    "published": "2026-08-15",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "environmental engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
     "company": "Parsons Corporation",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200",
@@ -162,14 +233,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "cybersecurity@parsons.com"
-    ],
-    "phones": [
-      "+17039888500"
-    ],
-    "emails_source": "parsons.com",
-    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -192,39 +257,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Safety Officer – Warehouse",
-    "company": "Astek Middle East",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-safety-officer-%E2%80%93-warehouse-at-astek-middle-east-4451228774",
-    "description": "",
-    "published": "2026-08-14",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "ehs",
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "info@astek.com"
-    ],
-    "phones": [],
-    "emails_source": "astek.com",
-    "about": "Translation missing: en.sections.slideshow.pause_slideshow Translation missing: en.sections.slideshow.play_slideshow ![Image 3](https://www.astek.com/) ## Opaline Opaline is a study in restraint—where texture, light, and"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -331,7 +365,7 @@
     "location": "Basra, Al-Basra Governorate, Iraq",
     "url": "https://iq.linkedin.com/jobs/view/senior-process-safety-engineer-at-kbr-inc-4457321593",
     "description": "",
-    "published": "",
+    "published": "2026-08-21",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -515,7 +549,7 @@
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://ae.linkedin.com/jobs/view/environment-health-safety-officer-at-shangri-la-group-4447299636",
     "description": "",
-    "published": "",
+    "published": "2026-08-21",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -539,52 +573,6 @@
     "url": "https://ae.linkedin.com/jobs/view/safety-officer-at-dautom-4451681657",
     "description": "",
     "published": "2026-08-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer — Oil & Gas / Energy (Offshore/Onshore)",
-    "company": "TalentOne",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-%E2%80%94-oil-gas-energy-offshore-onshore-at-talentone-4453528704",
-    "description": "",
-    "published": "2026-08-14",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Safety Officer",
-    "company": "Nesma United Industries",
-    "location": "Yanbu, Al Madinah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-nesma-united-industries-4447902154",
-    "description": "",
-    "published": "2026-08-03",
     "remote": false,
     "currency": null,
     "salary_min": null,
