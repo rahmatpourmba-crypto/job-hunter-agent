@@ -259,54 +259,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Health and Safety Engineer",
-    "company": "WSP in the Middle East",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
-    "description": "",
-    "published": "2026-08-19",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety engineer",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Engineer",
-    "company": "Guardian Industries",
-    "location": "Jubail, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-guardian-industries-4444152160",
-    "description": "",
-    "published": "2026-08-20",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "ehs",
-      "ehs engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "QHSE Manager",
     "company": "Anton",
     "location": "Al-Basra Governorate, Iraq",
@@ -573,6 +525,52 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Engineer",
+    "company": "Confidential",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-confidential-4446211617",
+    "description": "",
+    "published": "2026-08-03",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Field HSE Specialist",
+    "company": "SLB",
+    "location": "Dhahran, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/field-hse-specialist-at-slb-4434932794",
+    "description": "",
+    "published": "2026-08-11",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
