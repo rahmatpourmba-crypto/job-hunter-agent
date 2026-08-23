@@ -1,5 +1,31 @@
 [
   {
+    "source": "linkedin",
+    "title": "Environmental Health and Safety Officer",
+    "company": "Rotana Hotels",
+    "location": "Mecca, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 12,
+    "title_hits": [
+      "safety officer",
+      "health and safety",
+      "environmental health",
+      "health and safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -204,33 +230,6 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Safety Officer – Warehouse",
-    "company": "Astek Middle East",
-    "location": "Jeddah, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-safety-officer-%E2%80%93-warehouse-at-astek-middle-east-4451228774",
-    "description": "",
-    "published": "2026-08-14",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "ehs",
-      "safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
     "emails": [],
     "phones": []
   },
@@ -425,29 +424,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Airfield Safety Manager",
-    "company": "V2X Inc",
-    "location": "Balad, Saladin Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4439448621",
-    "description": "",
-    "published": "2026-07-24",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety manager"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Manager (Infrastructure)",
     "company": "Parsons Corporation",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -576,6 +552,29 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Manager",
+    "company": "Parsons Corporation",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4455217464",
+    "description": "",
+    "published": "2026-08-17",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
