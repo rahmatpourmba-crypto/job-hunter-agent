@@ -3305,6 +3305,12 @@
       "company": "Parsons Corporation",
       "source": "linkedin",
       "first_seen": "2026-08-23"
+    },
+    "https://www.gulftalent.com/iraq/jobs/aviation-security-avsec-instructor-624648": {
+      "title": "Aviation Security (AVSEC) Instructor",
+      "company": "Teebat Karbala",
+      "source": "gulftalent_iraq",
+      "first_seen": "2026-08-23"
     }
   },
   "applied": {
