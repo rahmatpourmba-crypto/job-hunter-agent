@@ -1,5 +1,40 @@
 [
   {
+    "source": "linkedin",
+    "title": "Blockchain Developer",
+    "company": "Altimetrik",
+    "location": "New York City Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488",
+    "description": "Altimetrik delivers outcomes for our clients by rapidly enabling digital business & culture and infuse speed and agility into enterprise technology and connected solutions. We are practitioners of end-to-end business and technology transformation. We tap into an organization’s technology, people, and assets to fuel fast, meaningful results for global enterprise customers across financial services, payments, retail, automotive, healthcare, manufacturing, and other industries. Founded in 2012 and with offices across the globe, Altimetrik makes industries, leaders and Fortune 500 companies more agile, empowered and successful. Altimetrik helps get companies get “unstuck”. We’re a technology company that lives organizations a process and context to solve problems in unconventional ways. We’re a catalyst for organization’s talent and technology, helping teams push boundaries and challenge traditional approaches. We make delivery more bold, efficient, collaborative and even more enjoyable. Job Description Role: Blockchain Developer Location: NYC/NJC Position Type: Fulltime Qualifications / Experience Bachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plus 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development, including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices, containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools",
+    "published": "2026-07-28",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 15,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "web3",
+      "polygon",
+      "crypto",
+      "token",
+      "security",
+      "hardhat"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": [
+      "+12482812500"
+    ],
+    "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
+  },
+  {
     "source": "jobicy",
     "title": "Senior Application Security Engineer",
     "company": "Consensys",
@@ -94,35 +129,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Smart Contract Engineer",
-    "company": "RBC",
-    "location": "Jersey City, NJ",
-    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-rbc-4454831329",
-    "description": "Job Description Primary Responsibilities Design, develop, test, maintain and optimize all smart contracts. Research & evaluate relevant technologies and develop prototype solutions. Work with team to gather functional requirements and translate them into technical specifications. This includes interfacing with project managers, business analysts and end users. Ensure software security by adopting a defensive approach to software development (both happy and unhappy paths) and Principle of Least Privilege (especially as this comes to blockchains). Document developed software by providing appropriate developer docs, architecture diagrams and user guides. Share knowledge with junior developers and help newcomers quickly onboard into the team. Collaborate with other team members on resolving technical issues, improving current products and developing new ones. Follow standard dev-ops practices and SDLC principles. (where applicable) Help establish best practices, conventions and selection of development tools. Ensure adequate code reviews are conducted and technical standards are upheld. Work with Project Managers and stakeholders on goals, planning and delivery roadmaps. Authorities, Impact, Risk Decision Authority: all project deliverables, non-prod environments, consulted by production support on PROD environment setup and maintenance (where applicable). Scope, complexity & risk: decision making for all projects; high complexity tasks. Sizing: large Impact; immediate and within team as well as group wide. Working Conditions Open Office Plan Occasional off-hours and weekend work may be required within the position. Key Relationships Developers within current team and collaborative teams. Project managers, Business Analysts and QA. Production support teams. Helpdesk, Infrastructure and Application support teams. Offshore support and development teams. Working groups, technology/architecture groups. PMO and finance/budgetary teams. Outside consultants. Vendors. Required Education/Experience Holds a university degree and or equivalent work experience. Excellent technical skills and familiarity with wide array of technologies. The Expected Salary Range For The Above Position Is $135,000 - $225,000 Depending On Factors Including But Not Limited To The Candidate's Experience, Skills, Registration Status; Market Conditions; And Business Needs. This Salary Range Does Not Include Other Elements Of Total Compensation, Including A Discretionary Bonus And Benefits Such As A 401(K) Program With Company-Matching Contributions; Health, Dental, Vision, Life And Disability Insurance; And Paid Time-Off Plan. RBC's Compensation Philosophy And Principles Recognize The Importance Of A Highly Qualified Global Workforce And Plays A Critical Role In Attracting, Engaging And Retaining Talent That: Drives RBC's High Performance Culture Enables Collective Achievement Of Our Strategic Goals Generates Sustainable Shareholder Returns And Above Market Shareholder Value Preferred Education/Experience University degree Strong exposure to web3. Experience with modern technologies and dev-ops. Poses strong grasp on modern design pattern and architectures. Working with offshore, remote and onsite teams. Behavioural Competencies Be able to work across multiple facets of a project and juggle tasks across multiple projects at the same time. Be Able to communicate both orally and in writing and clearly articulate technical issues, solutions and architecture. Innovative / entrepreneurial. Excellent interpersonal and problem-solving skills. Proven team player. Technical Competencies Smart Contract Security Decentralized Application Patterns Familiarity with at least two Smart Contract Languages (Solidity, DAML, Move, Vyper, Rust, Cairo, Clarity etc.) Familiarity with Contract testing frameworks Defi primitives Decentralized Architecture patterns (state / gas optmizations etc.) MEV awareness and mitigation strategies Job Skills Application Development, Application Integrations, Application Maintenance, Applications Architecture, Detail-Oriented, Enterprise Application Delivery, Group Problem Solving, Programming Languages, Software Development Life Cycle (SDLC), System Applications Additional Job Details Address: CNB, 30 HUDSON STREET:JERSEY CITY City: Jersey City Country: United States of America Work hours/week: 40 Employment Type: Full time Platform: CAPITAL MARKETS Job Type: Regular Pay Type: Salaried Posted Date: 2026-08-14 Application Deadline: 2026-09-25 Note : Applications will be accepted until 11:59 PM on the day prior to the application deadline date above Our Employment Opportunities At RBC, we are guided by living shared values of Client First, Integrity, Collaboration, Respect and Excellence and winning together as One RBC. We believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all. Join our Talent Community Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you. Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com</a/span> RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.",
-    "published": "2026-08-15",
-    "remote": true,
-    "currency": null,
-    "salary_min": 135000,
-    "salary_max": 225000,
-    "score": 12,
-    "title_hits": [
-      "smart contract"
-    ],
-    "desc_hits": [
-      "solidity",
-      "blockchain",
-      "web3",
-      "defi",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$135,000-$225,000",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Product Marketing Lead - Trade",
     "company": "Consensys",
@@ -201,6 +207,34 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$130,600-$192,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Staff Security Architect",
+    "company": "Kraken",
+    "location": "EMEA,  LATAM,  Canada,  Europe",
+    "url": "https://jobicy.com/jobs/144336-staff-security-architect",
+    "description": "Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology. What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world. Before you apply, please read the Kraken Culture page to learn more about our internal culture, values, and mission. We also expect candidates to familiarize themselves with the Kraken app. Learn how to create a Kraken account here . As a fully remote company, we have Krakenites in 70+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security , crypto education , and world-class client support through our products like Kraken Pro , Desktop , Wallet , and Kraken Futures . Become a Krakenite and build the future of crypto! Proof of work The team We are seeking a skilled & hands-on Senior Security Architect for Kraken Security Labs. Kraken Security Labs provides boutique-style, deeply technical internal security consulting on current and future products. We don't merely provide high-level guidance but indeed get deeply embedded in the different engineering teams and do not mind hands-on work. Our projects span from classical infrastructure security projects, over cryptography, web3, and complex Rust projects, to securing our next generation of AI products. You will work in a small, highly technical team and collaborate with teams all across the company & world. The opportunity Design, review & verify robust security architecture in a heterogeneous environment Conduct thorough security assessments and audits of existing architectures, recommending practical improvements Stay updated with latest (blockchain) security trends, threats and mitigation techniques Provide expertise to our blockchain teams, ensuring secure operational practices Skills you should HODL Proven experience as an IT security expert, with a strong background in application security Experience in security testing diverse application Experience with infrastructure security Basic familiarity with security frameworks (OWASP, NIST, etc) Excellent problem-solving skills and the ability to work in a dynamic, fast-paced environment Strong communication and collaboration skills to effectively remotely work with stakeholders across the organization Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis. Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution. We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto! We may ask candidates to complete job-related skills or work-style assessments as part of our hiring process. These assessments are designed to evaluate competencies relevant to the role and are applied consistently across candidates for similar positions. Assessment results are considered alongside other relevant information, such as experience and interviews, and are not the sole basis for any employment decision. As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws. Stay in the know Follow us on Twitter Learn on the Kraken Blog Connect on LinkedIn Candidate Privacy Notice Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of…",
+    "published": "2026-08-23",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 9,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "blockchain",
+      "web3",
+      "crypto",
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
     "emails": [],
     "phones": []
   },
@@ -386,31 +420,6 @@
     "phones": []
   },
   {
-    "source": "jobicy",
-    "title": "Technical Program Manager, Security",
-    "company": "Figma",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/142690-technical-program-manager-security-2",
-    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us! We’re looking for an expert Technical Program Manager (TPM) to support our Security Operations team. In this role, you’ll partner with our Business and Technology teams to lead cross-functional programs that are critical to how we manage risk and secure our organization. You’ll ensure alignment across teams, deliver on commitments, develop solutions, and clear roadblocks so we can move forward together. Beyond execution, you’ll roll up your sleeves to shape how teams work together—championing security practices, strengthening operations, and solving tough problems with scalable, repeatable practices. This is a full time role that can be held from one of our US hubs or remotely in the United States. What you’ll do at Figma: Own end-to-end program execution for security, compliance, and infrastructure initiatives—managing dependencies, milestones, risks, and reporting at a portfolio level Lead highly cross-functional programs, using strong project management skills to deliver complex initiatives in a collaborative and transparent way Drive project alignment by handling dependencies, guiding technical discussions, facilitating decision making, and ensuring the right conversations happen at the right time Influence outcomes by building trusted, strong partnerships across the organization Champion effective ways of working—finding the right balance of tools, structure & practices while continuously improving how we collaborate and deliver on our commitments We'd love to hear from you if you have: 5+ years of program or project management experience in a cloud or SaaS environment supporting enterprise technology or security teams Strong understanding of information security principles and controls, including data protection, access management, and application security Ability to dive into technical details and apply that knowledge to drive alignment and solve complex challenges Experience communicating complex security risks and tradeoffs to both technical and non-technical audiences Proficiency with project management and collaboration tools (e.g., Asana, Google Workspace, Slack, Zoom, Notion, Figma) and the judgment to apply them effectively based on team needs While not required, it’s an added plus if you also have: PMP & Scrum Certifications Prior experience with identity and access management systems and practices, vendor security and technology governance processes, risk assessments, security investigations, detection and response operations, and incident response Familiarity with security frameworks and standards such as ISO 27001, NIST, and SOC 2, and experience with ITGC frameworks Familiarity with AI/ML risk considerations or AI risk frameworks (NIST AI RMF, OECD, ISO 42001) Experience with using AI tools (e.g Claude Code, Claude Cowork, Open AI Codex, etc) to automate and scale manual processes and decision-making workflows At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Pay Transparency Disclosure If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below. Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information. Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles and an annual bonus plan for eligible non-sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. Annual Base Salary Range:$140,000—$245,000 USD At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status , or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com . These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities. Examples of accommodations include but are not limited to: Holding interviews in an accessible location Enabling closed captioning on video conferencing Ensuring all written communication be compatible with screen readers Changing the mode or format of interviews To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding. By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice . Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together…",
-    "published": "2026-07-27",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 140000,
-    "salary_max": 245000,
-    "score": 7,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$140,000-$245,000",
-    "emails": [
-      "accommodations-ext@figma.com"
-    ],
-    "phones": []
-  },
-  {
     "source": "weworkremotely",
     "title": "Vercel: GRC Analyst",
     "company": "Vercel",
@@ -432,6 +441,29 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$134,000-$202,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Manager of IT Security",
+    "company": "Lakeshore Learning Materials, LLC",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/149591-manager-of-it-security",
+    "description": "Company Description At Lakeshore, we create innovative learning materials and world-class guest experiences for teachers, parents and children. Since 1954, we’ve grown into a global community—with a thriving e-commerce business, multiple catalogs, over 50 stores, a peerless national sales force, plus international offices that support our preeminent supply chain division. But today we’re working better, smarter and faster than ever—and setting our sights even higher. We’re building an infrastructure designed for scalability, embracing data-driven decision-making and using technology to improve efficiency and ensure the best tools for the best work. Most importantly, we continue to invest in a diverse team of inquisitive top talent who fuel each other’s passions and curiosity, take risks, try new things and believe that every new day brings opportunities for growth. Job Description Lakeshore Learning's products end up in the hands of millions of children, educators, and families — and keeping those interactions safe starts with the security of our systems. As our Manager of IT Security , you'll lead a team of security engineers and analysts protecting Lakeshore across vulnerability management, incident detection and response, and identity and access management. You'll help shape how we think about security as we grow, partnering across the business to reduce risk and develop a security program that's built to last. This is a remote role; candidates must be able to work effectively in a distributed environment and are welcome to apply from anywhere in the U.S. A day on the job looks like this: Leading, coaching, and developing a team of security engineers and analysts — setting clear expectations, giving direct feedback and building the individual capabilities that make the whole team stronger Guiding your team through the day-to-day work of vulnerability management, incident detection and response, and identity and access management, keeping quality high and risks in check Driving execution of multi-year security initiatives, helping translate strategy into execution and keeping work moving when priorities or conditions shift Partnering with senior stakeholders/leadership to develop and maintain information security policies, procedures, GRC, procedures and plans that reflect where the organization is and where it's headed Evaluating security technologies and controls — from proof-of-concept testing to vendor partnerships — and leading implementation and continuous improvement efforts that measurably strengthen our security posture Spotting the root causes behind technical and operational problems, not just the surface symptoms, and leading your team to solutions that hold up over time Qualifications Got the skills and experience? Here’s what we’re looking for: Required 5+ years of hands-on experience in information security, with meaningful exposure across multiple domains such as vulnerability management, incident response, endpoint security, or identity and access management 2+ years of experience leading a team of security professionals, including hiring, coaching, performance management and career development Working experience securing both on-premises and cloud environments, with a solid understanding of cloud networking and operations concepts Demonstrated ability to communicate security risks and recommendations clearly to both technical teams and non-technical stakeholders Experience contributing to or executing security roadmaps, policies or programs in a growing or maturing organization Preferred: Bachelor's degree in Information Security, Computer Science or a related field. CISSP or equivalent security certification 8+ years of experience in information security 5+ years of people management experience in a security or technology function What sets you apart: You give feedback early and often — specific, direct and framed around growth — because you know that's how good teams get better When something breaks, you're wired to ask why it broke before you ask how to fix it, and you bring your team along in that thinking You can hold your own in a room with senior leadership and shift perspectives when the security risk is real — without losing the trust of the engineers you're representing You keep your team pointed at a shared goal even when the work is fragmented, ambiguous, or moving fast Additional Information And here’s our end of the bargain! At Lakeshore, we pay local market wages for employees that reside within Los Angeles and Orange Counties. For employees residing outside of Los Angeles and Orange Counties, pay is based on national market. For this position, new employees joining Lakeshore are typically brought into the organization at a salary rate between $123,000-$185,000 depending on relevant experience & skillset. This range is indicative of projected hiring range. The annual base compensation will take into account each candidate's relevant experience, location, and skillset. Bonus eligible Paid leave for new parents to support work/life balance and family bonding Excellent medical/dental and vision coverage—EPO, PPO and HSA 401(k) retirement plan with company contribution (because you will retire someday) Flexible benefits—choose what you like, ignore the rest On-site preschool for our employees’ children On-site employee gym for all levels/fitness needs Generous employee discount Casual dress…and we really mean it At Lakeshore, we know our diversity makes us stronger, and when everyone feels included and valued, we all win. We strive to embrace our differences and create an intentionally diverse and inclusive community that is representative of the teachers, families and children we serve. We know we couldn’t do the extraordinary things we’re doing without the people on our team. Thanks to the passion and enthusiasm of this spectacular group, Lakeshore is more than a great place to work—it’s a great experience to be part of. Day in and day out, we give everything we’ve got to create products that instill a sense of wonder and foster a true love of learning. To help maintain this high bar for success, we’re constantly on the lookout for people to join us. So if you’re a down-to-earth professional who shares our desire for making a difference, we’d love to hear from you. To learn more about Lakeshore, visit www.lakeshorelearning.com/careers Equal Employment Opportunity Policy People are selected to become members of the Lakeshore family based on skill, merit and mind-boggling talent—not based on race, color, creed, sexual orientation, gender or gender identity, marital status, domestic partnership status, military status, religion, age, national origin, ancestry, alienage, AIDS or AIDS-related complex status, genetic information, predisposition or carrier status, status as a victim of domestic violence, physical or mental disability, or any other characteristic protected by applicable law. If things aren’t equal, we all lose. To learn about how we collect and use Applicant information, please visit our Employee/Applicant Privacy Policy. Lakeshore is an E-Verify employer. We use E-Verify to confirm the employment eligibility of all newly hired employees. Please see the E-Verify Participation Poster and Know Your Rights Poster in English and Spanish for more information. INDRLL1 Company DescriptionAt Lakeshore, we create innovative learning materials and world-class guest experiences for teachers, parents and children. Since 1954, we’ve grown into a global community—with a thriving e-commerce business, multiple catalogs, over 50 stores, a peerless national sales force, plus international offices that support our preeminent supply chain division. But today we’re working better, smarter…",
+    "published": "2026-08-23",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 123000,
+    "salary_max": 185000,
+    "score": 7,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$123,000-$185,000",
     "emails": [],
     "phones": []
   },
@@ -611,33 +643,6 @@
       "defi",
       "crypto",
       "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Director of Sales",
-    "company": "Mesh",
-    "location": "Europe",
-    "url": "https://jobicy.com/jobs/149872-director-of-sales-2",
-    "description": "About Mesh At Mesh, our mission is to enable consumers to pay and be paid with any asset. Today, trillions of dollars in tokenized assets exist but remain largely unusable for everyday commerce. Mesh is bridging this gap by making crypto payments reliable, useful, and ubiquitous. We combine a powerful orchestration engine with a seamless consumer app to unlock liquidity for the world. Backed by leading investors like PayPal Ventures, Paradigm, and Galaxy Ventures, we are building the infrastructure for the next era of the global economy. Join us! Mesh is seeking a driven, high performing sales professional with a true hunter mentality to join our team as a Sales Director. This role is ideal for someone who thrives on solving complex problems, building pipeline from the ground up, and closing meaningful net new business. You will own the full sales cycle end to end, from first conversation through signed contract, playing a direct role in expanding Mesh’s footprint in the market. In this hands on role, you will spend the majority of your time generating pipeline, engaging decision makers, and driving active deals forward with urgency. You will take full ownership of your territory, uncover customer pain points, and deliver solutions that create real, measurable impact. This is a fast paced, high ownership environment where strategic selling, outbound prospecting, and a strong drive to win are essential to success. What You'll Do Own revenue generation by building pipeline, advancing deals, and closing business with consistency Master Mesh’s solutions and become a go-to advisor for prospects navigating complex challenges Drive deals forward with urgency from first touch to close, while continuously developing and sustaining a robust, high quality pipeline Forecast with precision, using data and deal insight to guide outcomes Bring the voice of the customer into the company, helping shape product direction and strategy Open doors in target accounts through thoughtful, strategic prospecting Connect the dots between customer pain points and Mesh’s unique value in a compelling way Leverage AI and modern sales tools to work smarter, personalize outreach, and increase win rates Consistently exceed revenue targets and raise the bar for performance across the team Act as a strong ambassador for Mesh by engaging with customers at events and actively building presence across your network Build and close relationships with enterprise customers, navigating complex, high-value deals Who You Are 7+ years of quota-carrying experience with a consistent track record of exceeding targets A strong closer with a team-first mindset who thrives in high-performance environments Deep understanding of fintech, crypto, and Web3 (payments, blockchain, digital assets, DeFi) Skilled in complex, consultative sales using frameworks like MEDDIC, Challenger, or similar Operate as a trusted advisor by staying curious, thinking analytically, and focusing on solving meaningful customer challenges Highly organized and data-driven, with demonstrated experience leveraging AI tools and CRM systems (Salesforce, HubSpot) to improve forecasting accuracy and sales performance Excellent communicator with the ability to influence stakeholders at all levels Bring a founder’s mindset by taking full ownership, moving with urgency, and consistently raising the standard for yourself and those around you What We Value in our Teammates Intellectually Curious: You always want to learn more about your customers' pain points and improve the product. Founder’s Attitude: You take full ownership and responsibility over outcomes. You’re a force of nature that gets the job done no matter what it takes. Force Multiplier: Your presence, positivity, and drive inspire others to step up their game. Constantly Learning: You’re always pushing yourself to learn more, whether that is to be a better sales professional, better leader, etc. You’re not satisfied with the status quo. Why You’ll Love It Here At Mesh, you're not stepping into a typical role—you're joining a rocket ship in mid-liftoff. You'll tackle complex, meaningful problems that actually move an industry forward, working alongside a sharp, motivated team that moves quickly, collaborates deeply, and expects everyone to operate with ownership. This is the kind of place where you'll see your work ship fast, make real impact, and be able to point to something and say, \"I built that.\" You'll grow fast, level up your skills, and get a front-row seat to how a high-growth company scales from the inside, with competitive comp, solid benefits, and room to stretch your craft all coming standard. If you're energized by building, learning, and shaping something big—this is where you'll want to be. In-Office Expectations Employees based in our San Francisco, New York, and Bangalore hubs are expected to work from the office at least 40% of the time (approximately two days per week). This expectation may vary slightly depending on role, team, and business needs. Certain roles that require closer cross-functional collaboration or operational support may have additional in-office requirements, which will be discussed during the interview process. Our hybrid approach is designed to balance meaningful in-person collaboration, team building, and real-time decision-making with the flexibility to work remotely. We believe this structure supports strong execution while preserving autonomy and focus time. How We Care For Our Team We believe great work happens when people feel valued and supported. That starts with competitive salary and equity that grows as you and the company grow, plus comprehensive health coverage for you and your family. We offer unlimited PTO—and we mean it. Take the time you need to recharge and show up at your best. We're invested in your growth with a dedicated budget for courses, conferences, and certifications. Work from wherever you're most productive with our remote-friendly approach, and count on having the top-tier tools and equipment you need to do exceptional work. Mesh Pay is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, and non-job related physical or mental disability, or protected veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. About Mesh At Mesh, our mission is to enable consumers to pay and be paid with any asset. Today, trillions of dollars in tokenized assets exist but remain largely unusable for everyday commerce. Mesh is bridging this gap by making crypto payments reliable, useful, and ubiquitous. We combine a powerful orchestration engine with a seamless…",
-    "published": "2026-07-30",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "web3",
-      "defi",
-      "crypto",
-      "token"
     ],
     "gulf_onsite": false,
     "salary_ok": false,
