@@ -157,35 +157,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Talent Pool - Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/talent-pool-software-engineer-blockchain-smart-contracts-at-1inch-4446973485",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission This is not an active vacancy. Instead, we're building a network of exceptional Blockchain Engineers (Smart Contracts) who have successfully completed our interview process and are ready to join 1inch when new positions become available. Our engineering needs evolve rapidly, and we're always looking to connect with exceptional smart contract developers who want to help shape the future of DeFi. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges. Successful candidates who pass the interview process will join our Pre-Qualified Talent Network. This means that when a suitable position becomes available, you'll be among the first people we consider, allowing us to move quickly through the final hiring stages and, where appropriate, straight to an offer. What You'll Do Contribute to the design and optimisation of scalable, secure, and high-performance blockchain architectures Develop, integrate, test, and maintain smart contracts and decentralised protocol components Conduct technical research and support proof-of-concept initiatives for new blockchain and DeFi features Contribute to cross-chain interoperability solutions, including bridging and atomic swap mechanisms Improve execution efficiency and optimise smart contract logic for gas consumption and performance Collaborate with engineering and security teams to identify vulnerabilities and strengthen protocol reliability Participate in code reviews, testing, CI/CD workflows, and engineering best practices Work closely with cross-functional teams to support successful product delivery and continuous improvement Who You Are Professional experience building and operating backend systems in production environments Strong proficiency in Golang, Typescript or another backend/systems programming language with practical concurrency and performance knowledge Solid understanding of system design fundamentals including services, data flows, reliability, and maintainability Familiarity with blockchain platforms, smart contracts, transaction handling, and on-chain integrations Experience working with containerised services and modern deployment practices Strong problem-solving skills and ability to work effectively in fast-paced engineering environments Ability to balance technical quality, scalability, and operational reliability At senior level, experience owning projects end-to-end and contributing to architectural decision-making Nice to haves Experience contributing to open-source blockchain or Web3 projects Familiarity with zero-knowledge technologies or rollup architectures Experience building distributed systems or low-latency infrastructure Understanding of blockchain infrastructure automation and deployment tooling Experience working in high-growth startup or scale-up environments 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-07-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 10,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "web3",
-      "defi",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Security Specialist - EMEA (location flexible)",
     "company": "Clickhouse",
@@ -645,6 +616,33 @@
       "defi",
       "crypto",
       "dapp"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Quant Risk Analyst, Derivatives (EU timezone)",
+    "company": "Binance",
+    "location": "Europe",
+    "url": "https://jobicy.com/jobs/148225-quant-risk-analyst-derivatives-eu-timezone",
+    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. Working Hours: EU Timezone | 5 days per week including some weekends About The Opportunity: You will join a team of risk & trading professionals, serving as the first line of defense against irregular market movements. The team is responsible to ensure our users and company are well protected by identifying early signs of high risk activities (i.e liquidation events, high volatility periods) . In addition to real-time monitoring, you will also have the opportunity to work on risk alerts/tools enhancements. Responsibilities Monitor and assess key risk areas within derivatives/margin, looking into unusual trading patterns to prevent manipulative trades Develop risk models/alerts/tools/dashboards, enhancing the monitoring capaibilities Conduct daily review, and root cause analysis of the incidents Prepare accurate risk reports and findings to relevant team in a timely manner. Explore the usage of AI and automation for trading risk monitoring Proactively share timely updates on market developments/news and demonstrate deep expertise in market dynamics. Implement and maintain risk policies and procedures in alignment with organizational strategy and evolving market conditions to prevent, mitigate, and eliminate risks. Requirements You’re curious and passionate about cryptocurrency derivatives Able to work shift, 5 days per week (Including some weekends) Good knowledge of Crypto Derivatives, with defi knowledge as an added bonus (being aware of the latest developments can help in this role). Bachelors' Degree, preferably related to Mathematics, Quant Finance, Financial Engineering Experience in AI and automation is an added bonus Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice . Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance…",
+    "published": "2026-08-05",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "blockchain",
+      "web3",
+      "defi",
+      "crypto",
+      "security"
     ],
     "gulf_onsite": false,
     "salary_ok": false,
