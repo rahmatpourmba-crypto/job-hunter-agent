@@ -3263,6 +3263,12 @@
       "company": "KBR",
       "source": "gulftalent_iraq",
       "first_seen": "2026-08-23"
+    },
+    "https://iq.linkedin.com/jobs/view/director-of-cyber-security-at-ruyat-technologies-4457874530": {
+      "title": "Director of Cyber Security",
+      "company": "Ruyat Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-08-23"
     }
   },
   "applied": {
