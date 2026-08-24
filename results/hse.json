@@ -1,31 +1,5 @@
 [
   {
-    "source": "linkedin",
-    "title": "Environmental Health and Safety Officer",
-    "company": "Rotana Hotels",
-    "location": "Mecca, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992",
-    "description": "",
-    "published": "2026-08-04",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "safety officer",
-      "health and safety",
-      "environmental health",
-      "health and safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -133,6 +107,57 @@
   },
   {
     "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "PrimeGate for Communications and IT",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602",
+    "description": "",
+    "published": "2026-08-06",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Senior Environmental Engineer - HSE Manager",
+    "company": "Penspen",
+    "location": "Khafji, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474",
+    "description": "",
+    "published": "2026-08-15",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "environmental engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Officer – Heat Stress & Occupational Safety",
     "company": "Jaheziya",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -204,12 +229,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "enquiries@egis.com"
-    ],
-    "phones": [],
-    "emails_source": "egis.com",
-    "about": "Your name * Email * Describe your issue [Send message](javascript:;) We'll get back to you as soon as possible."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -309,44 +330,20 @@
   },
   {
     "source": "linkedin",
-    "title": "Health and Safety Engineer",
-    "company": "WSP in the Middle East",
+    "title": "EHS ENGINEER",
+    "company": "Larsen & Toubro",
     "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258",
     "description": "",
-    "published": "2026-08-19",
+    "published": "2026-08-09",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "safety engineer",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "PrimeGate for Communications and IT",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602",
-    "description": "",
-    "published": "2026-08-06",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
+      "ehs",
+      "ehs engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
