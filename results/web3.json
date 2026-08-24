@@ -34,45 +34,38 @@
   },
   {
     "source": "linkedin",
-    "title": "Web3 VAPT / Security Pen-tester",
-    "company": "QuillAudits | Blockchain Security & OPSEC🥷",
-    "location": "Delaware, United States",
-    "url": "https://www.linkedin.com/jobs/view/web3-vapt-security-pen-tester-at-quillaudits-blockchain-security-opsec%F0%9F%A5%B7-4456212045",
-    "description": "About us🥷: QuillAudits, founded in 2018, is a leading Web3 security company that has secured 1500+ protocols across 25+ blockchains. We partner with DeFi protocols, ecosystems, RWA projects, stablecoin issuers, L2s, infrastructure teams, and companies building with Solidity, Rust, Move, and other blockchain technologies. Today, QuillAudits is evolving beyond audits into a full-stack Web3 security partner, offering security solutions across the entire protocol lifecycle—from audit readiness and smart contract reviews to adversarial testing, formal verification, pentesting, governance reviews, and continuous monitoring. https://www.linkedin.com/company/quillaudits We are looking for a Web3 VAPT / Security Pentester with strong hands-on experience in Web2 + Web3 application security, including dApps, wallets, APIs, and mobile applications. What you will do🚀 : Perform VAPT of Web3 dApps, APIs, wallets, and backend systems. Test wallet integrations, SIWE, signature verification, EIP-712, transaction flows, WalletConnect, and Web3 authentication. Identify Web3 attack vectors including signature/replay attacks, authorization bypass, wallet spoofing, transaction manipulation, business logic flaws, and chain-related issues. Perform Web2/API testing covering OWASP Top 10, IDOR/BOLA, XSS, SSRF, CSRF, JWT/OAuth, injection, authentication and authorization issues. Conduct Android & iOS mobile application security testing, including: * Static/source code review * Dynamic analysis * API and network security testing * Authentication/session testing * Secure storage and cryptography review * Reverse engineering and runtime manipulation Understand the complete attack surface: dApp + Wallet + API + Backend + Blockchain + Mobile. Prepare clear technical reports with PoC, impact, severity, reproduction steps, and remediation. What we are looking for✅: Bachelor's / Master's degree in Computer Science, Information Security, or a related field (or equivalent experience) 2+ years of hands-on VAPT / Application Security experience Strong Web3, dApp, wallet, and blockchain understanding Strong Web2/API security knowledge Experience with Burp Suite and common security testing tools Experience with Android & iOS security testing and source-code review Familiarity with Solidity/EVM, Foundry/Hardhat, ethers.js/viem is a plus. Strong offensive security mindset and ability to work independently on project deadlines. Strong problem-solving skills, attention to detail, and ability to work independently and collaboratively. Why we are awesome 🎉 Flexible Bliss: Flexi-working, remote freedom and a delightful 5-day work week Sparkling Rewards: Performance-based incentives and an attractive salary package that celebrates your skills and mastery in your speciality Energizing Environment: Thrive in an amazing space that fuels inspiration and creativity Boundless Learning: Dive into continuous learning with a generous annual budget for career growth and knowledge enhancement, including a monthly book reading allowance. Worldly Pursuits: Jet-set to global conferences & meetups, and indulge in workations twice a year with the entire team, our treat! Empowered Collaboration: Learn from tech titans and experience a flat organizational structure that opens doors to work closely with the founder and collaborate with industry leaders for a fulfilling career. Pioneering Spirit: Join the blockchain vanguard and shape the future with us! The Quill Mindset 🎯 Q- Quick to Execute, U- Unique & unfaltering go-getter, I- Innovative problem solver, L- Learned & knowledgeable, L- Leader in his/her domain If you think you can match up and are seeking a company that prides itself on its workplace culture, then you could be our next Quill! Our Hiring Process🥷: Application review Technical challenge (Task based screening) Technical Interview Founder's Connect Offer roll-out & your journey as a Quill begins! QuillAudits is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age.",
-    "published": "",
+    "title": "Blockchain Developer",
+    "company": "Altimetrik",
+    "location": "New York City Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488",
+    "description": "Altimetrik delivers outcomes for our clients by rapidly enabling digital business & culture and infuse speed and agility into enterprise technology and connected solutions. We are practitioners of end-to-end business and technology transformation. We tap into an organization’s technology, people, and assets to fuel fast, meaningful results for global enterprise customers across financial services, payments, retail, automotive, healthcare, manufacturing, and other industries. Founded in 2012 and with offices across the globe, Altimetrik makes industries, leaders and Fortune 500 companies more agile, empowered and successful. Altimetrik helps get companies get “unstuck”. We’re a technology company that lives organizations a process and context to solve problems in unconventional ways. We’re a catalyst for organization’s talent and technology, helping teams push boundaries and challenge traditional approaches. We make delivery more bold, efficient, collaborative and even more enjoyable. Job Description Role: Blockchain Developer Location: NYC/NJC Position Type: Fulltime Qualifications / Experience Bachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plus 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development, including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices, containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools",
+    "published": "2026-07-28",
     "remote": true,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 18,
+    "score": 15,
     "title_hits": [
-      "web3",
-      "security"
+      "blockchain"
     ],
     "desc_hits": [
       "solidity",
       "smart contract",
-      "blockchain",
-      "defi",
+      "web3",
+      "polygon",
       "crypto",
-      "audit",
-      "hardhat",
-      "foundry"
+      "token",
+      "security",
+      "hardhat"
     ],
     "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "opsec-mgrs@checkpoint.com"
-    ],
+    "emails": [],
     "phones": [
-      "+18664886691",
-      "+18883615030",
-      "+441144782845",
-      "+441253335558"
+      "+12482812500"
     ],
-    "emails_source": "opsec.com",
-    "about": " [![Image 3: Check Point Software Technologies Ltd.](https://www.checkpoint.com/wp-content/themes/checkpoint-theme-v2/images/checkpoint-logo.svg)](https://www.checkpoint.com/) * [Products](https://www.opsec.com/) * [Hybr"
+    "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
   },
   {
     "source": "jobicy",
@@ -106,39 +99,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-07-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "audit",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Solidity Compiler Frontend Engineer",
     "company": "CertiK",
@@ -165,35 +125,6 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$140,000-$597,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Smart Contract Engineer",
-    "company": "RBC",
-    "location": "Jersey City, NJ",
-    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-rbc-4454831329",
-    "description": "Job Description Primary Responsibilities Design, develop, test, maintain and optimize all smart contracts. Research & evaluate relevant technologies and develop prototype solutions. Work with team to gather functional requirements and translate them into technical specifications. This includes interfacing with project managers, business analysts and end users. Ensure software security by adopting a defensive approach to software development (both happy and unhappy paths) and Principle of Least Privilege (especially as this comes to blockchains). Document developed software by providing appropriate developer docs, architecture diagrams and user guides. Share knowledge with junior developers and help newcomers quickly onboard into the team. Collaborate with other team members on resolving technical issues, improving current products and developing new ones. Follow standard dev-ops practices and SDLC principles. (where applicable) Help establish best practices, conventions and selection of development tools. Ensure adequate code reviews are conducted and technical standards are upheld. Work with Project Managers and stakeholders on goals, planning and delivery roadmaps. Authorities, Impact, Risk Decision Authority: all project deliverables, non-prod environments, consulted by production support on PROD environment setup and maintenance (where applicable). Scope, complexity & risk: decision making for all projects; high complexity tasks. Sizing: large Impact; immediate and within team as well as group wide. Working Conditions Open Office Plan Occasional off-hours and weekend work may be required within the position. Key Relationships Developers within current team and collaborative teams. Project managers, Business Analysts and QA. Production support teams. Helpdesk, Infrastructure and Application support teams. Offshore support and development teams. Working groups, technology/architecture groups. PMO and finance/budgetary teams. Outside consultants. Vendors. Required Education/Experience Holds a university degree and or equivalent work experience. Excellent technical skills and familiarity with wide array of technologies. The Expected Salary Range For The Above Position Is $135,000 - $225,000 Depending On Factors Including But Not Limited To The Candidate's Experience, Skills, Registration Status; Market Conditions; And Business Needs. This Salary Range Does Not Include Other Elements Of Total Compensation, Including A Discretionary Bonus And Benefits Such As A 401(K) Program With Company-Matching Contributions; Health, Dental, Vision, Life And Disability Insurance; And Paid Time-Off Plan. RBC's Compensation Philosophy And Principles Recognize The Importance Of A Highly Qualified Global Workforce And Plays A Critical Role In Attracting, Engaging And Retaining Talent That: Drives RBC's High Performance Culture Enables Collective Achievement Of Our Strategic Goals Generates Sustainable Shareholder Returns And Above Market Shareholder Value Preferred Education/Experience University degree Strong exposure to web3. Experience with modern technologies and dev-ops. Poses strong grasp on modern design pattern and architectures. Working with offshore, remote and onsite teams. Behavioural Competencies Be able to work across multiple facets of a project and juggle tasks across multiple projects at the same time. Be Able to communicate both orally and in writing and clearly articulate technical issues, solutions and architecture. Innovative / entrepreneurial. Excellent interpersonal and problem-solving skills. Proven team player. Technical Competencies Smart Contract Security Decentralized Application Patterns Familiarity with at least two Smart Contract Languages (Solidity, DAML, Move, Vyper, Rust, Cairo, Clarity etc.) Familiarity with Contract testing frameworks Defi primitives Decentralized Architecture patterns (state / gas optmizations etc.) MEV awareness and mitigation strategies Job Skills Application Development, Application Integrations, Application Maintenance, Applications Architecture, Detail-Oriented, Enterprise Application Delivery, Group Problem Solving, Programming Languages, Software Development Life Cycle (SDLC), System Applications Additional Job Details Address: CNB, 30 HUDSON STREET:JERSEY CITY City: Jersey City Country: United States of America Work hours/week: 40 Employment Type: Full time Platform: CAPITAL MARKETS Job Type: Regular Pay Type: Salaried Posted Date: 2026-08-14 Application Deadline: 2026-09-25 Note : Applications will be accepted until 11:59 PM on the day prior to the application deadline date above Our Employment Opportunities At RBC, we are guided by living shared values of Client First, Integrity, Collaboration, Respect and Excellence and winning together as One RBC. We believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all. Join our Talent Community Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you. Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com</a/span> RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.",
-    "published": "2026-08-15",
-    "remote": true,
-    "currency": null,
-    "salary_min": 135000,
-    "salary_max": 225000,
-    "score": 12,
-    "title_hits": [
-      "smart contract"
-    ],
-    "desc_hits": [
-      "solidity",
-      "blockchain",
-      "web3",
-      "defi",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$135,000-$225,000",
     "emails": [],
     "phones": []
   },
@@ -662,6 +593,59 @@
     "desc_hits": [
       "defi",
       "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Product Manager (AI & Blockchain) LATAM",
+    "company": "Airtm",
+    "location": "LATAM",
+    "url": "https://jobicy.com/jobs/151277-product-manager-ai-blockchain-latam",
+    "description": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar economy is difficult. Cross-border payments are slow, expensive, and often lose value to inflation. This limits the potential of millions of talented individuals. Airtm’s solution is a swift and comprehensive financial platform that facilitates low-value cross-border payments and local cash-outs. As pioneers in stablecoin-payment infrastructure, Airtm has built the most advanced cross-border payment system available on the market. As a company married to the world of online work, Airtm will go beyond payments to build the necessary infrastructure the online-work economy needs to thrive. We are fostering an entirely new economy, giving individuals, communities, and countries the tools to take control of their financial destinies. About the role: This is a high-impact role for someone who can connect vision with execution. You'll shape the roadmap, align cross-functional teams, and build scalable solutions involving blockchain products, leveraging AI to solve critical needs for our users and move faster than the competition. Key Responsibilities Define a long-term product vision aligned with Airtm’s mission and goals. Conduct structured customer and market research to deeply understand pain points and opportunities. Translate vision into a realistic, high-leverage roadmap and backlog that balances short-term growth with long-term scalability. Collaborate with engineering, design, legal, compliance, and commercial teams to build and ship features that drive user adoption. Work closely with growth and marketing to accelerate go-to-market adoption and unlock new revenue streams. Identify and champion opportunities to embed AI powered capabilities directly into the product, from intelligent automation and personalization to surfacing insights that help users make better financial decisions. Use AI tools actively in your day-to-day workflow for research, spec writing, competitive analysis, data synthesis and help raise the bar for how the broader team works. Qualifications 5+ years of Product Management experience, ideally in blockchain, fintech or SaaS companies Proven success building and launching consumer facing products Experience in agile environments with cross-functional global teams Strong product intuition backed by analytical rigor Familiarity with crypto, stablecoins, wallets, or blockchain infrastructure Active, practical experience with AI tools (e.g. ChatGPT, Claude, Cursor, Perplexity, Notion AI, or equivalents) You'll be a great fit if you are A confident, data driven, force of nature that knows how to move the needle in a high growth start-up environment. A strategic thinker who can zoom out to market dynamics and zoom in to execution. Genuinely excited about blockchain and crypto. A natural collaborator who communicates clearly across functions and levels. Hands-on with AI tools and always experimenting with what’s next. Highly analytical, but equally comfortable navigating ambiguity and taking ownership. Customer-obsessed, with a strong sense of product-market fit and value delivery. Skilled at balancing long-term bets with short-term wins. Compensation Additional Information About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar economy is difficult. Cross-border payments are…",
+    "published": "2026-08-21",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "defi",
+      "crypto"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "(Senior) Product Director, Local Growth",
+    "company": "OKX",
+    "location": "LATAM,  Hong Kong,  Mexico,  Singapore",
+    "url": "https://jobicy.com/jobs/150798-senior-product-director-local-growth",
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves. Across our multiple offices globally, we are united by our core principles: We Before Me , Do the Right Thing , and Get Things Done . These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more. About The Opportunity OKX is building local exchange businesses from the ground up across multiple emerging and high-growth markets. We are looking for a product leader who has driven a complete 0-to-1 cycle in a priority overseas market — someone who will own the product strategy and local growth playbook for a specific region or country, and be directly accountable for product competitiveness and business growth outcomes in that market. This role sits at the intersection of the Local business team and Global product and engineering. You'll go deep into the local market — translating user profiles, regulatory landscapes, and competitive dynamics into product and growth strategies — while driving Global product and engineering resources to deliver locally, ensuring the product experience and competitiveness actually take off on the ground. We are not prescriptive about which specific region you've built in previously — LatAm, Southeast Asia, Turkey, MENA, or others are all relevant. What matters is that you have personally built a business in an emerging market, closed the growth loop, and can transfer that methodology to OKX's priority regions. This is a product leadership role, not a country general manager role — but you need to operate with near business-owner accountability: responsible for the region's core growth metrics and product competitiveness, not just shipping features. What You’ll Be Doing Regional Product Strategy & Local Growth Planning Own product strategy and local growth planning for a specific region or country, working across the Local business team and Global product and engineering to be directly accountable for local product competitiveness and business growth outcomes. Develop a deep understanding of local user profiles, legal and regulatory frameworks, competitive landscapes, and cultural nuances, and translate these into a comprehensive product competition strategy and channel growth strategy with clear prioritization. Continuously track the local crypto and fintech ecosystem — with a focus on global players and regional leaders across exchanges and fintech — as well as macro factors such as inflation, currency depreciation, and cross-border remittance demand that shape user trading behavior. Local Product Experience & Competitiveness Own the end-to-end local product experience and competitiveness, covering onboarding, fiat deposit, market analysis, trading, and earn — the core stages of the user journey. Build a comprehensive local product feedback loop — from user behavior data and funnel analysis, to local user feedback collection — to identify key bottlenecks and high-leverage opportunities in conversion, retention, and engagement, and drive iterative improvement. Adapt to local market characteristics (inflation-driven demand, competitor switching costs, payment method preferences, etc.) to reduce drop-off from registration to first trade and shorten time-to-first-trade. Channel Growth & Cross-team Collaboration Work with local teams to identify effective user acquisition channels; lead the discovery, introduction, integration, and scaling of high-impact channels. Leverage your local network — KOLs, fintech partners, payment providers, regulatory contacts — to accelerate market entry and growth. Collaborate closely with regional BD, Marketing, Operations, and Global product and engineering to ensure product initiatives align with local growth objectives. What We Look For In You 0-to-1 business building and growth experience in an emerging market (e.g., LatAm, Southeast Asia, Turkey, MENA, or similar) — you can clearly articulate the regional metrics you owned and the business outcomes you delivered. You held a product, strategy, or growth role during the early stage of an international expansion at a tech company or at a high-growth local champion in the region. Comprehensive business growth and user growth methodology — you have fully owned a user funnel (acquisition → activation → retention) and can speak to results with data: CAC, activation rates, D7/D30 retention, LTV, reactivation. Your work was growth experimentation and product intervention, not just media buying. Strong product management capability — you can define product strategy and success metrics, prioritize a roadmap, drive A/B testing, and collaborate with product and engineering to deliver. This is a product leadership role, not a GM or pure growth marketing role. Proven cross-functional collaboration — able to drive alignment across teams (design, engineering, data, commercial), manage external partnerships, and navigate regulatory conversations. Effective at aligning resources between Local and Global organizations. Deep local market knowledge and an established local network — you understand local user behaviors, payment ecosystems (e.g., PIX, SPEI, Mercado Pago, UPI, GCash, DANA, M-Pesa, depending on region), regulatory environments, and competitive dynamics. You have partners, KOLs, and industry relationships in the region that you can activate. Consumer product management experience in fintech, crypto, or trading preferred. Candidates with experience managing or mentoring product teams will be considered for the Senior Product Director level. Excellent written and verbal communication skills in English. Proficiency in Mandarin is a strong plus for effective collaboration with HQ teams. Nice-To-Haves Proficiency in a local language relevant to the target region (Spanish, Portuguese, Bahasa Indonesia, Arabic, Turkish, etc.). Crypto exchange product experience — spot/derivatives trading, order types, fee structures, token listings, and fiat on/off-ramp flows. Familiarity with local payment rails and fiat-to-crypto conversion flows in emerging markets. Hands-on trading experience in FX, equities, or crypto. Perks & Benefits Competitive total compensation package L&D programs and Education subsidy for employees' growth and development Various team building programs and company events Wellness and meal allowances Comprehensive healthcare schemes for employees and dependants More that we love to tell you along the process! Notice: All official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website. Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX's Candidate Privacy Notice . Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large…",
+    "published": "2026-08-15",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "blockchain",
+      "defi",
+      "crypto",
+      "token",
+      "dapp"
     ],
     "gulf_onsite": false,
     "salary_ok": false,
