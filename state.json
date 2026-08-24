@@ -3395,6 +3395,30 @@
       "company": "Egis",
       "source": "linkedin",
       "first_seen": "2026-08-24"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-waste-management-at-al-khayyat-investments-aki-4455855905": {
+      "title": "HSE Officer - Waste Management",
+      "company": "Al Khayyat Investments (AKI)",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-specialist-saudi-national-at-parsons-corporation-4458189512": {
+      "title": "HSE Specialist (Saudi National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-alqotr-4458186853": {
+      "title": "Safety Officer",
+      "company": "Alqotr",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
+    },
+    "https://www.linkedin.com/jobs/view/web3-vapt-security-pen-tester-at-quillaudits-blockchain-security-opsec%F0%9F%A5%B7-4456212045": {
+      "title": "Web3 VAPT / Security Pen-tester",
+      "company": "QuillAudits | Blockchain Security & OPSEC🥷",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
     }
   },
   "applied": {
@@ -3887,6 +3911,13 @@
       "to": "thogard@abnormal.com",
       "title": "Abnormal: Application Security Engineer II",
       "company": "Abnormal"
+    },
+    "https://www.linkedin.com/jobs/view/web3-vapt-security-pen-tester-at-quillaudits-blockchain-security-opsec%F0%9F%A5%B7-4456212045::email": {
+      "date": "2026-08-24 13:48",
+      "via": "email",
+      "to": "opsec-mgrs@checkpoint.com",
+      "title": "Web3 VAPT / Security Pen-tester",
+      "company": "QuillAudits | Blockchain Security & OPSEC🥷"
     }
   },
   "sent": {
@@ -4124,6 +4155,11 @@
       "kind": "email",
       "to": "thogard@abnormal.com",
       "date": "2026-08-24 07:56"
+    },
+    "https://www.linkedin.com/jobs/view/web3-vapt-security-pen-tester-at-quillaudits-blockchain-security-opsec%F0%9F%A5%B7-4456212045": {
+      "kind": "email",
+      "to": "opsec-mgrs@checkpoint.com",
+      "date": "2026-08-24 13:48"
     }
   },
   "replies": []
