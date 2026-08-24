@@ -3419,6 +3419,12 @@
       "company": "QuillAudits | Blockchain Security & OPSEC🥷",
       "source": "linkedin",
       "first_seen": "2026-08-24"
+    },
+    "https://jobicy.com/jobs/151442-security-platform-engineer": {
+      "title": "Security Platform Engineer",
+      "company": "Sporty Group",
+      "source": "jobicy",
+      "first_seen": "2026-08-24"
     }
   },
   "applied": {
@@ -3918,6 +3924,20 @@
       "to": "opsec-mgrs@checkpoint.com",
       "title": "Web3 VAPT / Security Pen-tester",
       "company": "QuillAudits | Blockchain Security & OPSEC🥷"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-specialist-saudi-national-at-egis-4458205732::email": {
+      "date": "2026-08-24 15:37",
+      "via": "email",
+      "to": "enquiries@egis.com",
+      "title": "HSE Engineer/Specialist (Saudi National)",
+      "company": "Egis"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-egis-4458190852::email": {
+      "date": "2026-08-24 15:38",
+      "via": "email",
+      "to": "enquiries@egis.com",
+      "title": "HSE Engineer (Saudi National)",
+      "company": "Egis"
     }
   },
   "sent": {
@@ -4160,6 +4180,16 @@
       "kind": "email",
       "to": "opsec-mgrs@checkpoint.com",
       "date": "2026-08-24 13:48"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-specialist-saudi-national-at-egis-4458205732": {
+      "kind": "email",
+      "to": "enquiries@egis.com",
+      "date": "2026-08-24 15:37"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-egis-4458190852": {
+      "kind": "email",
+      "to": "enquiries@egis.com",
+      "date": "2026-08-24 15:38"
     }
   },
   "replies": []
