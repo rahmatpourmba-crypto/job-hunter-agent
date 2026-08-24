@@ -1,31 +1,5 @@
 [
   {
-    "source": "linkedin",
-    "title": "Environmental Health and Safety Officer",
-    "company": "Rotana Hotels",
-    "location": "Mecca, Makkah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992",
-    "description": "",
-    "published": "2026-08-04",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "safety officer",
-      "health and safety",
-      "environmental health",
-      "health and safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -184,12 +158,12 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Parsons Corporation",
+    "title": "HSE Officer – Heat Stress & Occupational Safety",
+    "company": "Jaheziya",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4453327200",
+    "url": "https://ae.linkedin.com/jobs/view/hse-officer-%E2%80%93-heat-stress-occupational-safety-at-jaheziya-4454904367",
     "description": "",
-    "published": "2026-08-13",
+    "published": "2026-08-18",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -197,37 +171,7 @@
     "score": 6,
     "title_hits": [
       "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "cybersecurity@parsons.com"
-    ],
-    "phones": [
-      "+17039888500"
-    ],
-    "emails_source": "parsons.com",
-    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
-  },
-  {
-    "source": "linkedin",
-    "title": "Sr. HSE Engineer",
-    "company": "KN International",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/sr-hse-engineer-at-kn-international-4450014877",
-    "description": "",
-    "published": "2026-08-07",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
+      "occupational safety"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -257,32 +201,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer – Heat Stress & Occupational Safety",
-    "company": "Jaheziya",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-%E2%80%93-heat-stress-occupational-safety-at-jaheziya-4454904367",
-    "description": "",
-    "published": "2026-08-18",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "occupational safety"
+    "emails": [
+      "contact@penspen.com"
     ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
+    "phones": [],
+    "emails_source": "penspen.com"
   },
   {
     "source": "linkedin",
@@ -334,60 +257,12 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer (Saudi National)",
-    "company": "Egis",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-egis-4458190852",
+    "title": "Sr. HSE Engineer",
+    "company": "KN International",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/sr-hse-engineer-at-kn-international-4450014877",
     "description": "",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health and Safety Engineer",
-    "company": "WSP in the Middle East",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
-    "description": "",
-    "published": "2026-08-19",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety engineer",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer/Specialist (Saudi National)",
-    "company": "Egis",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-specialist-saudi-national-at-egis-4458205732",
-    "description": "",
-    "published": "",
+    "published": "2026-08-07",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -573,6 +448,121 @@
     "url": "https://ae.linkedin.com/jobs/view/hse-specialist-at-wood-4450233139",
     "description": "",
     "published": "2026-08-06",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Environment, Health & Safety Officer",
+    "company": "Shangri-La Group",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/environment-health-safety-officer-at-shangri-la-group-4447299636",
+    "description": "",
+    "published": "2026-08-21",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health, Safety, and Environment (HSE) Advisor",
+    "company": "Weatherford",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/health-safety-and-environment-hse-advisor-at-weatherford-4455715511",
+    "description": "",
+    "published": "2026-08-18",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Officer — Oil & Gas / Energy (Offshore/Onshore)",
+    "company": "TalentOne",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-officer-%E2%80%94-oil-gas-energy-offshore-onshore-at-talentone-4453528704",
+    "description": "",
+    "published": "2026-08-14",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Engineer",
+    "company": "iHR (International Human Resources)",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-ihr-international-human-resources-4452294411",
+    "description": "",
+    "published": "2026-08-17",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Manager (Saudi National)",
+    "company": "Parsons Corporation",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-saudi-national-at-parsons-corporation-4458263142",
+    "description": "",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,

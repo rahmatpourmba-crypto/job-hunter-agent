@@ -3431,6 +3431,12 @@
       "company": "Testlio",
       "source": "jobicy",
       "first_seen": "2026-08-24"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-saudi-national-at-parsons-corporation-4458263142": {
+      "title": "HSE Manager (Saudi National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
     }
   },
   "applied": {
