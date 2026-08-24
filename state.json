@@ -3383,6 +3383,18 @@
       "company": "Lemon.io",
       "source": "weworkremotely",
       "first_seen": "2026-08-24"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-specialist-saudi-national-at-egis-4458205732": {
+      "title": "HSE Engineer/Specialist (Saudi National)",
+      "company": "Egis",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-egis-4458190852": {
+      "title": "HSE Engineer (Saudi National)",
+      "company": "Egis",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
     }
   },
   "applied": {
