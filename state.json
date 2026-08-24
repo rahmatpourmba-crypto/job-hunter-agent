@@ -3365,6 +3365,12 @@
       "company": "RTC-1 Employment Services",
       "source": "gulftalent_uae",
       "first_seen": "2026-08-24"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-and-environment-hse-advisor-at-weatherford-4455715511": {
+      "title": "Health, Safety, and Environment (HSE) Advisor",
+      "company": "Weatherford",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
     }
   },
   "applied": {
