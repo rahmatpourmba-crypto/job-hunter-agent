@@ -3335,6 +3335,30 @@
       "company": "Front End Limited Company",
       "source": "linkedin",
       "first_seen": "2026-08-24"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-%D8%B3%D8%A8%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-sabaq-resources-4455843226": {
+      "title": "Safety Officer",
+      "company": "سبق الموارد Sabaq Resources",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
+    },
+    "https://weworkremotely.com/remote-jobs/abnormal-application-security-engineer-ii": {
+      "title": "Abnormal: Application Security Engineer II",
+      "company": "Abnormal",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-24"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-cloud-security-architect-at-sirar-by-stc-4458171374": {
+      "title": "Senior Cloud Security Architect",
+      "company": "sirar by stc",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
+    },
+    "https://sa.linkedin.com/jobs/view/junior-data-scientist-crypto-fintech-at-why-hiring-4455861166": {
+      "title": "Junior Data Scientist - Crypto & FinTech",
+      "company": "Why Hiring",
+      "source": "linkedin",
+      "first_seen": "2026-08-24"
     }
   },
   "applied": {
@@ -3820,6 +3844,13 @@
       "to": "paytransparency@clickhouse.com",
       "title": "Security Specialist - EMEA (location flexible)",
       "company": "Clickhouse"
+    },
+    "https://weworkremotely.com/remote-jobs/abnormal-application-security-engineer-ii::email": {
+      "date": "2026-08-24 07:56",
+      "via": "email",
+      "to": "thogard@abnormal.com",
+      "title": "Abnormal: Application Security Engineer II",
+      "company": "Abnormal"
     }
   },
   "sent": {
@@ -4052,6 +4083,11 @@
       "kind": "email",
       "to": "paytransparency@clickhouse.com",
       "date": "2026-08-18 22:51"
+    },
+    "https://weworkremotely.com/remote-jobs/abnormal-application-security-engineer-ii": {
+      "kind": "email",
+      "to": "thogard@abnormal.com",
+      "date": "2026-08-24 07:56"
     }
   },
   "replies": []
