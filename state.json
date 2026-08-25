@@ -3545,6 +3545,12 @@
       "company": "TalentOne",
       "source": "linkedin",
       "first_seen": "2026-08-25"
+    },
+    "https://www.gulftalent.com/uae/jobs/qhse-trainer-625193": {
+      "title": "QHSE Trainer",
+      "company": "Veolia",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-08-25"
     }
   },
   "applied": {
