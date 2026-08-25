@@ -99,39 +99,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-07-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "audit",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Solidity Compiler Frontend Engineer",
     "company": "CertiK",
@@ -652,6 +619,33 @@
     "desc_hits": [
       "defi",
       "crypto"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "(Senior) Product Director, Local Growth",
+    "company": "OKX",
+    "location": "LATAM,  Hong Kong,  Mexico,  Singapore",
+    "url": "https://jobicy.com/jobs/150798-senior-product-director-local-growth",
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves. Across our multiple offices globally, we are united by our core principles: We Before Me , Do the Right Thing , and Get Things Done . These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more. About The Opportunity OKX is building local exchange businesses from the ground up across multiple emerging and high-growth markets. We are looking for a product leader who has driven a complete 0-to-1 cycle in a priority overseas market — someone who will own the product strategy and local growth playbook for a specific region or country, and be directly accountable for product competitiveness and business growth outcomes in that market. This role sits at the intersection of the Local business team and Global product and engineering. You'll go deep into the local market — translating user profiles, regulatory landscapes, and competitive dynamics into product and growth strategies — while driving Global product and engineering resources to deliver locally, ensuring the product experience and competitiveness actually take off on the ground. We are not prescriptive about which specific region you've built in previously — LatAm, Southeast Asia, Turkey, MENA, or others are all relevant. What matters is that you have personally built a business in an emerging market, closed the growth loop, and can transfer that methodology to OKX's priority regions. This is a product leadership role, not a country general manager role — but you need to operate with near business-owner accountability: responsible for the region's core growth metrics and product competitiveness, not just shipping features. What You’ll Be Doing Regional Product Strategy & Local Growth Planning Own product strategy and local growth planning for a specific region or country, working across the Local business team and Global product and engineering to be directly accountable for local product competitiveness and business growth outcomes. Develop a deep understanding of local user profiles, legal and regulatory frameworks, competitive landscapes, and cultural nuances, and translate these into a comprehensive product competition strategy and channel growth strategy with clear prioritization. Continuously track the local crypto and fintech ecosystem — with a focus on global players and regional leaders across exchanges and fintech — as well as macro factors such as inflation, currency depreciation, and cross-border remittance demand that shape user trading behavior. Local Product Experience & Competitiveness Own the end-to-end local product experience and competitiveness, covering onboarding, fiat deposit, market analysis, trading, and earn — the core stages of the user journey. Build a comprehensive local product feedback loop — from user behavior data and funnel analysis, to local user feedback collection — to identify key bottlenecks and high-leverage opportunities in conversion, retention, and engagement, and drive iterative improvement. Adapt to local market characteristics (inflation-driven demand, competitor switching costs, payment method preferences, etc.) to reduce drop-off from registration to first trade and shorten time-to-first-trade. Channel Growth & Cross-team Collaboration Work with local teams to identify effective user acquisition channels; lead the discovery, introduction, integration, and scaling of high-impact channels. Leverage your local network — KOLs, fintech partners, payment providers, regulatory contacts — to accelerate market entry and growth. Collaborate closely with regional BD, Marketing, Operations, and Global product and engineering to ensure product initiatives align with local growth objectives. What We Look For In You 0-to-1 business building and growth experience in an emerging market (e.g., LatAm, Southeast Asia, Turkey, MENA, or similar) — you can clearly articulate the regional metrics you owned and the business outcomes you delivered. You held a product, strategy, or growth role during the early stage of an international expansion at a tech company or at a high-growth local champion in the region. Comprehensive business growth and user growth methodology — you have fully owned a user funnel (acquisition → activation → retention) and can speak to results with data: CAC, activation rates, D7/D30 retention, LTV, reactivation. Your work was growth experimentation and product intervention, not just media buying. Strong product management capability — you can define product strategy and success metrics, prioritize a roadmap, drive A/B testing, and collaborate with product and engineering to deliver. This is a product leadership role, not a GM or pure growth marketing role. Proven cross-functional collaboration — able to drive alignment across teams (design, engineering, data, commercial), manage external partnerships, and navigate regulatory conversations. Effective at aligning resources between Local and Global organizations. Deep local market knowledge and an established local network — you understand local user behaviors, payment ecosystems (e.g., PIX, SPEI, Mercado Pago, UPI, GCash, DANA, M-Pesa, depending on region), regulatory environments, and competitive dynamics. You have partners, KOLs, and industry relationships in the region that you can activate. Consumer product management experience in fintech, crypto, or trading preferred. Candidates with experience managing or mentoring product teams will be considered for the Senior Product Director level. Excellent written and verbal communication skills in English. Proficiency in Mandarin is a strong plus for effective collaboration with HQ teams. Nice-To-Haves Proficiency in a local language relevant to the target region (Spanish, Portuguese, Bahasa Indonesia, Arabic, Turkish, etc.). Crypto exchange product experience — spot/derivatives trading, order types, fee structures, token listings, and fiat on/off-ramp flows. Familiarity with local payment rails and fiat-to-crypto conversion flows in emerging markets. Hands-on trading experience in FX, equities, or crypto. Perks & Benefits Competitive total compensation package L&D programs and Education subsidy for employees' growth and development Various team building programs and company events Wellness and meal allowances Comprehensive healthcare schemes for employees and dependants More that we love to tell you along the process! Notice: All official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website. Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX's Candidate Privacy Notice . Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large…",
+    "published": "2026-08-15",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "blockchain",
+      "defi",
+      "crypto",
+      "token",
+      "dapp"
     ],
     "gulf_onsite": false,
     "salary_ok": false,
