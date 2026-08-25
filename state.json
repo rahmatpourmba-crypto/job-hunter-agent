@@ -3533,6 +3533,12 @@
       "company": "Sonatus",
       "source": "jobicy",
       "first_seen": "2026-08-25"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-specialist-at-parsons-corporation-4458189512": {
+      "title": "HSE Specialist",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-25"
     }
   },
   "applied": {
