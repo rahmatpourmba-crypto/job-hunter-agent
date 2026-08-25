@@ -3497,6 +3497,30 @@
       "company": "Anton",
       "source": "linkedin",
       "first_seen": "2026-08-24"
+    },
+    "https://ae.linkedin.com/jobs/view/health-and-safety-officer-uae-national-at-galadari-heavy-equipment-4458575772": {
+      "title": "Health And Safety Officer - UAE National",
+      "company": "Galadari Heavy Equipment",
+      "source": "linkedin",
+      "first_seen": "2026-08-25"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-sahara-maintenance-services-co-ltd-4456571599": {
+      "title": "Safety Engineer",
+      "company": "SAHARA MAINTENANCE SERVICES CO.LTD",
+      "source": "linkedin",
+      "first_seen": "2026-08-25"
+    },
+    "https://jobicy.com/jobs/151538-sales-engineer-french-smb": {
+      "title": "Sales Engineer (French) SMB",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-08-25"
+    },
+    "https://jobicy.com/jobs/151547-commercial-account-executive-benelux": {
+      "title": "Commercial Account Executive - Benelux",
+      "company": "Chainguard",
+      "source": "jobicy",
+      "first_seen": "2026-08-25"
     }
   },
   "applied": {
@@ -4010,6 +4034,13 @@
       "to": "enquiries@egis.com",
       "title": "HSE Engineer (Saudi National)",
       "company": "Egis"
+    },
+    "https://ae.linkedin.com/jobs/view/health-and-safety-officer-uae-national-at-galadari-heavy-equipment-4458575772::email": {
+      "date": "2026-08-25 07:42",
+      "via": "email",
+      "to": "advertising@heavy.com",
+      "title": "Health And Safety Officer - UAE National",
+      "company": "Galadari Heavy Equipment"
     }
   },
   "sent": {
@@ -4262,6 +4293,11 @@
       "kind": "email",
       "to": "enquiries@egis.com",
       "date": "2026-08-24 15:38"
+    },
+    "https://ae.linkedin.com/jobs/view/health-and-safety-officer-uae-national-at-galadari-heavy-equipment-4458575772": {
+      "kind": "email",
+      "to": "advertising@heavy.com",
+      "date": "2026-08-25 07:42"
     }
   },
   "replies": []
