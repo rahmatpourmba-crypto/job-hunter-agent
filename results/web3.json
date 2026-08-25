@@ -99,39 +99,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-07-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "audit",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Solidity Compiler Frontend Engineer",
     "company": "CertiK",
@@ -653,6 +620,32 @@
     "desc_hits": [
       "defi",
       "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Product Manager (AI & Blockchain) LATAM",
+    "company": "Airtm",
+    "location": "LATAM",
+    "url": "https://jobicy.com/jobs/151277-product-manager-ai-blockchain-latam",
+    "description": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar economy is difficult. Cross-border payments are slow, expensive, and often lose value to inflation. This limits the potential of millions of talented individuals. Airtm’s solution is a swift and comprehensive financial platform that facilitates low-value cross-border payments and local cash-outs. As pioneers in stablecoin-payment infrastructure, Airtm has built the most advanced cross-border payment system available on the market. As a company married to the world of online work, Airtm will go beyond payments to build the necessary infrastructure the online-work economy needs to thrive. We are fostering an entirely new economy, giving individuals, communities, and countries the tools to take control of their financial destinies. About the role: This is a high-impact role for someone who can connect vision with execution. You'll shape the roadmap, align cross-functional teams, and build scalable solutions involving blockchain products, leveraging AI to solve critical needs for our users and move faster than the competition. Key Responsibilities Define a long-term product vision aligned with Airtm’s mission and goals. Conduct structured customer and market research to deeply understand pain points and opportunities. Translate vision into a realistic, high-leverage roadmap and backlog that balances short-term growth with long-term scalability. Collaborate with engineering, design, legal, compliance, and commercial teams to build and ship features that drive user adoption. Work closely with growth and marketing to accelerate go-to-market adoption and unlock new revenue streams. Identify and champion opportunities to embed AI powered capabilities directly into the product, from intelligent automation and personalization to surfacing insights that help users make better financial decisions. Use AI tools actively in your day-to-day workflow for research, spec writing, competitive analysis, data synthesis and help raise the bar for how the broader team works. Qualifications 5+ years of Product Management experience, ideally in blockchain, fintech or SaaS companies Proven success building and launching consumer facing products Experience in agile environments with cross-functional global teams Strong product intuition backed by analytical rigor Familiarity with crypto, stablecoins, wallets, or blockchain infrastructure Active, practical experience with AI tools (e.g. ChatGPT, Claude, Cursor, Perplexity, Notion AI, or equivalents) You'll be a great fit if you are A confident, data driven, force of nature that knows how to move the needle in a high growth start-up environment. A strategic thinker who can zoom out to market dynamics and zoom in to execution. Genuinely excited about blockchain and crypto. A natural collaborator who communicates clearly across functions and levels. Hands-on with AI tools and always experimenting with what’s next. Highly analytical, but equally comfortable navigating ambiguity and taking ownership. Customer-obsessed, with a strong sense of product-market fit and value delivery. Skilled at balancing long-term bets with short-term wins. Compensation Additional Information About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar economy is difficult. Cross-border payments are…",
+    "published": "2026-08-21",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "defi",
+      "crypto"
     ],
     "gulf_onsite": false,
     "salary_ok": false,
