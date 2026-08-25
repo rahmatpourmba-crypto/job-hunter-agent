@@ -3557,6 +3557,30 @@
       "company": "Larsen & Toubro",
       "source": "linkedin",
       "first_seen": "2026-08-25"
+    },
+    "https://jobicy.com/jobs/151600-principal-security-engineer": {
+      "title": "Principal Security Engineer",
+      "company": "League",
+      "source": "jobicy",
+      "first_seen": "2026-08-25"
+    },
+    "https://jobicy.com/jobs/151575-senior-software-engineer-next-gen": {
+      "title": "Senior Software Engineer - Next-Gen",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-08-25"
+    },
+    "https://jobicy.com/jobs/151570-senior-product-manager-ai": {
+      "title": "Senior Product Manager - AI",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-08-25"
+    },
+    "https://jobicy.com/jobs/151601-software-engineer-all-levels": {
+      "title": "Software Engineer (All Levels)",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-08-25"
     }
   },
   "applied": {
@@ -4077,6 +4101,13 @@
       "to": "advertising@heavy.com",
       "title": "Health And Safety Officer - UAE National",
       "company": "Galadari Heavy Equipment"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-penspen-4416149306::email": {
+      "date": "2026-08-25 17:57",
+      "via": "email",
+      "to": "contact@penspen.com",
+      "title": "HSE Officer",
+      "company": "Penspen"
     }
   },
   "sent": {
@@ -4334,6 +4365,11 @@
       "kind": "email",
       "to": "advertising@heavy.com",
       "date": "2026-08-25 07:42"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-penspen-4416149306": {
+      "kind": "email",
+      "to": "contact@penspen.com",
+      "date": "2026-08-25 17:57"
     }
   },
   "replies": []
