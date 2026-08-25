@@ -33,41 +33,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Blockchain Developer",
-    "company": "Altimetrik",
-    "location": "New York City Metropolitan Area",
-    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4446335488",
-    "description": "Altimetrik delivers outcomes for our clients by rapidly enabling digital business & culture and infuse speed and agility into enterprise technology and connected solutions. We are practitioners of end-to-end business and technology transformation. We tap into an organization’s technology, people, and assets to fuel fast, meaningful results for global enterprise customers across financial services, payments, retail, automotive, healthcare, manufacturing, and other industries. Founded in 2012 and with offices across the globe, Altimetrik makes industries, leaders and Fortune 500 companies more agile, empowered and successful. Altimetrik helps get companies get “unstuck”. We’re a technology company that lives organizations a process and context to solve problems in unconventional ways. We’re a catalyst for organization’s talent and technology, helping teams push boundaries and challenge traditional approaches. We make delivery more bold, efficient, collaborative and even more enjoyable. Job Description Role: Blockchain Developer Location: NYC/NJC Position Type: Fulltime Qualifications / Experience Bachelor's degree in Computer Science, Engineering, or a related discipline; MS is a plus 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development, including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming, event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices, containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools",
-    "published": "2026-07-28",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 15,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "web3",
-      "polygon",
-      "crypto",
-      "token",
-      "security",
-      "hardhat"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": [
-      "+12482812500"
-    ],
-    "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
-  },
-  {
     "source": "jobicy",
     "title": "Senior Application Security Engineer",
     "company": "Consensys",
@@ -99,6 +64,39 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
+    "company": "1inch",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4446965731",
+    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
+    "published": "2026-07-31",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 14,
+    "title_hits": [
+      "smart contract",
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "web3",
+      "defi",
+      "ethereum",
+      "crypto",
+      "audit",
+      "security",
+      "evm"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Solidity Compiler Frontend Engineer",
     "company": "CertiK",
@@ -125,6 +123,35 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$140,000-$597,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Smart Contract Engineer",
+    "company": "RBC",
+    "location": "Jersey City, NJ",
+    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-rbc-4454831329",
+    "description": "Job Description Primary Responsibilities Design, develop, test, maintain and optimize all smart contracts. Research & evaluate relevant technologies and develop prototype solutions. Work with team to gather functional requirements and translate them into technical specifications. This includes interfacing with project managers, business analysts and end users. Ensure software security by adopting a defensive approach to software development (both happy and unhappy paths) and Principle of Least Privilege (especially as this comes to blockchains). Document developed software by providing appropriate developer docs, architecture diagrams and user guides. Share knowledge with junior developers and help newcomers quickly onboard into the team. Collaborate with other team members on resolving technical issues, improving current products and developing new ones. Follow standard dev-ops practices and SDLC principles. (where applicable) Help establish best practices, conventions and selection of development tools. Ensure adequate code reviews are conducted and technical standards are upheld. Work with Project Managers and stakeholders on goals, planning and delivery roadmaps. Authorities, Impact, Risk Decision Authority: all project deliverables, non-prod environments, consulted by production support on PROD environment setup and maintenance (where applicable). Scope, complexity & risk: decision making for all projects; high complexity tasks. Sizing: large Impact; immediate and within team as well as group wide. Working Conditions Open Office Plan Occasional off-hours and weekend work may be required within the position. Key Relationships Developers within current team and collaborative teams. Project managers, Business Analysts and QA. Production support teams. Helpdesk, Infrastructure and Application support teams. Offshore support and development teams. Working groups, technology/architecture groups. PMO and finance/budgetary teams. Outside consultants. Vendors. Required Education/Experience Holds a university degree and or equivalent work experience. Excellent technical skills and familiarity with wide array of technologies. The Expected Salary Range For The Above Position Is $135,000 - $225,000 Depending On Factors Including But Not Limited To The Candidate's Experience, Skills, Registration Status; Market Conditions; And Business Needs. This Salary Range Does Not Include Other Elements Of Total Compensation, Including A Discretionary Bonus And Benefits Such As A 401(K) Program With Company-Matching Contributions; Health, Dental, Vision, Life And Disability Insurance; And Paid Time-Off Plan. RBC's Compensation Philosophy And Principles Recognize The Importance Of A Highly Qualified Global Workforce And Plays A Critical Role In Attracting, Engaging And Retaining Talent That: Drives RBC's High Performance Culture Enables Collective Achievement Of Our Strategic Goals Generates Sustainable Shareholder Returns And Above Market Shareholder Value Preferred Education/Experience University degree Strong exposure to web3. Experience with modern technologies and dev-ops. Poses strong grasp on modern design pattern and architectures. Working with offshore, remote and onsite teams. Behavioural Competencies Be able to work across multiple facets of a project and juggle tasks across multiple projects at the same time. Be Able to communicate both orally and in writing and clearly articulate technical issues, solutions and architecture. Innovative / entrepreneurial. Excellent interpersonal and problem-solving skills. Proven team player. Technical Competencies Smart Contract Security Decentralized Application Patterns Familiarity with at least two Smart Contract Languages (Solidity, DAML, Move, Vyper, Rust, Cairo, Clarity etc.) Familiarity with Contract testing frameworks Defi primitives Decentralized Architecture patterns (state / gas optmizations etc.) MEV awareness and mitigation strategies Job Skills Application Development, Application Integrations, Application Maintenance, Applications Architecture, Detail-Oriented, Enterprise Application Delivery, Group Problem Solving, Programming Languages, Software Development Life Cycle (SDLC), System Applications Additional Job Details Address: CNB, 30 HUDSON STREET:JERSEY CITY City: Jersey City Country: United States of America Work hours/week: 40 Employment Type: Full time Platform: CAPITAL MARKETS Job Type: Regular Pay Type: Salaried Posted Date: 2026-08-14 Application Deadline: 2026-09-25 Note : Applications will be accepted until 11:59 PM on the day prior to the application deadline date above Our Employment Opportunities At RBC, we are guided by living shared values of Client First, Integrity, Collaboration, Respect and Excellence and winning together as One RBC. We believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all. Join our Talent Community Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you. Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com</a/span> RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.",
+    "published": "2026-08-15",
+    "remote": true,
+    "currency": null,
+    "salary_min": 135000,
+    "salary_max": 225000,
+    "score": 12,
+    "title_hits": [
+      "smart contract"
+    ],
+    "desc_hits": [
+      "solidity",
+      "blockchain",
+      "web3",
+      "defi",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$135,000-$225,000",
     "emails": [],
     "phones": []
   },
@@ -624,32 +651,6 @@
     "emails": [
       "nextbit@agilebits.com"
     ],
-    "phones": []
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Zenara Health: DevOps & Security Engineer - AI-Native Healthcare SaaS",
-    "company": "Zenara Health",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/zenara-health-devops-security-engineer-ai-native-healthcare-saas",
-    "description": "Headquarters: India About the Company Zenara Health is a mental healthcare organization driven by technology, aiming to improve the accessibility and quality of mental wellness services. By integrating AI-driven platforms with professional clinical care, we deliver personalized and effective mental health solutions, creating a smooth digital experience for both patients and providers. We operate as a startup, distinct from a mere department. Why This Role Exists This position serves as the company's foremost line of defense. You will operate under the assumption that systems are constantly under threat, crafting infrastructure that is resilient, auditable, and inherently secure. You will be the most risk-aware individual in the startup — and that’s exactly what we require. While others concentrate on feature rollout, you will prioritize the security of patient data, regulatory compliance, and system integrity. About the Role If your understanding of DevOps is limited to \"I occasionally execute kubectl apply,\" this position is likely not for you. This role is not suited for those who prioritize speed over safety or view security as an afterthought to be addressed later. At Zenara, safeguarding patient data and maintaining system integrity takes precedence over rapid deployment. Our team is in the process of developing a platform that manages clinical data, operates AI workflows, and processes insurance billing — all within a HIPAA-regulated environment catering to real psychiatric practices. Our infrastructure is operational; however, we lack an individual who will take ownership with a security-first perspective. We currently do not have a dedicated CI/CD owner, a comprehensive security posture, or monitoring that extends beyond simple uptime checks. If HIPAA auditors were to arrive tomorrow, we could withstand the scrutiny — but it wouldn’t be a pleasant experience. You will be responsible for Zenara’s infrastructure, security posture, and compliance engineering — everything from the ground up. This includes CI/CD pipelines, HIPAA-compliant deployment automation, monitoring and alerting systems, cybersecurity measures and threat defense, access controls, and audit logging — the complete spectrum of \"essential elements that ensure the safe operation of a healthcare company.\" However, your role will go beyond mere maintenance. You will also develop infrastructure for our AI platform, encompassing model serving, scaling AI workloads, and supporting production AI pipelines. You will have a dual mandate: ensure the stability and security of the platform while also building the necessary infrastructure for AI at scale. This represents a unique opportunity for greenfield infrastructure engineering within a healthcare AI company with genuine compliance obligations and real users. You will devise systems from fundamental principles, make architectural choices, establish best practices to guide us through growth and compliance audits, and serve as the ultimate security gatekeeper. What You Will Own 1. Cybersecurity & Threat Defense You will manage threat modeling, reduce attack surfaces, oversee intrusion detection, handle vulnerability management, and plan incident responses. You will be the final reviewer for infrastructure and security risks, possessing the authority to halt releases that do not satisfy security or compliance criteria. The security of patient data is non-negotiable. 2. CI/CD and Deployment Automation You will design and implement CI/CD pipelines for all Zenara products, establishing deployment automation, managing environments, and setting quality thresholds. Your goal is to eliminate chaotic releases and establish a system that enables the team to deploy confidently and consistently — without compromising security. 3. Security Posture and HIPAA Compliance You will develop and uphold a HIPAA-compliant security posture across all Zenara systems. This involves implementing access controls, managing secrets, maintaining audit logs, and enforcing encryption standards. You will ensure our adherence to regulatory requirements while avoiding bureaucratic slowdowns. 4. Monitoring, Alerting, and Incident Response You will create monitoring and alerting capabilities to proactively identify issues before they affect users. You will establish incident response protocols, define service level objectives (SLOs), and monitor reliability metrics. You will lead the on-call rotation and develop runbooks for common incidents. 5. AI Infrastructure Support You will address the AI infrastructure needs, including model serving, GPU provisioning (if necessary), and autoscaling for AI workloads. You will collaborate with the Head of AI to ensure that the infrastructure supports production AI efficiently and securely. 6. Cloud Infrastructure Management You will oversee cloud infrastructure (AWS/Azure), focusing on cost optimization, reliability, disaster recovery, and capacity planning. You will make architectural decisions that find a balance between cost, performance, and compliance obligations. 7. SOC 2 Readiness You will spearhead SOC 2 Type II preparedness as we approach fundraising, implementing necessary controls, organizing evidence collection, and liaising with auditors. You will ensure compliance becomes an integrated process rather than an ad-hoc measure. 8. Security Incident Response You will take charge of security incident response, establishing procedures, conducting regular security evaluations, and responding to incidents as they arise. Your efforts will help the organization recognize security as an essential discipline rather than an afterthought. Your First 90 Days Week 1-2: Fully immerse yourself in the current infrastructure, deployment processes, and security posture. Identify the most significant security vulnerabilities and critical gaps. Build rapport through active listening and insightful inquiries. Month 1: Set up basic monitoring and alerting systems. Outline the CI/CD roadmap. Begin documenting existing systems and security protocols. Establish communication channels with engineering leadership. Conduct initial threat assessments. Month 2-3: Develop CI/CD pipelines for high-priority services with security gates. Implement secrets management and access controls. Create the first set of operational and security runbooks. Initiate SOC 2 gap analysis and planning for remediation. Introduce intrusion detection and vulnerability scanning. Ongoing: Take on full ownership of infrastructure and security. Deliver reliable and secure systems. Establish compliance practices and enhance security standards. Assertively say “no” when risks are unacceptable. Inspire confidence in the CEO that infrastructure and security are in capable hands. Values & Vibe (Who You Are) You perceive infrastructure primarily through the lens of security and reliability , rather than merely uptime. You are the one who enters an unmanaged infrastructure landscape and brings order — not through an excess of tools, but through clarity, automation, and effective monitoring. For you, security is not a mere checklist; it shapes your worldview. You possess an innate sense of paranoia — assuming systems are under threat and designing with that understanding. You find an infrastructure environment that functions like a black box, relying on heroic measures rather than standard practices, to be unacceptable. You recognize that healthcare compliance is mandatory and understand how to implement it practically, without hindering development speed. You are hands-on enough to diagnose production issues, write Terraform modules, and review security configurations — yet you know that your primary responsibility lies in creating systems that are both reliable and secure, rather than solely reacting to incidents. You have successfully built infrastructure in regulated sectors while adhering to compliance constraints. You have considered issues related to security threats, compliance frameworks, and disaster recovery — moving beyond the simplistic notion of \"we use AWS defaults.\" You understand the trade-offs between security, cost, developer experience, and compliance requirements. When faced with uncertainty, your choice will always be security. You are comfortable saying “no” when risks are unacceptable, even if it delays feature deployment. This is not obstruction; it is part of your role. What Success Looks Like The infrastructure is both reliable and secure — the CEO no longer concerns themselves with outages or breaches. CI/CD pipelines are in place and delivering regularly — deployments become routine, low-risk, and security-gated. The cybersecurity posture is robust — threat modeling is thorough, attack surfaces are minimized, and vulnerabilities are monitored for remediation. The security posture is firm — access controls, audit trails, and secrets management are strictly enforced. Monitoring and alerting systems identify issues before they are reported by users. HIPAA compliance is systematic — we are audit-ready without frantic preparations. AI infrastructure supports production workloads reliably and cost-effectively. A security review process is established — any risky releases are identified and halted prior to shipping. Incident response is documented and efficient — problems are resolved swiftly. The infrastructure and security posture are more robust, reliable, and compliant than upon your arrival. Required - 5-10 years of experience in DevOps, SRE, or Platform Engineering — you have designed and maintained large-scale production infrastructure. - A strong security mindset: naturally cautious, detail-focused, and able to express concerns when risks are too high. For you, security is not merely a feature; it is a fundamental necessity. - Familiarity with HIPAA, SOC 2, or healthcare compliance frameworks — you comprehend BAAs, audit trails, and regulatory obligations. You have successfully implemented compliant systems. - Proficient in AWS or Azure with infrastructure-as-code (Terraform, Pulumi, or CloudFormation) — you handle infrastructure through programming rather than manual console operations. - CI/CD pipeline design and implementation (GitHub Actions, CircleCI, Jenkins, or similar) — you have developed deployment automation from the ground up. - Experience in container orchestration (Kubernetes, ECS, or equivalent) — you know how to deploy and scale applications in containers. - Skills in cybersecurity : including threat modeling, vulnerability assessment, intrusion detection, and incident response. - Strong English communication skills — You operate asynchronously and provide clear written documentation, incident reports, and architectural designs. - Experience in startup or high-growth environments — You have thrived in situations marked by uncertainty, constrained resources, and pressing deadlines. Strongly Preferred - Experience in supporting ML/AI infrastructure (model serving, GPU clusters) - Security expertise in healthcare SaaS (handling PHI, encryption at rest/transit, access auditing) - Background in penetration testing or security audits - Prior experience with SOC 2 or HITRUST certification processes - Knowledge of observability and monitoring tools (Datadog, Prometheus, Grafana, or similar) Nice to Have - Understanding of FHIR/HL7 healthcare data standards - Production experience with Kubernetes - Acquainted with multi-tenant SaaS security strategies - Exposure to mental health or behavioral health sectors - Experience with cloud infrastructure cost optimization - Relevant security certifications (CISSP, CEH, or equivalent) Schedule Evening IST hours with 4–8 hours of daily overlap with US Pacific (9am–5pm PT). You are welcome to propose a schedule that works best for you — our emphasis is on overlap and team availability rather than rigid clock-in requirements. On-call availability is expected during key security incidents. - Salary between ₹22–35 LPA, based on your skills and responsibilities - Fully remote work options available throughout India - Provision for equipment allowance - Acknowledgment of culturally significant local holidays (India) - Flexible paid leave options - Direct and regular communication with the CEO — you will have direct access without any intermediaries - Opportunity to build infrastructure and security practices from the ground up To apply: https://weworkremotely.com/remote-jobs/zenara-health-devops-security-engineer-ai-native-healthcare-saas",
-    "published": "Tue, 18 Aug 2026",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 7,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [
-      "defi",
-      "audit"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
     "phones": []
   }
 ]
