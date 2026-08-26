@@ -1,6 +1,32 @@
 [
   {
     "source": "linkedin",
+    "title": "Environmental Health and Safety Officer",
+    "company": "Rotana Hotels",
+    "location": "Mecca, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-and-safety-officer-at-rotana-hotels-4446658992",
+    "description": "",
+    "published": "2026-08-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 12,
+    "title_hits": [
+      "safety officer",
+      "health and safety",
+      "environmental health",
+      "health and safety officer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Environment, Health and Safety Manager",
     "company": "TASC Towers",
     "location": "Baghdad Governorate, Iraq",
@@ -133,12 +159,12 @@
   },
   {
     "source": "linkedin",
-    "title": "Sr. HSE Engineer | alfanar Electric",
-    "company": "alfanar",
+    "title": "HSE Engineer",
+    "company": "PrimeGate for Communications and IT",
     "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4457692955",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-primegate-for-communications-and-it-4449784602",
     "description": "",
-    "published": "",
+    "published": "2026-08-06",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -154,6 +180,33 @@
     "salary_str": "",
     "emails": [],
     "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Senior Environmental Engineer - HSE Manager",
+    "company": "Penspen",
+    "location": "Khafji, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-hse-manager-at-penspen-4441820474",
+    "description": "",
+    "published": "2026-08-15",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "environmental engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
   },
   {
     "source": "linkedin",
@@ -200,12 +253,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "enquiries@egis.com"
-    ],
-    "phones": [],
-    "emails_source": "egis.com",
-    "about": "Your name * Email * Describe your issue [Send message](javascript:;) We'll get back to you as soon as possible."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -419,19 +468,19 @@
   },
   {
     "source": "linkedin",
-    "title": "Safety Officer",
-    "company": "Nesma United Industries",
-    "location": "Yanbu, Al Madinah, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/safety-officer-at-nesma-united-industries-4447902154",
+    "title": "Health Safety Environment Engineer",
+    "company": "iHR (International Human Resources)",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-ihr-international-human-resources-4452294411",
     "description": "",
-    "published": "2026-08-03",
+    "published": "2026-08-17",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "safety officer"
+      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -442,12 +491,12 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Coordinator",
-    "company": "H&P",
-    "location": "Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-coordinator-at-h-p-4414740905",
+    "title": "HSE Manager (Saudi National)",
+    "company": "Parsons Corporation",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-saudi-national-at-parsons-corporation-4458263142",
     "description": "",
-    "published": "2026-08-09",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -465,19 +514,19 @@
   },
   {
     "source": "linkedin",
-    "title": "Field HSE Specialist",
-    "company": "SLB",
-    "location": "Dhahran, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/field-hse-specialist-at-slb-4434932794",
+    "title": "Health Safety Environment Officer - Eastern Province",
+    "company": "Confidential Careers",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-eastern-province-at-confidential-careers-4447378638",
     "description": "",
-    "published": "2026-08-11",
+    "published": "2026-08-05",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "hse"
+      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -488,19 +537,19 @@
   },
   {
     "source": "linkedin",
-    "title": "Occupational Health, Safety & Environment Lead",
-    "company": "Tecnicas Reunidas Saudi Arabia",
-    "location": "Al Khobar, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/occupational-health-safety-environment-lead-at-tecnicas-reunidas-saudi-arabia-4445876642",
+    "title": "HSE Manager",
+    "company": "Parsons Corporation",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4455217464",
     "description": "",
-    "published": "2026-08-03",
+    "published": "2026-08-17",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 3,
     "title_hits": [
-      "occupational health"
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -524,52 +573,6 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Project EHS Manager",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4455732308",
-    "description": "",
-    "published": "2026-08-18",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Officer",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-officer-at-larsen-toubro-4455739271",
-    "description": "",
-    "published": "2026-08-18",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
