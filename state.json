@@ -3695,6 +3695,42 @@
       "company": "Blueprint Consulting Ltd",
       "source": "linkedin",
       "first_seen": "2026-08-26"
+    },
+    "https://jobicy.com/jobs/151769-sr-hr-systems-data-analyst-ii": {
+      "title": "Sr HR Systems & Data Analyst II",
+      "company": "Consensys",
+      "source": "jobicy",
+      "first_seen": "2026-08-26"
+    },
+    "https://jobicy.com/jobs/151757-senior-design-engineer-metamask": {
+      "title": "Senior Design Engineer - MetaMask",
+      "company": "Consensys",
+      "source": "jobicy",
+      "first_seen": "2026-08-26"
+    },
+    "https://jobicy.com/jobs/151764-senior-lifecycle-marketing-manager-2": {
+      "title": "Senior Lifecycle Marketing Manager",
+      "company": "Consensys",
+      "source": "jobicy",
+      "first_seen": "2026-08-26"
+    },
+    "https://jobicy.com/jobs/151765-security-engineer-detection-and-response": {
+      "title": "Security Engineer, Detection and Response",
+      "company": "OpenAI",
+      "source": "jobicy",
+      "first_seen": "2026-08-26"
+    },
+    "https://jobicy.com/jobs/151775-security-engineer-agent-security": {
+      "title": "Security Engineer, Agent Security",
+      "company": "OpenAI",
+      "source": "jobicy",
+      "first_seen": "2026-08-26"
+    },
+    "https://jobicy.com/jobs/151778-security-engineer-infrastructure-security": {
+      "title": "Security Engineer, Infrastructure Security",
+      "company": "OpenAI",
+      "source": "jobicy",
+      "first_seen": "2026-08-26"
     }
   },
   "applied": {
@@ -4222,6 +4258,20 @@
       "to": "contact@penspen.com",
       "title": "HSE Officer",
       "company": "Penspen"
+    },
+    "https://jobicy.com/jobs/151769-sr-hr-systems-data-analyst-ii::contact_form": {
+      "date": "2026-08-26 16:17",
+      "via": "contact_form",
+      "to": "https://www.consensys.com/contact-us",
+      "title": "Sr HR Systems & Data Analyst II",
+      "company": "Consensys"
+    },
+    "https://jobicy.com/jobs/151757-senior-design-engineer-metamask::contact_form": {
+      "date": "2026-08-26 16:17",
+      "via": "contact_form",
+      "to": "https://www.consensys.com/contact-us",
+      "title": "Senior Design Engineer - MetaMask",
+      "company": "Consensys"
     }
   },
   "sent": {
@@ -4484,6 +4534,16 @@
       "kind": "email",
       "to": "contact@penspen.com",
       "date": "2026-08-25 17:57"
+    },
+    "https://jobicy.com/jobs/151769-sr-hr-systems-data-analyst-ii": {
+      "kind": "contact_form",
+      "to": "consensys.com",
+      "date": "2026-08-26 16:17"
+    },
+    "https://jobicy.com/jobs/151757-senior-design-engineer-metamask": {
+      "kind": "contact_form",
+      "to": "consensys.com",
+      "date": "2026-08-26 16:17"
     }
   },
   "replies": []
