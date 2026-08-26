@@ -3731,6 +3731,12 @@
       "company": "OpenAI",
       "source": "jobicy",
       "first_seen": "2026-08-26"
+    },
+    "https://ae.linkedin.com/jobs/view/hsew-officer-at-atkinsr%C3%A9alis-4459182877": {
+      "title": "HSEW Officer",
+      "company": "AtkinsRéalis",
+      "source": "linkedin",
+      "first_seen": "2026-08-26"
     }
   },
   "applied": {
