@@ -1,40 +1,6 @@
 [
   {
     "source": "linkedin",
-    "title": "Health And Safety Officer - UAE National",
-    "company": "Galadari Heavy Equipment",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/health-and-safety-officer-uae-national-at-galadari-heavy-equipment-4458575772",
-    "description": "",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 9,
-    "title_hits": [
-      "safety officer",
-      "health and safety",
-      "health and safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "advertising@heavy.com",
-      "bryan@heavy.com",
-      "jay.bennett@heavy.com",
-      "michael.obermuller@heavy.com",
-      "tips@heavy.com",
-      "tom.cleary@heavy.com"
-    ],
-    "phones": [],
-    "emails_source": "heavy.com",
-    "about": "Calls Out Reporter](https://heavy.com/wp-content/uploads/2026/08/GettyImages-2208059556-e1787585799838.jpg?quality=65&strip=all&w=226)](https://heavy.com/sports/mlb/new-york-yankees/chisholm-jr-calls-out-reporter-aug/)[N"
-  },
-  {
-    "source": "linkedin",
     "title": "Environment, Health and Safety Manager",
     "company": "TASC Towers",
     "location": "Baghdad Governorate, Iraq",
@@ -242,6 +208,54 @@
   },
   {
     "source": "linkedin",
+    "title": "HSE Engineer/Specialist (Saudi National)",
+    "company": "Egis",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-specialist-saudi-national-at-egis-4458205732",
+    "description": "",
+    "published": "2026-08-24",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer (Saudi National)",
+    "company": "Egis",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-egis-4458190852",
+    "description": "",
+    "published": "2026-08-24",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Engineer – UAE National (Rail/Transportation/Infrastructure) Abu Dhabi, UAE",
     "company": "SEGULA Technologies",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -290,30 +304,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer (Saudi National)",
-    "company": "Egis",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-egis-4458190852",
-    "description": "",
-    "published": "2026-08-24",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Health and Safety Engineer",
     "company": "WSP in the Middle East",
     "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -328,30 +318,6 @@
     "title_hits": [
       "safety engineer",
       "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer/Specialist (Saudi National)",
-    "company": "Egis",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-specialist-saudi-national-at-egis-4458205732",
-    "description": "",
-    "published": "2026-08-24",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -582,6 +548,29 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Officer",
+    "company": "Seara International",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-seara-international-4449513310",
+    "description": "",
+    "published": "2026-08-09",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
