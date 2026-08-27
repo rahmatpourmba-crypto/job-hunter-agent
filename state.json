@@ -3749,6 +3749,138 @@
       "company": "Tiger Analytics",
       "source": "jobicy",
       "first_seen": "2026-08-27"
+    },
+    "https://ae.linkedin.com/jobs/view/junior-hse-engineer-at-wood-4459834657": {
+      "title": "Junior HSE Engineer",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-08-27"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4446056692": {
+      "title": "HSE Manager",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151791-compliance-and-security-lead": {
+      "title": "Compliance and Security Lead",
+      "company": "Ada",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151842-deployment-strategist-apac": {
+      "title": "Deployment Strategist, APAC",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151867-security-engineer-i-information-technology": {
+      "title": "Security Engineer I, Information Technology",
+      "company": "Cision",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151861-staff-platform-engineer-eu": {
+      "title": "Staff Platform Engineer - EU",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151862-security-analyst-i-information-technology": {
+      "title": "Security Analyst I, Information Technology",
+      "company": "Cision",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151831-principal-cloud-security-engineer": {
+      "title": "Principal Cloud Security Engineer",
+      "company": "LastPass",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151864-infrastructure-software-engineer-kubernetes": {
+      "title": "Infrastructure Software Engineer (Kubernetes)",
+      "company": "Cresta",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151887-sr-director-assistant-controller": {
+      "title": "Sr. Director, Assistant Controller",
+      "company": "LaunchDarkly",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151860-senior-software-engineer-product-engineering-uk": {
+      "title": "Senior Software Engineer, Product Engineering - UK",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151859-staff-software-engineer-product-engineering-uk": {
+      "title": "Staff Software Engineer, Product Engineering - UK",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151856-staff-software-engineer-product-engineering-eu-2": {
+      "title": "Staff Software Engineer, Product Engineering - EU",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151853-senior-software-engineer-product-engineering-eu-2": {
+      "title": "Senior Software Engineer, Product Engineering - EU",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151880-lifecycle-crm-latam": {
+      "title": "Lifecycle & CRM - LATAM",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151877-growth-lead-argentina": {
+      "title": "Growth Lead - Argentina",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151874-compliance-edd-high-risk-client-team-lead": {
+      "title": "Compliance EDD & High Risk Client Team Lead",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151792-lead-security-operations-engineer": {
+      "title": "Lead Security Operations Engineer",
+      "company": "Pleo",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151788-senior-application-security-manager": {
+      "title": "Senior Application Security Manager",
+      "company": "Pleo",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458613813": {
+      "title": "Head of Engineer - Web3/Crypto",
+      "company": "Jobgether",
+      "source": "linkedin",
+      "first_seen": "2026-08-27"
+    },
+    "https://sa.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458399957": {
+      "title": "Head of Engineer - Web3/Crypto",
+      "company": "Jobgether",
+      "source": "linkedin",
+      "first_seen": "2026-08-27"
+    },
+    "https://jobicy.com/jobs/151830-customer-success-manager-devops": {
+      "title": "Customer Success Manager - DevOps",
+      "company": "Sonatype",
+      "source": "jobicy",
+      "first_seen": "2026-08-27"
     }
   },
   "applied": {
@@ -4290,6 +4422,13 @@
       "to": "https://www.consensys.com/contact-us",
       "title": "Senior Design Engineer - MetaMask",
       "company": "Consensys"
+    },
+    "https://ae.linkedin.com/jobs/view/junior-hse-engineer-at-wood-4459834657::email": {
+      "date": "2026-08-27 19:57",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "Junior HSE Engineer",
+      "company": "Wood"
     }
   },
   "sent": {
@@ -4562,6 +4701,11 @@
       "kind": "contact_form",
       "to": "consensys.com",
       "date": "2026-08-26 16:17"
+    },
+    "https://ae.linkedin.com/jobs/view/junior-hse-engineer-at-wood-4459834657": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-08-27 19:57"
     }
   },
   "replies": []
