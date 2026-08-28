@@ -3887,6 +3887,66 @@
       "company": "Parsons Corporation",
       "source": "linkedin",
       "first_seen": "2026-08-28"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-hse-at-khazna-data-centers-4456470333": {
+      "title": "Manager - HSE",
+      "company": "Khazna Data Centers",
+      "source": "linkedin",
+      "first_seen": "2026-08-28"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-azizi-developments-4449840678": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Azizi Developments",
+      "source": "linkedin",
+      "first_seen": "2026-08-28"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458605902": {
+      "title": "Head of Engineer - Web3/Crypto",
+      "company": "Jobgether",
+      "source": "linkedin",
+      "first_seen": "2026-08-28"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460321764": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-08-28"
+    },
+    "https://jobicy.com/jobs/151922-growth-manager-campaigns": {
+      "title": "Growth Manager - Campaigns",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-08-28"
+    },
+    "https://jobicy.com/jobs/151929-staff-design-engineer-uk": {
+      "title": "Staff Design Engineer - UK",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-08-28"
+    },
+    "https://jobicy.com/jobs/151927-staff-design-engineer-eu": {
+      "title": "Staff Design Engineer - EU",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-08-28"
+    },
+    "https://jobicy.com/jobs/151919-affiliate-business-development-manager-poland": {
+      "title": "Affiliate Business Development Manager, Poland",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-08-28"
+    },
+    "https://jobicy.com/jobs/151916-affiliate-business-development-manager-cis": {
+      "title": "Affiliate Business Development Manager, CIS",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-08-28"
+    },
+    "https://ae.linkedin.com/jobs/view/defi-quant-researcher-at-algoquant-4458020152": {
+      "title": "DeFi Quant Researcher",
+      "company": "ALGOQUANT",
+      "source": "linkedin",
+      "first_seen": "2026-08-28"
     }
   },
   "applied": {
@@ -4435,6 +4495,20 @@
       "to": "info@wood.com",
       "title": "Junior HSE Engineer",
       "company": "Wood"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458605902::email": {
+      "date": "2026-08-28 16:35",
+      "via": "email",
+      "to": "home-women-1@3x.webp",
+      "title": "Head of Engineer - Web3/Crypto",
+      "company": "Jobgether"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460321764::contact_form": {
+      "date": "2026-08-28 16:35",
+      "via": "contact_form",
+      "to": "https://www.cari.com",
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network"
     }
   },
   "sent": {
@@ -4712,6 +4786,16 @@
       "kind": "email",
       "to": "info@wood.com",
       "date": "2026-08-27 19:57"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458605902": {
+      "kind": "email",
+      "to": "home-women-1@3x.webp",
+      "date": "2026-08-28 16:35"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460321764": {
+      "kind": "contact_form",
+      "to": "cari.com",
+      "date": "2026-08-28 16:35"
     }
   },
   "replies": []
