@@ -3977,6 +3977,48 @@
       "company": "Multilink Management Consultants",
       "source": "linkedin",
       "first_seen": "2026-08-29"
+    },
+    "https://iq.linkedin.com/jobs/view/health-safety-environment-supervisor-4458482383": {
+      "title": "Health Safety Environment Supervisor",
+      "company": "PhD in computer Engineering",
+      "source": "linkedin",
+      "first_seen": "2026-08-29"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-safety-engineer-offshore-detailed-engineering-at-talentmate-4460817481": {
+      "title": "Senior Safety Engineer - Offshore Detailed Engineering",
+      "company": "TALENTMATE",
+      "source": "linkedin",
+      "first_seen": "2026-08-29"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460805481": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-08-29"
+    },
+    "https://jobicy.com/jobs/151970-senior-infrastructure-security-software-engineer": {
+      "title": "Senior Infrastructure Security Software Engineer",
+      "company": "Quora",
+      "source": "jobicy",
+      "first_seen": "2026-08-29"
+    },
+    "https://jobicy.com/jobs/151965-senior-back-end-engineer": {
+      "title": "Senior Back End Engineer",
+      "company": "Peerspace",
+      "source": "jobicy",
+      "first_seen": "2026-08-29"
+    },
+    "https://jobicy.com/jobs/151971-corporate-account-executive-central": {
+      "title": "Corporate Account Executive - Central",
+      "company": "Chainguard",
+      "source": "jobicy",
+      "first_seen": "2026-08-29"
+    },
+    "https://jobicy.com/jobs/151980-enterprise-account-executive-16": {
+      "title": "Enterprise Account Executive",
+      "company": "Chainguard",
+      "source": "jobicy",
+      "first_seen": "2026-08-29"
     }
   },
   "applied": {
@@ -4553,6 +4595,13 @@
       "to": "https://www.consensys.com/contact",
       "title": "Senior Lifecycle Marketing Manager",
       "company": "Consensys"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460805481::contact_form": {
+      "date": "2026-08-29 17:31",
+      "via": "contact_form",
+      "to": "https://www.cari.com",
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network"
     }
   },
   "sent": {
@@ -4850,6 +4899,11 @@
       "kind": "contact_form",
       "to": "consensys.com",
       "date": "2026-08-29 00:41"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460805481": {
+      "kind": "contact_form",
+      "to": "cari.com",
+      "date": "2026-08-29 17:31"
     }
   },
   "replies": []
