@@ -4031,6 +4031,18 @@
       "company": "Kraken",
       "source": "jobicy",
       "first_seen": "2026-08-29"
+    },
+    "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea": {
+      "title": "Huntress: Manager, Security Operations Center - EMEA",
+      "company": "Huntress",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-30"
+    },
+    "https://ae.linkedin.com/jobs/view/ot-cybersecurity-at-ebryx-llc-4458741023": {
+      "title": "OT Cybersecurity",
+      "company": "Ebryx LLC",
+      "source": "linkedin",
+      "first_seen": "2026-08-30"
     }
   },
   "applied": {
@@ -4614,6 +4626,13 @@
       "to": "https://www.cari.com",
       "title": "Senior Blockchain Engineer",
       "company": "Cari Network"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458613813::email": {
+      "date": "2026-08-30 12:08",
+      "via": "email",
+      "to": "home-women-1@3x.webp",
+      "title": "Head of Engineer - Web3/Crypto",
+      "company": "Jobgether"
     }
   },
   "sent": {
@@ -4916,6 +4935,11 @@
       "kind": "contact_form",
       "to": "cari.com",
       "date": "2026-08-29 17:31"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458613813": {
+      "kind": "email",
+      "to": "home-women-1@3x.webp",
+      "date": "2026-08-30 12:08"
     }
   },
   "replies": []
