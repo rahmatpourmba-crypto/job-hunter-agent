@@ -4055,6 +4055,30 @@
       "company": "Cari Network",
       "source": "linkedin",
       "first_seen": "2026-08-30"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-alfalak-electronic-equipment-supplies-co-4458835917": {
+      "title": "Safety Engineer",
+      "company": "Alfalak Electronic Equipment & Supplies Co.",
+      "source": "linkedin",
+      "first_seen": "2026-08-30"
+    },
+    "https://jobicy.com/jobs/152096-channel-sales-manager-west-coast": {
+      "title": "Channel Sales Manager, West Coast",
+      "company": "Sonatype",
+      "source": "jobicy",
+      "first_seen": "2026-08-30"
+    },
+    "https://jobicy.com/jobs/152102-software-engineer-infrastructure-security": {
+      "title": "Software Engineer, Infrastructure Security",
+      "company": "OpenAI",
+      "source": "jobicy",
+      "first_seen": "2026-08-30"
+    },
+    "https://jobicy.com/jobs/152105-federal-customer-success-manager-devops": {
+      "title": "Federal Customer Success Manager - DevOps",
+      "company": "Sonatype",
+      "source": "jobicy",
+      "first_seen": "2026-08-30"
     }
   },
   "applied": {
