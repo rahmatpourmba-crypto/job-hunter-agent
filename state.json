@@ -4043,6 +4043,18 @@
       "company": "Ebryx LLC",
       "source": "linkedin",
       "first_seen": "2026-08-30"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineers-at-rumoz-consulting-engineers-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B1%D9%85%D9%88%D8%B2-%D9%84%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A9-4458847522": {
+      "title": "HSE Engineers",
+      "company": "Rumoz Consulting Engineers شركة رموز للإستشارات الهندسية",
+      "source": "linkedin",
+      "first_seen": "2026-08-30"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460899046": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-08-30"
     }
   },
   "applied": {
@@ -4633,6 +4645,20 @@
       "to": "home-women-1@3x.webp",
       "title": "Head of Engineer - Web3/Crypto",
       "company": "Jobgether"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineers-at-rumoz-consulting-engineers-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B1%D9%85%D9%88%D8%B2-%D9%84%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A9-4458847522::email": {
+      "date": "2026-08-30 16:56",
+      "via": "email",
+      "to": "INFO@engineers.com",
+      "title": "HSE Engineers",
+      "company": "Rumoz Consulting Engineers شركة رموز للإستشارات الهندسية"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460899046::contact_form": {
+      "date": "2026-08-30 16:56",
+      "via": "contact_form",
+      "to": "https://www.cari.com",
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network"
     }
   },
   "sent": {
@@ -4940,6 +4966,16 @@
       "kind": "email",
       "to": "home-women-1@3x.webp",
       "date": "2026-08-30 12:08"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineers-at-rumoz-consulting-engineers-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B1%D9%85%D9%88%D8%B2-%D9%84%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A9-4458847522": {
+      "kind": "email",
+      "to": "INFO@engineers.com",
+      "date": "2026-08-30 16:56"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4460899046": {
+      "kind": "contact_form",
+      "to": "cari.com",
+      "date": "2026-08-30 16:56"
     }
   },
   "replies": []
