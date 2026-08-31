@@ -4187,6 +4187,24 @@
       "company": "GT",
       "source": "jobicy",
       "first_seen": "2026-08-31"
+    },
+    "https://jobicy.com/jobs/152228-director-of-production-engineering": {
+      "title": "Director of Production Engineering",
+      "company": "Legion",
+      "source": "jobicy",
+      "first_seen": "2026-08-31"
+    },
+    "https://jobicy.com/jobs/152166-manager-solutions-consulting-amer-commercial": {
+      "title": "Manager, Solutions Consulting, AMER Commercial",
+      "company": "Braze",
+      "source": "jobicy",
+      "first_seen": "2026-08-31"
+    },
+    "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company": {
+      "title": "Toptal: Power Platform Solutions Architect for Global Pharmaceutical Company",
+      "company": "Toptal",
+      "source": "weworkremotely",
+      "first_seen": "2026-08-31"
     }
   },
   "applied": {
