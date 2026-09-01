@@ -108,38 +108,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Smart Contract Engineer",
-    "company": "X-Team",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-x-team-4462006075",
-    "description": "This role is a full-time engagement with the client, fully remote. Open to LATAM, USA & Canada. The Mission Help build and scale the secure on-chain infrastructure powering the next generation of open finance. In this role, you’ll design, implement, and battle-test critical smart contracts that manage significant TVL and capital-efficient primitives. This isn't about deploying speculative tokens; it’s about constructing highly resilient, mathematical, and adversarial-resistant software that remains upgradeable, cost-efficient, and bulletproof over time. The Role As a core protocol contributor, you will take deep ownership of smart contract architecture from initial mathematical modeling and design through to mainnet deployment, external audit facilitation, and live monitoring. • Protocol Architecture (40%): Design and implement secure, gas-optimized Solidity smart contracts for lending, borrowing, vaults, yield routing, liquidations, and access control. • Testing & Simulation (30%): Write extensive unit, integration, fork, fuzz, and invariant tests utilizing modern frameworks to ensure zero-day resiliency. • Security & Audits (15%): Prepare codebases for top-tier external audits, remediate findings, and design proactive on-chain risk mitigation/monitoring strategies. • Cross-Functional Integration (15%): Collaborate closely with risk, frontend, indexer, and quantitative engineering teams to build seamless, secure end-to-end dApps. The Must-Haves • Experience: 4+ years of professional software engineering experience, with at least 2+ years writing, deploying, and maintaining highly secure Solidity smart contracts in production.. • Tooling & Frameworks: Expert-level mastery of Foundry (Forge, Cast) including advanced fuzzing, invariant testing, and mainnet fork simulations. • EVM Deep Dive: Thorough understanding of EVM internals, storage layouts, gas optimization strategies, assembly (Yul), and standard proxy/upgradeability patterns. • DeFi Primitives: Practical, working knowledge of core financial primitives (such as ERC-20/4626/721/1155, AMMs, lending pools, oracles, and liquidation engines). • AI-Assisted Acceleration: Comfort using modern AI coding tools (e.g., Cursor, Claude, Copilot) to accelerate unit testing, documentation, and boilerplate development, backed by the critical judgment required never to trust raw model outputs blindly. • Security Mindset: An obsessive awareness of common attack vectors (reentrancy, oracle manipulation, front-running, rounding errors, and access-control flaws). The Bonus Skills • Audit Pedigree: Prior experience guiding a protocol through a major external audit (e.g., Trail of Bits, OpenZeppelin, Spearbit) or participating in competitive security audits. • Multi-Chain/SVM: Exposure to Rust-based smart contract environments (SVM/Solana, CosmWasm) or zero-knowledge (ZK) rollup architectures. • Advanced Automation: Familiarity with off-chain automation infrastructure like Keepers, Defender, or Gelato. Personal Traits • Adversarial Thinker: You don't just think about how code should work; you instinctively try to find ways to break, front-run, or exploit the state machine you are building.. • Execution & Ownership: You act as an owner, not a ticket executor. You proactively trace edge cases, optimize gas, and address technical debt before it is flagged.. • Detail-Obsessed: You care about the nuance of a single uint256 math operation and understand why rounding down vs. up is a security-critical decision.. • Collaborative & Clear: You can distill complex cryptographic or financial system logic into clear documentation and explain architectural tradeoffs to non-smart contract engineers.. Location: Remote (with meaningful overlap with US/EU working hours)",
-    "published": "",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract"
-    ],
-    "desc_hits": [
-      "solidity",
-      "defi",
-      "crypto",
-      "token",
-      "audit",
-      "security",
-      "foundry",
-      "dapp"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
     "company": "1inch",
     "location": "Dubai, United Arab Emirates",
@@ -295,6 +263,37 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$122,000-$183,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Blockchain Engineer",
+    "company": "Cari Network",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4462069757",
+    "description": "Remote (U.S.) — Full Time The Cari Network is building a blockchain-based payment system powering real-time, 24/7 movement of digital money across the traditional finance and digital asset ecosystems. A pre-launch startup, we're creating an entirely new category of financial infrastructure that brings cash on chain through tokenization while powering the full spectrum of payments for our network—banks, digital asset exchanges, and, most importantly, the customers they serve. About The Role You'll work within the systems that take a payment instruction and turn it into an immutable, on-chain record—implementing features and extensions within an established transaction pipeline architecture, alongside senior engineers who own its design. That means building out pieces of the integration layer between our backend services and our institutional custody platform, and contributing to transaction integrity from calldata construction through on-chain finality on our private ZKsync-based L2. You'll also work directly in our smart contract suite, extending existing contracts under established upgrade-safety and role-governance patterns, and building the audit trail and compliance evidence that regulated bank partners require. What You'll Do Implement components of the transaction lifecycle: calldata construction, custody platform signing requests, nonce handling, L2 submission, and finality confirmation, working within the pipeline architecture senior engineers on the team have designed Build features within the signing pipeline—new submission paths, throughput handling against custody platform rate limits, async transaction submission logic—under existing architectural patterns Implement payment integrity controls: commitment hash verification at pipeline handoff points and co-signer policy evaluation logic Extend our Solidity smart contracts, following established upgrade-safety, storage-layout, and role-governance conventions Contribute to the custody platform authorization policy integration and co-signer agent for custodian-owned transaction authorization Build structured audit trail logging from transaction origination through on-chain execution, satisfying evidentiary requirements for bank partners under regulatory oversight Contribute to the async transaction queue supporting tiered SLAs and per-bank throughput quotas Write high-coverage tests across backend services and smart contracts, maintaining our coverage threshold Participate in on-call, working through known issue patterns independently and escalating novel failure modes to senior engineers Qualifications 3–5 years of backend software engineering experience, with 1–2 years working directly on EVM-compatible blockchain systems Solid proficiency in TypeScript; familiarity with Effect (effect.ts) or a comparable functional effect system is a plus Working familiarity with EVM transaction mechanics: ABI encoding, nonce management, gas estimation, revert handling, and event decoding Some production experience with Solidity smart contract development, including exposure to upgradeable proxy patterns (UUPS) and OpenZeppelin contract libraries Exposure to institutional custody or key management APIs is a strong plus, though not required Understanding of idempotency, at-least-once delivery, and crash recovery concepts in async systems Comfortable asking for help extending existing patterns while building toward independent ownership of larger features Nice to Haves Experience with ZKsync or ZK Stack-based chains—particularly developer-facing constraints like calldata handling, system contract interactions, and AA transaction formats Familiarity with Kafka or message-queue-backed async pipelines Prior work in fintech, payments, or any regulated financial infrastructure environment Foundry proficiency (forge test, forge fmt) What We Offer Competitive compensation Remote-first work environment Opportunity to shape a market-defining protocol with an experienced founding team Meaningful influence over product design at the earliest stage Interested in this role? Send us your resume. ‹ Client Support Engineer Senior QA Automation Engineer ›",
+    "published": "",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 12,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "defi",
+      "token",
+      "audit",
+      "foundry",
+      "evm"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
     "emails": [],
     "phones": []
   },

@@ -4367,6 +4367,18 @@
       "company": "Caylent",
       "source": "jobicy",
       "first_seen": "2026-09-01"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-at-atkinsr%C3%A9alis-4447562479": {
+      "title": "HSE Manager",
+      "company": "AtkinsRéalis",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4462069757": {
+      "title": "Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
     }
   },
   "applied": {
@@ -4971,6 +4983,13 @@
       "to": "https://www.cari.com",
       "title": "Senior Blockchain Engineer",
       "company": "Cari Network"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4462069757::contact_form": {
+      "date": "2026-09-01 23:46",
+      "via": "contact_form",
+      "to": "https://www.cari.com",
+      "title": "Blockchain Engineer",
+      "company": "Cari Network"
     }
   },
   "sent": {
@@ -5288,6 +5307,11 @@
       "kind": "contact_form",
       "to": "cari.com",
       "date": "2026-08-30 16:56"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4462069757": {
+      "kind": "contact_form",
+      "to": "cari.com",
+      "date": "2026-09-01 23:46"
     }
   },
   "replies": []
