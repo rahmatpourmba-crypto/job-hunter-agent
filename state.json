@@ -4325,6 +4325,48 @@
       "company": "Binance",
       "source": "jobicy",
       "first_seen": "2026-09-01"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-lead-at-confidential-4461562810": {
+      "title": "HSE Lead",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-specialist-industrial-hygiene-at-maaden-4460613085": {
+      "title": "Senior Specialist, Industrial Hygiene",
+      "company": "Maaden",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
+    },
+    "https://ae.linkedin.com/jobs/view/lead-technical-safety-engineer-at-wood-4461768660": {
+      "title": "Lead Technical Safety Engineer",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-technical-safety-engineer-at-wood-4461758846": {
+      "title": "Senior Technical Safety Engineer",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-khatib-alami-4461745156": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Khatib & Alami",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
+    },
+    "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-x-team-4462006075": {
+      "title": "Smart Contract Engineer",
+      "company": "X-Team",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
+    },
+    "https://jobicy.com/jobs/152325-senior-qa-engineer-2": {
+      "title": "Senior QA Engineer",
+      "company": "Caylent",
+      "source": "jobicy",
+      "first_seen": "2026-09-01"
     }
   },
   "applied": {
