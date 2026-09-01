@@ -107,6 +107,41 @@
     "about": "Payments can be submitted by electronic check or credit card."
   },
   {
+    "source": "linkedin",
+    "title": "Blockchain Developer",
+    "company": "Altimetrik",
+    "location": "Jersey City, NJ",
+    "url": "https://www.linkedin.com/jobs/view/blockchain-developer-at-altimetrik-4455130592",
+    "description": "Altimetrik delivers outcomes for our clients by rapidly enabling digital business & culture and infuse speed and agility into enterprise technology and connected solutions. We are practitioners of end-to-end business and technology transformation. We tap into an organization’s technology, people, and assets to fuel fast, meaningful results for global enterprise customers across financial services, payments, retail, automotive, healthcare, manufacturing, and other industries. Founded in 2012 and with offices across the globe, Altimetrik makes industries, leaders and Fortune 500 companies more agile, empowered and successful. Altimetrik helps get companies get “unstuck”. We’re a technology company that lives organizations a process and context to solve problems in unconventional ways. We’re a catalyst for organization’s talent and technology, helping teams push boundaries and challenge traditional approaches. We make delivery more bold, efficient, collaborative and even more enjoyable Job title – Blockchain Developer Required Skills 8+ years of overall software engineering experience, with a strong backend development foundation 2 to 4 years of hands-on experience in Web3 and blockchain application development , including smart contract development and blockchain protocol integration 3 to 5 years of experience with backend development using Java/Spring, Node.js, or equivalent enterprise frameworks Proficiency in Solidity smart contract development, including testing frameworks (Hardhat, Foundry, Truffle) and security best practices Hands-on experience with Web3 libraries such as Web3J, Web3JS, Ethers.js, or Viem Solid understanding of blockchain fundamentals — consensus mechanisms, transaction lifecycle, gas models, wallet infrastructure, and key management Experience with token standards (ERC-20, ERC-721, ERC-1155, ERC-3525, or equivalent) and tokenization patterns Familiarity with permissioned blockchain networks (Hyperledger Besu, Fabric, Corda, or R3) is a strong plus Experience with asynchronous programming , event-driven systems, and message queuing (Kafka, RabbitMQ, or equivalent) Familiarity with DevOps practices , containerization (Docker, Kubernetes), and CI/CD pipelines Understanding of cryptographic concepts — digital signatures, hashing, PKI, and secure key management — as applied to blockchain systems Exposure to Layer 2 scaling solutions (Polygon, Optimism, zkSync, etc.) and cross-chain interoperability protocols is a plus Experience in financial services or regulated industries is a plus Familiarity with Agile/Scrum methodologies and distributed team collaboration tools Basic qualifications: Bachelor’s degree in Computer Science, Software engineering or a related field",
+    "published": "2026-08-15",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 15,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "web3",
+      "polygon",
+      "crypto",
+      "token",
+      "security",
+      "hardhat"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": [
+      "+12482812500"
+    ],
+    "about": "Title: AI Native Engineering | Building What’s Next | Altimetrik URL Source: https://www.altimetrik.com/ Markdown Content: We value your privacy We use cookies to enhance your browsing experience, serve personalised ads "
+  },
+  {
     "source": "jobicy",
     "title": "Solidity Compiler Frontend Engineer",
     "company": "CertiK",
@@ -133,73 +168,6 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$140,000-$597,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Head of Engineer - Web3/Crypto",
-    "company": "Jobgether",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458605902",
-    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Head of Engineer - Web3/Crypto based in United States. This is a high-impact engineering leadership role focused on building innovative products at the intersection of blockchain, cryptocurrency, and digital collectibles. You’ll lead technical teams across the full software development lifecycle, from architecture and product conception through deployment and ongoing optimization. The role combines hands-on engineering with strategic leadership, requiring strong expertise across both front-end and back-end development. You’ll help shape secure, scalable blockchain applications while contributing to new approaches for connecting physical assets with digital experiences. Your responsibilities will span engineering execution, team development, data analysis, transaction monitoring, security, and technical strategy. You’ll work in a fully distributed environment with flexible hours and a strong emphasis on innovation, ownership, collaboration, and continuous learning. This is an opportunity to influence the evolution of Web3 technology while leading a team toward ambitious technical and product goals. Accountabilities Lead the design and implementation of innovative capabilities leveraging blockchain technologies while managing, mentoring, and coordinating engineering teams. Own technical direction and contribute across the full software development lifecycle, from architecture and development through testing, deployment, and continuous improvement. Develop and maintain scalable, reliable, and well-functioning applications and databases. Design and build blockchain-based applications using technologies such as Solidity, JavaScript, and Web3 libraries. Develop secure systems for recording and storing blockchain data while protecting digital transactions against unauthorized changes, vulnerabilities, and attacks. Research, evaluate, design, develop, and test emerging blockchain technologies and applications. Build high-quality, scalable, maintainable, and secure software across front-end and back-end systems. Support transaction monitoring capabilities designed to identify and address risks associated with cryptocurrency and digital asset activity. Analyze complex datasets and translate findings into meaningful insights that support product, business, and risk-related decisions. Develop rules, models, queries, and software solutions for analyzing and visualizing data. Establish team goals, manage project timelines and delivery milestones, and ensure effective allocation of engineering resources and budgets. Collaborate closely with cross-functional stakeholders to align technical execution with product objectives and business priorities. Document new technical solutions and maintain accurate documentation for existing systems and applications. Prepare reports and technical updates addressing cryptocurrency risks, digital asset activity, and potential criminal or suspicious activity. Continuously identify opportunities to improve engineering practices, system performance, security, scalability, and development processes. Requirements Bachelor’s degree in Computer Science, Statistics, or a related technical field. 7+ years of engineering or technical management experience, including demonstrated experience leading development teams. At least 2 years of hands-on blockchain development experience with Solidity, Ethereum, or another blockchain ecosystem. Strong understanding of blockchain applications, protocols, and development libraries such as Web3.js. Experience developing and deploying blockchain-based applications and working with smart contracts. Strong understanding of multiple front-end and back-end programming languages, frameworks, and libraries, with experience spanning technologies such as JavaScript, HTML/CSS, XML, jQuery, C#, Java, or Python. Strong hands-on experience with modern web development technologies and the ability to work across the full application stack. Experience building and developing rules, models, queries, or software for data analysis and visualization. Ability to analyze large and complex datasets, identify meaningful patterns, draw conclusions, and translate analysis into actionable business recommendations. Strong understanding of software development practices, application architecture, databases, cloud environments, and secure engineering principles. Experience leading technical teams, managing delivery priorities, allocating resources, and maintaining project timelines. Excellent written and verbal communication skills, with the ability to explain complex technical concepts to technical and non-technical stakeholders. Strong collaboration and leadership abilities, combined with a hands-on and results-oriented approach. Detail-oriented, analytical, and highly capable of solving complex technical and business problems. Experience with TypeScript, Node.js, Express, React, MongoDB, and AWS is highly desirable. Ability to thrive in a distributed environment, manage priorities independently, and work effectively with globally distributed teams. Strong interest in blockchain, cryptocurrency, Web3, and emerging technologies. Benefits Opportunity to help shape innovative products at the intersection of physical collectibles, blockchain, cryptocurrency, and the metaverse. Fully remote work environment with the flexibility to work from anywhere. Flexible working hours designed to support different locations, lifestyles, and working preferences. Opportunity to make a meaningful impact on a rapidly evolving technology platform and emerging digital economy. Exposure to modern technologies and systems across blockchain, Web3, cloud computing, data, and full-stack development. Significant technical and leadership ownership across engineering strategy, architecture, product development, and team execution. Collaborative and inclusive culture built",
-    "published": "2026-08-27",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 13,
-    "title_hits": [
-      "web3",
-      "crypto"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "blockchain",
-      "ethereum",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "home-women-1@3x.webp",
-      "men-ipad@3x.webp",
-      "men-laptop-1@3x.webp",
-      "review-document@3x.webp",
-      "support@jobgether.com"
-    ],
-    "phones": [],
-    "emails_source": "jobgether.com",
-    "about": "We turn years of experience into a visible competitive advantage."
-  },
-  {
-    "source": "linkedin",
-    "title": "Smart Contract Engineer",
-    "company": "RBC",
-    "location": "Jersey City, NJ",
-    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-rbc-4454831329",
-    "description": "Job Description Primary Responsibilities Design, develop, test, maintain and optimize all smart contracts. Research & evaluate relevant technologies and develop prototype solutions. Work with team to gather functional requirements and translate them into technical specifications. This includes interfacing with project managers, business analysts and end users. Ensure software security by adopting a defensive approach to software development (both happy and unhappy paths) and Principle of Least Privilege (especially as this comes to blockchains). Document developed software by providing appropriate developer docs, architecture diagrams and user guides. Share knowledge with junior developers and help newcomers quickly onboard into the team. Collaborate with other team members on resolving technical issues, improving current products and developing new ones. Follow standard dev-ops practices and SDLC principles. (where applicable) Help establish best practices, conventions and selection of development tools. Ensure adequate code reviews are conducted and technical standards are upheld. Work with Project Managers and stakeholders on goals, planning and delivery roadmaps. Authorities, Impact, Risk Decision Authority: all project deliverables, non-prod environments, consulted by production support on PROD environment setup and maintenance (where applicable). Scope, complexity & risk: decision making for all projects; high complexity tasks. Sizing: large Impact; immediate and within team as well as group wide. Working Conditions Open Office Plan Occasional off-hours and weekend work may be required within the position. Key Relationships Developers within current team and collaborative teams. Project managers, Business Analysts and QA. Production support teams. Helpdesk, Infrastructure and Application support teams. Offshore support and development teams. Working groups, technology/architecture groups. PMO and finance/budgetary teams. Outside consultants. Vendors. Required Education/Experience Holds a university degree and or equivalent work experience. Excellent technical skills and familiarity with wide array of technologies. The Expected Salary Range For The Above Position Is $135,000 - $225,000 Depending On Factors Including But Not Limited To The Candidate's Experience, Skills, Registration Status; Market Conditions; And Business Needs. This Salary Range Does Not Include Other Elements Of Total Compensation, Including A Discretionary Bonus And Benefits Such As A 401(K) Program With Company-Matching Contributions; Health, Dental, Vision, Life And Disability Insurance; And Paid Time-Off Plan. RBC's Compensation Philosophy And Principles Recognize The Importance Of A Highly Qualified Global Workforce And Plays A Critical Role In Attracting, Engaging And Retaining Talent That: Drives RBC's High Performance Culture Enables Collective Achievement Of Our Strategic Goals Generates Sustainable Shareholder Returns And Above Market Shareholder Value Preferred Education/Experience University degree Strong exposure to web3. Experience with modern technologies and dev-ops. Poses strong grasp on modern design pattern and architectures. Working with offshore, remote and onsite teams. Behavioural Competencies Be able to work across multiple facets of a project and juggle tasks across multiple projects at the same time. Be Able to communicate both orally and in writing and clearly articulate technical issues, solutions and architecture. Innovative / entrepreneurial. Excellent interpersonal and problem-solving skills. Proven team player. Technical Competencies Smart Contract Security Decentralized Application Patterns Familiarity with at least two Smart Contract Languages (Solidity, DAML, Move, Vyper, Rust, Cairo, Clarity etc.) Familiarity with Contract testing frameworks Defi primitives Decentralized Architecture patterns (state / gas optmizations etc.) MEV awareness and mitigation strategies Job Skills Application Development, Application Integrations, Application Maintenance, Applications Architecture, Detail-Oriented, Enterprise Application Delivery, Group Problem Solving, Programming Languages, Software Development Life Cycle (SDLC), System Applications Additional Job Details Address: CNB, 30 HUDSON STREET:JERSEY CITY City: Jersey City Country: United States of America Work hours/week: 40 Employment Type: Full time Platform: CAPITAL MARKETS Job Type: Regular Pay Type: Salaried Posted Date: 2026-08-14 Application Deadline: 2026-09-25 Note : Applications will be accepted until 11:59 PM on the day prior to the application deadline date above Our Employment Opportunities At RBC, we are guided by living shared values of Client First, Integrity, Collaboration, Respect and Excellence and winning together as One RBC. We believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all. Join our Talent Community Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you. Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com</a/span> RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.",
-    "published": "2026-08-15",
-    "remote": true,
-    "currency": null,
-    "salary_min": 135000,
-    "salary_max": 225000,
-    "score": 12,
-    "title_hits": [
-      "smart contract"
-    ],
-    "desc_hits": [
-      "solidity",
-      "blockchain",
-      "web3",
-      "defi",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$135,000-$225,000",
     "emails": [],
     "phones": []
   },
@@ -706,6 +674,33 @@
     "salary_ok": true,
     "salary_str": "$308,700-$424,500",
     "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Staff Software Engineer - Product Security",
+    "company": "Maven Clinic",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/152250-staff-software-engineer-product-security",
+    "description": "Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct access to virtual care across 30+ specialties, as well as dedicated hormone and GLP-1 care programs purpose-built for women. Founded in 2014 by CEO Kate Ryder, Maven Clinic has raised more than $425 million from leading healthcare and technology investors including General Catalyst, Sequoia, Dragoneer Investment Group, Oak HC/FT, StepStone Group, Icon Ventures, and Lux Capital. Recognized for innovation and industry leadership, Maven has been named to the TIME100 Most Influential Companies, CNBC Disruptor 50, Fast Company's Most Innovative Companies, and FORTUNE Best Places to Work. Learn more at mavenclinic.com An award-winning culture working towards an important mission – Maven Clinic is a recipient of over 30 workplace and innovation awards, including: TIME 100 Most Influential Companies (2023, 2026) Fortune Change the World (2024) CNBC Disruptor 50 List (2022, 2023, 2024) Fortune Best Workplaces for Millennials (2024) Fortune Best Workplaces in Health Care (2024) Fast Company Most Innovative Companies (2020, 2023) Fortune Best Workplaces NY (2020, 2021, 2022, 2023, 2024) What You’ll Do Security Platform Engineering Design and implement scalable infrastructure supporting HIPAA, SOC 2, and ISO 27001 compliance Build and maintain systems for identity, authentication, and access management (Okta / GCP IAM / Auth0/ OPA) Implement observability and anomaly detection across microservices, data stores, and SaaS platforms Establish Zero Trust principles and enforce least-privilege access company-wide Develop compliance observability dashboards and automated evidence collection Security Automation & Tooling Create self-service security tools that integrate with developer workflows (GitLab CI/CD, Terraform) Automate onboarding/offboarding, access reviews, and approvals Integrate software-supply-chain security (SBOM, dependency scanning) Develop or adopt AI-assisted security tooling to proactively identify risks Automate policy enforcement, SAST/DAST scans, and compliance verification Application & Data Security Lead threat modeling and security architecture reviews for new products and services Partner with product and data teams to embed secure-by-default design patterns Ensure encryption, access tracking, and secure data handling across PHI workflows Contribute to incident response, post-mortems, and continual improvement of security posture Leadership & Collaboration Act as Maven’s technical authority for security engineering Mentor peers and promote secure coding and architecture practices Partner cross-functionally (Engineering, Compliance, Clinical, Legal) to align on security strategy Champion an engineering culture of transparency, accountability, and continuous improvement What You’ll Bring Required 8+ years of software engineering experience, including 3+ in security infrastructure or application security Proven ability to design and implement large-scale, distributed, cloud-native systems Strong coding proficiency in Python, TypeScript, Go and/or Rust Deep understanding of cloud security (GCP preferred; AWS/Azure welcome) Experience with Kubernetes, containers, and infrastructure-as-code (Terraform) Familiarity with security testing frameworks and secure SDLC principles Excellent communication and documentation skills Preferred Expertise in Zero Trust architectures, authentication/authorization frameworks, and data-loss prevention Experience with security compliance automation (SOC 2, ISO 27001, PCI-DSS, NIST) Background in data security telemetry and threat detection Familiarity with AI/ML security and AI-assisted analysis tools Exposure to supply-chain security and CI/CD pipeline hardening Certifications (CISSP, GCP Professional Cloud Security Engineer, OSCP) a plus What Makes You a Great Fit You take a pragmatic, automation-first approach to solving security problems You balance rigor with velocity, enabling teams to move quickly without compromising trust You communicate clearly with both technical and non-technical stakeholders You’re curious, adaptable, and eager to lead initiatives from concept to production You care deeply about our mission—building safer, smarter healthcare for women and families The base salary range for this role is $221,000 - $260,000 per year. You will also be entitled to receive equity and benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, and skillset. Maven embraces a flexible hybrid work model. Our teams primarily operate from the New York Metropolitan area, NY, and remotely via San Francisco/Bay Area, CA, Seattle, WA. For those in our New York City office, we encourage in-person collaboration by requiring team members to work onsite three days a week (Tuesday, Wednesday, Thursday). For those based in Boston, DC, Chicago, Seattle, and San Francisco, we encourage in-person collaboration by requiring team members to attend monthly Work Together Days within these cities. This policy aims to balance remote work flexibility with the benefits of face-to-face interaction. At Maven we believe that a diverse set of backgrounds and experiences enrich our teams and allow us to achieve above and beyond our goals. If you do not have experience in all of the areas detailed above, we hope that you will share your unique background with us in your application and how it can be additive to our teams. Benefits That Work For You Our benefits are designed to support your health, well-being and career development, helping you thrive both personally and professionally. We remain focused on providing a competitive benefits package for our employees. On top of standards such as employer-covered health, dental, and insurance plan options, we offer an inclusive approach to benefits: Maven for Mavens: access to the full platform and specialists, including care for mental health, reproductive health, family planning and pediatrics. Whole-self care through wellness partnerships Hybrid work, in office meals, and work together days 16 weeks 100% paid parental leave and new parent stipend (for Mavens who've been with us for 1 year+) Annual professional development stipend and access to a personal career coach through Maven for Mavens 401K matching for US-based employees, with immediate vesting These benefits are applicable to Maven Clinic Co., US-based, full-time employees only. 1099/Contract Providers are ineligible for these benefits. Maven is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Maven is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Maven Clinic interview requests and job offers only originate from an @mavenclinic.com email address (e.g jsmith@mavenclinic.com). Maven Clinic will never ask for sensitive information to be delivered over email or phone. If you receive a scam issue or a security issue involving Maven Clinic please notify us at: security@mavenclinic.com . For general and additional inquiries, please contact us at careers@mavenclinic.com . Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting…",
+    "published": "2026-08-31",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 221000,
+    "salary_max": 425000,
+    "score": 7,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$221,000-$425,000",
+    "emails": [
+      "jsmith@mavenclinic.com",
+      "security@mavenclinic.com",
+      "careers@mavenclinic.com"
+    ],
     "phones": []
   }
 ]

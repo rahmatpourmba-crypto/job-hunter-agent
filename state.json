@@ -4277,6 +4277,36 @@
       "company": "Axiom",
       "source": "jobicy",
       "first_seen": "2026-09-01"
+    },
+    "https://ae.linkedin.com/jobs/view/job-title-hse-engineer-at-kbr-inc-4461518193": {
+      "title": "Job Title: HSE Engineer",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
+    },
+    "https://jobicy.com/jobs/152293-senior-security-engineer-3": {
+      "title": "Senior Security Engineer",
+      "company": "Karbon",
+      "source": "jobicy",
+      "first_seen": "2026-09-01"
+    },
+    "https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer": {
+      "title": "Expel: Managed SIEM Detection Engineer",
+      "company": "Expel",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-01"
+    },
+    "https://jobicy.com/jobs/152284-aws-devops-engineer-senior-migration-project-vmware-to-aws": {
+      "title": "AWS DevOps Engineer (Senior) - Migration Project (VMware to AWS)",
+      "company": "Mactores",
+      "source": "jobicy",
+      "first_seen": "2026-09-01"
+    },
+    "https://ae.linkedin.com/jobs/view/blockchain-developer-at-one75mb-hrm-pvt-ltd-4461706436": {
+      "title": "Blockchain Developer",
+      "company": "One75mb HRM Pvt Ltd.",
+      "source": "linkedin",
+      "first_seen": "2026-09-01"
     }
   },
   "applied": {
