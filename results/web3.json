@@ -107,39 +107,6 @@
     "about": "Payments can be submitted by electronic check or credit card."
   },
   {
-    "source": "linkedin",
-    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4459759406",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "audit",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Solidity Compiler Frontend Engineer",
     "company": "CertiK",
@@ -318,8 +285,12 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$130,100-$187,000",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "thogard@abnormal.com"
+    ],
+    "phones": [],
+    "emails_source": "abnormal.com",
+    "about": "Tim Hogard's Home page # Tim Hogard's Home page [![Image 1: no fp98 here](https://www.abnormal.com/~thogard/images/nofp.gif)](https://www.worldgate.com/~marcs/fp/) * * * ## Now on the net for 31 years This website was on"
   },
   {
     "source": "jobicy",
@@ -712,6 +683,29 @@
     "emails": [
       "paytransparency@clickhouse.com"
     ],
+    "phones": []
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Databricks: Cyber Security GTM Leader",
+    "company": "Databricks",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader",
+    "description": "Headquarters: Remote - California; Remote - New York SLSQ327R408 As the Cybersecurity Go-to-market (GTM) Leader, you will drive the global GTM strategy and execution of the Cybersecurity business at Databricks. You will play a pivotal role in accelerating cyber revenue growth by building scalable assets for the field, designing enablement programs, and driving key partnerships. You will be the domain expert and business executive for cybersecurity use-cases across all verticals and regions. In this role, you will set a clear GTM vision for Cybersecurity, work with a cross-functional team and focus relentlessly on execution of scalable sales programs. You will build a clear business plan for Cybersecurity that drives alignment across sales, industry vertical leaders, enablement, partner management, marketing, field engineering, sales programs, and other key stakeholders at the company. You have a strong POV on how Data+AI will transform Cybersecurity, a deep understanding of incumbant tools in the space, and possess the ability to enable the field to have strategic conversations with CxOs without requiring your direct involvement. This job will require travel for conferences and internal meetings. You will report to the Global VP of Financial Services, Cybersecurity, and Public Sector GTM. The impact you will have: Build and execute comprehensive sales programs that can be repeatable across multiple geographies and entities on a quarterly basis. Develop a net-new GTM motion for horizontal security products targeted across all industry verticals. Identify and foster new AI-driven use cases of the Databricks platform Identify operational gaps in the Cybersecurity GTM motion, be data-driven about quantifying business opportunities and execute improvement plans. Work closely with the sales and pre-sales teams to create account-level plans. Scale your expertise across the GTM organization via enablement, building repeatable assets, and articulating a clear strategy and vision for Data and AI in Cybersecurity. Become a trusted advisor to strategic customer security executives on security operations transformation, AI-readiness/governance. Collaborate with Partner teams to develop strategic relationships with Systems Integrators and build joint sales motions. Collaborate with the marketing team to establish Databricks as a thought leader in the industry by authoring white-papers, representing Databricks at conferences, and designing novel Cybersecurity events for Databricks. Collaborate with enablement teams to build programs that enhance the field’s ability to have executive security conversations. This includes general knowledge of Cybersecurity operations, legacy competitors, the AI security crisis/opportunity, evolving threats, industry regulations, and relevant case studies. Partner with marketing to develop tailored Cybersecurity case-studies, collateral, blogs and demand generation plans. What we look for: 15+ years experience working as a Cybersecurity executive at a leading Cybersecurity software company, consulting firm. Proven sales program management skills. Proven record of driving change for large entities with a strong understanding of how organizations make Cybersecurity decisions and ability to influence that decision making process. Builder mentality and proven record of using AI to automate and augment GTM motion. Strong customer-facing presence (CISO, IT and Business Leaders) and ability to cultivate executive relationships. Strong knowledge of the technical landscape in Cybersecurity with existing relationships across the space. Humility, ability to work with cross-functional teams and strong people skills to inspire and lead cross-functional teams. Excellent analytical, strategic planning, and verbal/written communication skills, with the ability to convey complex information in a clear and concise manner. Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected base salary range for non-commissionable roles or on-target earnings for commissionable roles. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipated utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . Zone 1 Pay Range $308,700 — $424,500 USD Zone 2 Pay Range $308,700 — $424,500 USD Zone 3 Pay Range $308,700 — $424,500 USD Zone 4 Pay Range $308,700 — $424,500 USD About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. Compliance If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone. To apply: https://weworkremotely.com/remote-jobs/databricks-cyber-security-gtm-leader",
+    "published": "Mon, 31 Aug 2026",
+    "remote": true,
+    "currency": null,
+    "salary_min": 308700,
+    "salary_max": 424500,
+    "score": 7,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$308,700-$424,500",
+    "emails": [],
     "phones": []
   }
 ]
