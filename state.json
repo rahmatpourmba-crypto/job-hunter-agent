@@ -4415,6 +4415,24 @@
       "company": "Confidential",
       "source": "linkedin",
       "first_seen": "2026-09-02"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4462163920": {
+      "title": "HSE-Engineer",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-02"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-lamar-factory-at-alfanar-4460964373": {
+      "title": "HSE Officer | Lamar Factory",
+      "company": "alfanar",
+      "source": "linkedin",
+      "first_seen": "2026-09-02"
+    },
+    "https://ae.linkedin.com/jobs/view/advisor-health-and-safety-at-transguard-group-4459508101": {
+      "title": "Advisor - Health and Safety",
+      "company": "Transguard Group",
+      "source": "linkedin",
+      "first_seen": "2026-09-02"
     }
   },
   "applied": {
@@ -5026,6 +5044,20 @@
       "to": "https://www.cari.com",
       "title": "Blockchain Engineer",
       "company": "Cari Network"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-talentmate-4462119541::email": {
+      "date": "2026-09-02 12:31",
+      "via": "email",
+      "to": "contact@talentmate.com",
+      "title": "Senior HSE Engineer",
+      "company": "TALENTMATE"
+    },
+    "https://ae.linkedin.com/jobs/view/job-title-hse-engineer-at-talentmate-4462103960::email": {
+      "date": "2026-09-02 12:31",
+      "via": "email",
+      "to": "contact@talentmate.com",
+      "title": "Job Title HSE Engineer",
+      "company": "TALENTMATE"
     }
   },
   "sent": {
@@ -5348,6 +5380,16 @@
       "kind": "contact_form",
       "to": "cari.com",
       "date": "2026-09-01 23:46"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-talentmate-4462119541": {
+      "kind": "email",
+      "to": "contact@talentmate.com",
+      "date": "2026-09-02 12:31"
+    },
+    "https://ae.linkedin.com/jobs/view/job-title-hse-engineer-at-talentmate-4462103960": {
+      "kind": "email",
+      "to": "contact@talentmate.com",
+      "date": "2026-09-02 12:31"
     }
   },
   "replies": []
