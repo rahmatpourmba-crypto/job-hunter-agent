@@ -34,6 +34,39 @@
   },
   {
     "source": "linkedin",
+    "title": "Solidity/Solana Smart Contract Developer",
+    "company": "Gaurav Dot One",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/solidity-solana-smart-contract-developer-at-gaurav-dot-one-4460911311",
+    "description": "EngineeringRemote Worldwide (Remote) Full-time engineering About The Role Join us as a Smart Contract Developer specializing in Solidity and Solana. You'll architect and implement secure, gas-efficient smart contracts for DeFi protocols, NFT platforms, and cross-chain bridges. Security and optimization are paramount. Responsibilities Design and implement smart contracts in Solidity and Rust Conduct security audits and vulnerability assessments Optimize contracts for gas efficiency Write comprehensive test suites for all contracts Document contract architecture and interfaces Collaborate on protocol design decisions Stay updated with latest blockchain security practices Requirements 2+ years of smart contract development Deep expertise in Solidity or Rust/Anchor Strong understanding of EVM and Solana runtime Experience with contract security best practices Familiarity with common attack vectors Track record of deployed mainnet contracts Strong algorithmic thinking Nice to Have Experience with formal verification Knowledge of MEV and flashloans Cross-chain bridge development DeFi protocol experience Security audit experience Tech Stack SolidityRustAnchorHardhatFoundryOpenZeppelinWeb3.jsEthers.js",
+    "published": "",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 17,
+    "title_hits": [
+      "solidity",
+      "smart contract"
+    ],
+    "desc_hits": [
+      "blockchain",
+      "web3",
+      "defi",
+      "audit",
+      "security",
+      "hardhat",
+      "foundry",
+      "nft"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Blockchain Developer",
     "company": "Reuben Cooley Inc.",
     "location": "Jersey City, NJ",
@@ -612,6 +645,31 @@
     "phones": []
   },
   {
+    "source": "jobicy",
+    "title": "Sr. Security Engineer",
+    "company": "FastSpring",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/151709-sr-security-engineer",
+    "description": "About FastSpring: FastSpring is how AI, SaaS, gaming, software, and digital product companies sell online in more places around the world. We handle all payment needs from checkout to taxes so you can go farther faster. Founded in 2005, we are a privately owned company headquartered in Santa Barbara with offices in Amsterdam, Austin, Belfast, Dublin, Halifax, and Singapore. Sr. Security Engineer Position Overview: We are seeking a Sr. Security Engineer to join our Agentic Experience group, reporting to the Principal Engineer, Agentic Development. In this role, you will strengthen the security posture of our core payments platform while helping shape security practices for AI-assisted software development. You will work closely with our Agentic Experience group and our CISO, with visibility to executive leadership. This is a hands-on engineering role with broad scope: application security, cloud infrastructure security, and security review of AI/agentic development tooling. Responsibilities & Goals: Identify, prioritize, and remediate vulnerabilities across our Java-based platform and AWS infrastructure Drive infrastructure security improvements, including IAM policy refinement, instance metadata protections, and network egress controls Conduct security reviews of AI-assisted development pipelines, tool integrations, and agent-accessible services Develop and maintain secure development standards, patterns, and guardrails for engineering teams Partner with the fractional CISO on risk assessment, remediation planning, and compliance initiatives (including PCI DSS) Contribute to incident response readiness and security monitoring improvements Communicate security priorities and progress clearly to technical and executive stakeholders Experience & Qualifications: 7+ years of hands-on security engineering experience (application security, cloud security, or infrastructure security) Strong experience with AWS security services and primitives (IAM, VPC networking, secrets management) Experience working in and securing large production codebases; JVM ecosystem experience preferred Familiarity with modern AI-assisted development tools and an interest in their security implications Strong prioritization and communication skills; ability to advocate for security investments with stakeholders Experience in payments, fintech, or other regulated environments is a plus Relevant certifications (e.g., CISSP, OSCP, AWS Security Specialty) are a plus but not required Nice to Have Security certifications (e.g., AWS Security Specialty, CISSP, OSCP, GIAC). Experience securing payments, ecommerce, or subscription/billing platforms. Experience with secure SDLC practices and integrating security tooling (SAST/DAST/SCA) into CI/CD. Familiarity with global, multi-currency, or tax-calculation systems and their data-sensitivity considerations. Consistent with FastSpring's values and applicable law, we provide the following information to promote pay transparency and equity. The base pay range below represents a good faith estimate of the low and high end base pay range for the listed position. This role may be eligible for the corporate bonus plan (or, if a sales role, a commission plan as defined in the sales incentive plan document). In addition, FastSpring provides a variety of benefits to employees. Estimated Base Pay Range $155,000—$187,000 USD About the Company: FastSpring is an EQUAL EMPLOYMENT OPPORTUNITY/AFFIRMATIVE ACTION employer. Candidates are considered for employment with FastSpring without regard to their race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, veteran status (specifically status as a disabled veteran, special disabled veteran, Vietnam Era veteran, recently separated veteran, armed forces service medal veteran, or other protected veteran) or other classification protected by applicable federal, state or local law. AI Transparency Statement: FastSpring may utilize artificial intelligence (AI) or automated tools during portions of the recruitment process to assist with operational and administrative activities, including candidate communications, scheduling, application organization, and interview documentation. These tools are designed to support efficiency and consistency within the hiring process. AI systems are not used as the sole determinant of hiring outcomes, and all employment decisions are made by qualified human reviewers. We are committed to responsible and fair hiring practices and continue to evaluate our use of technology accordingly. About FastSpring: FastSpring is how AI, SaaS, gaming, software, and digital product companies sell online in more places around the world. We handle all payment needs from checkout to taxes so you can go farther faster. Founded in 2005, we are a privately owned company headquartered in Santa Barbara with offices in Amsterdam, Austin, Belfast,…",
+    "published": "2026-08-26",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 155000,
+    "salary_max": 187000,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$155,000-$187,000",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "weworkremotely",
     "title": "Huntress: Manager, Security Operations Center - EMEA",
     "company": "Huntress",
@@ -664,64 +722,6 @@
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Information Security Engineer",
-    "company": "Keyfactor, Inc.",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/152303-information-security-engineer",
-    "description": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care deeply about the work and each other. We move fast, think big, and show up for one another every day. If you're looking for work that matters and a team that brings out your best, we hope you'll trust your future with Keyfactor! Title: Information Security Engineer Location: USA; Remote ( Atlanta or Cleveland preferred) Experience: Mid-Level Job Function : Corporate IT Employment Type : Full-Time Industry: Computer & Network Security About the position We are seeking an experienced Information Security Engineer with a strong background in implementing and managing general information security frameworks, including ISO 27001:2022 and SOC 2 Type II. This role involves designing, maintaining, and improving our security infrastructure to ensure compliance with regulatory standards and support continuous monitoring efforts. The ideal candidate will play a key role in safeguarding the organization’s data and infrastructure while driving adherence to evolving security best practices. Responsibilities Evaluate the security posture of systems, platforms, and cloud environments, establish appropriate security baselines, and drive implementation and hardening to close identified gaps. Quickly develop proficiency in new SIEM, EDR, and other security platforms as the environment evolves; configure, tune, and integrate these tools with SaaS applications and diverse data sources to expand visibility and detection coverage. Evaluate and optimize security playbooks, runbooks, and processes based on lessons learned, tooling changes, and evolving threats, ensuring documentation and workflows keep pace with the organization's security operations maturity. Experience conducting vulnerability assessments, system audits, and risk analysis using industry-standard scanning tools to support a proactive security posture. Manage and implement continuous monitoring processes to ensure the organization maintains compliance with a variety of information security frameworks, including ISO 27001:2022 and SOC 2 Type II. Experience with government compliance standards such as FedRAMP (NIST SP 800-53) and CMMC is preferred. This role focuses on ensuring robust security practices and adapting to evolving compliance requirements. Actively monitor, analyze, and respond to security alerts and incidents, performing investigations, incident handling, and recommending corrective actions. Minimum Qualifications, Education, and Skills 5+ years of experience in information security or a similar role Proficiency in vulnerability scanning tools (Nessus, Burpsuite, Tenable, etc…) and interpreting scan results for remediation. Strong knowledge of security standards Demonstrated experience in continuous monitoring, network security, firewalls, VPNs, IDS/IPS, and endpoint protection. Strong analytical skills and a meticulous approach to problem-solving Demonstrated capability to deliver results on-time and to a defined schedule. Relevant certifications (e.g., CISSP, CompTIA Security+, CAP) are strongly preferred Familiarity with cloud security principles Experience with security automation and continuous monitoring tools PKI knowledge a plus Knowledge of scripting languages (Python, PowerShell) to automate security processes Experience with government-regulated environments (AWS GovCloud, Azure Government) preferred #LI-NA1 Compensation Salary will be commensurate with experience. Culture, Career Opportunities and Benefits We build teams that continually strive to get better than the day before. You will be challenged daily and given opportunities to grow personally and professionally. We balance autonomy and structure to create an entrepreneurial environment to spur creativity and new ideas. Here are just some of the initiatives that make our culture special: Second Fridays (a company-wide day off on the second Friday of every month minus November and December due to the Holiday schedule). Please note that this benefit is subject to change. Comprehensive benefit coverage globally. Paid Parental Leave is available to new parents. Structure varies based on regional/government requirements. In regions where government-paid leave doesn’t exist, like in the U.S., the company offers generous paid parental leave, along with comprehensive adoption and fertility support. Competitive time off globally. Dedicated employee-focused ambassadors via Key Contributors & Culture Committees. DIVERSE Commitment, a call to action for a more inclusive and diverse future in business, society, and technology. The Keyfactor Alliance Program to support DEIB efforts. Wellbeing resources, wellness allowance, mindfulness app free membership, Wellness Wednesdays. Global Volunteer Day, company non-profit matching, and 3 volunteer days off. Monthly Talent development and Cross Functional meetings to support professional development. Regular All Hands meetings – followed by group gatherings. Our Core Values Our core values are extremely important to how we run our business and what we look for in every team member: Trust is paramount. We deliver security software and solutions where trust and openness are of the highest importance for our customers. We are honest and a trusted partner in every aspect of business. Customers are core. We strategize, operate, and execute through a customer-centric view. We prioritize the security interests of our customers, and we act as if their data were our own. Innovation never stops, it only accelerates. The speed of change is accelerating. We are committed, through investment and focus, to stay ahead of the innovation curve. We deliver with agility . We thrive in high-paced and continually changing environments. We navigate through newly added variables, adjust accordingly, while driving towards our strategic goals. United by respect . Respect for all is what unites us. We promote diversity, inclusivity, equity, and acting with empathy and openness, both in our business and in our communities. Teams make “it” happen. Vision and goals are not individually achievable – they require teamwork. We pride ourselves in operating as a cohesive team, creating promoters and partners, and winning as one. Keyfactor is a proud equal opportunity employer including but not limited to veterans and individuals with disabilities. REASONABLE ACCOMMODATION: Applicants with disabilities may contact a member of Keyfactor’s People team via people@keyfactor.com and/or telephone at 1.216.785.2990 to request and arrange for accommodations at any time. Keyfactor Privacy Notice About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care…",
-    "published": "2026-09-01",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 8,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [
-      "defi",
-      "crypto",
-      "audit"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "people@keyfactor.com"
-    ],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Security Engineer I, Information Technology",
-    "company": "Cision",
-    "location": "Hungary",
-    "url": "https://jobicy.com/jobs/151867-security-engineer-i-information-technology",
-    "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we accelerate. Join us in shaping the future of communication and building authentic connections that matter. Whether you're solving complex problems or driving bold innovations, your growth is our success, and together, we’ll create the conversations of tomorrow. Empower your impact at Cision. Be seen, be understood, be you. This role strengthens and optimizes the organization's security capabilities by reviewing existing tools, applications, and processes to identify gaps. It establishes and maintains cloud security architecture best practices, focusing on cloud platforms and integrates new and existing security platforms. The role collaborates with R&D teams to maintain a secure architecture and analyzes security events for anomalous activity. It contributes to the organization's security posture and ensures a secure environment. The individual works on issues requiring the analysis of relevant factors and exercises considerable judgment within defined procedures to determine appropriate action. This individual will work across multiple departments to design, implement, and manage security solutions that protect both internal and third party (vendor) systems and customer data. You will play a critical role in ensuring that security practices are aligned with compliance requirements while driving technical solutions for secure systems and data protection across the entire organization. Responsibilities: • Security Engineering & Architecture: Must have expertise in designing, implementing, and maintaining security architectures across cloud, third-party, and on-premises environments, including evaluating and integrating emerging security technologies. • DevSecOps: Should possess deep knowledge of embedding security within CI/CD pipelines, establishing security standards, and conducting secure code reviews with development teams. • Cryptography: Must understand encryption technologies for securing data at rest and in transit, with experience managing cryptographic keys and ensuring compliance with industry standards. • Identity & Authentication: Requires knowledge of designing and managing secure identity solutions, including Single Sign-On (SSO), Identity Providers (IdPs), and federation protocols such as SAML, OAuth, and OpenID Connect. Familiarity with Okta and Keycloak preferred. • Secure Coding: Should be proficient in secure coding practices, training teams, and developing standards to prevent vulnerabilities like injection flaws, XSS, and authentication issues. • Governance, Risk, & Compliance (GRC): Must have a strong grasp of GRC frameworks (e.g., NIST, SOC2, ISO 27001, Cyber Essentials etc) and experience in aligning technical controls with regulatory and audit requirements. • Threat Management: Requires expertise in performing risk assessments, threat modeling, vulnerability assessments, and mitigation planning to address security risks. • Incident Response & Monitoring: Should have knowledge of incident response strategies, SOC collaboration, and implementing continuous monitoring tools to ensure compliance and security standards. • Collaboration & Leadership: Must demonstrate the ability to work with cross-functional teams, mentor junior engineers, and act as a subject matter expert in security technologies, tools, and frameworks. Requirements: • Deep understanding of security standards and frameworks such as NIST, ISO 27001, CIS Controls, and industry compliance regulations (GDPR, HIPAA, PCI-DSS). • Hands-on experience with security tools such as IDS/IPS, SIEM, vulnerability scanners, and penetration testing platforms. • Experience with cloud platforms (AWS, Azure, GCP, OCI or Alibaba) and securing cloud-native applications. • Proficiency in programming languages (e.g., Python, Java, C++) and automation tools (e.g., Terraform, Ansible). • Strong knowledge of networking protocols, firewalls, VPNs, proxies, and security monitoring tools. • 5+ years of relevant experience in security engineering and GRC-focused security solutions development. • Extensive hands-on experience in DevSecOps, integrating security in CI/CD pipelines, and supporting development teams in secure coding practices. • Proven expertise in cryptography, including encryption, key management, and digital signatures. What we offer: Friendly and welcoming environment focused on people, learning & development 25 vacation days and extra vacation days after age and after children Cafeteria benefit via SZEP card Medicover private health insurance for employees and their family members 10% of your time to work on anything you like, reading groups, tech talks Flexible working and working from home An extensive people development program, including access to Udemy Please note: Candidates must be available for after-hours incident response when urgent security events require investigation or support. The interview process will include a hands-on practical exercise conducted through screen sharing, where candidates will be asked to demonstrate relevant technical skills. Cision is the global leader in consumer and media intelligence, engagement, and communication solutions. We equip PR and corporate communications, marketing, and social media professionals with the tools they need to excel in today's data driven world. Our deep expertise, exclusive data partnerships, and award-winning products, including CisionOne , Brandwatch , and PR Newswire , enable over 75,000 companies and organizations, including 84% of the Fortune 500, to see and be seen, understand and be understood by the audiences that matter most to them. Cision is committed to fostering an inclusive environment where all employees can be their authentic selves and perform at their best. We believe diversity, equity, and inclusion is vital to driving our culture, sparking innovation and achieving long-term success. Cision is proud to have joined more than 600 companies in signing the CEO Action for Diversity & Inclusion™ pledge and named a “Top Diversity Employer” for 2021 by DiversityJobs.com . Cision is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or other protected statuses. Cision is committed to the full inclusion of all qualified individuals. In keeping with our commitment, Cision will take the steps to assure that people with disabilities are provided reasonable accommodations. Accordingly, if reasonable accommodation is required to fully participate in the job application or interview process, to perform the essential functions of the position, and/or to receive all other benefits and privileges of employment, please contact hr.support@cision.com Cision, Inc. \"the Company\" only communicates with candidates and extends job offers through direct channels, not third parties. Please review our Global Candidate Data Privacy Statement to learn about Cision’s commitment to protecting personal data collected during the hiring process. At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we…",
-    "published": "2026-08-27",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 8,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [
-      "defi",
-      "crypto",
-      "audit"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "hr.support@cision.com"
-    ],
     "phones": []
   }
 ]
