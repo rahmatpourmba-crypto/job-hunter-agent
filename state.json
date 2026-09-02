@@ -4445,6 +4445,18 @@
       "company": "ALGOQUANT",
       "source": "linkedin",
       "first_seen": "2026-09-02"
+    },
+    "https://iq.linkedin.com/jobs/view/engineer-at-coca-cola-cci-4459972028": {
+      "title": "Engineer",
+      "company": "Coca-Cola CCI",
+      "source": "linkedin",
+      "first_seen": "2026-09-02"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4462499010": {
+      "title": "Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-09-02"
     }
   },
   "applied": {
@@ -5084,6 +5096,13 @@
       "to": "privacy@trmlabs.com",
       "title": "Deployment Strategist, APAC",
       "company": "TRM Labs"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4462499010::contact_form": {
+      "date": "2026-09-02 22:20",
+      "via": "contact_form",
+      "to": "https://www.cari.com",
+      "title": "Blockchain Engineer",
+      "company": "Cari Network"
     }
   },
   "sent": {
@@ -5426,6 +5445,11 @@
       "kind": "email",
       "to": "privacy@trmlabs.com",
       "date": "2026-09-02 19:39"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4462499010": {
+      "kind": "contact_form",
+      "to": "cari.com",
+      "date": "2026-09-02 22:20"
     }
   },
   "replies": []
