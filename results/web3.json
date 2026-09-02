@@ -34,39 +34,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Solidity/Solana Smart Contract Developer",
-    "company": "Gaurav Dot One",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/solidity-solana-smart-contract-developer-at-gaurav-dot-one-4460911311",
-    "description": "EngineeringRemote Worldwide (Remote) Full-time engineering About The Role Join us as a Smart Contract Developer specializing in Solidity and Solana. You'll architect and implement secure, gas-efficient smart contracts for DeFi protocols, NFT platforms, and cross-chain bridges. Security and optimization are paramount. Responsibilities Design and implement smart contracts in Solidity and Rust Conduct security audits and vulnerability assessments Optimize contracts for gas efficiency Write comprehensive test suites for all contracts Document contract architecture and interfaces Collaborate on protocol design decisions Stay updated with latest blockchain security practices Requirements 2+ years of smart contract development Deep expertise in Solidity or Rust/Anchor Strong understanding of EVM and Solana runtime Experience with contract security best practices Familiarity with common attack vectors Track record of deployed mainnet contracts Strong algorithmic thinking Nice to Have Experience with formal verification Knowledge of MEV and flashloans Cross-chain bridge development DeFi protocol experience Security audit experience Tech Stack SolidityRustAnchorHardhatFoundryOpenZeppelinWeb3.jsEthers.js",
-    "published": "",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 17,
-    "title_hits": [
-      "solidity",
-      "smart contract"
-    ],
-    "desc_hits": [
-      "blockchain",
-      "web3",
-      "defi",
-      "audit",
-      "security",
-      "hardhat",
-      "foundry",
-      "nft"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Blockchain Developer",
     "company": "Reuben Cooley Inc.",
     "location": "Jersey City, NJ",
@@ -141,32 +108,31 @@
   },
   {
     "source": "linkedin",
-    "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4459759406",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission At 1inch, our engineering needs evolve rapidly. We are constantly seeking exceptional smart contract engineers to join our mission. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges As part of our engineering ecosystem, you will contribute to designing, developing, and optimising the smart contracts and underlying infrastructure powering 1inch. We value sophisticated problem-solvers who can navigate the lightning-fast shifts of the crypto landscape while executing securely at scale. Working alongside our product leads and world-class engineers, your commitment to open-source excellence will keep 1inch at the absolute cutting edge of DeFi. What You’ll Do Design and optimise blockchain architectures with a strong focus on scalability, security, and performance Develop, integrate, and maintain smart contracts across decentralised protocols and infrastructure components Conduct technical research and build proof-of-concepts for new DeFi and blockchain innovations Design and improve cross-chain interoperability solutions, including bridging and atomic swap mechanisms Optimise smart contract execution efficiency with a focus on gas consumption and low-latency performance Collaborate with internal and external security auditors to identify vulnerabilities and strengthen protocol security Lead code reviews and contribute to engineering best practices, CI/CD workflows, and development standards Mentor junior and mid-level engineers while contributing to a collaborative engineering culture Who You Are 7+ years of professional software engineering experience, including 3+ years focused on blockchain development Deep expertise in Ethereum and EVM ecosystems, including Solidity, Yul, and decentralised application architecture Strong experience building and deploying smart contracts in production environments Hands-on experience with Layer 2 scaling solutions and cross-chain infrastructure Proven ability to drive architectural decisions and lead complex technical initiatives from design to deployment Strong understanding of smart contract security principles, auditing processes, and vulnerability mitigation Experience working in fast-paced, high-growth engineering environments Strong problem-solving skills with a proactive, ownership-driven mindset Nice to haves Experience contributing to open-source blockchain or DeFi projects Familiarity with zero-knowledge technologies and rollup architectures Experience building high-performance distributed systems or low-latency infrastructure Understanding of DeFi protocols, liquidity aggregation, or on-chain trading systems Knowledge of Web3 developer tooling and blockchain infrastructure automation 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-08-31",
-    "remote": false,
+    "title": "Smart Contract Engineer",
+    "company": "X-Team",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-x-team-4462006075",
+    "description": "This role is a full-time engagement with the client, fully remote. Open to LATAM, USA & Canada. The Mission Help build and scale the secure on-chain infrastructure powering the next generation of open finance. In this role, you’ll design, implement, and battle-test critical smart contracts that manage significant TVL and capital-efficient primitives. This isn't about deploying speculative tokens; it’s about constructing highly resilient, mathematical, and adversarial-resistant software that remains upgradeable, cost-efficient, and bulletproof over time. The Role As a core protocol contributor, you will take deep ownership of smart contract architecture from initial mathematical modeling and design through to mainnet deployment, external audit facilitation, and live monitoring. • Protocol Architecture (40%): Design and implement secure, gas-optimized Solidity smart contracts for lending, borrowing, vaults, yield routing, liquidations, and access control. • Testing & Simulation (30%): Write extensive unit, integration, fork, fuzz, and invariant tests utilizing modern frameworks to ensure zero-day resiliency. • Security & Audits (15%): Prepare codebases for top-tier external audits, remediate findings, and design proactive on-chain risk mitigation/monitoring strategies. • Cross-Functional Integration (15%): Collaborate closely with risk, frontend, indexer, and quantitative engineering teams to build seamless, secure end-to-end dApps. The Must-Haves • Experience: 4+ years of professional software engineering experience, with at least 2+ years writing, deploying, and maintaining highly secure Solidity smart contracts in production.. • Tooling & Frameworks: Expert-level mastery of Foundry (Forge, Cast) including advanced fuzzing, invariant testing, and mainnet fork simulations. • EVM Deep Dive: Thorough understanding of EVM internals, storage layouts, gas optimization strategies, assembly (Yul), and standard proxy/upgradeability patterns. • DeFi Primitives: Practical, working knowledge of core financial primitives (such as ERC-20/4626/721/1155, AMMs, lending pools, oracles, and liquidation engines). • AI-Assisted Acceleration: Comfort using modern AI coding tools (e.g., Cursor, Claude, Copilot) to accelerate unit testing, documentation, and boilerplate development, backed by the critical judgment required never to trust raw model outputs blindly. • Security Mindset: An obsessive awareness of common attack vectors (reentrancy, oracle manipulation, front-running, rounding errors, and access-control flaws). The Bonus Skills • Audit Pedigree: Prior experience guiding a protocol through a major external audit (e.g., Trail of Bits, OpenZeppelin, Spearbit) or participating in competitive security audits. • Multi-Chain/SVM: Exposure to Rust-based smart contract environments (SVM/Solana, CosmWasm) or zero-knowledge (ZK) rollup architectures. • Advanced Automation: Familiarity with off-chain automation infrastructure like Keepers, Defender, or Gelato. Personal Traits • Adversarial Thinker: You don't just think about how code should work; you instinctively try to find ways to break, front-run, or exploit the state machine you are building.. • Execution & Ownership: You act as an owner, not a ticket executor. You proactively trace edge cases, optimize gas, and address technical debt before it is flagged.. • Detail-Obsessed: You care about the nuance of a single uint256 math operation and understand why rounding down vs. up is a security-critical decision.. • Collaborative & Clear: You can distill complex cryptographic or financial system logic into clear documentation and explain architectural tradeoffs to non-smart contract engineers.. Location: Remote (with meaningful overlap with US/EU working hours)",
+    "published": "",
+    "remote": true,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 14,
     "title_hits": [
-      "smart contract",
-      "blockchain"
+      "smart contract"
     ],
     "desc_hits": [
       "solidity",
-      "web3",
       "defi",
-      "ethereum",
       "crypto",
+      "token",
       "audit",
       "security",
-      "evm"
+      "foundry",
+      "dapp"
     ],
-    "gulf_onsite": true,
+    "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
@@ -296,37 +262,6 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$122,000-$183,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Blockchain Engineer",
-    "company": "Cari Network",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4462069757",
-    "description": "Remote (U.S.) — Full Time The Cari Network is building a blockchain-based payment system powering real-time, 24/7 movement of digital money across the traditional finance and digital asset ecosystems. A pre-launch startup, we're creating an entirely new category of financial infrastructure that brings cash on chain through tokenization while powering the full spectrum of payments for our network—banks, digital asset exchanges, and, most importantly, the customers they serve. About The Role You'll work within the systems that take a payment instruction and turn it into an immutable, on-chain record—implementing features and extensions within an established transaction pipeline architecture, alongside senior engineers who own its design. That means building out pieces of the integration layer between our backend services and our institutional custody platform, and contributing to transaction integrity from calldata construction through on-chain finality on our private ZKsync-based L2. You'll also work directly in our smart contract suite, extending existing contracts under established upgrade-safety and role-governance patterns, and building the audit trail and compliance evidence that regulated bank partners require. What You'll Do Implement components of the transaction lifecycle: calldata construction, custody platform signing requests, nonce handling, L2 submission, and finality confirmation, working within the pipeline architecture senior engineers on the team have designed Build features within the signing pipeline—new submission paths, throughput handling against custody platform rate limits, async transaction submission logic—under existing architectural patterns Implement payment integrity controls: commitment hash verification at pipeline handoff points and co-signer policy evaluation logic Extend our Solidity smart contracts, following established upgrade-safety, storage-layout, and role-governance conventions Contribute to the custody platform authorization policy integration and co-signer agent for custodian-owned transaction authorization Build structured audit trail logging from transaction origination through on-chain execution, satisfying evidentiary requirements for bank partners under regulatory oversight Contribute to the async transaction queue supporting tiered SLAs and per-bank throughput quotas Write high-coverage tests across backend services and smart contracts, maintaining our coverage threshold Participate in on-call, working through known issue patterns independently and escalating novel failure modes to senior engineers Qualifications 3–5 years of backend software engineering experience, with 1–2 years working directly on EVM-compatible blockchain systems Solid proficiency in TypeScript; familiarity with Effect (effect.ts) or a comparable functional effect system is a plus Working familiarity with EVM transaction mechanics: ABI encoding, nonce management, gas estimation, revert handling, and event decoding Some production experience with Solidity smart contract development, including exposure to upgradeable proxy patterns (UUPS) and OpenZeppelin contract libraries Exposure to institutional custody or key management APIs is a strong plus, though not required Understanding of idempotency, at-least-once delivery, and crash recovery concepts in async systems Comfortable asking for help extending existing patterns while building toward independent ownership of larger features Nice to Haves Experience with ZKsync or ZK Stack-based chains—particularly developer-facing constraints like calldata handling, system contract interactions, and AA transaction formats Familiarity with Kafka or message-queue-backed async pipelines Prior work in fintech, payments, or any regulated financial infrastructure environment Foundry proficiency (forge test, forge fmt) What We Offer Competitive compensation Remote-first work environment Opportunity to shape a market-defining protocol with an experienced founding team Meaningful influence over product design at the earliest stage Interested in this role? Send us your resume. ‹ Client Support Engineer Senior QA Automation Engineer ›",
-    "published": "",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "token",
-      "audit",
-      "foundry",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
     "emails": [],
     "phones": []
   },
@@ -722,6 +657,64 @@
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Information Security Engineer",
+    "company": "Keyfactor, Inc.",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/152303-information-security-engineer",
+    "description": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care deeply about the work and each other. We move fast, think big, and show up for one another every day. If you're looking for work that matters and a team that brings out your best, we hope you'll trust your future with Keyfactor! Title: Information Security Engineer Location: USA; Remote ( Atlanta or Cleveland preferred) Experience: Mid-Level Job Function : Corporate IT Employment Type : Full-Time Industry: Computer & Network Security About the position We are seeking an experienced Information Security Engineer with a strong background in implementing and managing general information security frameworks, including ISO 27001:2022 and SOC 2 Type II. This role involves designing, maintaining, and improving our security infrastructure to ensure compliance with regulatory standards and support continuous monitoring efforts. The ideal candidate will play a key role in safeguarding the organization’s data and infrastructure while driving adherence to evolving security best practices. Responsibilities Evaluate the security posture of systems, platforms, and cloud environments, establish appropriate security baselines, and drive implementation and hardening to close identified gaps. Quickly develop proficiency in new SIEM, EDR, and other security platforms as the environment evolves; configure, tune, and integrate these tools with SaaS applications and diverse data sources to expand visibility and detection coverage. Evaluate and optimize security playbooks, runbooks, and processes based on lessons learned, tooling changes, and evolving threats, ensuring documentation and workflows keep pace with the organization's security operations maturity. Experience conducting vulnerability assessments, system audits, and risk analysis using industry-standard scanning tools to support a proactive security posture. Manage and implement continuous monitoring processes to ensure the organization maintains compliance with a variety of information security frameworks, including ISO 27001:2022 and SOC 2 Type II. Experience with government compliance standards such as FedRAMP (NIST SP 800-53) and CMMC is preferred. This role focuses on ensuring robust security practices and adapting to evolving compliance requirements. Actively monitor, analyze, and respond to security alerts and incidents, performing investigations, incident handling, and recommending corrective actions. Minimum Qualifications, Education, and Skills 5+ years of experience in information security or a similar role Proficiency in vulnerability scanning tools (Nessus, Burpsuite, Tenable, etc…) and interpreting scan results for remediation. Strong knowledge of security standards Demonstrated experience in continuous monitoring, network security, firewalls, VPNs, IDS/IPS, and endpoint protection. Strong analytical skills and a meticulous approach to problem-solving Demonstrated capability to deliver results on-time and to a defined schedule. Relevant certifications (e.g., CISSP, CompTIA Security+, CAP) are strongly preferred Familiarity with cloud security principles Experience with security automation and continuous monitoring tools PKI knowledge a plus Knowledge of scripting languages (Python, PowerShell) to automate security processes Experience with government-regulated environments (AWS GovCloud, Azure Government) preferred #LI-NA1 Compensation Salary will be commensurate with experience. Culture, Career Opportunities and Benefits We build teams that continually strive to get better than the day before. You will be challenged daily and given opportunities to grow personally and professionally. We balance autonomy and structure to create an entrepreneurial environment to spur creativity and new ideas. Here are just some of the initiatives that make our culture special: Second Fridays (a company-wide day off on the second Friday of every month minus November and December due to the Holiday schedule). Please note that this benefit is subject to change. Comprehensive benefit coverage globally. Paid Parental Leave is available to new parents. Structure varies based on regional/government requirements. In regions where government-paid leave doesn’t exist, like in the U.S., the company offers generous paid parental leave, along with comprehensive adoption and fertility support. Competitive time off globally. Dedicated employee-focused ambassadors via Key Contributors & Culture Committees. DIVERSE Commitment, a call to action for a more inclusive and diverse future in business, society, and technology. The Keyfactor Alliance Program to support DEIB efforts. Wellbeing resources, wellness allowance, mindfulness app free membership, Wellness Wednesdays. Global Volunteer Day, company non-profit matching, and 3 volunteer days off. Monthly Talent development and Cross Functional meetings to support professional development. Regular All Hands meetings – followed by group gatherings. Our Core Values Our core values are extremely important to how we run our business and what we look for in every team member: Trust is paramount. We deliver security software and solutions where trust and openness are of the highest importance for our customers. We are honest and a trusted partner in every aspect of business. Customers are core. We strategize, operate, and execute through a customer-centric view. We prioritize the security interests of our customers, and we act as if their data were our own. Innovation never stops, it only accelerates. The speed of change is accelerating. We are committed, through investment and focus, to stay ahead of the innovation curve. We deliver with agility . We thrive in high-paced and continually changing environments. We navigate through newly added variables, adjust accordingly, while driving towards our strategic goals. United by respect . Respect for all is what unites us. We promote diversity, inclusivity, equity, and acting with empathy and openness, both in our business and in our communities. Teams make “it” happen. Vision and goals are not individually achievable – they require teamwork. We pride ourselves in operating as a cohesive team, creating promoters and partners, and winning as one. Keyfactor is a proud equal opportunity employer including but not limited to veterans and individuals with disabilities. REASONABLE ACCOMMODATION: Applicants with disabilities may contact a member of Keyfactor’s People team via people@keyfactor.com and/or telephone at 1.216.785.2990 to request and arrange for accommodations at any time. Keyfactor Privacy Notice About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care…",
+    "published": "2026-09-01",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi",
+      "crypto",
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "people@keyfactor.com"
+    ],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Security Engineer I, Information Technology",
+    "company": "Cision",
+    "location": "Hungary",
+    "url": "https://jobicy.com/jobs/151867-security-engineer-i-information-technology",
+    "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we accelerate. Join us in shaping the future of communication and building authentic connections that matter. Whether you're solving complex problems or driving bold innovations, your growth is our success, and together, we’ll create the conversations of tomorrow. Empower your impact at Cision. Be seen, be understood, be you. This role strengthens and optimizes the organization's security capabilities by reviewing existing tools, applications, and processes to identify gaps. It establishes and maintains cloud security architecture best practices, focusing on cloud platforms and integrates new and existing security platforms. The role collaborates with R&D teams to maintain a secure architecture and analyzes security events for anomalous activity. It contributes to the organization's security posture and ensures a secure environment. The individual works on issues requiring the analysis of relevant factors and exercises considerable judgment within defined procedures to determine appropriate action. This individual will work across multiple departments to design, implement, and manage security solutions that protect both internal and third party (vendor) systems and customer data. You will play a critical role in ensuring that security practices are aligned with compliance requirements while driving technical solutions for secure systems and data protection across the entire organization. Responsibilities: • Security Engineering & Architecture: Must have expertise in designing, implementing, and maintaining security architectures across cloud, third-party, and on-premises environments, including evaluating and integrating emerging security technologies. • DevSecOps: Should possess deep knowledge of embedding security within CI/CD pipelines, establishing security standards, and conducting secure code reviews with development teams. • Cryptography: Must understand encryption technologies for securing data at rest and in transit, with experience managing cryptographic keys and ensuring compliance with industry standards. • Identity & Authentication: Requires knowledge of designing and managing secure identity solutions, including Single Sign-On (SSO), Identity Providers (IdPs), and federation protocols such as SAML, OAuth, and OpenID Connect. Familiarity with Okta and Keycloak preferred. • Secure Coding: Should be proficient in secure coding practices, training teams, and developing standards to prevent vulnerabilities like injection flaws, XSS, and authentication issues. • Governance, Risk, & Compliance (GRC): Must have a strong grasp of GRC frameworks (e.g., NIST, SOC2, ISO 27001, Cyber Essentials etc) and experience in aligning technical controls with regulatory and audit requirements. • Threat Management: Requires expertise in performing risk assessments, threat modeling, vulnerability assessments, and mitigation planning to address security risks. • Incident Response & Monitoring: Should have knowledge of incident response strategies, SOC collaboration, and implementing continuous monitoring tools to ensure compliance and security standards. • Collaboration & Leadership: Must demonstrate the ability to work with cross-functional teams, mentor junior engineers, and act as a subject matter expert in security technologies, tools, and frameworks. Requirements: • Deep understanding of security standards and frameworks such as NIST, ISO 27001, CIS Controls, and industry compliance regulations (GDPR, HIPAA, PCI-DSS). • Hands-on experience with security tools such as IDS/IPS, SIEM, vulnerability scanners, and penetration testing platforms. • Experience with cloud platforms (AWS, Azure, GCP, OCI or Alibaba) and securing cloud-native applications. • Proficiency in programming languages (e.g., Python, Java, C++) and automation tools (e.g., Terraform, Ansible). • Strong knowledge of networking protocols, firewalls, VPNs, proxies, and security monitoring tools. • 5+ years of relevant experience in security engineering and GRC-focused security solutions development. • Extensive hands-on experience in DevSecOps, integrating security in CI/CD pipelines, and supporting development teams in secure coding practices. • Proven expertise in cryptography, including encryption, key management, and digital signatures. What we offer: Friendly and welcoming environment focused on people, learning & development 25 vacation days and extra vacation days after age and after children Cafeteria benefit via SZEP card Medicover private health insurance for employees and their family members 10% of your time to work on anything you like, reading groups, tech talks Flexible working and working from home An extensive people development program, including access to Udemy Please note: Candidates must be available for after-hours incident response when urgent security events require investigation or support. The interview process will include a hands-on practical exercise conducted through screen sharing, where candidates will be asked to demonstrate relevant technical skills. Cision is the global leader in consumer and media intelligence, engagement, and communication solutions. We equip PR and corporate communications, marketing, and social media professionals with the tools they need to excel in today's data driven world. Our deep expertise, exclusive data partnerships, and award-winning products, including CisionOne , Brandwatch , and PR Newswire , enable over 75,000 companies and organizations, including 84% of the Fortune 500, to see and be seen, understand and be understood by the audiences that matter most to them. Cision is committed to fostering an inclusive environment where all employees can be their authentic selves and perform at their best. We believe diversity, equity, and inclusion is vital to driving our culture, sparking innovation and achieving long-term success. Cision is proud to have joined more than 600 companies in signing the CEO Action for Diversity & Inclusion™ pledge and named a “Top Diversity Employer” for 2021 by DiversityJobs.com . Cision is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or other protected statuses. Cision is committed to the full inclusion of all qualified individuals. In keeping with our commitment, Cision will take the steps to assure that people with disabilities are provided reasonable accommodations. Accordingly, if reasonable accommodation is required to fully participate in the job application or interview process, to perform the essential functions of the position, and/or to receive all other benefits and privileges of employment, please contact hr.support@cision.com Cision, Inc. \"the Company\" only communicates with candidates and extends job offers through direct channels, not third parties. Please review our Global Candidate Data Privacy Statement to learn about Cision’s commitment to protecting personal data collected during the hiring process. At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we…",
+    "published": "2026-08-27",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi",
+      "crypto",
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "hr.support@cision.com"
+    ],
     "phones": []
   }
 ]
