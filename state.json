@@ -4499,6 +4499,24 @@
       "company": "SGS",
       "source": "linkedin",
       "first_seen": "2026-09-03"
+    },
+    "https://sa.linkedin.com/jobs/view/manager-hse-at-kbr-inc-4462876958": {
+      "title": "Manager, HSE",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-09-03"
+    },
+    "https://sa.linkedin.com/jobs/view/area-safety-engineer-ras-al-khair-at-bechtel-corporation-4461281682": {
+      "title": "Area Safety Engineer - Ras Al-Khair",
+      "company": "Bechtel Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-03"
+    },
+    "https://jobicy.com/jobs/152431-software-engineer-9": {
+      "title": "Software Engineer",
+      "company": "Dune",
+      "source": "jobicy",
+      "first_seen": "2026-09-03"
     }
   },
   "applied": {
