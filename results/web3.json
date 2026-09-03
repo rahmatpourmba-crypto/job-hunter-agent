@@ -131,6 +131,44 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Head of Engineer - Web3/Crypto",
+    "company": "Jobgether",
+    "location": "United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/head-of-engineer-web3-crypto-at-jobgether-4458613813",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Head of Engineer - Web3/Crypto based in United Arab Emirates. This is a high-impact engineering leadership role focused on building innovative products at the intersection of blockchain, cryptocurrency, and digital collectibles. You’ll lead technical teams across the full software development lifecycle, from architecture and product conception through deployment and ongoing optimization. The role combines hands-on engineering with strategic leadership, requiring strong expertise across both front-end and back-end development. You’ll help shape secure, scalable blockchain applications while contributing to new approaches for connecting physical assets with digital experiences. Your responsibilities will span engineering execution, team development, data analysis, transaction monitoring, security, and technical strategy. You’ll work in a fully distributed environment with flexible hours and a strong emphasis on innovation, ownership, collaboration, and continuous learning. This is an opportunity to influence the evolution of Web3 technology while leading a team toward ambitious technical and product goals. Accountabilities Lead the design and implementation of innovative capabilities leveraging blockchain technologies while managing, mentoring, and coordinating engineering teams. Own technical direction and contribute across the full software development lifecycle, from architecture and development through testing, deployment, and continuous improvement. Develop and maintain scalable, reliable, and well-functioning applications and databases. Design and build blockchain-based applications using technologies such as Solidity, JavaScript, and Web3 libraries. Develop secure systems for recording and storing blockchain data while protecting digital transactions against unauthorized changes, vulnerabilities, and attacks. Research, evaluate, design, develop, and test emerging blockchain technologies and applications. Build high-quality, scalable, maintainable, and secure software across front-end and back-end systems. Support transaction monitoring capabilities designed to identify and address risks associated with cryptocurrency and digital asset activity. Analyze complex datasets and translate findings into meaningful insights that support product, business, and risk-related decisions. Develop rules, models, queries, and software solutions for analyzing and visualizing data. Establish team goals, manage project timelines and delivery milestones, and ensure effective allocation of engineering resources and budgets. Collaborate closely with cross-functional stakeholders to align technical execution with product objectives and business priorities. Document new technical solutions and maintain accurate documentation for existing systems and applications. Prepare reports and technical updates addressing cryptocurrency risks, digital asset activity, and potential criminal or suspicious activity. Continuously identify opportunities to improve engineering practices, system performance, security, scalability, and development processes. Requirements Bachelor’s degree in Computer Science, Statistics, or a related technical field. 7+ years of engineering or technical management experience, including demonstrated experience leading development teams. At least 2 years of hands-on blockchain development experience with Solidity, Ethereum, or another blockchain ecosystem. Strong understanding of blockchain applications, protocols, and development libraries such as Web3.js. Experience developing and deploying blockchain-based applications and working with smart contracts. Strong understanding of multiple front-end and back-end programming languages, frameworks, and libraries, with experience spanning technologies such as JavaScript, HTML/CSS, XML, jQuery, C#, Java, or Python. Strong hands-on experience with modern web development technologies and the ability to work across the full application stack. Experience building and developing rules, models, queries, or software for data analysis and visualization. Ability to analyze large and complex datasets, identify meaningful patterns, draw conclusions, and translate analysis into actionable business recommendations. Strong understanding of software development practices, application architecture, databases, cloud environments, and secure engineering principles. Experience leading technical teams, managing delivery priorities, allocating resources, and maintaining project timelines. Excellent written and verbal communication skills, with the ability to explain complex technical concepts to technical and non-technical stakeholders. Strong collaboration and leadership abilities, combined with a hands-on and results-oriented approach. Detail-oriented, analytical, and highly capable of solving complex technical and business problems. Experience with TypeScript, Node.js, Express, React, MongoDB, and AWS is highly desirable. Ability to thrive in a distributed environment, manage priorities independently, and work effectively with globally distributed teams. Strong interest in blockchain, cryptocurrency, Web3, and emerging technologies. Benefits Opportunity to help shape innovative products at the intersection of physical collectibles, blockchain, cryptocurrency, and the metaverse. Fully remote work environment with the flexibility to work from anywhere. Flexible working hours designed to support different locations, lifestyles, and working preferences. Opportunity to make a meaningful impact on a rapidly evolving technology platform and emerging digital economy. Exposure to modern technologies and systems across blockchain, Web3, cloud computing, data, and full-stack development. Significant technical and leadership ownership across engineering strategy, architecture, product development, and team execution. Collaborative and inclusive cultur",
+    "published": "2026-08-27",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 13,
+    "title_hits": [
+      "web3",
+      "crypto"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "blockchain",
+      "ethereum",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "home-women-1@3x.webp",
+      "men-ipad@3x.webp",
+      "men-laptop-1@3x.webp",
+      "review-document@3x.webp",
+      "support@jobgether.com"
+    ],
+    "phones": [],
+    "emails_source": "jobgether.com",
+    "about": "We turn years of experience into a visible competitive advantage."
+  },
+  {
     "source": "jobicy",
     "title": "Product Marketing Lead - Trade",
     "company": "Consensys",
@@ -188,35 +226,6 @@
     "phones": [],
     "emails_source": "abnormal.com",
     "about": "Tim Hogard's Home page # Tim Hogard's Home page [![Image 1: no fp98 here](https://www.abnormal.com/~thogard/images/nofp.gif)](https://www.worldgate.com/~marcs/fp/) * * * ## Now on the net for 31 years This website was on"
-  },
-  {
-    "source": "linkedin",
-    "title": "Talent Pool - Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/talent-pool-software-engineer-blockchain-smart-contracts-at-1inch-4459770329",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission This is not an active vacancy. Instead, we're building a network of exceptional Blockchain Engineers (Smart Contracts) who have successfully completed our interview process and are ready to join 1inch when new positions become available. Our engineering needs evolve rapidly, and we're always looking to connect with exceptional smart contract developers who want to help shape the future of DeFi. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges. Successful candidates who pass the interview process will join our Pre-Qualified Talent Network. This means that when a suitable position becomes available, you'll be among the first people we consider, allowing us to move quickly through the final hiring stages and, where appropriate, straight to an offer. What You'll Do Contribute to the design and optimisation of scalable, secure, and high-performance blockchain architectures Develop, integrate, test, and maintain smart contracts and decentralised protocol components Conduct technical research and support proof-of-concept initiatives for new blockchain and DeFi features Contribute to cross-chain interoperability solutions, including bridging and atomic swap mechanisms Improve execution efficiency and optimise smart contract logic for gas consumption and performance Collaborate with engineering and security teams to identify vulnerabilities and strengthen protocol reliability Participate in code reviews, testing, CI/CD workflows, and engineering best practices Work closely with cross-functional teams to support successful product delivery and continuous improvement Who You Are Professional experience building and operating backend systems in production environments Strong proficiency in Golang, Typescript or another backend/systems programming language with practical concurrency and performance knowledge Solid understanding of system design fundamentals including services, data flows, reliability, and maintainability Familiarity with blockchain platforms, smart contracts, transaction handling, and on-chain integrations Experience working with containerised services and modern deployment practices Strong problem-solving skills and ability to work effectively in fast-paced engineering environments Ability to balance technical quality, scalability, and operational reliability At senior level, experience owning projects end-to-end and contributing to architectural decision-making Nice to haves Experience contributing to open-source blockchain or Web3 projects Familiarity with zero-knowledge technologies or rollup architectures Experience building distributed systems or low-latency infrastructure Understanding of blockchain infrastructure automation and deployment tooling Experience working in high-growth startup or scale-up environments 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-08-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 10,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "web3",
-      "defi",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
   },
   {
     "source": "jobicy",
