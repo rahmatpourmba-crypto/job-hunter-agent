@@ -4517,6 +4517,48 @@
       "company": "Dune",
       "source": "jobicy",
       "first_seen": "2026-09-03"
+    },
+    "https://jobicy.com/jobs/152447-blockchain-security-engineer-senior-level-solidity-rust-golang": {
+      "title": "Blockchain Security Engineer - Senior Level (Solidity / Rust / Golang )",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-09-03"
+    },
+    "https://jobicy.com/jobs/152451-blockchain-security-expert-ai-track": {
+      "title": "Blockchain Security Expert - AI Track",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-09-03"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4463118967": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-09-03"
+    },
+    "https://jobicy.com/jobs/152496-director-of-engineering-cloud-reliability-2": {
+      "title": "Director of Engineering, Cloud & Reliability",
+      "company": "Boulevard",
+      "source": "jobicy",
+      "first_seen": "2026-09-03"
+    },
+    "https://jobicy.com/jobs/152465-senior-engineering-manager": {
+      "title": "Senior Engineering Manager",
+      "company": "Nextiva",
+      "source": "jobicy",
+      "first_seen": "2026-09-03"
+    },
+    "https://jobicy.com/jobs/152435-ai-ml-engineering-manager": {
+      "title": "AI/ML Engineering Manager",
+      "company": "Caylent",
+      "source": "jobicy",
+      "first_seen": "2026-09-03"
+    },
+    "https://jobicy.com/jobs/152450-senior-salesforce-developer": {
+      "title": "Senior Salesforce Developer",
+      "company": "Launchpad Technologies",
+      "source": "jobicy",
+      "first_seen": "2026-09-03"
     }
   },
   "applied": {
@@ -5163,6 +5205,13 @@
       "to": "https://www.cari.com",
       "title": "Blockchain Engineer",
       "company": "Cari Network"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4463118967::contact_form": {
+      "date": "2026-09-03 22:46",
+      "via": "contact_form",
+      "to": "https://www.cari.com",
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network"
     }
   },
   "sent": {
@@ -5510,6 +5559,11 @@
       "kind": "contact_form",
       "to": "cari.com",
       "date": "2026-09-02 22:20"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4463118967": {
+      "kind": "contact_form",
+      "to": "cari.com",
+      "date": "2026-09-03 22:46"
     }
   },
   "replies": []
