@@ -4667,6 +4667,48 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-04"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-swro-at-wsp-in-the-middle-east-4456927350": {
+      "title": "HSE Engineer-SWRO",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-09-04"
+    },
+    "https://iq.linkedin.com/jobs/view/food-safety-manager-at-creative%E2%80%99s-era-4461182368": {
+      "title": "Food Safety Manager",
+      "company": "Creative’s Era",
+      "source": "linkedin",
+      "first_seen": "2026-09-04"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-talentmate-4463379017": {
+      "title": "HSE Officer",
+      "company": "TALENTMATE",
+      "source": "linkedin",
+      "first_seen": "2026-09-04"
+    },
+    "https://jobicy.com/jobs/152523-product-security-analyst": {
+      "title": "Product Security Analyst",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-09-04"
+    },
+    "https://jobicy.com/jobs/152504-senior-manager-ai-engineering": {
+      "title": "Senior Manager, AI Engineering",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-09-04"
+    },
+    "https://jobicy.com/jobs/152514-senior-security-engineer-detection-and-response": {
+      "title": "Senior Security Engineer, Detection and Response",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-09-04"
+    },
+    "https://sa.linkedin.com/jobs/view/cyber-security-architect-expert-ksa-onsite-at-arab-solutions-4454991712": {
+      "title": "Cyber Security Architect / Expert - KSA (Onsite)",
+      "company": "Arab Solutions",
+      "source": "linkedin",
+      "first_seen": "2026-09-04"
     }
   },
   "applied": {
