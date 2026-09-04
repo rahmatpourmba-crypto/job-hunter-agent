@@ -67,6 +67,38 @@
   },
   {
     "source": "linkedin",
+    "title": "Smart Contract Engineer",
+    "company": "X-Team",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-x-team-4462006075",
+    "description": "This role is a full-time engagement with the client, fully remote. Open to LATAM, USA & Canada. The Mission Help build and scale the secure on-chain infrastructure powering the next generation of open finance. In this role, you’ll design, implement, and battle-test critical smart contracts that manage significant TVL and capital-efficient primitives. This isn't about deploying speculative tokens; it’s about constructing highly resilient, mathematical, and adversarial-resistant software that remains upgradeable, cost-efficient, and bulletproof over time. The Role As a core protocol contributor, you will take deep ownership of smart contract architecture from initial mathematical modeling and design through to mainnet deployment, external audit facilitation, and live monitoring. • Protocol Architecture (40%): Design and implement secure, gas-optimized Solidity smart contracts for lending, borrowing, vaults, yield routing, liquidations, and access control. • Testing & Simulation (30%): Write extensive unit, integration, fork, fuzz, and invariant tests utilizing modern frameworks to ensure zero-day resiliency. • Security & Audits (15%): Prepare codebases for top-tier external audits, remediate findings, and design proactive on-chain risk mitigation/monitoring strategies. • Cross-Functional Integration (15%): Collaborate closely with risk, frontend, indexer, and quantitative engineering teams to build seamless, secure end-to-end dApps. The Must-Haves • Experience: 4+ years of professional software engineering experience, with at least 2+ years writing, deploying, and maintaining highly secure Solidity smart contracts in production.. • Tooling & Frameworks: Expert-level mastery of Foundry (Forge, Cast) including advanced fuzzing, invariant testing, and mainnet fork simulations. • EVM Deep Dive: Thorough understanding of EVM internals, storage layouts, gas optimization strategies, assembly (Yul), and standard proxy/upgradeability patterns. • DeFi Primitives: Practical, working knowledge of core financial primitives (such as ERC-20/4626/721/1155, AMMs, lending pools, oracles, and liquidation engines). • AI-Assisted Acceleration: Comfort using modern AI coding tools (e.g., Cursor, Claude, Copilot) to accelerate unit testing, documentation, and boilerplate development, backed by the critical judgment required never to trust raw model outputs blindly. • Security Mindset: An obsessive awareness of common attack vectors (reentrancy, oracle manipulation, front-running, rounding errors, and access-control flaws). The Bonus Skills • Audit Pedigree: Prior experience guiding a protocol through a major external audit (e.g., Trail of Bits, OpenZeppelin, Spearbit) or participating in competitive security audits. • Multi-Chain/SVM: Exposure to Rust-based smart contract environments (SVM/Solana, CosmWasm) or zero-knowledge (ZK) rollup architectures. • Advanced Automation: Familiarity with off-chain automation infrastructure like Keepers, Defender, or Gelato. Personal Traits • Adversarial Thinker: You don't just think about how code should work; you instinctively try to find ways to break, front-run, or exploit the state machine you are building.. • Execution & Ownership: You act as an owner, not a ticket executor. You proactively trace edge cases, optimize gas, and address technical debt before it is flagged.. • Detail-Obsessed: You care about the nuance of a single uint256 math operation and understand why rounding down vs. up is a security-critical decision.. • Collaborative & Clear: You can distill complex cryptographic or financial system logic into clear documentation and explain architectural tradeoffs to non-smart contract engineers.. Location: Remote (with meaningful overlap with US/EU working hours)",
+    "published": "2026-09-01",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 14,
+    "title_hits": [
+      "smart contract"
+    ],
+    "desc_hits": [
+      "solidity",
+      "defi",
+      "crypto",
+      "token",
+      "audit",
+      "security",
+      "foundry",
+      "dapp"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
     "company": "1inch",
     "location": "Dubai, United Arab Emirates",
@@ -157,38 +189,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Blockchain Developer",
-    "company": "One75mb HRM Pvt Ltd.",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/blockchain-developer-at-one75mb-hrm-pvt-ltd-4461706436",
-    "description": "About the Company We are seeking a highly experienced Blockchain, Crypto & Digital Assets professional with 10+ years of experience to lead strategy, product development, business transformation, and execution across blockchain, cryptocurrency, tokenization, and digital asset ecosystems. About the Role The ideal candidate will combine strong knowledge of blockchain technology, digital asset markets, financial services, product strategy, regulatory considerations, and emerging Web3 use cases. The role requires the ability to translate complex blockchain concepts into commercially viable solutions and work effectively with senior stakeholders, technology teams, financial institutions, regulators, and ecosystem partners. Responsibilities Define and execute blockchain and digital asset strategy aligned with business objectives. Lead initiatives involving cryptocurrencies, tokenized assets, stablecoins, CBDCs, digital securities, custody, wallets, exchanges, and decentralized finance (DeFi). Identify and evaluate emerging blockchain technologies, protocols, platforms, and market opportunities. Develop business cases, operating models, product strategies, and implementation roadmaps for digital asset initiatives. Lead cross-functional teams across product, technology, engineering, risk, compliance, legal, operations, and business functions. Drive blockchain-based product development from concept and MVP through launch and scale. Evaluate blockchain architectures, smart-contract platforms, consensus mechanisms, wallets, custody solutions, and tokenization frameworks. Partner with financial institutions, fintechs, blockchain platforms, technology providers, and digital asset ecosystem participants. Assess opportunities for asset tokenization, payments, settlement, cross-border transactions, digital identity, and blockchain-based financial infrastructure. Monitor cryptocurrency and digital asset market developments, competitive trends, technology evolution, and regulatory changes. Establish appropriate governance, risk-management, controls, and compliance frameworks for digital asset initiatives. Present strategic recommendations, investment cases, and transformation roadmaps to C-level executives and senior leadership. Manage large-scale transformation programs, budgets, vendors, delivery milestones, and executive-level stakeholder relationships. Mentor senior professionals and build high-performing blockchain and digital asset teams. Qualifications Bachelor's or Master's degree in Computer Science, Engineering, Finance, Economics, Business, or a related discipline. MBA or equivalent qualification is advantageous. Relevant certifications in Blockchain, Digital Assets, Cloud, Cybersecurity, Finance, Risk, or Project Management are preferred. Required Skills 10+ years of experience across blockchain, financial services, fintech, technology, consulting, digital transformation, or related domains. Demonstrated experience leading complex, enterprise-scale technology or digital asset programs. Strong strategic thinking and commercial acumen. Excellent understanding of financial markets and digital asset business models. Ability to communicate highly technical concepts to business executives and non-technical stakeholders. Strong program, product, stakeholder, and vendor management capabilities. Experience working with global and cross-functional teams. Strong analytical, problem-solving, negotiation, and decision-making skills. Ability to operate effectively in a rapidly changing regulatory and technology environment. Preferred Skills Experience with institutional adoption of digital assets. Experience with tokenization or RWA initiatives. Experience in banking, capital markets, payments, asset management, fintech, or consulting. Experience developing blockchain products or digital asset platforms. Experience working with regulators, auditors, legal teams, risk functions, and compliance teams. Understanding of AML/KYC, sanctions, transaction monitoring, and digital asset regulatory frameworks. Experience with cloud platforms and enterprise technology architecture. Familiarity with programming concepts and technologies such as Solidity, Ethereum Virtual Machine (EVM), APIs, Python, JavaScript/TypeScript, and blockchain nodes is advantageous. Pay range and compensation package Successful delivery of blockchain and digital asset strategy and products. Business value and revenue generated from digital asset initiatives. Adoption and scalability of blockchain solutions. Reduction in operational costs and settlement times. Successful implementation of tokenization and digital asset use cases. Effective management of technology, operational, regulatory, and financial risks. Stakeholder and client satisfaction. Successful development of strategic ecosystem partnerships. Equal Opportunity Statement The ideal candidate is a senior blockchain and digital asset leader who understands both the technology and commercial side of the industry. They should be capable of moving from strategy to execution, managing enterprise-scale initiatives while maintaining a strong understanding of digital asset technology, financial markets, regulatory requirements, and emerging Web3 opportunities.",
-    "published": "2026-09-01",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 13,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart-contract",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "token",
-      "audit"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Product Marketing Lead - Trade",
     "company": "Consensys",
@@ -246,35 +246,6 @@
     "phones": [],
     "emails_source": "abnormal.com",
     "about": "Tim Hogard's Home page # Tim Hogard's Home page [![Image 1: no fp98 here](https://www.abnormal.com/~thogard/images/nofp.gif)](https://www.worldgate.com/~marcs/fp/) * * * ## Now on the net for 31 years This website was on"
-  },
-  {
-    "source": "linkedin",
-    "title": "Talent Pool - Software Engineer, Blockchain (Smart Contracts)",
-    "company": "1inch",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/talent-pool-software-engineer-blockchain-smart-contracts-at-1inch-4459770329",
-    "description": "1inch is the DeFi ecosystem building financial freedom for everyone. 1inch products help users and builders trade, hold and track digital assets - with the self-custody, comprehensive security and the intuitive user experience they need to unlock the potential of true crypto ownership. 1inch protocols and APIs provide core infrastructure across the DeFi industry and beyond. So if you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Your mission This is not an active vacancy. Instead, we're building a network of exceptional Blockchain Engineers (Smart Contracts) who have successfully completed our interview process and are ready to join 1inch when new positions become available. Our engineering needs evolve rapidly, and we're always looking to connect with exceptional smart contract developers who want to help shape the future of DeFi. We look for engineers with a high-agency, \"Get Stuff Done\" mindset and an unrelenting passion for decentralised innovation. We also embrace AI as a force multiplier for engineering, and value developers who thoughtfully leverage AI-powered tools to accelerate development, improve code quality, and solve complex technical challenges. Successful candidates who pass the interview process will join our Pre-Qualified Talent Network. This means that when a suitable position becomes available, you'll be among the first people we consider, allowing us to move quickly through the final hiring stages and, where appropriate, straight to an offer. What You'll Do Contribute to the design and optimisation of scalable, secure, and high-performance blockchain architectures Develop, integrate, test, and maintain smart contracts and decentralised protocol components Conduct technical research and support proof-of-concept initiatives for new blockchain and DeFi features Contribute to cross-chain interoperability solutions, including bridging and atomic swap mechanisms Improve execution efficiency and optimise smart contract logic for gas consumption and performance Collaborate with engineering and security teams to identify vulnerabilities and strengthen protocol reliability Participate in code reviews, testing, CI/CD workflows, and engineering best practices Work closely with cross-functional teams to support successful product delivery and continuous improvement Who You Are Professional experience building and operating backend systems in production environments Strong proficiency in Golang, Typescript or another backend/systems programming language with practical concurrency and performance knowledge Solid understanding of system design fundamentals including services, data flows, reliability, and maintainability Familiarity with blockchain platforms, smart contracts, transaction handling, and on-chain integrations Experience working with containerised services and modern deployment practices Strong problem-solving skills and ability to work effectively in fast-paced engineering environments Ability to balance technical quality, scalability, and operational reliability At senior level, experience owning projects end-to-end and contributing to architectural decision-making Nice to haves Experience contributing to open-source blockchain or Web3 projects Familiarity with zero-knowledge technologies or rollup architectures Experience building distributed systems or low-latency infrastructure Understanding of blockchain infrastructure automation and deployment tooling Experience working in high-growth startup or scale-up environments 1inch is an equal opportunity employer. We are committed to evaluating all candidates on the basis of their skills, experience, and potential — regardless of race, ethnicity, nationality, gender, age, religion, disability, or any other characteristic. We believe diverse teams build better products, and we welcome applications from all backgrounds. We use AI-assisted tools to help us review applications efficiently. These tools support our recruitment team but do not make decisions on our behalf — every application is reviewed by a person before any outcome is determined. No offer or rejection is made solely on the basis of automated processing. For full details on how we use these tools and your rights in relation to them, please see our Applicant and Candidate Privacy Notice.",
-    "published": "2026-08-31",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 10,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "web3",
-      "defi",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
   },
   {
     "source": "jobicy",
@@ -502,6 +473,31 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$160,000-$180,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Sr. Security Engineer",
+    "company": "FastSpring",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/151709-sr-security-engineer",
+    "description": "About FastSpring: FastSpring is how AI, SaaS, gaming, software, and digital product companies sell online in more places around the world. We handle all payment needs from checkout to taxes so you can go farther faster. Founded in 2005, we are a privately owned company headquartered in Santa Barbara with offices in Amsterdam, Austin, Belfast, Dublin, Halifax, and Singapore. Sr. Security Engineer Position Overview: We are seeking a Sr. Security Engineer to join our Agentic Experience group, reporting to the Principal Engineer, Agentic Development. In this role, you will strengthen the security posture of our core payments platform while helping shape security practices for AI-assisted software development. You will work closely with our Agentic Experience group and our CISO, with visibility to executive leadership. This is a hands-on engineering role with broad scope: application security, cloud infrastructure security, and security review of AI/agentic development tooling. Responsibilities & Goals: Identify, prioritize, and remediate vulnerabilities across our Java-based platform and AWS infrastructure Drive infrastructure security improvements, including IAM policy refinement, instance metadata protections, and network egress controls Conduct security reviews of AI-assisted development pipelines, tool integrations, and agent-accessible services Develop and maintain secure development standards, patterns, and guardrails for engineering teams Partner with the fractional CISO on risk assessment, remediation planning, and compliance initiatives (including PCI DSS) Contribute to incident response readiness and security monitoring improvements Communicate security priorities and progress clearly to technical and executive stakeholders Experience & Qualifications: 7+ years of hands-on security engineering experience (application security, cloud security, or infrastructure security) Strong experience with AWS security services and primitives (IAM, VPC networking, secrets management) Experience working in and securing large production codebases; JVM ecosystem experience preferred Familiarity with modern AI-assisted development tools and an interest in their security implications Strong prioritization and communication skills; ability to advocate for security investments with stakeholders Experience in payments, fintech, or other regulated environments is a plus Relevant certifications (e.g., CISSP, OSCP, AWS Security Specialty) are a plus but not required Nice to Have Security certifications (e.g., AWS Security Specialty, CISSP, OSCP, GIAC). Experience securing payments, ecommerce, or subscription/billing platforms. Experience with secure SDLC practices and integrating security tooling (SAST/DAST/SCA) into CI/CD. Familiarity with global, multi-currency, or tax-calculation systems and their data-sensitivity considerations. Consistent with FastSpring's values and applicable law, we provide the following information to promote pay transparency and equity. The base pay range below represents a good faith estimate of the low and high end base pay range for the listed position. This role may be eligible for the corporate bonus plan (or, if a sales role, a commission plan as defined in the sales incentive plan document). In addition, FastSpring provides a variety of benefits to employees. Estimated Base Pay Range $155,000—$187,000 USD About the Company: FastSpring is an EQUAL EMPLOYMENT OPPORTUNITY/AFFIRMATIVE ACTION employer. Candidates are considered for employment with FastSpring without regard to their race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, veteran status (specifically status as a disabled veteran, special disabled veteran, Vietnam Era veteran, recently separated veteran, armed forces service medal veteran, or other protected veteran) or other classification protected by applicable federal, state or local law. AI Transparency Statement: FastSpring may utilize artificial intelligence (AI) or automated tools during portions of the recruitment process to assist with operational and administrative activities, including candidate communications, scheduling, application organization, and interview documentation. These tools are designed to support efficiency and consistency within the hiring process. AI systems are not used as the sole determinant of hiring outcomes, and all employment decisions are made by qualified human reviewers. We are committed to responsible and fair hiring practices and continue to evaluate our use of technology accordingly. About FastSpring: FastSpring is how AI, SaaS, gaming, software, and digital product companies sell online in more places around the world. We handle all payment needs from checkout to taxes so you can go farther faster. Founded in 2005, we are a privately owned company headquartered in Santa Barbara with offices in Amsterdam, Austin, Belfast,…",
+    "published": "2026-08-26",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 155000,
+    "salary_max": 187000,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$155,000-$187,000",
     "emails": [],
     "phones": []
   },
