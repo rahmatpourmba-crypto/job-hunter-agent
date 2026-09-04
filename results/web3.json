@@ -67,38 +67,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Smart Contract Engineer",
-    "company": "X-Team",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-x-team-4462006075",
-    "description": "This role is a full-time engagement with the client, fully remote. Open to LATAM, USA & Canada. The Mission Help build and scale the secure on-chain infrastructure powering the next generation of open finance. In this role, you’ll design, implement, and battle-test critical smart contracts that manage significant TVL and capital-efficient primitives. This isn't about deploying speculative tokens; it’s about constructing highly resilient, mathematical, and adversarial-resistant software that remains upgradeable, cost-efficient, and bulletproof over time. The Role As a core protocol contributor, you will take deep ownership of smart contract architecture from initial mathematical modeling and design through to mainnet deployment, external audit facilitation, and live monitoring. • Protocol Architecture (40%): Design and implement secure, gas-optimized Solidity smart contracts for lending, borrowing, vaults, yield routing, liquidations, and access control. • Testing & Simulation (30%): Write extensive unit, integration, fork, fuzz, and invariant tests utilizing modern frameworks to ensure zero-day resiliency. • Security & Audits (15%): Prepare codebases for top-tier external audits, remediate findings, and design proactive on-chain risk mitigation/monitoring strategies. • Cross-Functional Integration (15%): Collaborate closely with risk, frontend, indexer, and quantitative engineering teams to build seamless, secure end-to-end dApps. The Must-Haves • Experience: 4+ years of professional software engineering experience, with at least 2+ years writing, deploying, and maintaining highly secure Solidity smart contracts in production.. • Tooling & Frameworks: Expert-level mastery of Foundry (Forge, Cast) including advanced fuzzing, invariant testing, and mainnet fork simulations. • EVM Deep Dive: Thorough understanding of EVM internals, storage layouts, gas optimization strategies, assembly (Yul), and standard proxy/upgradeability patterns. • DeFi Primitives: Practical, working knowledge of core financial primitives (such as ERC-20/4626/721/1155, AMMs, lending pools, oracles, and liquidation engines). • AI-Assisted Acceleration: Comfort using modern AI coding tools (e.g., Cursor, Claude, Copilot) to accelerate unit testing, documentation, and boilerplate development, backed by the critical judgment required never to trust raw model outputs blindly. • Security Mindset: An obsessive awareness of common attack vectors (reentrancy, oracle manipulation, front-running, rounding errors, and access-control flaws). The Bonus Skills • Audit Pedigree: Prior experience guiding a protocol through a major external audit (e.g., Trail of Bits, OpenZeppelin, Spearbit) or participating in competitive security audits. • Multi-Chain/SVM: Exposure to Rust-based smart contract environments (SVM/Solana, CosmWasm) or zero-knowledge (ZK) rollup architectures. • Advanced Automation: Familiarity with off-chain automation infrastructure like Keepers, Defender, or Gelato. Personal Traits • Adversarial Thinker: You don't just think about how code should work; you instinctively try to find ways to break, front-run, or exploit the state machine you are building.. • Execution & Ownership: You act as an owner, not a ticket executor. You proactively trace edge cases, optimize gas, and address technical debt before it is flagged.. • Detail-Obsessed: You care about the nuance of a single uint256 math operation and understand why rounding down vs. up is a security-critical decision.. • Collaborative & Clear: You can distill complex cryptographic or financial system logic into clear documentation and explain architectural tradeoffs to non-smart contract engineers.. Location: Remote (with meaningful overlap with US/EU working hours)",
-    "published": "2026-09-01",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract"
-    ],
-    "desc_hits": [
-      "solidity",
-      "defi",
-      "crypto",
-      "token",
-      "audit",
-      "security",
-      "foundry",
-      "dapp"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
     "company": "1inch",
     "location": "Dubai, United Arab Emirates",
@@ -190,30 +158,31 @@
   },
   {
     "source": "linkedin",
-    "title": "Senior Blockchain Engineer",
-    "company": "Cari Network",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4463118967",
-    "description": "Remote (U.S.) — Full Time The Cari Network is building a blockchain-based payment system powering real-time, 24/7 movement of digital money across the traditional finance and digital asset ecosystems. A pre-launch startup, we’re creating an entirely new category of financial infrastructure that brings cash on chain through tokenization while powering the full spectrum of payments for our network—banks, digital asset exchanges, and, most importantly, the customers they serve. About The Role You'll own the systems that take a payment instruction and turn it into an immutable, on-chain record—as the trusted technical decision-maker for that domain. That means designing and extending the integration layer between our backend services and our institutional custody platform, and being accountable for transaction integrity from calldata construction through on-chain finality on our private ZKsync-based L2. You'll also own significant parts of our smart contract suite, maintaining upgrade safety, on-chain event integrity, and audit trails that satisfy the compliance and evidentiary requirements of regulated bank partners. What You'll Do Own the end-to-end transaction lifecycle as a domain: calldata construction, custody platform signing requests, nonce management, L2 submission, and finality confirmation Design the signing pipeline architecture — parallelization strategies, throughput management against custody platform rate limits, and async transaction submission patterns — and write the RFCs other engineers build against Define what production-ready means for the signing pipeline: alerting thresholds, runbooks, and SLOs, and lead incident response and root-causing when it falls short Build and maintain payment integrity controls: commitment hash verification at pipeline handoff points and co-signer policy evaluation to prevent tampering between transaction origination and on-chain execution Extend and harden our Solidity smart contracts with a focus on upgrade safety, storage layout discipline, and role governance Develop and maintain the custody platform authorization policy integration and co-signer agent for custodian-owned transaction authorization Implement structured audit trails from transaction origination through on-chain execution, satisfying evidentiary requirements for bank partners under regulatory oversight Drive the design of the async transaction queue, enabling tiered SLAs and per-bank throughput quotas at scale Mentor engineers earlier in their blockchain careers, and be the team's go-to for EVM transaction mechanics and custody integration questions Push back on scope or timeline with technical reasoning when a proposed change puts pipeline correctness at risk Qualifications 5–7 years of backend software engineering experience, with at least 3 years working directly on EVM-compatible blockchain systems Strong proficiency in TypeScript; experience with Effect (effect.ts) or a comparable functional effect system is highly valued Deep familiarity with EVM transaction mechanics: ABI encoding, nonce management, gas estimation, revert handling, and event decoding Production experience with Solidity smart contract development, including upgradeable proxy patterns (UUPS preferred) and OpenZeppelin contract libraries Experience integrating with institutional custody or key management APIs Understanding of MPC signing infrastructure and the operational model of custodial signing pipelines Strong instincts around financial-grade reliability: idempotency, at-least-once delivery, crash recovery, and reconciliation in async transaction systems Comfortable owning a domain independently and writing design docs that other engineers act on without you in the room Nice to Haves Experience with ZKsync or ZK Stack-based chains — particularly developer-facing constraints like calldata handling, system contract interactions, and AA transaction formats Familiarity with Kafka or message-queue-backed async signing pipelines Prior work in fintech, payments, or any regulated financial infrastructure environment Experience building or operating blockchain event indexers or transaction monitors Foundry proficiency (forge test, forge fmt, Foundry Upgrades for storage layout validation) Experience mentoring junior engineers What We Offer Competitive compensation: salary, bonus, and equity Full medical, vision, dental benefits 401(k) with matching program Flexible vacation policy (PTO) and remote-first work environment Interested in this role? Send us your resume. ‹ Blockchain Engineer",
-    "published": "",
-    "remote": true,
+    "title": "Blockchain Developer",
+    "company": "One75mb HRM Pvt Ltd.",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/blockchain-developer-at-one75mb-hrm-pvt-ltd-4461706436",
+    "description": "About the Company We are seeking a highly experienced Blockchain, Crypto & Digital Assets professional with 10+ years of experience to lead strategy, product development, business transformation, and execution across blockchain, cryptocurrency, tokenization, and digital asset ecosystems. About the Role The ideal candidate will combine strong knowledge of blockchain technology, digital asset markets, financial services, product strategy, regulatory considerations, and emerging Web3 use cases. The role requires the ability to translate complex blockchain concepts into commercially viable solutions and work effectively with senior stakeholders, technology teams, financial institutions, regulators, and ecosystem partners. Responsibilities Define and execute blockchain and digital asset strategy aligned with business objectives. Lead initiatives involving cryptocurrencies, tokenized assets, stablecoins, CBDCs, digital securities, custody, wallets, exchanges, and decentralized finance (DeFi). Identify and evaluate emerging blockchain technologies, protocols, platforms, and market opportunities. Develop business cases, operating models, product strategies, and implementation roadmaps for digital asset initiatives. Lead cross-functional teams across product, technology, engineering, risk, compliance, legal, operations, and business functions. Drive blockchain-based product development from concept and MVP through launch and scale. Evaluate blockchain architectures, smart-contract platforms, consensus mechanisms, wallets, custody solutions, and tokenization frameworks. Partner with financial institutions, fintechs, blockchain platforms, technology providers, and digital asset ecosystem participants. Assess opportunities for asset tokenization, payments, settlement, cross-border transactions, digital identity, and blockchain-based financial infrastructure. Monitor cryptocurrency and digital asset market developments, competitive trends, technology evolution, and regulatory changes. Establish appropriate governance, risk-management, controls, and compliance frameworks for digital asset initiatives. Present strategic recommendations, investment cases, and transformation roadmaps to C-level executives and senior leadership. Manage large-scale transformation programs, budgets, vendors, delivery milestones, and executive-level stakeholder relationships. Mentor senior professionals and build high-performing blockchain and digital asset teams. Qualifications Bachelor's or Master's degree in Computer Science, Engineering, Finance, Economics, Business, or a related discipline. MBA or equivalent qualification is advantageous. Relevant certifications in Blockchain, Digital Assets, Cloud, Cybersecurity, Finance, Risk, or Project Management are preferred. Required Skills 10+ years of experience across blockchain, financial services, fintech, technology, consulting, digital transformation, or related domains. Demonstrated experience leading complex, enterprise-scale technology or digital asset programs. Strong strategic thinking and commercial acumen. Excellent understanding of financial markets and digital asset business models. Ability to communicate highly technical concepts to business executives and non-technical stakeholders. Strong program, product, stakeholder, and vendor management capabilities. Experience working with global and cross-functional teams. Strong analytical, problem-solving, negotiation, and decision-making skills. Ability to operate effectively in a rapidly changing regulatory and technology environment. Preferred Skills Experience with institutional adoption of digital assets. Experience with tokenization or RWA initiatives. Experience in banking, capital markets, payments, asset management, fintech, or consulting. Experience developing blockchain products or digital asset platforms. Experience working with regulators, auditors, legal teams, risk functions, and compliance teams. Understanding of AML/KYC, sanctions, transaction monitoring, and digital asset regulatory frameworks. Experience with cloud platforms and enterprise technology architecture. Familiarity with programming concepts and technologies such as Solidity, Ethereum Virtual Machine (EVM), APIs, Python, JavaScript/TypeScript, and blockchain nodes is advantageous. Pay range and compensation package Successful delivery of blockchain and digital asset strategy and products. Business value and revenue generated from digital asset initiatives. Adoption and scalability of blockchain solutions. Reduction in operational costs and settlement times. Successful implementation of tokenization and digital asset use cases. Effective management of technology, operational, regulatory, and financial risks. Stakeholder and client satisfaction. Successful development of strategic ecosystem partnerships. Equal Opportunity Statement The ideal candidate is a senior blockchain and digital asset leader who understands both the technology and commercial side of the industry. They should be capable of moving from strategy to execution, managing enterprise-scale initiatives while maintaining a strong understanding of digital asset technology, financial markets, regulatory requirements, and emerging Web3 opportunities.",
+    "published": "2026-09-01",
+    "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 12,
+    "score": 13,
     "title_hits": [
       "blockchain"
     ],
     "desc_hits": [
       "solidity",
-      "smart contract",
+      "smart-contract",
+      "web3",
       "defi",
+      "ethereum",
+      "crypto",
       "token",
-      "audit",
-      "foundry",
-      "evm"
+      "audit"
     ],
-    "gulf_onsite": false,
+    "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
@@ -271,8 +240,12 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$130,100-$187,000",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "thogard@abnormal.com"
+    ],
+    "phones": [],
+    "emails_source": "abnormal.com",
+    "about": "Tim Hogard's Home page # Tim Hogard's Home page [![Image 1: no fp98 here](https://www.abnormal.com/~thogard/images/nofp.gif)](https://www.worldgate.com/~marcs/fp/) * * * ## Now on the net for 31 years This website was on"
   },
   {
     "source": "linkedin",
@@ -503,6 +476,32 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$172,279-$256,433",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Prove: Director, Channel & Partnerships",
+    "company": "Prove",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
+    "description": "Headquarters: New York, NY; United States (Remote) About Prove As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform to process 20 billion customer requests annually across industries, including banking, lending, healthcare, gaming, crypto, e-commerce, marketplaces, and payments. For the latest updates from Prove, follow us on LinkedIn. Prove is driving the future of digital identity. We are looking for Provers who know how to make an impact. We’re talking self-starting professionals who thrive in a fast-paced environment, process information quickly, and make intelligent decisions. The work is challenging and requires not only smart but natural curiosity and tenacity. Teamwork is also important to us – we work together and play together. Prove has big plans, and we’re excited about the future. If this sounds like the place for you – come join our team! Title: Director, Channel & Partnerships Department: Partnerships Reports To: VP, Channels & Partnerships FLSA Status: Exempt Location: New York, NY or remote The partner ecosystem is a significant and fast-growing part of Prove’s success and growth strategy. We are looking for an exceptional, revenue-driven partner operator to join as a Director of Channel & Partnerships . This role is 100% focused on sourcing, structuring, and launching high-impact Reseller and OEM partnerships within the core banking, fintech and identity ecosystem. The ideal candidate has a proven track record of navigating, negotiating, and closing complex Reseller and OEM agreements with major financial technology ecosystems—specifically targeting banking infrastructure giants like Fiserv and Jack Henry. You will be responsible for turning these platforms into successful commercial channels that scale Prove's reach and directly drive ARR. As an early team hire, this individual will help lay the commercial and operational foundation for our global reseller program. Key Responsibilities New Partner Sourcing: Own the end-to-end sourcing, structuring, and closing of complex partnership agreements with top-tier core banking platforms as well as strategic fraud, identity, and lending infrastructure providers. GTM Mobilization: Partner closely with Partner Success and Partner Marketing build comprehensive enablement playbooks, ensuring partner sales forces are fully equipped to position and distribute Prove's embedded solutions. Revenue Ownership: Drive the post-signature partner commercialization lifecycle to accelerate pipeline generation, manage partner-sourced ARR quotas, and maximize Prove's footprint within the partner's client base. Cross-Functional Alignment: Align closely with Prove's direct Sales + GTM leadership to map strategic accounts, manage channel conflict, and create a unified approach to market penetration. Program Architecture: Develop and refine Prove’s partner programs, pricing frameworks, and operational processes to establish scalable best practices for Reseller and OEM models. Qualifications and Experience 7+ years of professional work experience, with 3+ years specifically focused on sourcing, negotiating, and closing Reseller and OEM partnerships in the technology or financial services sector. Proven track record of hitting and exceeding partner sales quotas. Demonstrated experience managing deep commercial relationships or closing deals with major core banking platforms (e.g., Fiserv, Jack Henry, FIS) is preferred. Expertise in structuring complex technical and commercial agreements Experience in high-growth, venture-backed, or pre-IPO technology companies is strongly preferred. Willingness to travel up to 25% of the time for partner meetings and industry events. Skills and Attributes Discovery-first mindset: you ask before you pitch, and you can translate a prospect's business problem into a product & GTM structure recommendation. Technical fluency: comfortable in conversations that involve API integration, compliance considerations and technical architecture, even when you're not the technical expert in the room. Data-driven: you own your pipeline numbers, understand what they mean, and use them to prioritize your time. Commercial grit: reseller and OEM partnerships with massive institutions are complex and lengthy; you stay persistent, creative, and strategically aligned without losing momentum. High Collaboration: you naturally bridge gaps across engineering, legal, product, and sales teams to bring highly multi-faceted deals across the finish line. The anticipated salary pay range for Metro 2 areas for this role is $165,000 - 180,000 plus sales incentive plan. The anticipated salary pay range for Metro 3 areas for this role is $160,000 - $175,000 plus sales incentive plan. Offered salary will be determined by the applicant's experience, knowledge, skills, geo-location and abilities as well as internal equity and alignment with market data. Prove follows a market driven compensation philosophy based on geographic location and respective market rates. Job offers will be aligned to location. Please speak with your recruiter if you have questions. Prove defines: Metro 2 - NYC metro area, Seattle metro area, Los Angeles metro area, and the Miami metro area. Metro 3 - all other cities across the domestic United States, with the exception of the San Francisco Bay Area. Benefits & Perks for FTE Provers: Competitive salaries & Bonus Plan (for eligible roles) and Equity Plan Modern Health for financial, mental, and physical wellness 401(k) Retirement Plan & Match (US Offices) and Local Country Pension (International Offices) Unlimited Vacation and Flexible hours Comprehensive medical benefits for you and your family ️ Emotional & Physical Wellness – Access to wellness services (EAP & Prove Well-Being Reimbursement) Bottomless snacks & beverages for certain office locations Daily GrubHub stipend for lunch if coming into the office (US Offices) A great place to work and connect with other talented Provers like yourself! Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Prove we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Equal Opportunity Employment: Prove is an equal opportunity employer committed to providing equal employment opportunity for all people regardless of race, color, religion, gender or sexual orientation, age, marital status, national origin, citizenship status, disability, veteran status or other personal characteristics Privacy & Data Protection: When you are applying for a job at Prove, we collect and use your personal information in the job application process. To understand more about how Prove uses your personal information, please see our Recruitment Privacy Policy on our website. To apply: https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
+    "published": "Fri, 04 Sep 2026",
+    "remote": true,
+    "currency": null,
+    "salary_min": 160000,
+    "salary_max": 180000,
+    "score": 8,
+    "title_hits": [],
+    "desc_hits": [
+      "defi",
+      "crypto",
+      "token",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$160,000-$180,000",
     "emails": [],
     "phones": []
   },
