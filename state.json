@@ -4751,6 +4751,12 @@
       "company": "RelationalAI",
       "source": "jobicy",
       "first_seen": "2026-09-05"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-wsp-in-the-middle-east-4437682794": {
+      "title": "HSE Engineer",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-09-05"
     }
   },
   "applied": {
