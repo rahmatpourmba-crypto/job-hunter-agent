@@ -4733,6 +4733,18 @@
       "company": "Vonage",
       "source": "weworkremotely",
       "first_seen": "2026-09-05"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-manager-hse-at-julphar-4463117043": {
+      "title": "Sr. Manager - HSE",
+      "company": "Julphar",
+      "source": "linkedin",
+      "first_seen": "2026-09-05"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4457675059": {
+      "title": "Blockchain Developer",
+      "company": "Bright Vision Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-09-05"
     }
   },
   "applied": {
@@ -5386,6 +5398,13 @@
       "to": "https://www.cari.com",
       "title": "Senior Blockchain Engineer",
       "company": "Cari Network"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4457675059::email": {
+      "date": "2026-09-05 12:21",
+      "via": "email",
+      "to": "info@vision.com",
+      "title": "Blockchain Developer",
+      "company": "Bright Vision Technologies"
     }
   },
   "sent": {
@@ -5738,6 +5757,11 @@
       "kind": "contact_form",
       "to": "cari.com",
       "date": "2026-09-03 22:46"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4457675059": {
+      "kind": "email",
+      "to": "info@vision.com",
+      "date": "2026-09-05 12:21"
     }
   },
   "replies": []
