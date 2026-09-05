@@ -4757,6 +4757,12 @@
       "company": "WSP in the Middle East",
       "source": "linkedin",
       "first_seen": "2026-09-05"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4463781705": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-09-05"
     }
   },
   "applied": {
@@ -5417,6 +5423,13 @@
       "to": "info@vision.com",
       "title": "Blockchain Developer",
       "company": "Bright Vision Technologies"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4463781705::contact_form": {
+      "date": "2026-09-05 23:11",
+      "via": "contact_form",
+      "to": "https://www.cari.com",
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network"
     }
   },
   "sent": {
@@ -5774,6 +5787,11 @@
       "kind": "email",
       "to": "info@vision.com",
       "date": "2026-09-05 12:21"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4463781705": {
+      "kind": "contact_form",
+      "to": "cari.com",
+      "date": "2026-09-05 23:11"
     }
   },
   "replies": []
