@@ -4787,6 +4787,42 @@
       "company": "SGS",
       "source": "linkedin",
       "first_seen": "2026-09-06"
+    },
+    "https://jobicy.com/jobs/152673-senior-security-consultant": {
+      "title": "Senior Security Consultant",
+      "company": "Tenable",
+      "source": "jobicy",
+      "first_seen": "2026-09-06"
+    },
+    "https://jobicy.com/jobs/152656-director-of-product-marketing-cloud-ot-security": {
+      "title": "Director of Product Marketing - Cloud & OT Security",
+      "company": "Tenable",
+      "source": "jobicy",
+      "first_seen": "2026-09-06"
+    },
+    "https://jobicy.com/jobs/152668-security-sales-engineer-sled-public-sector": {
+      "title": "Security Sales Engineer - SLED/Public Sector",
+      "company": "Tenable",
+      "source": "jobicy",
+      "first_seen": "2026-09-06"
+    },
+    "https://jobicy.com/jobs/152657-staff-application-security-engineer": {
+      "title": "Staff Application Security Engineer",
+      "company": "Upside",
+      "source": "jobicy",
+      "first_seen": "2026-09-06"
+    },
+    "https://jobicy.com/jobs/152638-staff-ai-engineer-ai-platform": {
+      "title": "Staff AI Engineer - AI Platform",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-09-06"
+    },
+    "https://jobicy.com/jobs/152631-senior-ai-engineer-ai-platform": {
+      "title": "Senior AI Engineer - AI Platform",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-09-06"
     }
   },
   "applied": {
