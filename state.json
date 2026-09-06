@@ -4823,6 +4823,12 @@
       "company": "ClickUp",
       "source": "jobicy",
       "first_seen": "2026-09-06"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4457657967": {
+      "title": "Blockchain Developer",
+      "company": "Bright Vision Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-09-06"
     }
   },
   "applied": {
@@ -5497,6 +5503,13 @@
       "to": "contact@talentmate.com",
       "title": "HSE Engineer",
       "company": "TALENTMATE"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4457657967::email": {
+      "date": "2026-09-06 19:24",
+      "via": "email",
+      "to": "info@vision.com",
+      "title": "Blockchain Developer",
+      "company": "Bright Vision Technologies"
     }
   },
   "sent": {
@@ -5864,6 +5877,11 @@
       "kind": "email",
       "to": "contact@talentmate.com",
       "date": "2026-09-06 06:16"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4457657967": {
+      "kind": "email",
+      "to": "info@vision.com",
+      "date": "2026-09-06 19:24"
     }
   },
   "replies": []
