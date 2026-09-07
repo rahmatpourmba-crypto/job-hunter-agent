@@ -4883,6 +4883,42 @@
       "company": "GitLab",
       "source": "jobicy",
       "first_seen": "2026-09-07"
+    },
+    "https://sa.linkedin.com/jobs/view/health-and-safety-officer-at-al-rashed-food-company-4464099296": {
+      "title": "Health And Safety Officer",
+      "company": "Al Rashed Food Company",
+      "source": "linkedin",
+      "first_seen": "2026-09-07"
+    },
+    "https://iq.linkedin.com/jobs/view/site-ehs-specialist-at-fieldcore-4462213798": {
+      "title": "Site EHS Specialist",
+      "company": "FieldCore",
+      "source": "linkedin",
+      "first_seen": "2026-09-07"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-kbr-inc-4464364598": {
+      "title": "HSE Officer",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-09-07"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711": {
+      "title": "EHS Manager",
+      "company": "Huntsman Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-07"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-hemamco-company-limited-4462213377": {
+      "title": "Health Safety Environment Officer",
+      "company": "Hemamco Company Limited",
+      "source": "linkedin",
+      "first_seen": "2026-09-07"
+    },
+    "https://jobicy.com/jobs/152715-director-security-channels-north-america": {
+      "title": "Director, Security Channels (North America)",
+      "company": "Datadog",
+      "source": "jobicy",
+      "first_seen": "2026-09-07"
     }
   },
   "applied": {
