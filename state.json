@@ -4919,6 +4919,12 @@
       "company": "Datadog",
       "source": "jobicy",
       "first_seen": "2026-09-07"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-talentone-4462936345": {
+      "title": "HSE Officer",
+      "company": "TalentOne",
+      "source": "linkedin",
+      "first_seen": "2026-09-07"
     }
   },
   "applied": {
