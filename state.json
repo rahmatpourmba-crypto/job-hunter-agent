@@ -4931,6 +4931,12 @@
       "company": "TRM Labs",
       "source": "linkedin",
       "first_seen": "2026-09-08"
+    },
+    "https://www.gulftalent.com/uae/jobs/health-and-safety-officer-630251": {
+      "title": "Health and Safety Officer",
+      "company": "Mideast Metals",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-08"
     }
   },
   "applied": {
@@ -5612,6 +5618,13 @@
       "to": "info@vision.com",
       "title": "Blockchain Developer",
       "company": "Bright Vision Technologies"
+    },
+    "https://www.gulftalent.com/uae/jobs/health-and-safety-officer-630251::email": {
+      "date": "2026-09-08 07:50",
+      "via": "email",
+      "to": "editor@langplace.com",
+      "title": "Health and Safety Officer",
+      "company": "Mideast Metals"
     }
   },
   "sent": {
@@ -5984,6 +5997,11 @@
       "kind": "email",
       "to": "info@vision.com",
       "date": "2026-09-06 19:24"
+    },
+    "https://www.gulftalent.com/uae/jobs/health-and-safety-officer-630251": {
+      "kind": "email",
+      "to": "editor@langplace.com",
+      "date": "2026-09-08 07:50"
     }
   },
   "replies": []
