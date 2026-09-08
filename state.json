@@ -4985,6 +4985,24 @@
       "company": "Sigma Computing",
       "source": "jobicy",
       "first_seen": "2026-09-08"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-at-conjugate-consulting-4464434370": {
+      "title": "HSE Manager",
+      "company": "Conjugate Consulting",
+      "source": "linkedin",
+      "first_seen": "2026-09-08"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-whs-at-amazon-4464647656": {
+      "title": "Safety Officer, WHS",
+      "company": "Amazon",
+      "source": "linkedin",
+      "first_seen": "2026-09-08"
+    },
+    "https://jobicy.com/jobs/152809-b2b-senior-devops-engineer": {
+      "title": "B2B Senior DevOps Engineer",
+      "company": "Jamf",
+      "source": "jobicy",
+      "first_seen": "2026-09-08"
     }
   },
   "applied": {
