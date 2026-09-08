@@ -4937,6 +4937,18 @@
       "company": "Mideast Metals",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-08"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-inco-group-of-companies-4462508191": {
+      "title": "Health Safety Environment Engineer",
+      "company": "INCO Group Of Companies",
+      "source": "linkedin",
+      "first_seen": "2026-09-08"
+    },
+    "https://iq.linkedin.com/jobs/view/shift-engineer-at-siemens-energy-4463246246": {
+      "title": "Shift Engineer",
+      "company": "Siemens Energy",
+      "source": "linkedin",
+      "first_seen": "2026-09-08"
     }
   },
   "applied": {
@@ -5625,6 +5637,13 @@
       "to": "editor@langplace.com",
       "title": "Health and Safety Officer",
       "company": "Mideast Metals"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796::contact_form": {
+      "date": "2026-09-08 12:39",
+      "via": "contact_form",
+      "to": "https://www.coinbase.com",
+      "title": "Senior Software Engineer, Stablecoins",
+      "company": "Coinbase"
     }
   },
   "sent": {
@@ -6002,6 +6021,11 @@
       "kind": "email",
       "to": "editor@langplace.com",
       "date": "2026-09-08 07:50"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448463796": {
+      "kind": "contact_form",
+      "to": "coinbase.com",
+      "date": "2026-09-08 12:39"
     }
   },
   "replies": []
