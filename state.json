@@ -5117,6 +5117,36 @@
       "company": "Datadog",
       "source": "jobicy",
       "first_seen": "2026-09-09"
+    },
+    "https://ae.linkedin.com/jobs/view/health-and-safety-officer-at-d1-management-4463427934": {
+      "title": "Health And Safety Officer",
+      "company": "D1 Management",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-engineer-occupational-health-at-adnoc-drilling-4465384250": {
+      "title": "Senior Engineer Occupational Health",
+      "company": "ADNOC Drilling",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-bitumat-co-ltd-mapei-group-4465652096": {
+      "title": "Safety Engineer",
+      "company": "Bitumat Co. Ltd / Mapei Group",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer-631363": {
+      "title": "HSE Officer",
+      "company": "Propel Consult",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-10"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-partnerships-rwa-tokenization-at-assetize-4459280829": {
+      "title": "Head of Partnerships (RWA Tokenization)",
+      "company": "Assetize",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
     }
   },
   "applied": {
