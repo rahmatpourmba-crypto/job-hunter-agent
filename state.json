@@ -5171,6 +5171,24 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-10"
+    },
+    "https://iq.linkedin.com/jobs/view/environmental-health-and-safety-manager-at-erbil-rotana-4463902198": {
+      "title": "Environmental Health and Safety Manager",
+      "company": "Erbil Rotana",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
+    },
+    "https://sa.linkedin.com/jobs/view/ubuntu-security-engineer-at-jobgether-4461949429": {
+      "title": "Ubuntu Security Engineer",
+      "company": "Jobgether",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
+    },
+    "https://sa.linkedin.com/jobs/view/ics-cybersecurity-engineer-renewable-power-at-air-products-4416696835": {
+      "title": "ICS Cybersecurity Engineer - Renewable Power",
+      "company": "Air Products",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
     }
   },
   "applied": {
