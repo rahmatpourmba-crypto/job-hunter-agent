@@ -5147,6 +5147,30 @@
       "company": "Assetize",
       "source": "linkedin",
       "first_seen": "2026-09-10"
+    },
+    "https://sa.linkedin.com/jobs/view/officer-hse-at-alfanar-4464504821": {
+      "title": "OFFICER, HSE",
+      "company": "alfanar",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-software-engineer-blockchain-smart-contracts-at-1inch-4465664196": {
+      "title": "Senior Software Engineer, Blockchain (Smart Contracts)",
+      "company": "1inch",
+      "source": "linkedin",
+      "first_seen": "2026-09-10"
+    },
+    "https://www.gulftalent.com/uae/jobs/group-internal-auditor-631388": {
+      "title": "Group Internal Auditor",
+      "company": "Michael Page",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-10"
+    },
+    "https://www.gulftalent.com/uae/jobs/head-of-internal-audit-uae-national-631386": {
+      "title": "Head of Internal Audit - UAE National",
+      "company": "Michael Page",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-10"
     }
   },
   "applied": {
