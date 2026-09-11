@@ -32,34 +32,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "VP/Director of Health Safety, Environmental & Regulatory (HSE&R)",
-    "company": "W&T Offshore Inc. (NYSE: WTI)",
-    "location": "Houston, TX",
-    "url": "https://www.linkedin.com/jobs/view/vp-director-of-health-safety-environmental-regulatory-hse-r-at-w-t-offshore-inc-nyse-wti-4465081947",
-    "description": "TITLE: Vice President / Director of Health Safety, Environmental & Regulatory (HSE&R) Please note: Title and compensation will be assigned commensurate with the candidate’s experience. ABOUT THE COMPANY: W&T Offshore, Inc. (NYSE: WTI) is a thriving, independent oil and natural gas producer operating in the Gulf of America, the second-largest producing basin in the U.S. for nearly four decades. ABOUT OUR EMPLOYEES: We have built a team of talented and collaborative individuals who are committed to cultivating a culture of integrity, honesty, trust, respect, and communication. Our mission is to attract and retain like-minded team members who will grow and prosper within our W&T community. W&T offers a competitive total rewards program designed to provide competitive pay, health and financial benefits, and work-life balance. WORKING LOCATION: Houston Office - 5718 WESTHEIMER RD 7 7057 FULL-TIME/PART-TIME: Full-Time SCHEDULE: Mon -Thurs - 9 hours /Friday - 4 hours (in-office) FLSA STATUS: Salary, Non-Exempt POSITION SUMMARY: Reporting to the COO, The Vice President / Director of Health, Safety, Environment & Regulatory (HSE&R) assumes responsibility for guiding the formulation, execution, administration, and continuous enhancement of the Company's safety and environmental strategies and objectives. This role calls for the delivery of expert guidance in health, safety, environmental and regulatory matters to lead and bolster all levels of the organization’s operations. The VP, HSE&R is hands-on and requires current EHS leadership experience (policies and procedures, processes, system implementations, ESG reporting, compliance, regulatory) specific to the regulatory requirements of the offshore oil and gas industry and a publicly traded company. The role is office-based Mon-Thurs (remote Friday) with up to 15% travel to within the company’s operating area (TX, LA, AL). Primary Responsibilities Manage HSE&R Department, with staff located in Houston (TX), New Iberia (LA), Mobile (AL) and Gulf of America (Offshore). Provide HSE&R leadership to all departments including drilling, completions, operations, production, P&A and construction activities, through leading by example and working constructively with the other department managers and staff. Manage W&T’s regulatory responsibilities for all operations, including preparation and submittal of EPs, DOCDs, permit applications and other filings with BSEE, BOEM and applicable State regulators. Responsible for ESG data collection and reporting. Revise and develop key corporate H&S and environmental policies, programs and procedures and roll them out to all business units and departments through face-to-face and online training. Work with in-house and external attorneys on regulatory enforcement and other legal matters. Represent W&T in Industry groups such as the Offshore Operators Committee and API, and with consortiums such as Clean Gulf Associates and Helix Well Control Group. Manage the company’s HSE compliance programs, including performance tracking and reporting both internally and to regulatory agencies. Track all HSE metrics on a routine basis; develop presentation material for executive management’s use. Direct company HSE/SEMS audits, both internally and externally using contractors and internal compliance technicians. Direct effective incident investigations and review and approve final investigation reports and disseminate the lessons learned. Lead efforts for emergency response training and drills. Continue to implement the computer-based Environmental Management Systems for SEMS and compliance. Manage W&T’s drug testing program. Manage the company’s contractor management program, with ISNetworld and internal processes. Manage and direct W&T’s SEMS program for continuous improvement. Manage waste disposal activities to ensure compliance with RCRA, Alabama, Louisiana and Texas waste regulations. Manage all air permitting activities onshore, including the proper installation of pollution control devices and emissions testing and reporting. Also manage all Greenhouse Gas reporting for offshore and onshore. Knowledge, Education & Experience Bachelor of Science degree in Environmental Management, Science, Engineering or equivalent. 15+ years of hands-on Senior HSE management experience and demonstrated track record managing significant HSE programs in the offshore energy sector. Exceptional leadership, organizational and problem-solving skills. Demonstrated quality decision making skills. Highly effective communication and interpersonal skills with the ability to establish excellent working relationships at both the field and management level. Excellent written and oral communication skills. Proven experience communicating and negotiating with government agencies such as BSEE (MMA), BOEM, USCG and State regulators. Knowledge of applicable regulations that are implemented and enforced by BSEE (MMA), BOEM, USCG, OSHA, EPA, PHMSA, AOGB, APSC, ADEM, TRRC and TGLO. Proven experience managing effective SEMS programs. Strong time management, prioritization, and organizational skills Proficiency with all MS Office products (Word, Excel, PowerPoint, etc.) Self-motivated with the ability to adapt work schedule as needed to accomplish objectives. Knowledge of SempCheck or similar computer-based EMS systems Safety or environmental certification, such as CSP is a plus. Physical Requirements Ability to travel offshore as needed via helicopter and/or boat. Ability to pass all required safety training for offshore travel/work. Requires prolonged sitting, some bending and stooping. Occasional lifting up to 10 pounds. Manual dexterity sufficient to operate a computer keyboard and calculator. This description is intended to describe the type of work being performed by a person assigned to this position. It is not an exhaustive list of all duties and responsibilities required by the employee. W&T Offshore is an Equal Opportunity Employer and is committed to the",
-    "published": "2026-09-09",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 9,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [
-      "ehs",
-      "incident investigation",
-      "osha",
-      "safety training"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Chief Information Security Officer",
     "company": "Fortive",
@@ -237,8 +209,12 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "enquiries@egis.com"
+    ],
+    "phones": [],
+    "emails_source": "egis.com",
+    "about": "Your name * Email * Describe your issue [Send message](javascript:;) We'll get back to you as soon as possible."
   },
   {
     "source": "linkedin",
@@ -362,44 +338,20 @@
   },
   {
     "source": "linkedin",
-    "title": "Sr. HSE Engineer | alfanar Electric",
-    "company": "alfanar",
+    "title": "EHS Engineer",
+    "company": "Larsen & Toubro",
     "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4457692955",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258",
     "description": "",
-    "published": "2026-08-26",
+    "published": "2026-08-30",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health and Safety Engineer",
-    "company": "WSP in the Middle East",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
-    "description": "",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety engineer",
-      "health and safety"
+      "ehs",
+      "ehs engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -411,11 +363,11 @@
   {
     "source": "linkedin",
     "title": "EHS Engineer",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258",
+    "company": "Guardian Industries",
+    "location": "Jubail, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-guardian-industries-4444152160",
     "description": "",
-    "published": "2026-08-30",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -585,6 +537,52 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Coordinator",
+    "company": "H&P",
+    "location": "Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-coordinator-at-h-p-4414740905",
+    "description": "",
+    "published": "2026-08-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Manager",
+    "company": "Huntsman Corporation",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711",
+    "description": "",
+    "published": "2026-09-07",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "ehs"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
