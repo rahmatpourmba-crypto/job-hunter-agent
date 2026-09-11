@@ -5279,6 +5279,30 @@
       "company": "Black Pearl",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-11"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-connexa-recruitment-4466070554": {
+      "title": "Senior HSE Engineer",
+      "company": "Connexa Recruitment",
+      "source": "linkedin",
+      "first_seen": "2026-09-11"
+    },
+    "https://ae.linkedin.com/jobs/view/occupational-health-specialist-at-kbr-inc-4466070634": {
+      "title": "Occupational Health Specialist",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-09-11"
+    },
+    "https://ae.linkedin.com/jobs/view/devops-engineer-blockchain-infra-fully-remote-at-binance-4465100457": {
+      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+      "company": "Binance",
+      "source": "linkedin",
+      "first_seen": "2026-09-11"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-blockchain-full-stack-engineer-at-apex-group-ltd-4463990860": {
+      "title": "Senior Blockchain Full-Stack Engineer",
+      "company": "Apex Group Ltd",
+      "source": "linkedin",
+      "first_seen": "2026-09-11"
     }
   },
   "applied": {
@@ -5974,6 +5998,13 @@
       "to": "https://www.coinbase.com",
       "title": "Senior Software Engineer, Stablecoins",
       "company": "Coinbase"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-connexa-recruitment-4466070554::email": {
+      "date": "2026-09-11 15:47",
+      "via": "email",
+      "to": "support@connexa.com",
+      "title": "Senior HSE Engineer",
+      "company": "Connexa Recruitment"
     }
   },
   "sent": {
@@ -6356,6 +6387,11 @@
       "kind": "contact_form",
       "to": "coinbase.com",
       "date": "2026-09-08 12:39"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-connexa-recruitment-4466070554": {
+      "kind": "email",
+      "to": "support@connexa.com",
+      "date": "2026-09-11 15:47"
     }
   },
   "replies": []

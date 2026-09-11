@@ -108,6 +108,34 @@
   },
   {
     "source": "linkedin",
+    "title": "Senior HSE Engineer",
+    "company": "Connexa Recruitment",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-connexa-recruitment-4466070554",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "support@connexa.com"
+    ],
+    "phones": [],
+    "emails_source": "connexa.com",
+    "about": "Inquire today to see why we are rated one of the fastest growing US companies for 2018, 2019, and 2020!"
+  },
+  {
+    "source": "linkedin",
     "title": "Senior Environmental Engineer - HSE Manager",
     "company": "Penspen",
     "location": "Khafji, Eastern, Saudi Arabia",
@@ -202,12 +230,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "enquiries@egis.com"
-    ],
-    "phones": [],
-    "emails_source": "egis.com",
-    "about": "Your name * Email * Describe your issue [Send message](javascript:;) We'll get back to you as soon as possible."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -336,7 +360,7 @@
     "location": "Riyadh, Riyadh, Saudi Arabia",
     "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
     "description": "",
-    "published": "",
+    "published": "2026-09-10",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -546,29 +570,6 @@
     "url": "https://sa.linkedin.com/jobs/view/hse-manager-saudi-national-at-parsons-corporation-4458263142",
     "description": "",
     "published": "2026-08-25",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Parsons Corporation",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4455217464",
-    "description": "",
-    "published": "2026-08-17",
     "remote": false,
     "currency": null,
     "salary_min": null,
