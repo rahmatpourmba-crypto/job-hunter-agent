@@ -5411,6 +5411,18 @@
       "company": "Khatib & Alami",
       "source": "linkedin",
       "first_seen": "2026-09-12"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-cloud-security-architect-mandiant-cloud-and-infrastructure-at-google-4456002541": {
+      "title": "Senior Cloud Security Architect, Mandiant, Cloud and Infrastructure",
+      "company": "Google",
+      "source": "linkedin",
+      "first_seen": "2026-09-12"
+    },
+    "https://ae.linkedin.com/jobs/view/chief-marketing-officer-cmo-%E2%80%93-token-project-at-cequire-capital-4464184989": {
+      "title": "Chief Marketing Officer (CMO) – Token Project",
+      "company": "Cequire Capital",
+      "source": "linkedin",
+      "first_seen": "2026-09-12"
     }
   },
   "applied": {
@@ -6113,6 +6125,20 @@
       "to": "support@connexa.com",
       "title": "Senior HSE Engineer",
       "company": "Connexa Recruitment"
+    },
+    "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea::email": {
+      "date": "2026-09-12 12:01",
+      "via": "email",
+      "to": "accommodations@huntresslabs.com",
+      "title": "Huntress: Manager, Security Operations Center - EMEA",
+      "company": "Huntress"
+    },
+    "https://weworkremotely.com/remote-jobs/vercel-grc-analyst::contact_form": {
+      "date": "2026-09-12 12:01",
+      "via": "contact_form",
+      "to": "https://www.vercel.com/contact-us",
+      "title": "Vercel: GRC Analyst",
+      "company": "Vercel"
     }
   },
   "sent": {
@@ -6500,6 +6526,16 @@
       "kind": "email",
       "to": "support@connexa.com",
       "date": "2026-09-11 15:47"
+    },
+    "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea": {
+      "kind": "email",
+      "to": "accommodations@huntresslabs.com",
+      "date": "2026-09-12 12:01"
+    },
+    "https://weworkremotely.com/remote-jobs/vercel-grc-analyst": {
+      "kind": "contact_form",
+      "to": "vercel.com",
+      "date": "2026-09-12 12:01"
     }
   },
   "replies": []
