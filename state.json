@@ -5429,6 +5429,42 @@
       "company": "Liftoff",
       "source": "jobicy",
       "first_seen": "2026-09-12"
+    },
+    "https://jobicy.com/jobs/153130-staff-devops-engineer-platform": {
+      "title": "Staff DevOps Engineer (Platform)",
+      "company": "Phantom",
+      "source": "jobicy",
+      "first_seen": "2026-09-12"
+    },
+    "https://jobicy.com/jobs/153134-staff-software-engineer-sre": {
+      "title": "Staff Software Engineer (SRE)",
+      "company": "Phantom",
+      "source": "jobicy",
+      "first_seen": "2026-09-12"
+    },
+    "https://jobicy.com/jobs/153123-manager-security-incident-response": {
+      "title": "Manager, Security Incident Response",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-09-12"
+    },
+    "https://jobicy.com/jobs/153118-senior-gtm-engineering-analyst": {
+      "title": "Senior GTM Engineering Analyst",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-09-12"
+    },
+    "https://jobicy.com/jobs/153132-compliance-engineer": {
+      "title": "Compliance Engineer",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-09-12"
+    },
+    "https://jobicy.com/jobs/153136-compliance-engineer-intern": {
+      "title": "Compliance Engineer Intern",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-09-12"
     }
   },
   "applied": {
