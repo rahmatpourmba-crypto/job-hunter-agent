@@ -5399,6 +5399,12 @@
       "company": "Remote",
       "source": "jobicy",
       "first_seen": "2026-09-11"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4466393436": {
+      "title": "Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-09-12"
     }
   },
   "applied": {
