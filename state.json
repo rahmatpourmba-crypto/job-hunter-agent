@@ -5423,6 +5423,12 @@
       "company": "Cequire Capital",
       "source": "linkedin",
       "first_seen": "2026-09-12"
+    },
+    "https://jobicy.com/jobs/153102-security-engineer-detection-response": {
+      "title": "Security Engineer, Detection & Response",
+      "company": "Liftoff",
+      "source": "jobicy",
+      "first_seen": "2026-09-12"
     }
   },
   "applied": {
