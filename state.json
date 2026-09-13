@@ -5465,6 +5465,24 @@
       "company": "CertiK",
       "source": "jobicy",
       "first_seen": "2026-09-12"
+    },
+    "https://sa.linkedin.com/jobs/view/officer-ehs-ksa-at-veolia-water-tech-4464723851": {
+      "title": "Officer-EHS-KSA",
+      "company": "Veolia | Water Tech",
+      "source": "linkedin",
+      "first_seen": "2026-09-13"
+    },
+    "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure": {
+      "title": "Pinterest: Data Scientist II, Infrastructure",
+      "company": "Pinterest",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-13"
+    },
+    "https://sa.linkedin.com/jobs/view/ot-ics-cybersecurity-engineer-at-opticlaim-4465456269": {
+      "title": "OT / ICS Cybersecurity Engineer",
+      "company": "OptiClaim",
+      "source": "linkedin",
+      "first_seen": "2026-09-13"
     }
   },
   "applied": {
