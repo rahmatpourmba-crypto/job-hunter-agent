@@ -113,12 +113,12 @@
   },
   {
     "source": "linkedin",
-    "title": "Senior HSE Engineer",
-    "company": "Connexa Recruitment",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-connexa-recruitment-4466070554",
+    "title": "Junior HSE Engineer - Offshore SIte",
+    "company": "Worley",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/junior-hse-engineer-offshore-site-at-worley-4466796170",
     "description": "",
-    "published": "2026-09-11",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -132,12 +132,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "support@connexa.com"
-    ],
-    "phones": [],
-    "emails_source": "connexa.com",
-    "about": "Inquire today to see why we are rated one of the fastest growing US companies for 2018, 2019, and 2020!"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -264,102 +260,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer – UAE National (Rail/Transportation/Infrastructure) Abu Dhabi, UAE",
-    "company": "SEGULA Technologies",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-%E2%80%93-uae-national-rail-transportation-infrastructure-abu-dhabi-uae-at-segula-technologies-4454583518",
-    "description": "",
-    "published": "2026-09-05",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Senior HSE Engineer",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-penspen-4462519973",
-    "description": "",
-    "published": "2026-09-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer-SWRO",
-    "company": "WSP in the Middle East",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-swro-at-wsp-in-the-middle-east-4456927350",
-    "description": "",
-    "published": "2026-08-25",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "WSP in the Middle East",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-wsp-in-the-middle-east-4437682794",
-    "description": "",
-    "published": "2026-08-27",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Health and Safety Engineer",
     "company": "WSP in the Middle East",
     "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -374,6 +274,30 @@
     "title_hits": [
       "safety engineer",
       "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Engineer",
+    "company": "Larsen & Toubro",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4451319258",
+    "description": "",
+    "published": "2026-08-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "ehs engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -581,6 +505,75 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Manager",
+    "company": "Parsons Corporation",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4455217464",
+    "description": "",
+    "published": "2026-08-17",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Manager",
+    "company": "Huntsman Corporation",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711",
+    "description": "",
+    "published": "2026-09-07",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "ehs"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Engineer",
+    "company": "NAMI | a 3D Printing Company",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-nami-a-3d-printing-company-4464320178",
+    "description": "",
+    "published": "2026-09-07",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
