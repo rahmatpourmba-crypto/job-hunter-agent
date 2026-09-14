@@ -86,6 +86,33 @@
   },
   {
     "source": "linkedin",
+    "title": "PMC HSE Engineer",
+    "company": "Wood",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/pmc-hse-engineer-at-wood-4467066141",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@wood.com"
+    ],
+    "phones": [],
+    "emails_source": "wood.com"
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Engineer",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -372,29 +399,6 @@
     ],
     "desc_hits": [],
     "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Technical Safety Engineer-Drawing",
-    "company": "Anton",
-    "location": "Baghdad Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/technical-safety-engineer-drawing-at-anton-4456536322",
-    "description": "",
-    "published": "2026-08-24",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],

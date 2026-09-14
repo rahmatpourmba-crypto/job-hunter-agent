@@ -5513,6 +5513,30 @@
       "company": "TalentHive",
       "source": "linkedin",
       "first_seen": "2026-09-13"
+    },
+    "https://ae.linkedin.com/jobs/view/pmc-hse-engineer-at-wood-4467066141": {
+      "title": "PMC HSE Engineer",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-09-14"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-rumoz-consulting-engineers-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B1%D9%85%D9%88%D8%B2-%D9%84%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A9-4464768736": {
+      "title": "Health Safety Environment Officer",
+      "company": "Rumoz Consulting Engineers شركة رموز للإستشارات الهندسية",
+      "source": "linkedin",
+      "first_seen": "2026-09-14"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-yacht-manufacturing-shipyard-at-sunreef-yachts-4467059224": {
+      "title": "Safety Engineer - Yacht Manufacturing / Shipyard",
+      "company": "Sunreef Yachts",
+      "source": "linkedin",
+      "first_seen": "2026-09-14"
+    },
+    "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam": {
+      "title": "Reddit: Backend Engineer, IAM",
+      "company": "Reddit",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-14"
     }
   },
   "applied": {
@@ -6229,6 +6253,13 @@
       "to": "https://www.vercel.com/contact-us",
       "title": "Vercel: GRC Analyst",
       "company": "Vercel"
+    },
+    "https://ae.linkedin.com/jobs/view/pmc-hse-engineer-at-wood-4467066141::email": {
+      "date": "2026-09-14 11:37",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "PMC HSE Engineer",
+      "company": "Wood"
     }
   },
   "sent": {
@@ -6626,6 +6657,11 @@
       "kind": "contact_form",
       "to": "vercel.com",
       "date": "2026-09-12 12:01"
+    },
+    "https://ae.linkedin.com/jobs/view/pmc-hse-engineer-at-wood-4467066141": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-09-14 11:37"
     }
   },
   "replies": []
