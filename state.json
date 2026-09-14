@@ -5555,6 +5555,24 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-14"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-supervisor-saudi-national-at-parsons-corporation-4465046016": {
+      "title": "HSE Supervisor (Saudi National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-14"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-engineer-ehs-at-larsen-toubro-4467244498": {
+      "title": "Sr. Engineer - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-09-14"
+    },
+    "https://www.linkedin.com/jobs/view/senior-smart-contract-engineer-at-blocknetics-4467227757": {
+      "title": "Senior Smart Contract Engineer",
+      "company": "Blocknetics",
+      "source": "linkedin",
+      "first_seen": "2026-09-14"
     }
   },
   "applied": {
