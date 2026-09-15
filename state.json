@@ -5633,6 +5633,18 @@
       "company": "KBR, Inc.",
       "source": "linkedin",
       "first_seen": "2026-09-15"
+    },
+    "https://jobicy.com/jobs/153342-sales-engineer-commercial": {
+      "title": "Sales Engineer, Commercial",
+      "company": "Socket",
+      "source": "jobicy",
+      "first_seen": "2026-09-15"
+    },
+    "https://jobicy.com/jobs/153341-forward-deployed-engineer-python": {
+      "title": "Forward Deployed Engineer, Python",
+      "company": "Socket",
+      "source": "jobicy",
+      "first_seen": "2026-09-15"
     }
   },
   "applied": {
