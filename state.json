@@ -5675,6 +5675,78 @@
       "company": "Halliburton",
       "source": "linkedin",
       "first_seen": "2026-09-16"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-ecec-east-consulting-engineering-company-4467992208": {
+      "title": "Safety Engineer",
+      "company": "ECEC East Consulting Engineering Company",
+      "source": "linkedin",
+      "first_seen": "2026-09-16"
+    },
+    "https://iq.linkedin.com/jobs/view/area-authority-aad-at-kbr-inc-4464644536": {
+      "title": "Area Authority (AAD)",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153371-director-of-product-aml-digital-asset-compliance": {
+      "title": "Director of Product, AML & Digital Asset Compliance",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153369-director-of-aml-virtual-asset-compliance": {
+      "title": "Director of AML & Virtual Asset Compliance",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153373-financial-analyst-entry-level": {
+      "title": "Financial Analyst (Entry-Level)",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153376-public-facing-security-researcher": {
+      "title": "Public Facing Security Researcher",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153363-binance-accelerator-program-marketing-bd-operations": {
+      "title": "Binance Accelerator Program - Marketing BD Operations",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153410-vigilant-it-security-manager-portugal-poland": {
+      "title": "Vigilant IT Security Manager - Portugal/Poland",
+      "company": "Laminar Projects",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153417-senior-infrastructure-engineer-core-systems": {
+      "title": "Senior Infrastructure Engineer, Core Systems",
+      "company": "QuickNode",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153432-senior-full-stack-software-engineer-2": {
+      "title": "Senior Full Stack Software Engineer",
+      "company": "LivePerson",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://ae.linkedin.com/jobs/view/ot-ics-cybersecurity-automation-specialist-1-year-contract-at-enoc-4467979611": {
+      "title": "OT/ICS Cybersecurity & Automation Specialist ( 1 year contract)",
+      "company": "ENOC",
+      "source": "linkedin",
+      "first_seen": "2026-09-16"
+    },
+    "https://sa.linkedin.com/jobs/view/ot-cybersecurity-engineer-at-aiqu-4466854903": {
+      "title": "OT Cybersecurity Engineer",
+      "company": "AIQU",
+      "source": "linkedin",
+      "first_seen": "2026-09-16"
     }
   },
   "applied": {
