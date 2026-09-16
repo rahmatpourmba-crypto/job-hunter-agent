@@ -5663,6 +5663,18 @@
       "company": "J10 Consulting",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-16"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-engineer-at-parsons-corporation-4468204173": {
+      "title": "HSE Officer / Engineer",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-16"
+    },
+    "https://iq.linkedin.com/jobs/view/surface-facilities-project-supervisor-at-halliburton-4466553837": {
+      "title": "Surface Facilities Project Supervisor",
+      "company": "Halliburton",
+      "source": "linkedin",
+      "first_seen": "2026-09-16"
     }
   },
   "applied": {
