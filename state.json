@@ -5753,6 +5753,24 @@
       "company": "MaintainX",
       "source": "jobicy",
       "first_seen": "2026-09-16"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-wsp-in-the-middle-east-4465561072": {
+      "title": "HSE Engineer (Saudi national)",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153461-senior-manager-ai-engineering-2": {
+      "title": "Senior Manager, AI Engineering",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
+    },
+    "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms": {
+      "title": "Senior DevOps Engineer - Storage Platforms",
+      "company": "Five9",
+      "source": "jobicy",
+      "first_seen": "2026-09-16"
     }
   },
   "applied": {
