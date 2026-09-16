@@ -5651,6 +5651,18 @@
       "company": "KBR",
       "source": "gulftalent_iraq",
       "first_seen": "2026-09-16"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-at-green-line-electromechanical-l-l-c-4465950498": {
+      "title": "Safety Engineer",
+      "company": "Green Line Electromechanical L.L.C.",
+      "source": "linkedin",
+      "first_seen": "2026-09-16"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer-adosh-approved-633834": {
+      "title": "HSE Officer (ADOSH Approved)",
+      "company": "J10 Consulting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-16"
     }
   },
   "applied": {
