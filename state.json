@@ -5831,6 +5831,18 @@
       "company": "Confidential",
       "source": "linkedin",
       "first_seen": "2026-09-17"
+    },
+    "https://jobicy.com/jobs/153534-senior-software-engineer-workflow": {
+      "title": "Senior Software Engineer - Workflow",
+      "company": "Cloudbeds",
+      "source": "jobicy",
+      "first_seen": "2026-09-17"
+    },
+    "https://jobicy.com/jobs/153535-senior-software-architect-c-angular-ai-first-govtech-saas-company": {
+      "title": "Senior Software Architect (C#/Angular/AI First) - GovTech SaaS company",
+      "company": "Truelogic",
+      "source": "jobicy",
+      "first_seen": "2026-09-17"
     }
   },
   "applied": {
