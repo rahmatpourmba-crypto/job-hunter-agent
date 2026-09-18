@@ -216,6 +216,37 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Senior Blockchain Engineer",
+    "company": "Cari Network",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4469246859",
+    "description": "Remote (U.S.) — Full Time The Cari Network is building a blockchain-based payment system powering real-time, 24/7 movement of digital money across the traditional finance and digital asset ecosystems. A pre-launch startup, we’re creating an entirely new category of financial infrastructure that brings cash on chain through tokenization while powering the full spectrum of payments for our network—banks, digital asset exchanges, and, most importantly, the customers they serve. About The Role You'll own the systems that take a payment instruction and turn it into an immutable, on-chain record—as the trusted technical decision-maker for that domain. That means designing and extending the integration layer between our backend services and our institutional custody platform, and being accountable for transaction integrity from calldata construction through on-chain finality on our private ZKsync-based L2. You'll also own significant parts of our smart contract suite, maintaining upgrade safety, on-chain event integrity, and audit trails that satisfy the compliance and evidentiary requirements of regulated bank partners. What You'll Do Own the end-to-end transaction lifecycle as a domain: calldata construction, custody platform signing requests, nonce management, L2 submission, and finality confirmation Design the signing pipeline architecture — parallelization strategies, throughput management against custody platform rate limits, and async transaction submission patterns — and write the RFCs other engineers build against Define what production-ready means for the signing pipeline: alerting thresholds, runbooks, and SLOs, and lead incident response and root-causing when it falls short Build and maintain payment integrity controls: commitment hash verification at pipeline handoff points and co-signer policy evaluation to prevent tampering between transaction origination and on-chain execution Extend and harden our Solidity smart contracts with a focus on upgrade safety, storage layout discipline, and role governance Develop and maintain the custody platform authorization policy integration and co-signer agent for custodian-owned transaction authorization Implement structured audit trails from transaction origination through on-chain execution, satisfying evidentiary requirements for bank partners under regulatory oversight Drive the design of the async transaction queue, enabling tiered SLAs and per-bank throughput quotas at scale Mentor engineers earlier in their blockchain careers, and be the team's go-to for EVM transaction mechanics and custody integration questions Push back on scope or timeline with technical reasoning when a proposed change puts pipeline correctness at risk Qualifications 5–7 years of backend software engineering experience, with at least 3 years working directly on EVM-compatible blockchain systems Strong proficiency in TypeScript; experience with Effect (effect.ts) or a comparable functional effect system is highly valued Deep familiarity with EVM transaction mechanics: ABI encoding, nonce management, gas estimation, revert handling, and event decoding Production experience with Solidity smart contract development, including upgradeable proxy patterns (UUPS preferred) and OpenZeppelin contract libraries Experience integrating with institutional custody or key management APIs Understanding of MPC signing infrastructure and the operational model of custodial signing pipelines Strong instincts around financial-grade reliability: idempotency, at-least-once delivery, crash recovery, and reconciliation in async transaction systems Comfortable owning a domain independently and writing design docs that other engineers act on without you in the room Nice to Haves Experience with ZKsync or ZK Stack-based chains — particularly developer-facing constraints like calldata handling, system contract interactions, and AA transaction formats Familiarity with Kafka or message-queue-backed async signing pipelines Prior work in fintech, payments, or any regulated financial infrastructure environment Experience building or operating blockchain event indexers or transaction monitors Foundry proficiency (forge test, forge fmt, Foundry Upgrades for storage layout validation) Experience mentoring junior engineers What We Offer Competitive compensation: salary, bonus, and equity Full medical, vision, dental benefits 401(k) with matching program Flexible vacation policy (PTO) and remote-first work environment Interested in this role? Send us your resume. ‹ Blockchain Engineer",
+    "published": "",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 12,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "defi",
+      "token",
+      "audit",
+      "foundry",
+      "evm"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Director of Product, AML & Digital Asset Compliance",
     "company": "CertiK",
@@ -643,29 +674,6 @@
     "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Head of Security Engineering",
-    "company": "BetterHelp",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/153174-head-of-security-engineering",
-    "description": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of over 30,000 licensed therapists has helped millions of people take ownership of their mental health and change their lives forever. And we’re not stopping there – as the unmet need for mental health services continues to grow, BetterHelp is committed to being part of the solution. As the Head of Security at BetterHelp, you’ll join a diverse team of licensed clinicians, engineers, product pros, creatives, marketers, and business leaders who share a passion for expanding access to therapy. And as a mental health company, we take employee mental health just as seriously as we do our mission. We deeply invest in our team’s well-being and professional development, because we know that business and individual growth go hand-in-hand. At BetterHelp, you’ll carve your own path, make an immediate impact, and be challenged every day – with a supportive community behind you the whole way. What are we looking for? BetterHelp is seeking a highly technical Head of Security Engineering to lead our security strategy with a strong emphasis on offensive security and attacker mindset. This role will anchor our security organization in a red team–first approach, proactively identifying vulnerabilities and strengthening our defenses before they can be exploited. In addition to leading offensive security, you will provide oversight and strategic direction across Security Operations (blue team) and Application Security, ensuring a cohesive and effective security posture. This is a hands-on leadership role for someone who thrives in fast-moving environments and can balance deep technical work with broader organizational impact. What will you do? Lead BetterHelp’s security engineering strategy, with offensive security as the foundation Operate with a red team / attacker mindset, identifying vulnerabilities across applications, infrastructure, and internal systems Direct and evolve the company’s red team capabilities, including penetration testing, code review, and vulnerability discovery Provide oversight and guidance across: Partner closely with Engineering to embed security into the software development lifecycle (SDLC) Strengthen processes around vulnerability management, detection, and response Build and improve offensive security tooling and capabilities, complementing external programs like Bugcrowd Help reduce technical debt and improve system resilience through proactive security practices Identify and address emerging threats, including AI security risks Mentor and guide a strong team, setting a high bar for technical rigor and impact What will you NOT do? You will NOT worry about \"runway\", \"cash left\", or \"how much time we have until the next round\". We have the startup DNA but we're fully backed and funded, all the way to success. You will NOT be confined to your \"job\". You will get involved in product, marketing, business strategy, and almost everything we do. You will NOT be bogged down by office politics, ego, or bad attitude. Only positive, pleasure-to-work-with people are allowed here! You will NOT get yourself burned out. We work hard but we believe in maintaining a sustainable work/life balance. Really. Can I work remotely? Yes. We operate on PST and candidates in any time zone are welcome to apply. We ask employees to travel to our San Jose, CA office up to three times per year plus one company-wide offsite to collaborate in person and strengthen working relationships. Travel expenses are covered and reasonable accommodations are made for those under unique circumstances who cannot travel. Requirements 5+ years of security leadership experience 10+ years of experience in security engineering Strong background in offensive security (red team, penetration testing, or bug bounty) Deep understanding of how modern systems are attacked, and how to defend against them Experience working across or leading Red team, Blue team / SecOps, or Application Security Experience setting strategy, managing roadmaps, and delivering measurable security outcomes across multiple teams. Ability to operate both strategically and hands-on Experience working in fast-paced environments with frequent releases Strong communication skills with both technical and non-technical stakeholders Benefits Remote work with regular in-person bonding experiences sponsored by the company Competitive compensation Holistic perks program (including free therapy, employee wellness, and more) Excellent health, dental, and vision coverage 401k benefits with employer matching contribution The chance to build something that changes lives – and that people love Any piece of hardware or software that will make you happy and productive An awesome community of co-workers Bonus (Great to have, but not required) Experience with AI/ML security or emerging attack vectors Experience working with PHI/PII Experience operating in environments with high regulatory, privacy, or customer trust requirements. Experience building and operating security programs for large-scale cloud, distributed systems, or consumer platforms. Experience partnering with GRC teams The base salary range for this position is $250,000 - $300,000. In addition to the base salary, this position is eligible for a performance bonus and the extensive benefits listed here (subject to eligibility requirements): Teladoc Health Benefits 2025 . Total compensation is based on several factors – including, but not limited to, type of position, location, education level, work experience, and certifications. This information is applicable to all full-time positions. At BetterHelp we thrive on difference and individuality, and as part of the Teladoc Health family, we are proud to be an Equal Opportunity Employer. We never have and never will discriminate against any job candidate or employee due to age, race, ethnicity, religion, sex, color, national origin, gender, gender identity, sexual orientation, medical condition, marital status, parental status, disability, or Veteran status. Notice to Candidates: BetterHelp has been made aware of fraudulent job postings and unaffiliated third parties posing as our recruiting team – please know that we have no affiliation or connection to these situations. We only post open roles on our career page ( betterhelp.com/careers ) or reputable job boards like our official LinkedIn or Indeed pages, and all official BetterHelp recruitment emails will come from the domain @ betterhelp.com . Our commitment is to ensure a safe and transparent hiring experience for all candidates. We will never ask you for money, gift cards, or any form of payment during our hiring process, and we will never send money or checks to candidates. If you experience this, it is a scam. Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of over 30,000…",
-    "published": "2026-09-13",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 250000,
-    "salary_max": 300000,
-    "score": 7,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$250,000-$300,000",
     "emails": [],
     "phones": []
   }
