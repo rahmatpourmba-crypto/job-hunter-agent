@@ -5873,6 +5873,18 @@
       "company": "Cari Network",
       "source": "linkedin",
       "first_seen": "2026-09-18"
+    },
+    "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer": {
+      "title": "Hex Technologies: Cloud Security Engineer",
+      "company": "Hex Technologies",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-19"
+    },
+    "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer": {
+      "title": "CircleCI: Security Operations Engineer",
+      "company": "CircleCI",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-19"
     }
   },
   "applied": {
