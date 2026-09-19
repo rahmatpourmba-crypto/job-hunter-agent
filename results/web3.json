@@ -410,6 +410,34 @@
   },
   {
     "source": "jobicy",
+    "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+    "company": "Binance",
+    "location": "Europe,  UAE",
+    "url": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote",
+    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. About the Role We are looking for a Senior DevOps Engineer to build and operate highly available, scalable, and secure cloud infrastructure supporting blockchain services and distributed systems. You will be responsible for designing cloud-native platforms, automating infrastructure, improving system reliability, and collaborating with engineering teams to deliver production-grade services across multiple cloud providers. This role is ideal for someone who enjoys solving infrastructure challenges at scale, has strong software engineering fundamentals, and is passionate about automation and platform engineering. Responsibilities Design, build, and maintain highly available cloud infrastructure across AWS, GCP, and Azure. Operate and optimize Kubernetes clusters in production environments. Manage cluster autoscaling and capacity planning using Karpenter and Kubernetes native technologies. Build and maintain Infrastructure as Code (IaC) using Terraform. Design and improve CI/CD pipelines for application and infrastructure deployment. Deploy and operate middleware platforms such as Kafka, Redis and NGINX. Automate operational tasks using Golang and Python. Improve observability through monitoring, logging, alerting, and distributed tracing. Ensure platform reliability, scalability, security, and disaster recovery. Troubleshoot production incidents and perform root cause analysis. Work closely with software engineers to improve deployment processes and platform developer experience. Participate in on-call rotations and incident response. Requirements 3+ years of experience as a DevOps Engineer, Platform Engineer, SRE, or Infrastructure Engineer. Strong experience with at least one major cloud platform: AWS / GCP / Azure Hands-on experience managing Kubernetes production environments. Experience with Karpenter for Kubernetes autoscaling and node lifecycle management. Strong experience with Terraform for infrastructure automation. Experience administering Linux systems and networking fundamentals. Experience operating middleware technologies such as: Kafka / Redis / NGINX Strong scripting and programming skills in: Golang / Python Experience with Git, GitOps workflows, and CI/CD platforms. Strong understanding of observability tools such as Prometheus, OpenTelemetry. Familiarity with container technologies including Docker and Kubernetes. Strong troubleshooting and problem-solving skills. Preferred Qualifications Experience operating blockchain infrastructure or Web3 platforms. Experience deploying and managing blockchain nodes (Ethereum, Bitcoin, Solana, Cosmos, or other Layer 1/Layer 2 networks). Familiarity with blockchain RPC services, validators, indexing services, or distributed consensus systems. Experience with Argo CD, Helm, Helmfile, or Flux. Experience with multi-region and multi-cloud deployments. Knowledge of cloud security best practices, IAM, networking, and secrets management. Experience with service mesh technologies such as Istio or Linkerd. Familiarity with message queues, distributed caching, and high-throughput systems. Experience with performance tuning and capacity planning for large-scale distributed systems. Nice to Have Experience in cryptocurrency exchanges or blockchain infrastructure providers. Experience operating multi-region, multi-cloud production environments. Knowledge of RPC infrastructure, distributed databases, or high-performance networking. Familiarity with security and compliance best practices (IAM, WAF, Vault, KMS, etc.). Experience contributing to open-source projects Compensation Additional Information Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice . Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance…",
+    "published": "2026-09-19",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 9,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "web3",
+      "ethereum",
+      "crypto",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
     "title": "Public Facing Security Researcher",
     "company": "CertiK",
     "location": "USA",
@@ -641,34 +669,6 @@
     "emails": [
       "Recruiting@Tenable.com"
     ],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Binance Accelerator Program - Brand Partnerships",
-    "company": "Binance",
-    "location": "APAC",
-    "url": "https://jobicy.com/jobs/153018-binance-accelerator-program-brand-partnerships",
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means. About Binance Accelerator Program Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program HERE . Who may apply Current university students and recent graduates. *Terms of employment / engagement shall be subject to contract and local applicable laws Responsibilities: Identify and evaluate partners who share our vision Negotiate brand partnerships to achieve business goals Build and execute partnership strategies and activation plans Work with cross-functional teams (brand, comms, insights, design, content, data, product, social media, legal) to plan annual strategy (goals, budget, channels, product-market fit) Use data to set goals and measure campaign performance (short-term and long-term) Manage global budgets and improve ROI Share market insights and industry knowledge Support regional and local teams to improve marketing execution Lead complex projects from start to finish Be proactive, resourceful, and action-driven Requirements: Experience in brand, marketing, and campaign/event execution Strong project management, strategy, relationship-building, and storytelling skills Experience working with global partners, internal teams, and agencies Strong understanding of brand positioning and partnership value Creative and data-driven mindset Clear and concise communication skills Bilingual English/Mandarin is required to be able to coordinate with overseas partners and stakeholders Experience or strong understanding of crypto/Web3 (NFTs, fan tokens) is a plus Comfortable working in a fast-paced environment High curiosity and willingness to learn Compensation Additional Information Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice . Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance…",
-    "published": "2026-09-11",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 8,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "web3",
-      "crypto",
-      "token",
-      "security",
-      "nft"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
     "phones": []
   }
 ]
