@@ -5975,6 +5975,18 @@
       "company": "LivePerson",
       "source": "jobicy",
       "first_seen": "2026-09-20"
+    },
+    "https://iq.linkedin.com/jobs/view/environment-health-and-safety-manager-at-erbil-rotana-4467330984": {
+      "title": "Environment, Health and Safety Manager",
+      "company": "Erbil Rotana",
+      "source": "linkedin",
+      "first_seen": "2026-09-20"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-pharma-q-4468475074": {
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "Pharma Q",
+      "source": "linkedin",
+      "first_seen": "2026-09-20"
     }
   },
   "applied": {
