@@ -5927,6 +5927,54 @@
       "company": "TASC Outsourcing",
       "source": "linkedin",
       "first_seen": "2026-09-20"
+    },
+    "https://jobicy.com/jobs/153718-security-engineering-manager": {
+      "title": "Security Engineering Manager",
+      "company": "SkySlope",
+      "source": "jobicy",
+      "first_seen": "2026-09-20"
+    },
+    "https://jobicy.com/jobs/153700-senior-security-engineer-incident-response": {
+      "title": "Senior Security Engineer, Incident Response",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-09-20"
+    },
+    "https://jobicy.com/jobs/153750-senior-security-technical-account-manager": {
+      "title": "Senior Security Technical Account Manager",
+      "company": "Fastly",
+      "source": "jobicy",
+      "first_seen": "2026-09-20"
+    },
+    "https://jobicy.com/jobs/153707-senior-net-developer-saas-manager": {
+      "title": "Senior .NET Developer, SaaS Manager",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-09-20"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-tazaj-fakieh-bar-b-q-chicken-4469814227": {
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "TAZAJ - FAKIEH BAR B. Q. CHICKEN",
+      "source": "linkedin",
+      "first_seen": "2026-09-20"
+    },
+    "https://jobicy.com/jobs/153752-senior-software-engineer-edge-security": {
+      "title": "Senior Software Engineer, Edge Security",
+      "company": "Fastly",
+      "source": "jobicy",
+      "first_seen": "2026-09-20"
+    },
+    "https://jobicy.com/jobs/153709-security-engineer-insider-threat-detection-response": {
+      "title": "Security Engineer, Insider Threat Detection & Response",
+      "company": "OpenAI",
+      "source": "jobicy",
+      "first_seen": "2026-09-20"
+    },
+    "https://jobicy.com/jobs/153692-senior-software-engineer-data-platform-services": {
+      "title": "Senior Software Engineer, Data & Platform Services",
+      "company": "LivePerson",
+      "source": "jobicy",
+      "first_seen": "2026-09-20"
     }
   },
   "applied": {
