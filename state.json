@@ -6017,6 +6017,30 @@
       "company": "Oddball",
       "source": "jobicy",
       "first_seen": "2026-09-21"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4467619315": {
+      "title": "HSE Engineer - Chinese Speaker",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-09-21"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-at-green-line-electromechanical-l-l-c-4467366229": {
+      "title": "Safety Engineer",
+      "company": "Green Line Electromechanical L.L.C.",
+      "source": "linkedin",
+      "first_seen": "2026-09-21"
+    },
+    "https://ae.linkedin.com/jobs/view/engineer-hse-at-adnoc-distribution-4469861878": {
+      "title": "Engineer, HSE",
+      "company": "ADNOC Distribution",
+      "source": "linkedin",
+      "first_seen": "2026-09-21"
+    },
+    "https://sa.linkedin.com/jobs/view/internal-auditor-risk-regulatory-assurance-at-lean-technologies-4469170287": {
+      "title": "Internal Auditor - Risk & Regulatory Assurance",
+      "company": "Lean Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-09-21"
     }
   },
   "applied": {
@@ -6740,6 +6764,13 @@
       "to": "info@wood.com",
       "title": "PMC HSE Engineer",
       "company": "Wood"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4467619315::email": {
+      "date": "2026-09-21 19:04",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "HSE Engineer - Chinese Speaker",
+      "company": "Wood"
     }
   },
   "sent": {
@@ -7142,6 +7173,11 @@
       "kind": "email",
       "to": "info@wood.com",
       "date": "2026-09-14 11:37"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4467619315": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-09-21 19:04"
     }
   },
   "replies": []
