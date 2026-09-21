@@ -156,6 +156,38 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Smart Contract Engineer",
+    "company": "X-Team",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-x-team-4462006075",
+    "description": "This role is a full-time engagement with the client, fully remote. Open to LATAM, USA & Canada. The Mission Help build and scale the secure on-chain infrastructure powering the next generation of open finance. In this role, you’ll design, implement, and battle-test critical smart contracts that manage significant TVL and capital-efficient primitives. This isn't about deploying speculative tokens; it’s about constructing highly resilient, mathematical, and adversarial-resistant software that remains upgradeable, cost-efficient, and bulletproof over time. The Role As a core protocol contributor, you will take deep ownership of smart contract architecture from initial mathematical modeling and design through to mainnet deployment, external audit facilitation, and live monitoring. • Protocol Architecture (40%): Design and implement secure, gas-optimized Solidity smart contracts for lending, borrowing, vaults, yield routing, liquidations, and access control. • Testing & Simulation (30%): Write extensive unit, integration, fork, fuzz, and invariant tests utilizing modern frameworks to ensure zero-day resiliency. • Security & Audits (15%): Prepare codebases for top-tier external audits, remediate findings, and design proactive on-chain risk mitigation/monitoring strategies. • Cross-Functional Integration (15%): Collaborate closely with risk, frontend, indexer, and quantitative engineering teams to build seamless, secure end-to-end dApps. The Must-Haves • Experience: 4+ years of professional software engineering experience, with at least 2+ years writing, deploying, and maintaining highly secure Solidity smart contracts in production.. • Tooling & Frameworks: Expert-level mastery of Foundry (Forge, Cast) including advanced fuzzing, invariant testing, and mainnet fork simulations. • EVM Deep Dive: Thorough understanding of EVM internals, storage layouts, gas optimization strategies, assembly (Yul), and standard proxy/upgradeability patterns. • DeFi Primitives: Practical, working knowledge of core financial primitives (such as ERC-20/4626/721/1155, AMMs, lending pools, oracles, and liquidation engines). • AI-Assisted Acceleration: Comfort using modern AI coding tools (e.g., Cursor, Claude, Copilot) to accelerate unit testing, documentation, and boilerplate development, backed by the critical judgment required never to trust raw model outputs blindly. • Security Mindset: An obsessive awareness of common attack vectors (reentrancy, oracle manipulation, front-running, rounding errors, and access-control flaws). The Bonus Skills • Audit Pedigree: Prior experience guiding a protocol through a major external audit (e.g., Trail of Bits, OpenZeppelin, Spearbit) or participating in competitive security audits. • Multi-Chain/SVM: Exposure to Rust-based smart contract environments (SVM/Solana, CosmWasm) or zero-knowledge (ZK) rollup architectures. • Advanced Automation: Familiarity with off-chain automation infrastructure like Keepers, Defender, or Gelato. Personal Traits • Adversarial Thinker: You don't just think about how code should work; you instinctively try to find ways to break, front-run, or exploit the state machine you are building.. • Execution & Ownership: You act as an owner, not a ticket executor. You proactively trace edge cases, optimize gas, and address technical debt before it is flagged.. • Detail-Obsessed: You care about the nuance of a single uint256 math operation and understand why rounding down vs. up is a security-critical decision.. • Collaborative & Clear: You can distill complex cryptographic or financial system logic into clear documentation and explain architectural tradeoffs to non-smart contract engineers.. Location: Remote (with meaningful overlap with US/EU working hours)",
+    "published": "2026-09-01",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 14,
+    "title_hits": [
+      "smart contract"
+    ],
+    "desc_hits": [
+      "solidity",
+      "defi",
+      "crypto",
+      "token",
+      "audit",
+      "security",
+      "foundry",
+      "dapp"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Blockchain Security Expert - AI Track",
     "company": "CertiK",
@@ -641,33 +673,6 @@
     "salary_str": "$144,000-$400,000",
     "emails": [
       "nextbit@agilebits.com"
-    ],
-    "phones": []
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Huntress: Manager, Security Operations Center - EMEA",
-    "company": "Huntress",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
-    "description": "Headquarters: Remote Ireland Reports to: Director, Security Operations Center Location: Remote Ireland Compensation Range: €115,200 to €133,000 base plus bonus and equity What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That’s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it, ensuring our customers' protection. Huntress now secures more than 5M endpoints and 14M identities worldwide. Those numbers keep growing because more businesses rely on us to help carry the load and operate with more confidence. Every day, you can see that commitment in how we stand with our customers and how we show up for each other. What You’ll Do: The Huntress Security Operations Center is a global team of security analysts dedicated to investigating and responding to incidents on our partners’ networks 24/7, 365 days a year. Daily activities consist of providing investigation, containment, and response actions across millions of endpoints. This role is accountable for defining and streamlining processes, workflows, and playbooks that enable effective day-to-day operations. As Huntress continues to grow, we are laser-focused on scaling our operations and force-multiplying our human analysts by 10X. This position is responsible for enabling analysts to meet our mission and achieve internal Service Level Objectives for response times. The Security Operations Manager will work with their peer regional managers to ensure consistent global operations while providing our analyst team with training opportunities and career growth. Responsibilities: Design, implement, and enforce internal processes to reduce burnout and increase the productivity of the operations center against a global set of expectations and standards Manage and enforce local/global shift coverage to ensure 24/7 operations are maintained 365 days a year Meet with analysts in a 1:1 setting weekly to socialize focus initiatives, gather feedback, provide feedback, and enable analysts to progress rapidly in their career Contribute to the development and implementation of analyst training programs designed to streamline onboarding and advance analyst skill sets in Digital Forensics, Incident Response, Malware Analysis, Detection Engineering, Threat Hunting, and Automation Work with the Product organizations to prioritize the creation of new capabilities designed to augment and force multiple analyst capabilities Maintain accountability for routine quality assurance for your designated region Engage with our Support organization to create streamlined workflows for partner/customer requests that need Security Operations Center analysis Strengthen and mature our existing processes and relationships with our Tactical Response, Threat Hunting, and Detection Engineering teams within the Security organization Provide one level of technical leadership for analysts of the Security Operations Center analysts Ensure team members fully understand the goals and objectives of Huntress’ mission and how their work fits into the bigger picture Provide key input and guidance to company stakeholders such as Marketing, Sales, Support, and Product Develop, track, and report on Objectives and Key Results linked to Security Operations Center focus initiatives Help operationalize new technologies and services that Huntress brings to market Participate in public speaking engagements in both webinar and in-person formats What You Bring To The Team: Experience in leading diverse cybersecurity teams with various skills. These teams work in Security Operations, Digital Forensics, Incident Response, Malware Analysis, Threat Hunting, and Detection Engineering 5+ years of Security Analyst experience working in a global 24x7 security operations center with a focus on Windows forensics 2+ year of team lead or managerial experience in a global operations center or Incident Response role. Preferably within a MSSP, MDR provider, or Incident Response service. Actively engaged in the information security community by attending conferences or contributing to conversations/projects in the public domain Continually learning and staying up to date on the latest threat actor tradecraft, detection techniques, and security operations concepts Ability to identify workflows being performed and create detailed process diagrams and operating procedures Effective communicator of highly technical concepts to stakeholders of varying technical backgrounds Demonstrated experience leading initiatives or projects that required delegation and accountability to achieve success Data-driven approach with experience in Data Science concepts What We Offer: 100% remote work environment - since our founding in 2015 New starter home office set-up allowance (€480) Generous personal leave entitlements Digital monthly reimbursement (€111) Travel to the US 1-2 times/year for various company events Pension Access to the BetterUp platform for coaching, personal, and professional growth Huntress is committed to creating a culture of inclusivity where every single member of our team is valued, has a voice, and is empowered to come to work every day just as they are. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, disability, veteran status, genetic information, marital status, or any other legally protected status. We do discriminate against hackers who try to exploit businesses of all sizes. Accommodations: If you require reasonable accommodation to complete this application, interview, or pre-employment testing or participate in the employee selection process, please direct your inquiries to accommodations@huntresslabs.com . Please note that non-accommodation requests to this inbox will not receive a response. Huntress uses artificial intelligence tools to assist in reviewing and evaluating job applications, including resume screening, skills assessment, and candidate matching and comparisons. These AI tools support our human recruiters in the initial review process, but do not make final hiring decisions without human involvement. By submitting your application, you acknowledge this use of AI in our recruitment process. Please review our Candidate Privacy Notice for more details on our practices and your data privacy rights. To apply: https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
-    "published": "Sun, 30 Aug 2026",
-    "remote": true,
-    "currency": null,
-    "salary_min": 115200,
-    "salary_max": 1332000,
-    "score": 8,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [
-      "defi"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$115,200-$1,332,000",
-    "emails": [
-      "accommodations@huntresslabs.com"
     ],
     "phones": []
   }
