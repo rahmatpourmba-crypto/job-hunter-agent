@@ -6089,6 +6089,30 @@
       "company": "CTS Group",
       "source": "linkedin",
       "first_seen": "2026-09-22"
+    },
+    "https://jobicy.com/jobs/153866-security-and-infrastructure-engineer": {
+      "title": "Security and Infrastructure Engineer",
+      "company": "Ada",
+      "source": "jobicy",
+      "first_seen": "2026-09-22"
+    },
+    "https://jobicy.com/jobs/153861-staff-product-security-engineer-security": {
+      "title": "Staff Product Security Engineer (Security)",
+      "company": "Phantom",
+      "source": "jobicy",
+      "first_seen": "2026-09-22"
+    },
+    "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform": {
+      "title": "Software Engineer, Frontend / Full Stack (Identity Platform)",
+      "company": "Phantom",
+      "source": "jobicy",
+      "first_seen": "2026-09-22"
+    },
+    "https://jobicy.com/jobs/153852-lead-site-reliability-engineer": {
+      "title": "Lead Site Reliability Engineer",
+      "company": "Mattermost",
+      "source": "jobicy",
+      "first_seen": "2026-09-22"
     }
   },
   "applied": {
