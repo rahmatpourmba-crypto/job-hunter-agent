@@ -6113,6 +6113,24 @@
       "company": "Mattermost",
       "source": "jobicy",
       "first_seen": "2026-09-22"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-hse-engineer-at-astek-middle-east-4468936207": {
+      "title": "Senior HSE Engineer",
+      "company": "Astek Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-09-22"
+    },
+    "https://ae.linkedin.com/jobs/view/pmc-lead-hse-at-wood-4468547682": {
+      "title": "PMC Lead HSE",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-09-22"
+    },
+    "https://jobicy.com/jobs/153893-senior-security-engineer-bug-bounty": {
+      "title": "Senior Security Engineer, Bug Bounty",
+      "company": "Mozilla",
+      "source": "jobicy",
+      "first_seen": "2026-09-22"
     }
   },
   "applied": {
@@ -6864,6 +6882,13 @@
       "to": "https://www.zoominfo.com/contact",
       "title": "ZoomInfo Technologies LLC: Principal Cloud Architect",
       "company": "ZoomInfo Technologies LLC"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-hse-engineer-at-astek-middle-east-4468936207::email": {
+      "date": "2026-09-22 20:22",
+      "via": "email",
+      "to": "info@astek.com",
+      "title": "Senior HSE Engineer",
+      "company": "Astek Middle East"
     }
   },
   "sent": {
@@ -7286,6 +7311,11 @@
       "kind": "contact_form",
       "to": "zoominfo.com",
       "date": "2026-09-22 12:22"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-hse-engineer-at-astek-middle-east-4468936207": {
+      "kind": "email",
+      "to": "info@astek.com",
+      "date": "2026-09-22 20:22"
     }
   },
   "replies": []
