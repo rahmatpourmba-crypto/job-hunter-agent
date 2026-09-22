@@ -6083,6 +6083,12 @@
       "company": "Protiviti Middle East Member Firm",
       "source": "linkedin",
       "first_seen": "2026-09-22"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-country-manager-riyadh-sa-at-cts-group-4470291607": {
+      "title": "HSE Country Manager - Riyadh SA",
+      "company": "CTS Group",
+      "source": "linkedin",
+      "first_seen": "2026-09-22"
     }
   },
   "applied": {
@@ -6820,6 +6826,20 @@
       "to": "comms@global.com",
       "title": "HSE Engineer",
       "company": "Dorsch Global"
+    },
+    "https://weworkremotely.com/remote-jobs/huntress-security-operations-analyst::email": {
+      "date": "2026-09-22 12:22",
+      "via": "email",
+      "to": "accommodations@huntresslabs.com",
+      "title": "Huntress: Security Operations Analyst",
+      "company": "Huntress"
+    },
+    "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect::contact_form": {
+      "date": "2026-09-22 12:22",
+      "via": "contact_form",
+      "to": "https://www.zoominfo.com/contact",
+      "title": "ZoomInfo Technologies LLC: Principal Cloud Architect",
+      "company": "ZoomInfo Technologies LLC"
     }
   },
   "sent": {
@@ -7232,6 +7252,16 @@
       "kind": "email",
       "to": "comms@global.com",
       "date": "2026-09-22 01:26"
+    },
+    "https://weworkremotely.com/remote-jobs/huntress-security-operations-analyst": {
+      "kind": "email",
+      "to": "accommodations@huntresslabs.com",
+      "date": "2026-09-22 12:22"
+    },
+    "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect": {
+      "kind": "contact_form",
+      "to": "zoominfo.com",
+      "date": "2026-09-22 12:22"
     }
   },
   "replies": []
