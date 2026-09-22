@@ -6065,6 +6065,12 @@
       "company": "OpenAI",
       "source": "jobicy",
       "first_seen": "2026-09-21"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-engineer-at-dorsch-global-4468180567": {
+      "title": "HSE Engineer",
+      "company": "Dorsch Global",
+      "source": "linkedin",
+      "first_seen": "2026-09-22"
     }
   },
   "applied": {
@@ -6795,6 +6801,13 @@
       "to": "info@wood.com",
       "title": "HSE Engineer - Chinese Speaker",
       "company": "Wood"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-engineer-at-dorsch-global-4468180567::email": {
+      "date": "2026-09-22 01:26",
+      "via": "email",
+      "to": "comms@global.com",
+      "title": "HSE Engineer",
+      "company": "Dorsch Global"
     }
   },
   "sent": {
@@ -7202,6 +7215,11 @@
       "kind": "email",
       "to": "info@wood.com",
       "date": "2026-09-21 19:04"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-engineer-at-dorsch-global-4468180567": {
+      "kind": "email",
+      "to": "comms@global.com",
+      "date": "2026-09-22 01:26"
     }
   },
   "replies": []
