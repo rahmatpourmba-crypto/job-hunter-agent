@@ -6143,6 +6143,36 @@
       "company": "Target Engineering Construction Co LLC",
       "source": "linkedin",
       "first_seen": "2026-09-23"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer-638913": {
+      "title": "HSE Officer",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-23"
+    },
+    "https://weworkremotely.com/remote-jobs/glean-application-security-engineer": {
+      "title": "Glean: Application Security Engineer",
+      "company": "Glean",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-23"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-aml-crypto-officer-at-jobgether-4469428933": {
+      "title": "Senior AML & Crypto Officer",
+      "company": "Jobgether",
+      "source": "linkedin",
+      "first_seen": "2026-09-23"
+    },
+    "https://www.gulftalent.com/uae/jobs/finance-manager-crypto-fintech-638917": {
+      "title": "Finance Manager - Crypto\\Fintech",
+      "company": "Propel Consult",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-23"
+    },
+    "https://www.gulftalent.com/uae/jobs/head-of-internal-audit-uae-national-638257": {
+      "title": "Head of Internal Audit - UAE National",
+      "company": "Michael Page",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-23"
     }
   },
   "applied": {
