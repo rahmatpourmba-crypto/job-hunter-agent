@@ -6173,6 +6173,24 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-23"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4470987379": {
+      "title": "HSE Manager",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-23"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officers-638928": {
+      "title": "HSE Officers",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-23"
+    },
+    "https://ae.linkedin.com/jobs/view/principal-security-engineer-crypto-digital-assets-at-capital-com-4470964142": {
+      "title": "Principal Security Engineer Crypto Digital Assets",
+      "company": "Capital.com",
+      "source": "linkedin",
+      "first_seen": "2026-09-23"
     }
   },
   "applied": {
