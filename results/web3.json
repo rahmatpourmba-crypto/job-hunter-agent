@@ -34,39 +34,6 @@
   },
   {
     "source": "jobicy",
-    "title": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
-    "company": "CertiK",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/151470-blockchain-security-engineer-solidity-rust-golang",
-    "description": "About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and Hillhouse Capital as well as industry leaders like Coinbase Ventures and Binance. About the Role We are seeking a Junior Blockchain Security Engineer with a strong security mindset and foundational technical expertise across smart contracts, blockchain nodes, and decentralized infrastructure. In this role, you will support Web3 projects by assisting in code audits, contributing to security tools, and conducting research under guidance. If you are eager to grow your career in blockchain security and passionate about securing decentralized technologies, we’d love to hear from you. Responsibilities Audit and review codebases for smart contracts, blockchain protocols, and decentralized applications (dApps) to identify and remediate vulnerabilities. Conduct guided security research, explore new attack vectors, and deliver actionable insights. Contribute to the design, development, and maintenance of internal security tools and frameworks. Support improvements to internal processes, methodologies, and service offerings, ensuring high-quality delivery for clients. Requirements Bachelor’s, Master’s, or PhD in Mathematics, Computer Science, or Information Security. At least 1 years of hands-on experience with blockchain technologies, including: Smart contracts (EVM chains, Solana, Move, etc.), Blockchain protocols (nodes, SDKs, Cosmos, etc.) Experience in threat modeling, risk assessment, and security analysis. Proficiency in one or more programming languages: Rust, Go, Solidity, Python, etc. Passion for Cryptocurrency, DeFi, and Blockchain technologies. Preferred Qualifications Solid academic or practical background in Mathematics, Cryptography, or Cybersecurity. Demonstrated experience conducting audits and collaborating with leading Web3 protocols. Recognized achievements such as published CVEs, or strong placements in Attackathons, Bug Bounties, or Audit Contests. Compensation Additional Information Compensation Target annual salary for this role performed in the US is $102,000 - $180,000. The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates. CertiK accepts applications for this position on an ongoing basis. CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements. https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf All CertiK employees are expected to actively support diversity on their teams, and in the Company. About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects…",
-    "published": "2026-08-24",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 102000,
-    "salary_max": 557000,
-    "score": 20,
-    "title_hits": [
-      "solidity",
-      "blockchain",
-      "security"
-    ],
-    "desc_hits": [
-      "smart contract",
-      "web3",
-      "defi",
-      "crypto",
-      "audit",
-      "dapp",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$102,000-$557,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
     "title": "Blockchain Security Expert - Security Audit Track",
     "company": "CertiK",
     "location": "USA",
@@ -675,6 +642,33 @@
     "salary_str": "$115,200-$1,332,000",
     "emails": [
       "accommodations@huntresslabs.com"
+    ],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Senior Web Security Engineer, Browser Platform",
+    "company": "DuckDuckGo",
+    "location": "Anywhere",
+    "url": "https://jobicy.com/jobs/151281-senior-web-security-engineer-browser-platform",
+    "description": "Who We Are Hi, we're DuckDuckGo , the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and optional AI, including Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our culture of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place! Your Team and Role Working on the Security Functional Team, you'll play a pivotal role in ensuring our security capabilities keep pace with our rapid product development, including our expanding AI offerings like Duck.ai and agentic browsing, directly protecting our users across all our products. You'll also maintain incident detection and response capabilities for the company, and work on related projects. Recent projects include: Browser and sync security audits SERP security mitigations Agentic browser hardening As a Senior Web Security Engineer, Browser Platform , you'll harden our agentic browsing and DuckAI experiences against emerging threats (like prompt injection), conduct browser and sync security audits (special pages, DuckAI integrations, password manager, etc.), execute on SERP security mitigations (XSS prevention, tooling development to help engineers write safer code), build and maintain harnesses that get security fixes out automatically, manage application security scanning infrastructure setup, deliver on internal red-team operations (simulated attack scenarios), support security triage, and more! About You 7+ years of experience in web or application security (performing security assessments, vulnerability research, penetration testing, or secure code review) Recent experience creating security focused agentic harnesses Experience influencing large feature designs to have security baked in from the start Advanced programming or scripting experience with JavaScript. Any additional experience with our stack is a bonus: Swift/Kotlin/C#/JavaScript (native apps) or JavaScript/Perl/Go (search). Experience with at least one WebView technology (WebKit, WebView2, Chromium WebView, etc.) and understanding of browser security models (SOP, CSP, CORS, SameSite cookies) Hands-on experience identifying and exploiting web vulnerabilities (XSS, CSRF, injection attacks, authorization flaws, etc.) Familiarity with security testing tools and frameworks Experience partnering and collaborating with Product Engineers, advising on security matters and helping teams ship secure code faster Experience shaping how an organisation thinks about security - driving best practices, improving processes, and raising the bar across teams Compensation $ 178,500 USD annually and stock options. Compensation is transparent across the organization, and all team members within the same professional level and global region receive the same compensation. Eligibility for company-sponsored health benefits is limited to team members based in the United States. This program does not extend to team members located in other countries, such as Canada or the UK. Our Team Member Support Guide explains how we prioritize your wellbeing including paid parental leave, office setup, and co-working allowances. Hiring Process Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo, envision your future role here, and find out more about how we hire . Diversity, Equity and Inclusion DuckDuckGo provides equal work opportunities to all team members and applicants , and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws. We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to careers@duckduckgo.com to let us know the nature of your request. Please note that: You’ll be required to attend meetings on camera via video conferencing Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend. While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. A successful candidate must pass a background check as a condition of joining the team. By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work. Disclosure Statement: Use of AI in Hiring Process As part of our commitment to enhancing our recruitment process, we utilize artificial intelligence (AI) technology to assist in reviewing and summarizing job applications and test projects, including those tools integrated into our recruitment vendor platforms. We use AI to flag potentially fraudulent applications, analyze and summarize applicants’ experience, interviews, and project performance, and help streamline our selection process. Key Principles: Data Privacy: All information provided in your application will be handled in accordance with our Recruiting Privacy Policy . We ensure that your personal information is protected and used solely for recruitment purposes. Human Oversight and Accountability: The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors. Transparency: We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us. By submitting your application, you acknowledge and consent to the use of AI technology in our review process. If you would like to request an alternative selection process, please contact us as at careers@duckduckgo.com . Thank you for your interest in joining DuckDuckGo! #LI-DNI Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on Mac, Windows, iOS, and Android, our search engine, and the…",
+    "published": "2026-09-21",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 100000,
+    "salary_max": 178500,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$100,000-$178,500",
+    "emails": [
+      "careers@duckduckgo.com"
     ],
     "phones": []
   }
