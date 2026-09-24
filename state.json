@@ -6221,6 +6221,42 @@
       "company": "RTC-1 Employment Services",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-24"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4471445946": {
+      "title": "HSE Engineer",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-24"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4471454581": {
+      "title": "HSE Officer (UAE National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-24"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-site-hse-coordinator-at-fnrco-4471425184": {
+      "title": "HSE Officer / Site HSE Coordinator",
+      "company": "FNRCO",
+      "source": "linkedin",
+      "first_seen": "2026-09-24"
+    },
+    "https://ae.linkedin.com/jobs/view/ehs-consultant-uae-nationals-at-confidential-4469700601": {
+      "title": "EHS Consultant (UAE Nationals)",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-09-24"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-manager-saudi-national-at-parsons-corporation-4471459197": {
+      "title": "Health & Safety Manager (Saudi National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-24"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4471454062": {
+      "title": "Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-09-24"
     }
   },
   "applied": {
