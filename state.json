@@ -6257,6 +6257,48 @@
       "company": "Cari Network",
       "source": "linkedin",
       "first_seen": "2026-09-24"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4469147150": {
+      "title": "HSE Officer (UAE National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-09-24"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer_639357": {
+      "title": "HSE Officer",
+      "company": "Exclusive Talent Management",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-24"
+    },
+    "https://jobicy.com/jobs/153997-operations-associate": {
+      "title": "Operations Associate",
+      "company": "CoinGecko",
+      "source": "jobicy",
+      "first_seen": "2026-09-24"
+    },
+    "https://jobicy.com/jobs/154001-sr-manager-data-engineering": {
+      "title": "Sr. Manager, Data Engineering",
+      "company": "Carrot",
+      "source": "jobicy",
+      "first_seen": "2026-09-24"
+    },
+    "https://jobicy.com/jobs/154023-design-engineer-uk": {
+      "title": "Design Engineer - UK",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-09-24"
+    },
+    "https://jobicy.com/jobs/154021-design-engineer-eu": {
+      "title": "Design Engineer - EU",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-09-24"
+    },
+    "https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company": {
+      "title": "Toptal: Salesforce Platform Lead for Global Industrial Company",
+      "company": "Toptal",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-24"
     }
   },
   "applied": {
