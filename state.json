@@ -6209,6 +6209,18 @@
       "company": "KBR",
       "source": "gulftalent_iraq",
       "first_seen": "2026-09-24"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-saudi-national-at-confidential-4471400307": {
+      "title": "Health Safety Environment Officer (Saudi National )",
+      "company": "Confidential",
+      "source": "linkedin",
+      "first_seen": "2026-09-24"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer-638928": {
+      "title": "HSE Officer",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-09-24"
     }
   },
   "applied": {
