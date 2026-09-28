@@ -6377,6 +6377,36 @@
       "company": "J10 Consulting",
       "source": "gulftalent_uae",
       "first_seen": "2026-09-28"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-at-applus%2B-asia-middle-east-and-africa-4465649312": {
+      "title": "HSE Engineer",
+      "company": "Applus+ Asia Middle East and Africa",
+      "source": "linkedin",
+      "first_seen": "2026-09-28"
+    },
+    "https://jobicy.com/jobs/154127-senior-data-scientist-full-stack": {
+      "title": "Senior Data Scientist, Full Stack",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-09-28"
+    },
+    "https://jobicy.com/jobs/154125-sr-security-engineer-detection": {
+      "title": "Sr. Security Engineer (Detection)",
+      "company": "Solace",
+      "source": "jobicy",
+      "first_seen": "2026-09-28"
+    },
+    "https://iq.linkedin.com/jobs/view/it-cybersecurity-audit-supervisor-at-region-trade-bank-4472731075": {
+      "title": "IT & Cybersecurity Audit Supervisor",
+      "company": "Region Trade Bank",
+      "source": "linkedin",
+      "first_seen": "2026-09-28"
+    },
+    "https://sa.linkedin.com/jobs/view/ot-cybersecurity-engineer-at-techsure-inc-4470879327": {
+      "title": "OT Cybersecurity Engineer",
+      "company": "Techsure Inc",
+      "source": "linkedin",
+      "first_seen": "2026-09-28"
     }
   },
   "applied": {

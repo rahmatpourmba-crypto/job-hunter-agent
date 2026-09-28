@@ -363,35 +363,6 @@
   },
   {
     "source": "jobicy",
-    "title": "Software Engineer, Frontend / Full Stack (Identity Platform)",
-    "company": "Phantom",
-    "location": "Anywhere",
-    "url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform",
-    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time data and the verified performance of top traders. With self-custody and access to open networks at its core, Phantom lets them control their financial moves in the same app they use to safely store or spend money worldwide. Phantom has reached #1 in Google Play's finance category and consistently ranks in the top 50 apps across all categories. Phantom partners with many of the most trusted and influential names in finance like Hyperliquid, Stripe, Kalshi and Visa, to make the most popular and innovative financial products accessible to everyone. We are around 180 people, fully remote, backed by a $150M Series C investment from a16z, Sequoia Capital and Paradigm. Role Description Identity Platform is the trust root of Phantom: we own authentication, unlocking, onboarding/key generation, and the signing pipeline that every transaction flows through. This is a business-critical area where bugs can lock users out or put funds at risk. You'll ship TypeScript across browser, Node.js, and mobile runtimes (e.g., Hermes) to keep these foundations fast, secure, and reliable. Responsibilities Own and evolve the signing path for every transaction in Phantom. Build and harden authentication, unlocking, biometrics, and account access flows across web and mobile. Ship passkeys (WebAuthn) and MFA improvements with a strong security/usability balance. Own onboarding and key lifecycle flows: key generation/derivation, seed phrase flows, seedless registration, hardware wallet pairing. Own sensitive key export/import experiences and related safety rails. Write and maintain high-signal, non-flaky tests (unit/integration/e2e) for critical paths; ensure safe rollouts via monitoring and staged releases. Qualifications Must-have 7+ years of experience Strong TypeScript skills; comfortable shipping code across browser, Node.js, and mobile JS runtimes. Proven ability to build high-signal, low-flake test suites for critical systems. Familiarity with auth concepts and common mechanisms (sessions/tokens, MFA/OTP, WebAuthn/passkeys) Strong engineering fundamentals: system design, debugging, and production reliability. Nice-to-have Deeper experience with OAuth2/OIDC, WebAuthn internals, cryptography, or key management systems. Web3/wallet or signing-flow experience. Security- or money-adjacent experience (identity, payments, custody). Rust experience (or strong interest in learning it). Why Work with Us We are a team of experienced builders in the blockchain and crypto industry. Our journey began from users seeking an easy, seamless path to accessing the crypto ecosystem. This passion fueled our exponential growth, allowing us to onboard over 20M+ active users in just over three years; with our user base growing weekly. Our dedication to a secure and seamless user experience has made us the leading wallet on Solana as well as our multi-chain approach enhances our platform's versatility, meeting the needs of a diverse and growing user base. By staying at the forefront of technology and user expectations, we continue to innovate and set industry standards on self-custodial crypto wallets. There has never been a better time to work in crypto to help shape the future of innovation with a focus around the wallet experience! First impressions matter: Wallets are responsible for a users first impression with crypto and onboarding new users into crypto. By ensuring that a user has a great first-time experience with crypto, we can help supercharge the growth of the entire ecosystem. Make crypto easier to navigate: There is no easy way for a user to discover and navigate all that crypto has to offer. Wallets have a unique opportunity to help users not only onboard to crypto but also stay retained by exploring new things to do. We live in a multi-chain world: We currently support Solana, Ethereum, Polygon and Bitcoin with more networks to come in the new future. We are focused on creating a unified, multi-chain crypto experience for users. Benefits Competitive salary and equity Comprehensive insurance (medical/dental/vision)- Employee 100% covered Stipend for your ideal remote set-up Flexible hours and a supportive remote environment Unlimited vacation: Take time when you need it (and we really mean it!) 401(k) retirement plan Monthly wellness benefit Weekly meal benefit Global off-sites We strongly encourage candidates of all backgrounds to apply. We believe that our work is stronger with a variety of perspectives, and we’re eager to further diversify our company. If you have a background that you feel would make an impact at Phantom, please consider applying. We’re committed to building an inclusive, supportive place for you to do the best work of your career. By submitting your resume and application materials, you acknowledge and agree that Phantom Technologies, Inc. (\"Phantom\") collects and processes your personal information (including application materials, interview records, and related data) to evaluate your candidacy. Phantom may use AI-powered tools and third-party service providers for transcription, note-taking, scheduling, and other administrative tasks. Phantom does not sell your information and your materials will be handled securely and in accordance with applicable data protection laws. Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural…",
-    "published": "2026-09-22",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": 150000,
-    "salary_max": 150000,
-    "score": 11,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "web3",
-      "ethereum",
-      "polygon",
-      "crypto",
-      "token",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$150,000-$150,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
     "title": "Head of Brand Creative",
     "company": "Phantom",
     "location": "USA",
@@ -637,6 +608,31 @@
     "emails": [
       "privacy@trmlabs.com"
     ],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Security Software Engineer, IAM",
+    "company": "Vercel",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/147750-security-software-engineer-iam",
+    "description": "About Vercel : Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience. Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents. We are building the platform for that future, trusted by companies like OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide . Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next. About the Role: We're looking for aSecurity Software Engineer to join our Security team and own Vercel's Identity and Access Management strategy - across both corporate and production environments. This is a high-impact, ownership-heavy role: you'll define IAM architecture from the ground up, migrate Okta fully behind Terraform, and serve as the subject matter expert who levels up the entire organization on IAM best practices. You will report to the Head of Security and be located remotely within the United States. If you're based within commuting distance of our SF or NY offices, the role includes in-office anchor days on Monday, Tuesday, and Friday. What You Will Do: Own the full IAM strategy for both corporate and production environments - defining the roadmap, standards, and architecture end to end Migrate Okta and all related IAM configuration to Terraform, driving infrastructure-as-code adoption and leveling up engineering teams in its use Lead Vercel-on-Vercel and Vercel infrastructure cleanup initiatives, ensuring our internal systems reflect the same standards we sell to customers Design and enforce least-privilege access controls across cloud, SaaS, and production infrastructure Partner with platform and engineering teams to embed IAM best practices early in the design process Build and manage MDM/MAM tooling to secure endpoint and mobile device access across the organization Drive automation across provisioning, deprovisioning, and access review workflows Serve as the IAM subject matter expert across Security, IT, and Engineering About You: 7+ years of experience in identity, access management, or platform security engineering Deep expertise with Okta - including SSO, MFA, lifecycle management, and API-driven automation Proficient in Terraform and committed to managing IAM infrastructure as code Experience designing IAM strategy at scale - across both corporate (IT/SaaS) and production (cloud infrastructure) environments Hands-on experience with AWS or GCP IAM - service accounts, roles, workload identity federation Background in MDM/MAM solutions (Jamf, Intune, or equivalent) Strong collaborator who can drive alignment across Engineering, IT, Compliance, and Security teams Comfortable operating with autonomy and owning decisions in a fast-moving environment Bonus If You: Experience leading Terraform migrations for IAM or identity infrastructure at scale Background in SCIM, SAML, OIDC, and directory services (e.g., Google Workspace, Azure AD) Contributions to internal developer platforms or security tooling Experience at a developer tools, infrastructure, or SaaS company Certifications such as Okta Certified Professional/Administrator, AWS Security Specialty, or CISSP Benefits: Competitive compensation package, including equity. Inclusive Healthcare Package. Learn and Grow - we provide mentorship and send you to events that help you build your network and skills. Flexible Time Off. We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed. The San Francisco, CA base pay range for this role is $208,000 - $312,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process. Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description. About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional…",
+    "published": "2026-09-28",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 208000,
+    "salary_max": 312000,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$208,000-$312,000",
+    "emails": [],
     "phones": []
   },
   {
