@@ -7165,6 +7165,13 @@
       "to": "info@astek.com",
       "title": "Senior HSE Engineer",
       "company": "Astek Middle East"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687::contact_form": {
+      "date": "2026-09-28 21:35",
+      "via": "contact_form",
+      "to": "https://www.nova.com",
+      "title": "HSE Engineer",
+      "company": "Nova International General Contracting L.L.C"
     }
   },
   "sent": {
@@ -7592,6 +7599,11 @@
       "kind": "email",
       "to": "info@astek.com",
       "date": "2026-09-22 20:22"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687": {
+      "kind": "contact_form",
+      "to": "nova.com",
+      "date": "2026-09-28 21:35"
     }
   },
   "replies": []
