@@ -334,34 +334,6 @@
     "phones": []
   },
   {
-    "source": "jobicy",
-    "title": "Staff Product Security Engineer (Security)",
-    "company": "Phantom",
-    "location": "Canada,  UK,  USA",
-    "url": "https://jobicy.com/jobs/153861-staff-product-security-engineer-security",
-    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time data and the verified performance of top traders. With self-custody and access to open networks at its core, Phantom lets them control their financial moves in the same app they use to safely store or spend money worldwide. Phantom has reached #1 in Google Play's finance category and consistently ranks in the top 50 apps across all categories. Phantom partners with many of the most trusted and influential names in finance like Hyperliquid, Stripe, Kalshi and Visa, to make the most popular and innovative financial products accessible to everyone. We are around 180 people, fully remote, backed by a $150M Series C investment from a16z, Sequoia Capital and Paradigm. Security is core to Phantom’s product and the trust millions of users place in us. We’re building an AI-native security team that aggressively uses AI to expand the speed, depth, and reach of our work—from code review and threat modeling to vulnerability discovery and security automation. We’re looking for strong security engineers with high agency who can identify the risks that matter, build practical solutions, and take ownership from initial discovery through verified remediation. This is a hands-on, high-impact role spanning architecture, source code, testing, and production systems across Phantom’s mobile, web, and backend products. You’ll work directly with engineering and product teams, lead complex security initiatives, and build capabilities that scale across the company. At the Staff level, you’ll set technical direction and raise the bar for how Phantom designs, builds, and ships secure products. This role is fully remote and open to candidates based in the US, UK and Canada. Responsibilities Product Security Ownership: Partner with engineering teams to identify and address security risks across Phantom’s mobile applications, web products, APIs, and backend services. Architecture and Threat Modeling: Lead security reviews for new products and major architectural changes, with particular attention to authorization boundaries, sensitive data, transaction integrity, key material, and third-party integrations. Secure Product Development: Embed practical security controls into the software development lifecycle, from design and implementation through testing, release, and production operation. Code Review and Security Testing: Perform AI assisted security code reviews and targeted testing of high-risk features. Build repeatable approaches that help find vulnerabilities before they reach production. Security Tooling: Develop and improve tooling that gives engineers fast, actionable security feedback without creating unnecessary friction. Use automation and AI-assisted workflows where they materially improve coverage or speed. Software Supply Chain Security: Harden CI/CD, build, and release systems against supply chain threats, including dependency risk, secrets exposure, build provenance, artifact integrity, and compromised developer or automation workflows. Vulnerability Management: Triage findings from internal testing, researchers, bug bounty submissions, and third-party assessments. Work with owners to determine real-world impact and drive issues through verified remediation. Incident Response: Support the investigation of product security incidents and suspicious activity. Turn lessons from incidents into durable improvements to product architecture, detection, and engineering standards. Technical Leadership: Establish product security patterns and expectations across engineering. At the Staff level, lead ambiguous, cross-functional initiatives and influence architecture beyond any single product team. Qualifications 5+ years of experience in product security, application security, security engineering, or software engineering, including experience operating at a senior or staff level. Strong understanding of web, mobile, API, and distributed-system security, including authentication, authorization, session management, cryptography, and common vulnerability classes. Hands-on experience building or applying AI-assisted security tooling to test applications and APIs, combining automated analysis with source-code review and manual validation. Demonstrated ability to review production code in one or more languages such as TypeScript, JavaScript, Rust, Python and Go. Experience securing software supply chains and CI/CD systems, including dependencies, build infrastructure, secrets, artifacts, signing, and release integrity. Experience threat modeling complex products and translating security risks into concrete engineering requirements. Strong judgment when evaluating exploitability, business impact, and appropriate remediation. Track record of partnering effectively with engineering and product teams while maintaining a high security bar. Clear written and verbal communication, including the ability to explain technical risk to both engineers and non-security stakeholders. Nice To Haves Experience securing consumer financial products, wallets, payments, or other systems where client integrity and transaction safety are critical. Familiarity with blockchain systems, smart-contract interactions, transaction simulation, signing workflows, or self-custodial wallet architecture. Experience securing browser extensions or native mobile applications. Experience building and integrating application-security tooling, static or dynamic analysis, security test infrastructure, or policy-as-code controls. Familiarity with AWS, Kubernetes, CI/CD systems, and cloud-native service architectures. Experience working with bug bounty programs or coordinating external security assessments. Why Work with Us Phantom is built by a team of experienced product and engineering leaders working to make crypto-powered finance safer and easier to use. Our products serve a large and rapidly growing global community, which makes security engineering here both technically challenging and directly consequential. This role offers the opportunity to: Protect products used by tens of millions of people. Work on security problems spanning mobile, browser, backend, cloud, and blockchain systems. Shape product architecture early rather than reviewing security only at the end. Build durable security capabilities while the company and product surface continue to grow. Work with engineers who care deeply about product quality, user experience, and security. Benefits Competitive salary and equity Eligibility to participate in the company’s performance bonus program Comprehensive medical, dental, and vision insurance with 100% coverage Stipend for your ideal remote setup Flexible hours and a supportive remote environment Unlimited vacation—take time when you need it 401(k) retirement plan Monthly wellness benefit Weekly meal benefit Global off-sites The target base salary for this role will range between $200,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer. We strongly encourage candidates of all backgrounds to apply. We believe that our work is stronger with a variety of perspectives, and we’re eager to further diversify our company. If you have a background that you feel would make an impact at Phantom, please consider applying. We’re committed to building an inclusive, supportive place for you to do the best work of your career. By submitting your resume and application materials, you acknowledge and agree that Phantom Technologies, Inc. (\"Phantom\") collects and processes your personal information (including application materials, interview records, and related data) to evaluate your candidacy. Phantom may use AI-powered tools and third-party service providers for transcription, note-taking, scheduling, and other administrative tasks. Phantom does not sell your information and your materials will be handled securely and in accordance with applicable data protection laws. Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural…",
-    "published": "2026-09-22",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 150000,
-    "salary_max": 250000,
-    "score": 11,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [
-      "smart-contract",
-      "blockchain",
-      "crypto",
-      "token"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$150,000-$250,000",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "linkedin",
     "title": "Blockchain Developer",
     "company": "Namo Labs",
@@ -472,6 +444,33 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$60,000-$100,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "weworkremotely",
+    "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+    "company": "bondex",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
+    "description": "Headquarters: Remote - Americas, El Salvador URL: http://bondex.app We're recruiting a Web 3 Fullstack Developer (Solidity / Rust / Typescript) who is looking for a new challenge and ready to join an exciting new chapter to expand our clients product value proposition in the DeFi Web3 realm. The client is is revoluzionezing financial interoperability and the requirements for the role are: Minimum 4 years of professional experience in WEB development; preferably with Typescript Experience as Fullstack Web3 developer at least 2 years in the following programming languages: Web3: High level of Solidity (demonstrated experience) / Rust FRONTEND: Typescript / Javascript / React / NodeJS BACKEND: NodeJS; nice to have Golang & Python FLUENT proficient English , passable and/or with strong accent will not do. Ability to work with clients. Desirable experience in Smart contracts and DeFi protocols (curve, uniswap, AAVE etc); 100% Remote but ONLY residents of countries with US time zones (EST-PST) As a Web 3 Full stack developer , you're main responsibilities will be: Participate in the entire software development lifecycle; Collaborate closely with developers and CTO to deliver high-quality software solutions; Troubleshoot and debug issues, providing timely resolutions; About the client: Remote first We prioritise an optimal work-life balance, ensuring ample time for relaxation and personal pursuits. Competitive salary according to experience and contributions Hiring process: Questionare application HR introduction call Technical interview + technical assesment Offer If you're an experience web3 full stack developer eager to make a meaningful contribution to a cutting-edge project in the DeFi space, we would love to hear from you! To apply: https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
+    "published": "Tue, 29 Sep 2026",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 10,
+    "title_hits": [
+      "solidity",
+      "web3"
+    ],
+    "desc_hits": [
+      "smart contract",
+      "defi"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
     "emails": [],
     "phones": []
   },

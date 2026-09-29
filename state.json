@@ -6503,6 +6503,48 @@
       "company": "ZoomInfo Technologies LLC",
       "source": "weworkremotely",
       "first_seen": "2026-09-29"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-supervisor-cssp-onsite-at-kbr-inc-4473505429": {
+      "title": "HSE Supervisor-(CSSP)-Onsite",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-turner-townsend-4471921305": {
+      "title": "HSE Engineer",
+      "company": "Turner & Townsend",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript": {
+      "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+      "company": "bondex",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-29"
+    },
+    "https://jobicy.com/jobs/154209-senior-software-engineer-infrastructure-security": {
+      "title": "Senior Software Engineer - Infrastructure Security",
+      "company": "Quora",
+      "source": "jobicy",
+      "first_seen": "2026-09-29"
+    },
+    "https://jobicy.com/jobs/154203-cloud-senior-engineer": {
+      "title": "Cloud Senior Engineer",
+      "company": "Caylent",
+      "source": "jobicy",
+      "first_seen": "2026-09-29"
+    },
+    "https://jobicy.com/jobs/154206-director-engineering-commerce": {
+      "title": "Director, Engineering - Commerce",
+      "company": "hims &#038; hers",
+      "source": "jobicy",
+      "first_seen": "2026-09-29"
+    },
+    "https://sa.linkedin.com/jobs/view/lead-engineer-cyber-security-at-ge-vernova-4473298435": {
+      "title": "Lead Engineer-Cyber Security",
+      "company": "GE Vernova",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
     }
   },
   "applied": {
