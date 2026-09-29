@@ -6443,6 +6443,66 @@
       "company": "Rakbank",
       "source": "linkedin",
       "first_seen": "2026-09-29"
+    },
+    "https://iq.linkedin.com/jobs/view/health-safety-environment-supervisor-at-qaiwan-steel-factory-4471743031": {
+      "title": "Health Safety Environment Supervisor",
+      "company": "Qaiwan Steel Factory",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://sa.linkedin.com/jobs/view/occupational-health-and-safety-specialist-at-confidential-careers-4473217315": {
+      "title": "Occupational Health and Safety Specialist",
+      "company": "Confidential Careers",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://www.linkedin.com/jobs/view/vp-health-safety-environmental-at-bp-4473080482": {
+      "title": "VP Health, Safety & Environmental",
+      "company": "bp",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-kbr-inc-4473246294": {
+      "title": "Senior HSE Engineer",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-site-lead-at-air-products-4471297367": {
+      "title": "HSE Site Lead",
+      "company": "Air Products",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://sa.linkedin.com/jobs/view/specialist-hse-at-advanced-metals-company-amco-4473223647": {
+      "title": "Specialist, HSE",
+      "company": "Advanced Metals Company (AMCO)",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-namo-labs-4471740000": {
+      "title": "Blockchain Developer",
+      "company": "Namo Labs",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai": {
+      "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+      "company": "ZoomInfo Technologies LLC",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-29"
+    },
+    "https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-application-security": {
+      "title": "Discord: Senior Software Engineer, Application Security",
+      "company": "Discord",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-29"
+    },
+    "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform": {
+      "title": "ZoomInfo Technologies LLC: Principal Infrastructure Architect: Data Platform",
+      "company": "ZoomInfo Technologies LLC",
+      "source": "weworkremotely",
+      "first_seen": "2026-09-29"
     }
   },
   "applied": {
@@ -7215,6 +7275,20 @@
       "to": "cybersecurity@parsons.com",
       "title": "HSE Officer (UAE National)",
       "company": "Parsons Corporation"
+    },
+    "https://iq.linkedin.com/jobs/view/health-safety-environment-supervisor-at-qaiwan-steel-factory-4471743031::contact_form": {
+      "date": "2026-09-29 14:19",
+      "via": "contact_form",
+      "to": "https://www.steel.com/contactus",
+      "title": "Health Safety Environment Supervisor",
+      "company": "Qaiwan Steel Factory"
+    },
+    "https://www.linkedin.com/jobs/view/vp-health-safety-environmental-at-bp-4473080482::email": {
+      "date": "2026-09-29 14:19",
+      "via": "email",
+      "to": "careline@bp.com",
+      "title": "VP Health, Safety & Environmental",
+      "company": "bp"
     }
   },
   "sent": {
@@ -7652,6 +7726,16 @@
       "kind": "email",
       "to": "cybersecurity@parsons.com",
       "date": "2026-09-29 07:14"
+    },
+    "https://iq.linkedin.com/jobs/view/health-safety-environment-supervisor-at-qaiwan-steel-factory-4471743031": {
+      "kind": "contact_form",
+      "to": "steel.com",
+      "date": "2026-09-29 14:19"
+    },
+    "https://www.linkedin.com/jobs/view/vp-health-safety-environmental-at-bp-4473080482": {
+      "kind": "email",
+      "to": "careline@bp.com",
+      "date": "2026-09-29 14:19"
     }
   },
   "replies": []
