@@ -6407,6 +6407,42 @@
       "company": "Techsure Inc",
       "source": "linkedin",
       "first_seen": "2026-09-28"
+    },
+    "https://iq.linkedin.com/jobs/view/construction-camp-supervisor-at-ilf-consulting-engineers-in-united-arab-emirates-4471481663": {
+      "title": "Construction & Camp Supervisor",
+      "company": "ILF Consulting Engineers in United Arab Emirates",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://iq.linkedin.com/jobs/view/snr-integrity-and-rbi-engineer-at-geo-jade-middle-east-sbipro-fz-llc-4462203779": {
+      "title": "Snr Integrity and RBI Engineer",
+      "company": "Geo-Jade Middle East SBIPRO FZ-LLC",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://iq.linkedin.com/jobs/view/ptw-coordinator-at-wood-4469511533": {
+      "title": "PTW Coordinator",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://iq.linkedin.com/jobs/view/surface-facilities-project-supervisor-at-halliburton-4466546454": {
+      "title": "Surface Facilities Project Supervisor",
+      "company": "Halliburton",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://iq.linkedin.com/jobs/view/construction-supervisor-civil-oil-gas-water-surface-onsite-at-kbr-inc-4467990502": {
+      "title": "Construction Supervisor-Civil-(Oil/ Gas/Water)-Surface Onsite",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
+    },
+    "https://ae.linkedin.com/jobs/view/associate-vice-president-digital-assets-cybersecurity-at-rakbank-4471266161": {
+      "title": "Associate Vice President - Digital Assets & Cybersecurity",
+      "company": "Rakbank",
+      "source": "linkedin",
+      "first_seen": "2026-09-29"
     }
   },
   "applied": {
@@ -7172,6 +7208,13 @@
       "to": "https://www.nova.com",
       "title": "HSE Engineer",
       "company": "Nova International General Contracting L.L.C"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4471454581::email": {
+      "date": "2026-09-29 07:14",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Officer (UAE National)",
+      "company": "Parsons Corporation"
     }
   },
   "sent": {
@@ -7604,6 +7647,11 @@
       "kind": "contact_form",
       "to": "nova.com",
       "date": "2026-09-28 21:35"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4471454581": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-09-29 07:14"
     }
   },
   "replies": []
