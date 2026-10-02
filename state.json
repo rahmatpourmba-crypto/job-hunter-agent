@@ -6875,6 +6875,18 @@
       "company": "Airtm",
       "source": "jobicy",
       "first_seen": "2026-10-02"
+    },
+    "https://www.gulftalent.com/iraq/jobs/driver-operator-firefighter-641386": {
+      "title": "Driver Operator Firefighter",
+      "company": "Amentum",
+      "source": "gulftalent_iraq",
+      "first_seen": "2026-10-02"
+    },
+    "https://www.gulftalent.com/iraq/jobs/hse-supervisor-640977": {
+      "title": "HSE Supervisor",
+      "company": "KBR",
+      "source": "gulftalent_iraq",
+      "first_seen": "2026-10-02"
     }
   },
   "applied": {
