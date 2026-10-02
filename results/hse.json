@@ -246,6 +246,30 @@
   },
   {
     "source": "linkedin",
+    "title": "Environment, Health and Safety Manager",
+    "company": "Nawras Power Company",
+    "location": "Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-nawras-power-company-4472335870",
+    "description": "",
+    "published": "2026-09-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "safety manager",
+      "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Engineer",
     "company": "Nova International General Contracting L.L.C",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -568,29 +592,6 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "QHSE Manager",
-    "company": "Anton-OSS",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/qhse-manager-at-anton-oss-4472692907",
-    "description": "",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,

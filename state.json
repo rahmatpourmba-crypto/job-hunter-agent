@@ -6731,6 +6731,48 @@
       "company": "Huntress",
       "source": "jobicy",
       "first_seen": "2026-10-01"
+    },
+    "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-nawras-power-company-4472335870": {
+      "title": "Environment, Health and Safety Manager",
+      "company": "Nawras Power Company",
+      "source": "linkedin",
+      "first_seen": "2026-10-02"
+    },
+    "https://www.gulftalent.com/uae/jobs/senior-barista-642284": {
+      "title": "Senior Barista",
+      "company": "K11 by AC",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/149868-senior-technical-project-manager-token-factory": {
+      "title": "Senior Technical Project Manager - Token Factory",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/152308-partner-enablement-manager": {
+      "title": "Partner Enablement Manager",
+      "company": "Keyfactor, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/148058-technical-program-manager-data-centers": {
+      "title": "Technical Program Manager, Data Centers",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/152331-sr-supplier-quality-engineer-i": {
+      "title": "Sr Supplier Quality Engineer I",
+      "company": "Axon",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/149912-senior-technical-account-manager": {
+      "title": "Senior Technical Account Manager",
+      "company": "Trustonic",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
     }
   },
   "applied": {
