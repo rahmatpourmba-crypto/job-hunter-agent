@@ -6773,6 +6773,60 @@
       "company": "Trustonic",
       "source": "jobicy",
       "first_seen": "2026-10-02"
+    },
+    "https://ae.linkedin.com/jobs/view/hsew-engineer-at-atkinsr%C3%A9alis-4474734754": {
+      "title": "HSEW Engineer",
+      "company": "AtkinsRéalis",
+      "source": "linkedin",
+      "first_seen": "2026-10-02"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-brotherstech-4473162151": {
+      "title": "Blockchain Developer",
+      "company": "BrothersTech",
+      "source": "linkedin",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154392-senior-software-engineer-go-rust-blockchain-infrastructure": {
+      "title": "Senior Software Engineer - Go & Rust, Blockchain Infrastructure",
+      "company": "QuickNode",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://ae.linkedin.com/jobs/view/blockchain-developer-at-javizen-4474721253": {
+      "title": "Blockchain Developer",
+      "company": "Javizen",
+      "source": "linkedin",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154390-technical-support-engineer": {
+      "title": "Technical Support Engineer",
+      "company": "QuickNode",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154387-senior-software-engineer-go-2": {
+      "title": "Senior Software Engineer - Go",
+      "company": "QuickNode",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154400-director-of-web-platform-engineering": {
+      "title": "Director of Web Platform & Engineering",
+      "company": "Cision",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154391-business-development-manager-nordrhein-westfalen": {
+      "title": "Business Development Manager (Nordrhein-Westfalen)",
+      "company": "Ajax Systems",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://www.gulftalent.com/uae/jobs/finance-manager-642299": {
+      "title": "Finance Manager",
+      "company": "Michael Page",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-02"
     }
   },
   "applied": {
