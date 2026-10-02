@@ -6827,6 +6827,54 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154432-senior-developer-windows-product-security": {
+      "title": "Senior Developer (Windows), Product Security",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154428-senior-developer-growth": {
+      "title": "Senior Developer, Growth",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154421-senior-data-scientist-6": {
+      "title": "Senior Data Scientist",
+      "company": "Peerspace",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154434-senior-channel-account-manager-2": {
+      "title": "Senior Channel Account Manager",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154430-solutions-consultant": {
+      "title": "Solutions Consultant",
+      "company": "Nextiva",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154426-data-center-design-lead": {
+      "title": "Data Center Design Lead",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154423-cloud-workplace-engineer": {
+      "title": "Cloud Workplace Engineer",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
+    },
+    "https://jobicy.com/jobs/154409-ai-automation-engineer-2": {
+      "title": "AI Automation Engineer",
+      "company": "Airtm",
+      "source": "jobicy",
+      "first_seen": "2026-10-02"
     }
   },
   "applied": {
@@ -7620,6 +7668,13 @@
       "to": "press.enquiries@dfs.com",
       "title": "Blockchain Developer | Web3 Solutions Specialist",
       "company": "DFS Abu Dhabi"
+    },
+    "https://jobicy.com/jobs/154432-senior-developer-windows-product-security::email": {
+      "date": "2026-10-02 20:07",
+      "via": "email",
+      "to": "nextbit@agilebits.com",
+      "title": "Senior Developer (Windows), Product Security",
+      "company": "1Password"
     }
   },
   "sent": {
@@ -8072,6 +8127,11 @@
       "kind": "email",
       "to": "press.enquiries@dfs.com",
       "date": "2026-10-01 13:48"
+    },
+    "https://jobicy.com/jobs/154432-senior-developer-windows-product-security": {
+      "kind": "email",
+      "to": "nextbit@agilebits.com",
+      "date": "2026-10-02 20:07"
     }
   },
   "replies": []
