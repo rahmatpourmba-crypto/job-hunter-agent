@@ -145,6 +145,30 @@
   },
   {
     "source": "linkedin",
+    "title": "Junior HSE Engineer - Offshore SIte",
+    "company": "Worley",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/junior-hse-engineer-offshore-site-at-worley-4466796170",
+    "description": "",
+    "published": "2026-09-13",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Engineer (R)",
     "company": "Applus+ Asia Middle East and Africa",
     "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -211,30 +235,6 @@
     "title_hits": [
       "safety manager",
       "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Junior HSE Engineer - Offshore SIte",
-    "company": "Worley",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/junior-hse-engineer-offshore-site-at-worley-4466796170",
-    "description": "",
-    "published": "2026-09-13",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -531,29 +531,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSEW Engineer",
-    "company": "AtkinsRéalis",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hsew-engineer-at-atkinsr%C3%A9alis-4474734754",
-    "description": "",
-    "published": "2026-10-02",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Sr. Engineer - HSE (Project)",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -583,6 +560,29 @@
     "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-target-engineering-construction-co-llc-4470149445",
     "description": "",
     "published": "2026-09-25",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Officer",
+    "company": "Target Engineering Construction Co LLC",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-target-engineering-construction-co-llc-4468979575",
+    "description": "",
+    "published": "2026-09-23",
     "remote": false,
     "currency": null,
     "salary_min": null,
