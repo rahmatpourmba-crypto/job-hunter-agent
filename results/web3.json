@@ -34,81 +34,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Smart Contract Developer | Blockchain Solutions Architect",
-    "company": "Luxeed Abu Dhabi",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-luxeed-abu-dhabi-4475369857",
-    "description": "⛓️ We’re Hiring: Smart Contract Developer | Blockchain Solutions Architect 🕒 Employment Type: Full-Time 💼 Level: Mid-Level to Senior We are looking for a highly skilled Smart Contract Developer | Blockchain Solutions Architect to design, develop, secure, and implement blockchain-based applications and decentralized solutions. This role combines hands-on smart contract development with blockchain architecture, requiring strong technical expertise and the ability to translate business requirements into scalable, secure, and reliable blockchain solutions. 🎯 Key Responsibilities • Design, develop, test, deploy, and maintain smart contracts for blockchain applications. • Develop secure and efficient smart contracts using Solidity and other relevant blockchain programming languages. • Design blockchain architectures that support scalability, security, performance, and reliability. • Analyze business requirements and translate them into practical blockchain-based solutions. • Develop decentralized applications (dApps) and blockchain-enabled services. • Collaborate with product managers, software engineers, designers, and business stakeholders throughout the development lifecycle. • Define technical architecture, system components, blockchain protocols, and integration strategies. • Evaluate blockchain networks and select suitable platforms based on project requirements. • Work with Ethereum and other compatible Layer 1 and Layer 2 blockchain ecosystems. • Develop and integrate smart contracts with web applications, APIs, wallets, and backend services. • Design token-based systems, digital assets, and blockchain transaction workflows where applicable. • Implement contract standards such as ERC-20, ERC-721, ERC-1155, and other relevant protocols. • Conduct smart contract testing, debugging, optimization, and deployment across development and production environments. • Perform code reviews and identify potential security, performance, and architectural issues. • Work closely with cybersecurity teams to strengthen blockchain application security. • Identify vulnerabilities such as reentrancy, access-control issues, integer-related vulnerabilities, oracle manipulation, and other smart contract risks. • Support smart contract audits and address findings identified through security assessments. • Optimize smart contract code for gas efficiency, transaction performance, and maintainability. • Design secure wallet, key-management, authentication, and transaction-signing workflows. • Integrate blockchain solutions with existing enterprise systems, databases, APIs, and cloud environments. • Develop blockchain integration patterns for financial, supply-chain, identity, asset-management, or other business applications. • Evaluate decentralized protocols, infrastructure providers, blockchain frameworks, and development tools. • Monitor blockchain technology developments and assess emerging protocols and architectures. • Research Layer 2 solutions, interoperability technologies, decentralized storage, oracles, and cross-chain technologies. • Prepare technical architecture documents, system diagrams, API specifications, and smart contract documentation. • Establish development standards, coding practices, testing procedures, and deployment processes for blockchain projects. • Support CI/CD pipelines and automated testing for blockchain applications and smart contracts. • Troubleshoot blockchain transactions, contract failures, integration issues, and production incidents. • Work with external blockchain vendors, infrastructure providers, auditors, and technology partners when required. • Provide technical guidance and mentorship to developers working on blockchain projects. • Ensure blockchain solutions are designed with appropriate governance, monitoring, compliance, and operational controls. ✅ Requirements • Bachelor’s degree in Computer Science, Software Engineering, Information Technology, Mathematics, Engineering, or a related field. • Proven experience in blockchain development, smart contract development, or blockchain architecture. • Strong programming experience with Solidity and familiarity with Web3 development technologies. • Experience developing, testing, and deploying smart contracts on Ethereum or compatible blockchain networks. • Strong understanding of blockchain architecture, consensus mechanisms, transactions, blocks, nodes, and distributed systems. • Knowledge of EVM-compatible blockchain networks and Layer 2 technologies. • Experience with blockchain development frameworks such as Hardhat, Foundry, Truffle, or equivalent tools. • Familiarity with Web3 libraries such as ethers.js, web3.js, or similar technologies. • Experience integrating smart contracts with frontend and backend applications. • Strong understanding of cryptographic principles, digital signatures, wallets, and blockchain security. • Knowledge of smart contract vulnerabilities and secure development practices. • Experience with automated testing and blockchain testing frameworks. • Familiarity with Git, version control, CI/CD, and modern software-development workflows. • Understanding of REST APIs, microservices, databases, cloud infrastructure, and distributed applications. • Knowledge of token standards, decentralized applications, decentralized finance, or digital assets is advantageous. • Experience with smart contract auditing or working with external blockchain security auditors is preferred. • Strong understanding of gas optimization and blockchain transaction costs. • Ability to evaluate technical trade-offs between different blockchain networks and architectures. • Strong system-design and architecture skills. • Excellent analytical and problem-solving abilities. • Strong technical documentation and communication skills. • Ability to explain complex blockchain concepts to technical and non-technical stakeholders. • Ability to work independently while collaborating effectively with cross-functional teams. • Strong a",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 19,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "token",
-      "audit",
-      "security"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "jjo.lux@gmail.com"
-    ],
-    "phones": [],
-    "emails_source": "luxeed.com",
-    "about": "Please contact Joseph via email at [jjo.lux@gmail.com](mailto:jjo.lux@gmail.com) I will transfer this domain to you."
-  },
-  {
-    "source": "linkedin",
-    "title": "Smart Contract Developer | Blockchain Solutions Architect",
-    "company": "Rami Abu Shiekha medical Equipment رامي ابو شيخة للاجهزة الطبية",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-rami-abu-shiekha-medical-equipment-%D8%B1%D8%A7%D9%85%D9%8A-%D8%A7%D8%A8%D9%88-%D8%B4%D9%8A%D8%AE%D8%A9-%D9%84%D9%84%D8%A7%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-4475385372",
-    "description": "🔗 We’re Hiring: Smart Contract Developer | Blockchain Solutions Architect 🕒 Employment Type: Full-Time 💼 Level: Mid-Level to Senior We are seeking an experienced Smart Contract Developer | Blockchain Solutions Architect to lead the technical development and architecture of blockchain-powered applications. The role combines hands-on smart contract engineering with solution architecture, covering everything from blockchain platform selection and system design to contract deployment, integration, security, and ongoing optimization. 🎯 Key Responsibilities • Design end-to-end blockchain solutions based on business and technical requirements. • Develop, deploy, and maintain production-ready smart contracts. • Build smart contract logic using Solidity and relevant blockchain technologies. • Design modular and scalable blockchain architectures for decentralized applications. • Evaluate blockchain networks, protocols, and infrastructure according to project requirements. • Define on-chain and off-chain system components and their interaction models. • Develop blockchain-based applications, protocols, and decentralized services. • Integrate smart contracts with frontend applications, backend services, APIs, and external platforms. • Design tokenization, asset-management, transaction, and digital-ownership mechanisms where applicable. • Implement established token and contract standards according to project specifications. • Establish development patterns for secure and maintainable smart contracts. • Create automated unit, integration, and end-to-end tests for blockchain applications. • Conduct contract debugging and investigate failed transactions or unexpected blockchain behavior. • Optimize contract execution, storage usage, transaction costs, and overall performance. • Review blockchain code and architecture for security, reliability, and scalability. • Identify potential vulnerabilities before deployment and coordinate remediation activities. • Work with security specialists and external auditors during smart contract assessments. • Design appropriate access-control, authorization, and administrative mechanisms for decentralized systems. • Evaluate wallet connectivity, signing mechanisms, custody models, and blockchain identity requirements. • Develop integration strategies between blockchain networks and enterprise applications. • Support interoperability and cross-chain integration initiatives where required. • Assess Layer 2 networks, blockchain infrastructure services, oracle solutions, and decentralized storage technologies. • Establish technical standards for blockchain development, testing, deployment, and monitoring. • Develop architecture diagrams, technical specifications, API documentation, and solution blueprints. • Collaborate with product, engineering, security, compliance, and business teams to deliver blockchain initiatives. • Participate in technical planning, architecture reviews, sprint planning, and implementation discussions. • Monitor deployed contracts and blockchain applications for operational or performance issues. • Troubleshoot production incidents and coordinate technical resolutions. • Research emerging blockchain technologies and assess their potential business applications. • Provide technical leadership and guidance to blockchain developers and engineering teams. ✅ Requirements • Bachelor’s degree in Computer Science, Software Engineering, Information Technology, Engineering, or a related technical discipline. • Professional experience in blockchain development, smart contract engineering, or blockchain solution architecture. • Strong hands-on experience with Solidity and Ethereum Virtual Machine (EVM) ecosystems. • Experience deploying smart contracts to blockchain testnets and mainnet environments. • Strong understanding of blockchain architecture, distributed systems, transactions, wallets, and cryptographic concepts. • Experience with Ethereum-compatible networks and familiarity with Layer 2 ecosystems. • Proficiency with development tools such as Hardhat, Foundry, Truffle, or equivalent frameworks. • Experience using Web3 libraries and blockchain RPC/API services. • Strong understanding of smart contract lifecycle management. • Experience writing automated tests for smart contracts and decentralized applications. • Knowledge of common smart contract security risks and secure coding practices. • Understanding of gas management, transaction execution, and blockchain resource limitations. • Experience with Git and modern software development practices. • Familiarity with CI/CD pipelines and automated deployment processes. • Understanding of REST APIs, databases, cloud services, and backend architecture. • Experience designing systems that combine on-chain and traditional off-chain technologies. • Knowledge of token standards and decentralized application architecture. • Familiarity with blockchain monitoring, analytics, logging, and operational tools. • Experience participating in security audits or remediation of smart contract audit findings is advantageous. • Strong system-design and architectural thinking skills. • Excellent troubleshooting and analytical abilities. • Strong understanding of software engineering principles and design patterns. • Ability to communicate complex blockchain concepts clearly to technical and business stakeholders. • Strong documentation and technical presentation skills. • Ability to manage multiple technical priorities in a fast-moving environment. • Relevant blockchain, cloud, cybersecurity, or architecture certifications are advantageous. 🌟 What We Offer • Competitive salary and comprehensive employee benefits. • Opportunity to work on advanced blockchain and decentralized technology projects. • Exposure to smart contracts, Web3 applications, tokenization, and blockchain infrastructure. • Access to modern blockchain development tools and technologies. • Opportunities to contribute to architecture decisions for new blockcha",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 18,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "defi",
-      "ethereum",
-      "crypto",
-      "token",
-      "audit",
-      "security"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "Sales@RAMI.com",
-      "sales@rami.com"
-    ],
-    "phones": [],
-    "emails_source": "rami.com",
-    "about": "Miller Industries) has been engineering and manufacturing these systems for the United States military since 1956."
-  },
-  {
-    "source": "linkedin",
     "title": "Blockchain Developer",
     "company": "BrothersTech",
     "location": "United States",
@@ -257,35 +182,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Senior Blockchain Engineer",
-    "company": "Higher Learning LV",
-    "location": "United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-blockchain-engineer-at-higher-learning-lv-4473487255",
-    "description": "We're Hiring: Senior Blockchain Engineer Location: United Arab Emirates (Remote) Employment Type: Full-Time Experience Level: Senior Work Arrangement: Fully Remote About Us We are a globally focused technology organization committed to developing secure, scalable, and innovative digital infrastructure and financial technology solutions across diverse markets. Our multidisciplinary teams collaborate across Engineering, Product, Security, Finance, Compliance, Data, Operations, and external technology partners to build reliable distributed systems, blockchain applications, digital-asset infrastructure, and next-generation financial products. The Role We are seeking an experienced Senior Blockchain Engineer to design, develop, integrate, and optimize blockchain-based systems, decentralized applications, smart contracts, and distributed-ledger infrastructure. The ideal candidate will combine strong software-engineering expertise with deep knowledge of blockchain protocols, smart-contract development, cryptography, decentralized architectures, digital assets, and blockchain security. The role will work closely with Product, Engineering, Security, Compliance, and external ecosystem partners to deliver secure, scalable, and production-ready blockchain solutions. Key Responsibilities Design and develop secure, scalable, and reliable blockchain applications and distributed systems. Develop and maintain blockchain-based platforms, services, APIs, and infrastructure. Evaluate blockchain architectures and select appropriate technologies based on product, performance, security, and scalability requirements. Design solutions using public, private, permissioned, or hybrid blockchain architectures where appropriate. Develop and maintain smart contracts for supported blockchain networks. Write secure, efficient, maintainable, and well-tested smart-contract code. Implement decentralized application functionality across blockchain and off-chain components. Integrate blockchain networks with existing enterprise applications, databases, APIs, payment systems, and financial platforms. Develop blockchain APIs and services that expose distributed-ledger functionality to internal and external applications. Implement wallet connectivity, transaction management, address management, signing workflows, and blockchain integrations. Develop services for blockchain transaction submission, monitoring, confirmation, and reconciliation. Monitor blockchain transactions, network activity, confirmation times, failures, and operational exceptions. Build reliable mechanisms for handling transaction retries, failures, reorganization events, and network interruptions. Design blockchain data models and indexing solutions for efficient transaction and asset retrieval. Develop blockchain event listeners, transaction processors, indexers, and monitoring services. Work with blockchain nodes, RPC providers, infrastructure platforms, and network services. Configure, maintain, and optimize blockchain nodes and supporting infrastructure where required. Monitor node health, synchronization status, connectivity, resource utilization, and network performance. Develop highly available blockchain infrastructure and appropriate disaster-recovery mechanisms. Optimize blockchain applications for performance, scalability, transaction throughput, and cost efficiency. Analyze network fees, transaction costs, gas usage, and resource consumption. Optimize smart contracts and transaction workflows to reduce unnecessary execution costs. Evaluate Layer 1 and Layer 2 solutions and recommend appropriate architectures for product requirements. Assess interoperability solutions, cross-chain protocols, bridges, messaging systems, and blockchain integration technologies. Design secure mechanisms for blockchain interoperability and asset transfers where required. Implement cryptographic functionality and secure key-management practices in collaboration with security teams. Ensure private keys, credentials, secrets, and sensitive blockchain information are appropriately protected. Integrate hardware security modules, custody platforms, secure key-management systems, or institutional wallet solutions where applicable. Implement transaction-signing controls, authorization workflows, and multi-signature mechanisms where required. Collaborate with Security teams to identify and mitigate blockchain-specific security risks. Conduct smart-contract security reviews and coordinate independent audits where appropriate. Identify vulnerabilities including reentrancy, access-control weaknesses, arithmetic issues, oracle manipulation, front-running, flash-loan attacks, denial-of-service risks, and other blockchain-specific threats. Implement secure coding standards and development practices for blockchain systems. Develop automated unit, integration, functional, security, and smart-contract tests. Establish comprehensive test coverage for blockchain transactions, contract logic, edge cases, failure scenarios, and integrations. Support testnet deployments, network upgrades, contract migrations, and mainnet releases. Coordinate blockchain release processes, deployment approvals, version management, and rollback or contingency procedures. Monitor production blockchain applications and respond to technical incidents. Investigate failed transactions, contract errors, node failures, network disruptions, and integration issues. Lead root-cause analysis for significant blockchain incidents and implement corrective actions. Develop observability solutions covering logs, metrics, traces, transaction states, and blockchain events. Establish operational dashboards and alerts for blockchain infrastructure and application performance. Work closely with DevOps, Cloud, Platform Engineering, and Site Reliability teams to maintain production infrastructure. Support containerized deployments, cloud infrastructure, CI/CD pipelines, automated deployment, and infrastructure-as-code practices. Impr",
-    "published": "",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 10,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "smart contract",
-      "smart-contract",
-      "crypto",
-      "audit",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "weworkremotely",
     "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
     "company": "bondex",
@@ -338,7 +234,8 @@
     "emails": [
       "nextbit@agilebits.com"
     ],
-    "phones": []
+    "phones": [],
+    "about": " ## Secure access for every human and AI agent Visibility and control for humans and AI agents, built on the most trusted vault for identities, credentials, and secrets. ![Image 1](https://images.ctfassets.net/2h488pz7kg"
   },
   {
     "source": "jobicy",
@@ -675,6 +572,87 @@
       "recruiting@legion.co",
       "privacy@legion.co"
     ],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Android Engineer",
+    "company": "Binance",
+    "location": "APAC",
+    "url": "https://jobicy.com/jobs/154321-android-engineer",
+    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. Responsibilities • Design and implement new user-facing features for Android applications • Build stable, efficient, and high-performance code with strong attention to user experience • Collaborate with cross-functional teams to define, design, and ship new features at scale • Integrate third-party APIs and data sources, including real-time and low-latency services • Write unit tests and improve robustness, reliability, and edge-case handling • Troubleshoot issues, fix critical bugs, and continuously improve app performance • Participate in technical and architectural discussions and contribute to long-term product direction • Work on performance optimization across memory, layout, battery, rendering, networking, and cold start • Support modularization, codebase maintainability, and large-scale refactoring efforts • Contribute to code reviews, best practices, and engineering quality standards Requirements • 5+ years of Android development experience • Strong proficiency in Kotlin and Java • Solid understanding of object-oriented programming and Android fundamentals • Deep knowledge of Android system architecture, lifecycle, and UI rendering • Experience with Jetpack components such as ViewModel and Room • Experience with Retrofit, OkHttp, and modern Android networking patterns • Hands-on experience with MVVM/MVI and modular app architecture • Proven track record of performance optimization and issue diagnosis • Familiarity with debugging and profiling tools such as Profiler, Systrace, Perfetto, and LeakCanary • Strong communication, problem-solving, and teamwork skills Compensation Additional Information Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice . Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance…",
+    "published": "2026-10-01",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "blockchain",
+      "web3",
+      "defi",
+      "crypto",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Distributed Systems Engineer",
+    "company": "Axiom",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/152240-distributed-systems-engineer-2",
+    "description": "About Us Axiom is using zero-knowledge proofs to enable new types of verifiable and private software applications, starting with crypto and fintech. We are a small but incredibly strong team backed by the best investors in crypto . We’re looking for exceptional people who are excited to work on challenging and impactful problems in a fast-paced environment. Our office is in NYC and working in person in NY is our strong preference, but we're open to remote candidates as well. We recently released OpenVM , a performant and modular zkVM framework built for customization and extensibility. OpenVM allows developers to verify the correct execution of arbitrary computer programs in a flexible and performant way. We are building ZK-enabled products using OpenVM and supporting teams building on OpenVM. The Role We are looking for a distributed systems engineer to join a startup using zero-knowledge proofs to scale smart contract applications. You will be responsible for building Rust-based rollup nodes and sequencers to deliver zero-knowledge proof based products on-chain. Your work will require designing secure and efficient systems and making design choices to enable rapid development without sacrificing security. We are looking for someone with strong engineering design skills, a security mindset, and the ability to design and implement blockchain protocols. We also value the ability to make pragmatic technology choices which empower our small team. Who you are You are fluent in Rust, C++, or a similarly performant backend language. We work primarily in Rust. You have experience deploying and monitoring high uptime applications to production in the cloud using orchestration and containerization (Docker, Terraform, Kubernetes). You have experience working within a large production codebase. You are extremely detail oriented and have a security mindset. You’re a clear communicator and value collaboration. You have a bias towards action and extremely strong work ethic. Bonuses You have experience working with blockchain nodes like Geth, Reth, or similar. You have experience with low-level details of Ethereum. You have experience working in an adversarial or security critical environment. Why work with us You’ll be working on groundbreaking tech that has the potential to be a key piece of infrastructure for the crypto industry You’ll receive a competitive salary with equity You will work with and receive mentorship from an exceptional team Our Team Our founders Yi Sun and Jonathan Wang met while studying math at Harvard and have been working on ZK since 2021. Together, they wrote some of the most performant ZK circuits for elliptic curve cryptography and Ethereum data reads before starting Axiom. Before Axiom, Yi was a professor at UChicago Statistics and did a math PhD at MIT. He was previously an advisor for Gauntlet and worked at an HFT startup from inception to profitable trading. Jonathan published number theory research in top math journals and did a math PhD at UChicago. The rest of our small but incredibly strong team includes alums of Applied Intuition, Coinbase, Color, Neon, Google, and Perplexity as well as math / CS PhDs and IMO / IPhO / Codeforces winners. We look forward to working with you! About Us Axiom is using zero-knowledge proofs to enable new types of verifiable and private software applications, starting with crypto and fintech. We are a small but incredibly strong team backed by the best investors in crypto. We’re looking for exceptional people who are excited to work on challenging and impactful problems in a fast-paced…",
+    "published": "2026-10-01",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "smart contract",
+      "blockchain",
+      "ethereum",
+      "crypto",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Accounting Manager (Controllership Focus)",
+    "company": "Binance",
+    "location": "Hong Kong,  Singapore",
+    "url": "https://jobicy.com/jobs/152131-accounting-manager-controllership-focus",
+    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. We are looking for a high-performing Accountant with strong technical accounting fundamentals and a finance transformation mindset . Beyond core accounting and reporting, you will help transform Finance through AI, automation, data and technology , improving efficiency, controls, scalability and decision-making. Experience in consulting, finance transformation or technology-enabled finance , particularly within FinTech or digital assets, is highly valued. Responsibilities Manage financial and management reporting, including cash flow, tax, GST, budgeting and statutory reporting . Prepare and review annual reports, statutory accounts and management reports . Perform and review revenue, balance sheet and intercompany reconciliations . Ensure compliance with accounting standards, tax regulations and corporate governance requirements . Liaise with auditors, tax agents and external advisors . Identify and deliver opportunities to automate, simplify and transform finance processes . Leverage AI, GenAI, automation, data analytics and technology to improve accounting efficiency, accuracy and scalability. Partner with Finance Systems, Data, Engineering and business teams to implement technology-enabled finance solutions . Lead or support process improvement and finance transformation initiatives , challenging existing ways of working. Translate complex accounting requirements into practical, scalable solutions . Requirements Bachelor's degree in Accountancy / Finance, ACCA or equivalent professional qualification. 8+ years' relevant experience in accounting, financial reporting, consulting or finance transformation. Strong technical accounting, analytical and reconciliation skills. Experience in finance transformation, automation or consulting is highly preferred. Strong interest in AI, GenAI, automation, data and emerging finance technologies . Advanced MS Excel skills; ERP, BI, workflow automation or financial systems experience is a plus. Strong communication, stakeholder management and project management skills. Able to work independently in a fast-paced, ambiguous environment . Highly detail-oriented, curious and willing to challenge the status quo. Compensation Additional Information Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice . Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance…",
+    "published": "2026-10-01",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "blockchain",
+      "web3",
+      "crypto",
+      "audit",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
     "phones": []
   }
 ]
