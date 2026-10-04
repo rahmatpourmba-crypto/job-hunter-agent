@@ -1,5 +1,113 @@
 [
   {
+    "source": "jobicy",
+    "title": "Blockchain Security Engineer - Senior Level (Solidity / Rust / Golang )",
+    "company": "CertiK",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/152447-blockchain-security-engineer-senior-level-solidity-rust-golang",
+    "description": "About the Role: We are seeking a Senior Blockchain Security Engineer with a strong security mindset and deep technical expertise across smart contracts, blockchain nodes, and decentralized infrastructure. You will play a critical role in safeguarding Web3 projects by auditing code, building security tools, and driving research. If you have hands-on experience in Web3 and are passionate about advancing the security of decentralized technologies, we’d love to hear from you. Responsibilities Audit and review codebases for smart contracts, blockchain protocols, and decentralized applications (dApps) to identify and remediate vulnerabilities. Work closely with external blockchain teams to enhance the security of their products by providing expert security consultation and implementing remediation strategies. Conduct independent security research, explore new attack vectors, and deliver actionable insights. Design, develop, and maintain internal security tools and frameworks to strengthen our security services. Continuously improve internal processes, methodologies, and service offerings while ensuring high client satisfaction and long-term partnerships. Requirements Bachelor’s, Master’s, or PhD in Mathematics, Computer Science, or Information Security. Minimum 3 years of professional experience as a Software Engineer, Security Engineer, or in a related role. At least 2 years of hands-on experience with blockchain technologies, including: Smart contracts (EVM chains, Solana, Move, etc.), Blockchain protocols (nodes, SDKs, Cosmos, etc.) Strong expertise in threat modeling, risk assessment, and security analysis. Proficiency in one or more programming languages: Rust, Go, Solidity, Python, etc. Passion for Cryptocurrency, DeFi, and Blockchain technologies. Preferred Qualifications Solid academic or practical background in Mathematics, Cryptography, or Cybersecurity. Demonstrated experience conducting audits and collaborating with leading Web3 protocols. Recognized achievements such as published CVEs, or strong placements in Attackathons, Bug Bounties, or Audit Contests. Compensation Additional Information About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and Hillhouse Capital as well as industry leaders like Coinbase Ventures and Binance. Investors = Insight Partners, Sequoia, Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank, Hillhouse Capital, Goldman Sachs, Shunwei Capital, IDG Capital, Wing, Legend Star, Danhua Capital and other investors. About You You’re a self-starter. You believe in tackling the most important problems, even if they are the most difficult problems. You’re comfortable with the unknown and understand that startup life means that you’re going to be wearing multiple hats. And that’s what motivates you. You’re accountable and obsessed with improvement, both in yourself and in others. You’re up to the challenge of building a world-class company that aims to be the infrastructure for more secure software for all. Compensation Target annual salary for this role performed in the US is $102,000 - $180,000. The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates. CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements. https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf All CertiK employees are expected to actively support diversity on their teams, and in the Company. About the Role: We are seeking a Senior Blockchain Security Engineer with a strong security mindset and deep technical expertise across smart contracts, blockchain nodes, and decentralized infrastructure. You will play a critical role in safeguarding Web3 projects by auditing code, building security tools, and driving research. If you have hands-on experience in Web3 and…",
+    "published": "2026-10-04",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 102000,
+    "salary_max": 557000,
+    "score": 20,
+    "title_hits": [
+      "solidity",
+      "blockchain",
+      "security"
+    ],
+    "desc_hits": [
+      "smart contract",
+      "web3",
+      "defi",
+      "crypto",
+      "audit",
+      "dapp",
+      "evm"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$102,000-$557,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Smart Contract Developer | Blockchain Solutions Architect",
+    "company": "Luxeed Abu Dhabi",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-luxeed-abu-dhabi-4475369857",
+    "description": "⛓️ We’re Hiring: Smart Contract Developer | Blockchain Solutions Architect 🕒 Employment Type: Full-Time 💼 Level: Mid-Level to Senior We are looking for a highly skilled Smart Contract Developer | Blockchain Solutions Architect to design, develop, secure, and implement blockchain-based applications and decentralized solutions. This role combines hands-on smart contract development with blockchain architecture, requiring strong technical expertise and the ability to translate business requirements into scalable, secure, and reliable blockchain solutions. 🎯 Key Responsibilities • Design, develop, test, deploy, and maintain smart contracts for blockchain applications. • Develop secure and efficient smart contracts using Solidity and other relevant blockchain programming languages. • Design blockchain architectures that support scalability, security, performance, and reliability. • Analyze business requirements and translate them into practical blockchain-based solutions. • Develop decentralized applications (dApps) and blockchain-enabled services. • Collaborate with product managers, software engineers, designers, and business stakeholders throughout the development lifecycle. • Define technical architecture, system components, blockchain protocols, and integration strategies. • Evaluate blockchain networks and select suitable platforms based on project requirements. • Work with Ethereum and other compatible Layer 1 and Layer 2 blockchain ecosystems. • Develop and integrate smart contracts with web applications, APIs, wallets, and backend services. • Design token-based systems, digital assets, and blockchain transaction workflows where applicable. • Implement contract standards such as ERC-20, ERC-721, ERC-1155, and other relevant protocols. • Conduct smart contract testing, debugging, optimization, and deployment across development and production environments. • Perform code reviews and identify potential security, performance, and architectural issues. • Work closely with cybersecurity teams to strengthen blockchain application security. • Identify vulnerabilities such as reentrancy, access-control issues, integer-related vulnerabilities, oracle manipulation, and other smart contract risks. • Support smart contract audits and address findings identified through security assessments. • Optimize smart contract code for gas efficiency, transaction performance, and maintainability. • Design secure wallet, key-management, authentication, and transaction-signing workflows. • Integrate blockchain solutions with existing enterprise systems, databases, APIs, and cloud environments. • Develop blockchain integration patterns for financial, supply-chain, identity, asset-management, or other business applications. • Evaluate decentralized protocols, infrastructure providers, blockchain frameworks, and development tools. • Monitor blockchain technology developments and assess emerging protocols and architectures. • Research Layer 2 solutions, interoperability technologies, decentralized storage, oracles, and cross-chain technologies. • Prepare technical architecture documents, system diagrams, API specifications, and smart contract documentation. • Establish development standards, coding practices, testing procedures, and deployment processes for blockchain projects. • Support CI/CD pipelines and automated testing for blockchain applications and smart contracts. • Troubleshoot blockchain transactions, contract failures, integration issues, and production incidents. • Work with external blockchain vendors, infrastructure providers, auditors, and technology partners when required. • Provide technical guidance and mentorship to developers working on blockchain projects. • Ensure blockchain solutions are designed with appropriate governance, monitoring, compliance, and operational controls. ✅ Requirements • Bachelor’s degree in Computer Science, Software Engineering, Information Technology, Mathematics, Engineering, or a related field. • Proven experience in blockchain development, smart contract development, or blockchain architecture. • Strong programming experience with Solidity and familiarity with Web3 development technologies. • Experience developing, testing, and deploying smart contracts on Ethereum or compatible blockchain networks. • Strong understanding of blockchain architecture, consensus mechanisms, transactions, blocks, nodes, and distributed systems. • Knowledge of EVM-compatible blockchain networks and Layer 2 technologies. • Experience with blockchain development frameworks such as Hardhat, Foundry, Truffle, or equivalent tools. • Familiarity with Web3 libraries such as ethers.js, web3.js, or similar technologies. • Experience integrating smart contracts with frontend and backend applications. • Strong understanding of cryptographic principles, digital signatures, wallets, and blockchain security. • Knowledge of smart contract vulnerabilities and secure development practices. • Experience with automated testing and blockchain testing frameworks. • Familiarity with Git, version control, CI/CD, and modern software-development workflows. • Understanding of REST APIs, microservices, databases, cloud infrastructure, and distributed applications. • Knowledge of token standards, decentralized applications, decentralized finance, or digital assets is advantageous. • Experience with smart contract auditing or working with external blockchain security auditors is preferred. • Strong understanding of gas optimization and blockchain transaction costs. • Ability to evaluate technical trade-offs between different blockchain networks and architectures. • Strong system-design and architecture skills. • Excellent analytical and problem-solving abilities. • Strong technical documentation and communication skills. • Ability to explain complex blockchain concepts to technical and non-technical stakeholders. • Ability to work independently while collaborating effectively with cross-functional teams. • Strong a",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 19,
+    "title_hits": [
+      "smart contract",
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "web3",
+      "defi",
+      "ethereum",
+      "crypto",
+      "token",
+      "audit",
+      "security"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "jjo.lux@gmail.com"
+    ],
+    "phones": [],
+    "emails_source": "luxeed.com",
+    "about": "Please contact Joseph via email at [jjo.lux@gmail.com](mailto:jjo.lux@gmail.com) I will transfer this domain to you."
+  },
+  {
+    "source": "linkedin",
+    "title": "Smart Contract Developer | Blockchain Solutions Architect",
+    "company": "Rami Abu Shiekha medical Equipment رامي ابو شيخة للاجهزة الطبية",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-rami-abu-shiekha-medical-equipment-%D8%B1%D8%A7%D9%85%D9%8A-%D8%A7%D8%A8%D9%88-%D8%B4%D9%8A%D8%AE%D8%A9-%D9%84%D9%84%D8%A7%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-4475385372",
+    "description": "🔗 We’re Hiring: Smart Contract Developer | Blockchain Solutions Architect 🕒 Employment Type: Full-Time 💼 Level: Mid-Level to Senior We are seeking an experienced Smart Contract Developer | Blockchain Solutions Architect to lead the technical development and architecture of blockchain-powered applications. The role combines hands-on smart contract engineering with solution architecture, covering everything from blockchain platform selection and system design to contract deployment, integration, security, and ongoing optimization. 🎯 Key Responsibilities • Design end-to-end blockchain solutions based on business and technical requirements. • Develop, deploy, and maintain production-ready smart contracts. • Build smart contract logic using Solidity and relevant blockchain technologies. • Design modular and scalable blockchain architectures for decentralized applications. • Evaluate blockchain networks, protocols, and infrastructure according to project requirements. • Define on-chain and off-chain system components and their interaction models. • Develop blockchain-based applications, protocols, and decentralized services. • Integrate smart contracts with frontend applications, backend services, APIs, and external platforms. • Design tokenization, asset-management, transaction, and digital-ownership mechanisms where applicable. • Implement established token and contract standards according to project specifications. • Establish development patterns for secure and maintainable smart contracts. • Create automated unit, integration, and end-to-end tests for blockchain applications. • Conduct contract debugging and investigate failed transactions or unexpected blockchain behavior. • Optimize contract execution, storage usage, transaction costs, and overall performance. • Review blockchain code and architecture for security, reliability, and scalability. • Identify potential vulnerabilities before deployment and coordinate remediation activities. • Work with security specialists and external auditors during smart contract assessments. • Design appropriate access-control, authorization, and administrative mechanisms for decentralized systems. • Evaluate wallet connectivity, signing mechanisms, custody models, and blockchain identity requirements. • Develop integration strategies between blockchain networks and enterprise applications. • Support interoperability and cross-chain integration initiatives where required. • Assess Layer 2 networks, blockchain infrastructure services, oracle solutions, and decentralized storage technologies. • Establish technical standards for blockchain development, testing, deployment, and monitoring. • Develop architecture diagrams, technical specifications, API documentation, and solution blueprints. • Collaborate with product, engineering, security, compliance, and business teams to deliver blockchain initiatives. • Participate in technical planning, architecture reviews, sprint planning, and implementation discussions. • Monitor deployed contracts and blockchain applications for operational or performance issues. • Troubleshoot production incidents and coordinate technical resolutions. • Research emerging blockchain technologies and assess their potential business applications. • Provide technical leadership and guidance to blockchain developers and engineering teams. ✅ Requirements • Bachelor’s degree in Computer Science, Software Engineering, Information Technology, Engineering, or a related technical discipline. • Professional experience in blockchain development, smart contract engineering, or blockchain solution architecture. • Strong hands-on experience with Solidity and Ethereum Virtual Machine (EVM) ecosystems. • Experience deploying smart contracts to blockchain testnets and mainnet environments. • Strong understanding of blockchain architecture, distributed systems, transactions, wallets, and cryptographic concepts. • Experience with Ethereum-compatible networks and familiarity with Layer 2 ecosystems. • Proficiency with development tools such as Hardhat, Foundry, Truffle, or equivalent frameworks. • Experience using Web3 libraries and blockchain RPC/API services. • Strong understanding of smart contract lifecycle management. • Experience writing automated tests for smart contracts and decentralized applications. • Knowledge of common smart contract security risks and secure coding practices. • Understanding of gas management, transaction execution, and blockchain resource limitations. • Experience with Git and modern software development practices. • Familiarity with CI/CD pipelines and automated deployment processes. • Understanding of REST APIs, databases, cloud services, and backend architecture. • Experience designing systems that combine on-chain and traditional off-chain technologies. • Knowledge of token standards and decentralized application architecture. • Familiarity with blockchain monitoring, analytics, logging, and operational tools. • Experience participating in security audits or remediation of smart contract audit findings is advantageous. • Strong system-design and architectural thinking skills. • Excellent troubleshooting and analytical abilities. • Strong understanding of software engineering principles and design patterns. • Ability to communicate complex blockchain concepts clearly to technical and business stakeholders. • Strong documentation and technical presentation skills. • Ability to manage multiple technical priorities in a fast-moving environment. • Relevant blockchain, cloud, cybersecurity, or architecture certifications are advantageous. 🌟 What We Offer • Competitive salary and comprehensive employee benefits. • Opportunity to work on advanced blockchain and decentralized technology projects. • Exposure to smart contracts, Web3 applications, tokenization, and blockchain infrastructure. • Access to modern blockchain development tools and technologies. • Opportunities to contribute to architecture decisions for new blockcha",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 18,
+    "title_hits": [
+      "smart contract",
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "web3",
+      "defi",
+      "ethereum",
+      "crypto",
+      "token",
+      "audit",
+      "security"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "Sales@RAMI.com",
+      "sales@rami.com"
+    ],
+    "phones": [],
+    "emails_source": "rami.com",
+    "about": "Miller Industries) has been engineering and manufacturing these systems for the United States military since 1956."
+  },
+  {
     "source": "linkedin",
     "title": "Blockchain Developer",
     "company": "BrothersTech",
@@ -58,6 +166,34 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$140,000-$597,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Blockchain Security Expert - AI Track",
+    "company": "CertiK",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/152451-blockchain-security-expert-ai-track",
+    "description": "About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and Hillhouse Capital as well as industry leaders like Coinbase Ventures and Binance. Investors = Insight Partners, Sequoia, Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank, Hillhouse Capital, Goldman Sachs, Shunwei Capital, IDG Capital, Wing, Legend Star, Danhua Capital and other investors. About the Role The primary focus of this role is to pioneer the development of an intelligent AI agent powered by large language models (LLMs) to enhance our security audit tools in the blockchain space. As a Blockchain Security Expert on the AI Track, you will work closely with our blockchain security team to bridge cutting-edge academic research with practical applications. Your efforts will be dedicated to developing, testing, and optimizing LLM-driven AI agents that automatically analyze smart contracts and identify potential vulnerabilities. In this role, you'll be immersed in research and experimentation, exploring new methods to improve threat detection and risk assessment within our security audit platform, thereby directly contributing to more secure blockchain infrastructures. Responsibilities Collaborate with our blockchain security team to develop an LLM-based AI agent for security audit tools. Experiment with novel AI techniques to enhance threat detection and risk assessment in blockchain environments. Assist in transforming cutting-edge research on AI agents into practical, scalable security auditing solutions. Continuously research emerging trends in LLMs, AI agent architectures, and cybersecurity, and proactively propose improvements. Requirements A bachelor’s degree (or higher), preferably in a science or engineering field. 2+ years of security or software development experience. Familiar with blockchain and smart contract technologies. Familiar with agentic coding tools, such as Cursor, Windsurf, Cline, etc. Strong and creative problem-solving skills; always willing to learn and embrace new technologies, and to collaborate. Preferred Qualifications Prior research or project experience in developing AI agents or automated security analysis tools. Demonstrated ability to translate research insights into effective, production-ready tools. Prior knowledge of web3 security audits. Hands-on blockchain experience, such as evaluating risks for blockchain projects or analyzing on-chain security events. Compensation Additional Information Compensation: If the role is performed in the US, the target annual compensation is $120,000 - $180,000. The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates. #blockchain #startups #hiring CertiK accepts applications for this position on an ongoing basis. CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements. https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf All CertiK employees are expected to actively support diversity on their teams, and in the Company. About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects…",
+    "published": "2026-10-04",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 120000,
+    "salary_max": 557000,
+    "score": 13,
+    "title_hits": [
+      "blockchain",
+      "security"
+    ],
+    "desc_hits": [
+      "smart contract",
+      "web3",
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$120,000-$557,000",
     "emails": [],
     "phones": []
   },
@@ -121,6 +257,35 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Senior Blockchain Engineer",
+    "company": "Higher Learning LV",
+    "location": "United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/senior-blockchain-engineer-at-higher-learning-lv-4473487255",
+    "description": "We're Hiring: Senior Blockchain Engineer Location: United Arab Emirates (Remote) Employment Type: Full-Time Experience Level: Senior Work Arrangement: Fully Remote About Us We are a globally focused technology organization committed to developing secure, scalable, and innovative digital infrastructure and financial technology solutions across diverse markets. Our multidisciplinary teams collaborate across Engineering, Product, Security, Finance, Compliance, Data, Operations, and external technology partners to build reliable distributed systems, blockchain applications, digital-asset infrastructure, and next-generation financial products. The Role We are seeking an experienced Senior Blockchain Engineer to design, develop, integrate, and optimize blockchain-based systems, decentralized applications, smart contracts, and distributed-ledger infrastructure. The ideal candidate will combine strong software-engineering expertise with deep knowledge of blockchain protocols, smart-contract development, cryptography, decentralized architectures, digital assets, and blockchain security. The role will work closely with Product, Engineering, Security, Compliance, and external ecosystem partners to deliver secure, scalable, and production-ready blockchain solutions. Key Responsibilities Design and develop secure, scalable, and reliable blockchain applications and distributed systems. Develop and maintain blockchain-based platforms, services, APIs, and infrastructure. Evaluate blockchain architectures and select appropriate technologies based on product, performance, security, and scalability requirements. Design solutions using public, private, permissioned, or hybrid blockchain architectures where appropriate. Develop and maintain smart contracts for supported blockchain networks. Write secure, efficient, maintainable, and well-tested smart-contract code. Implement decentralized application functionality across blockchain and off-chain components. Integrate blockchain networks with existing enterprise applications, databases, APIs, payment systems, and financial platforms. Develop blockchain APIs and services that expose distributed-ledger functionality to internal and external applications. Implement wallet connectivity, transaction management, address management, signing workflows, and blockchain integrations. Develop services for blockchain transaction submission, monitoring, confirmation, and reconciliation. Monitor blockchain transactions, network activity, confirmation times, failures, and operational exceptions. Build reliable mechanisms for handling transaction retries, failures, reorganization events, and network interruptions. Design blockchain data models and indexing solutions for efficient transaction and asset retrieval. Develop blockchain event listeners, transaction processors, indexers, and monitoring services. Work with blockchain nodes, RPC providers, infrastructure platforms, and network services. Configure, maintain, and optimize blockchain nodes and supporting infrastructure where required. Monitor node health, synchronization status, connectivity, resource utilization, and network performance. Develop highly available blockchain infrastructure and appropriate disaster-recovery mechanisms. Optimize blockchain applications for performance, scalability, transaction throughput, and cost efficiency. Analyze network fees, transaction costs, gas usage, and resource consumption. Optimize smart contracts and transaction workflows to reduce unnecessary execution costs. Evaluate Layer 1 and Layer 2 solutions and recommend appropriate architectures for product requirements. Assess interoperability solutions, cross-chain protocols, bridges, messaging systems, and blockchain integration technologies. Design secure mechanisms for blockchain interoperability and asset transfers where required. Implement cryptographic functionality and secure key-management practices in collaboration with security teams. Ensure private keys, credentials, secrets, and sensitive blockchain information are appropriately protected. Integrate hardware security modules, custody platforms, secure key-management systems, or institutional wallet solutions where applicable. Implement transaction-signing controls, authorization workflows, and multi-signature mechanisms where required. Collaborate with Security teams to identify and mitigate blockchain-specific security risks. Conduct smart-contract security reviews and coordinate independent audits where appropriate. Identify vulnerabilities including reentrancy, access-control weaknesses, arithmetic issues, oracle manipulation, front-running, flash-loan attacks, denial-of-service risks, and other blockchain-specific threats. Implement secure coding standards and development practices for blockchain systems. Develop automated unit, integration, functional, security, and smart-contract tests. Establish comprehensive test coverage for blockchain transactions, contract logic, edge cases, failure scenarios, and integrations. Support testnet deployments, network upgrades, contract migrations, and mainnet releases. Coordinate blockchain release processes, deployment approvals, version management, and rollback or contingency procedures. Monitor production blockchain applications and respond to technical incidents. Investigate failed transactions, contract errors, node failures, network disruptions, and integration issues. Lead root-cause analysis for significant blockchain incidents and implement corrective actions. Develop observability solutions covering logs, metrics, traces, transaction states, and blockchain events. Establish operational dashboards and alerts for blockchain infrastructure and application performance. Work closely with DevOps, Cloud, Platform Engineering, and Site Reliability teams to maintain production infrastructure. Support containerized deployments, cloud infrastructure, CI/CD pipelines, automated deployment, and infrastructure-as-code practices. Impr",
+    "published": "",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 10,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "smart contract",
+      "smart-contract",
+      "crypto",
+      "audit",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "weworkremotely",
     "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
     "company": "bondex",
@@ -173,8 +338,7 @@
     "emails": [
       "nextbit@agilebits.com"
     ],
-    "phones": [],
-    "about": " ## Secure access for every human and AI agent Visibility and control for humans and AI agents, built on the most trusted vault for identities, credentials, and secrets. ![Image 1](https://images.ctfassets.net/2h488pz7kg"
+    "phones": []
   },
   {
     "source": "jobicy",
@@ -203,35 +367,6 @@
     "salary_str": "",
     "emails": [],
     "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Deployment Strategist, APAC",
-    "company": "TRM Labs",
-    "location": "APAC",
-    "url": "https://jobicy.com/jobs/151842-deployment-strategist-apac",
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. At TRM Labs, our Deployment Strategy team is on the front lines of customer experience – bridging product expertise with exceptional customer support. The team ensures our customers receive timely, accurate, and high-quality assistance at every step. You will work daily with leading financial institutions, crypto exchanges, and regulators — providing value through expert guidance, responsive support, and trusted partnership. As a Deployment Strategist (APAC), you will play a critical role in helping TRM customers realise the full value of our platform. You will partner with regulators, financial institutions, and crypto businesses to operationalize scalable compliance programs and disrupt financial crime across the crypto ecosystem. You will manage a portfolio of strategic accounts, driving adoption of TRM's tools, and ensuring customers achieve measurable, long-term impact. The impact you will have: Act as a trusted advisor, enabling regulators, financial institutions, and crypto businesses to maximise the effectiveness of our platform within their supervisory, risk, and compliance functions. Confidently explain complex technical and investigative concepts, supporting customer teams in interpreting blockchain data, building cases, and conducting financial crime investigations. Build and deliver product demonstrations tailored to compliance officers, analysts, supervisors, and risk teams across financial institutions, crypto businesses, and regulatory bodies. Conduct structured training sessions, delivered in English and Mandarin, to ensure TRM is embedded into customers' day-to-day investigative and compliance programs. Serve as the \"Voice of the Customer\" by channeling customer feedback to product and engineering teams to influence product direction. Monitor customer engagement and usage trends, proactively identifying early signals of churn risk and implementing effective mitigation strategies. Establish a consistent engagement cadence with customer stakeholders to understand institutional priorities, regulatory obligations, and emerging risks. Proactively identify and surface expansion opportunities and growth signals within customer accounts and partnering with Account Directors to drive TRM's Gross Revenue Retention (GRR) and Net Revenue Retention (NRR) targets. What we're looking for: 5+ years of professional experience, ideally within crypto businesses, financial institutions, or regulatory bodies — preferably in compliance, investigative, or customer-facing functions. Professional proficiency in English and Mandarin is required. Hands-on experience with virtual currencies and blockchain analytics, ideally within a compliance or investigative context. Proven ability to structure complex problems, prioritize critical issues, and deliver actionable solutions. Exceptional attention to detail and rigor, particularly in regulatory and investigative contexts. Ability to distill and communicate complex technical and investigative concepts to diverse stakeholders, from compliance officers to senior executives. Strong collaboration skills and ability to influence outcomes in cross-functional settings. Willingness and ability to travel occasionally for in-person meetings, trainings, or events. About the Team: As a globally distributed team, we work across time zones to provide seamless support and collaboration for our customers. The APAC Deployment Strategy team plays a key role in this model, ensuring continuous customer engagement and partnership as part of TRM's global coverage. Our Customer Success Team is fully remote, thriving on asynchronous communication through Slack and detailed documentation. We hold weekly Customer Syncs, bi-weekly health syncs, and join associated POD calls. Team Operating Rhythms: Async-first with core overlap for APAC hours. Weekly Customer Syncs and bi-weekly health syncs. Regular POD calls and customer QBRs. On-Call Responsibilities: Schedule: Minimal weekend monitoring for P0 and P1 issues. Frequency: Approximately 1 weekend per every 5 weeks. Travel Requirements: Schedule: Occasional Learn about TRM Speed in this position: You meet with an existing customer, capture their internal success metrics (OSMs), and draft a 30/60/90-day success plan to achieve them — all in the same week. You receive a bug report from a customer, coordinate internally across Product and Engineering to get answers and a fix, and close the loop with the customer — all in the same day. You surface an expansion opportunity on a customer call, validate it against CSQL criteria, and log the CSQL with the Account Director — within the same day. Life at TRM We are building a safer world. That promise shows up in how we work every day. TRM moves quickly. We are a high velocity, high ownership team that expects clarity, follow-through, and impact. People who thrive here are energized by hard problems, experimentation, and continuous feedback. If something takes months elsewhere, it will ship here in days. Our work sits at the intersection of AI, national security, and fighting crime. The problems are complex, the stakes are real, and the environment evolves quickly. The pace and intensity of the work reflect the importance of the mission. As a result, the way we operate requires a high level of ownership, adaptability, collaboration, and creative problem-solving. At TRM, you should expect: Priorities and targets to change quickly as we experiment and iterate Work that often requires operating with a high degree of ambiguity A high level of personal ownership and accountability Close collaboration across teams and functions Frequent, high-touch communication Creative problem solving and out-of-the-box thinking A pace that rewards urgency, adaptability, and outcomes This environment is energizing for people who enjoy building, solving hard problems, and making progress in situations that are not always fully defined. It also requires comfort navigating ambiguity, adjusting course as new information emerges, and maintaining focus and positivity in a fast-moving and intense environment. We also recognize that this style of operating is not for everyone. If you are primarily optimizing for predictability or a consistently balanced workload, we encourage you to use the interview process to pressure test whether this environment is truly the right fit. We want teammates who thrive here, not just survive here. At the same time, many people find this work deeply rewarding. If you are excited by meaningful problems, motivated by ambitious goals, and energized by working alongside mission-driven colleagues, there is a good chance you will find TRM to be an exceptional place to grow and contribute. Learn more: Interviewing at TRM: How We Hire and What Success Looks Like AI Fluency at TRM AI fluency is a baseline expectation at TRM. We believe AI meaningfully changes how top performers operate. We expect every team member to use AI to accelerate and reimagine their craft, not just automate surface tasks. At TRM, AI fluency means you are among the top 10 percent of operators in your function in how you apply AI to: Accelerate repeatable workflows Structure and solve problems Improve output quality Increase speed and leverage You will be evaluated on applied AI fluency during the interview process. Leadership Principles We hire and grow against three leadership principles. They’re the standards for how we operate, treat each other, and make decisions. Impact-Oriented Trailblazer: We put customers first and move with speed, focus, and adaptability. We treat every plan like an experiment – test, ship, measure, and iterate quickly. Master Craftsperson: We care deeply about our craft. We balance speed with high standards, own outcomes end‑to‑end, and invest in getting better everyday. Inspiring Colleague: We add clarity and energy, not noise. We bring humility, candor, and a one‑team mindset — giving and receiving feedback to make the team stronger. Join our Mission At TRM we care deeply about our craft. We are looking for individuals who want their work to matter, who experiment with speed and rigor, and who take pride in building a safer world for billions of people. If you’re excited by TRM’s mission but don’t check every box, we encourage you to apply — we hire for slope, judgment, and the will to learn fast. TRM is a Series C company with $220M in total funding, backed by Goldman Sachs, Bessemer, Y Combinator, Thoma Bravo, and others. Headquartered in San Francisco, TRM operates as a distributed-first company with hubs in Los Angeles, San Francisco, New York, Washington D.C., London, and Singapore. Privacy Policy and Additional Information By submitting your application, you agree to allow TRM Labs to process your personal information in accordance with our Privacy Policy . We collect the information you provide (such as your resume, work history, and contact details) solely for the purpose of evaluating your candidacy for current and future roles at TRM. Because our hiring cycles for certain positions may span 24 to 36 months, we retain your personal information for up to 36 months from the date of your application. After that period, your data is deleted unless a different retention period is required or permitted by law. If you are located in the European Economic Area, the United Kingdom, or another jurisdiction with applicable data protection laws, you have the right to access, correct, or request deletion of your personal data at any time before that period ends. To exercise any of these rights, contact us at privacy@trmlabs.com . To notify TRM Labs that you believe this job posting is non-compliant, please submit a report through this form . No response will be provided to inquiries unrelated to job posting compliance. The use of AI tools of any kind (including but not limited to notetakers, interview assistants, and real-time coaching tools such as Otter.ai, Fireflies, Fathom, Cluey, or similar) during TRM interviews is not permitted without prior approval from TRM. TRM uses its own internal tools for note-taking to ensure a consistent and confidential experience for all candidates. We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this form . Recruitment agencies TRM Labs does not accept unsolicited agency resumes. Please do not forward resumes to TRM employees. TRM Labs is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company without a signed agreement. Learn More : Company Values | Interviewing | FAQs Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. At…",
-    "published": "2026-09-27",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": 220000,
-    "salary_max": 220000,
-    "score": 8,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "defi",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$220,000-$220,000",
-    "emails": [
-      "privacy@trmlabs.com"
-    ],
-    "phones": [],
-    "about": "Serious inquiries only [**cory@clickology.com**](mailto:cory@clickology.com)"
   },
   {
     "source": "weworkremotely",
@@ -309,32 +444,6 @@
     "emails": [
       "privacy@trmlabs.com"
     ],
-    "phones": []
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Prove: Director, Channel & Partnerships",
-    "company": "Prove",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
-    "description": "Headquarters: New York, NY; United States (Remote) About Prove As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expenses and fraud losses. Over 1,000 enterprise customers use Prove’s platform to process 20 billion customer requests annually across industries, including banking, lending, healthcare, gaming, crypto, e-commerce, marketplaces, and payments. For the latest updates from Prove, follow us on LinkedIn. Prove is driving the future of digital identity. We are looking for Provers who know how to make an impact. We’re talking self-starting professionals who thrive in a fast-paced environment, process information quickly, and make intelligent decisions. The work is challenging and requires not only smart but natural curiosity and tenacity. Teamwork is also important to us – we work together and play together. Prove has big plans, and we’re excited about the future. If this sounds like the place for you – come join our team! Title: Director, Channel & Partnerships Department: Partnerships Reports To: VP, Channels & Partnerships FLSA Status: Exempt Location: New York, NY or remote The partner ecosystem is a significant and fast-growing part of Prove’s success and growth strategy. We are looking for an exceptional, revenue-driven partner operator to join as a Director of Channel & Partnerships . This role is 100% focused on sourcing, structuring, and launching high-impact Reseller and OEM partnerships within the core banking, fintech and identity ecosystem. The ideal candidate has a proven track record of navigating, negotiating, and closing complex Reseller and OEM agreements with major financial technology ecosystems—specifically targeting banking infrastructure giants like Fiserv and Jack Henry. You will be responsible for turning these platforms into successful commercial channels that scale Prove's reach and directly drive ARR. As an early team hire, this individual will help lay the commercial and operational foundation for our global reseller program. Key Responsibilities New Partner Sourcing: Own the end-to-end sourcing, structuring, and closing of complex partnership agreements with top-tier core banking platforms as well as strategic fraud, identity, and lending infrastructure providers. GTM Mobilization: Partner closely with Partner Success and Partner Marketing build comprehensive enablement playbooks, ensuring partner sales forces are fully equipped to position and distribute Prove's embedded solutions. Revenue Ownership: Drive the post-signature partner commercialization lifecycle to accelerate pipeline generation, manage partner-sourced ARR quotas, and maximize Prove's footprint within the partner's client base. Cross-Functional Alignment: Align closely with Prove's direct Sales + GTM leadership to map strategic accounts, manage channel conflict, and create a unified approach to market penetration. Program Architecture: Develop and refine Prove’s partner programs, pricing frameworks, and operational processes to establish scalable best practices for Reseller and OEM models. Qualifications and Experience 7+ years of professional work experience, with 3+ years specifically focused on sourcing, negotiating, and closing Reseller and OEM partnerships in the technology or financial services sector. Proven track record of hitting and exceeding partner sales quotas. Demonstrated experience managing deep commercial relationships or closing deals with major core banking platforms (e.g., Fiserv, Jack Henry, FIS) is preferred. Expertise in structuring complex technical and commercial agreements Experience in high-growth, venture-backed, or pre-IPO technology companies is strongly preferred. Willingness to travel up to 25% of the time for partner meetings and industry events. Skills and Attributes Discovery-first mindset: you ask before you pitch, and you can translate a prospect's business problem into a product & GTM structure recommendation. Technical fluency: comfortable in conversations that involve API integration, compliance considerations and technical architecture, even when you're not the technical expert in the room. Data-driven: you own your pipeline numbers, understand what they mean, and use them to prioritize your time. Commercial grit: reseller and OEM partnerships with massive institutions are complex and lengthy; you stay persistent, creative, and strategically aligned without losing momentum. High Collaboration: you naturally bridge gaps across engineering, legal, product, and sales teams to bring highly multi-faceted deals across the finish line. The anticipated salary pay range for Metro 2 areas for this role is $165,000 - 180,000 plus sales incentive plan. The anticipated salary pay range for Metro 3 areas for this role is $160,000 - $175,000 plus sales incentive plan. Offered salary will be determined by the applicant's experience, knowledge, skills, geo-location and abilities as well as internal equity and alignment with market data. Prove follows a market driven compensation philosophy based on geographic location and respective market rates. Job offers will be aligned to location. Please speak with your recruiter if you have questions. Prove defines: Metro 2 - NYC metro area, Seattle metro area, Los Angeles metro area, and the Miami metro area. Metro 3 - all other cities across the domestic United States, with the exception of the San Francisco Bay Area. Benefits & Perks for FTE Provers: Competitive salaries & Bonus Plan (for eligible roles) and Equity Plan Modern Health for financial, mental, and physical wellness 401(k) Retirement Plan & Match (US Offices) and Local Country Pension (International Offices) Unlimited Vacation and Flexible hours Comprehensive medical benefits for you and your family ️ Emotional & Physical Wellness – Access to wellness services (EAP & Prove Well-Being Reimbursement) Bottomless snacks & beverages for certain office locations Daily GrubHub stipend for lunch if coming into the office (US Offices) A great place to work and connect with other talented Provers like yourself! Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Prove we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Equal Opportunity Employment: Prove is an equal opportunity employer committed to providing equal employment opportunity for all people regardless of race, color, religion, gender or sexual orientation, age, marital status, national origin, citizenship status, disability, veteran status or other personal characteristics Privacy & Data Protection: When you are applying for a job at Prove, we collect and use your personal information in the job application process. To understand more about how Prove uses your personal information, please see our Recruitment Privacy Policy on our website. To apply: https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
-    "published": "Fri, 04 Sep 2026",
-    "remote": true,
-    "currency": null,
-    "salary_min": 160000,
-    "salary_max": 180000,
-    "score": 8,
-    "title_hits": [],
-    "desc_hits": [
-      "defi",
-      "crypto",
-      "token",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$160,000-$180,000",
-    "emails": [],
     "phones": []
   },
   {
@@ -566,87 +675,6 @@
       "recruiting@legion.co",
       "privacy@legion.co"
     ],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Android Engineer",
-    "company": "Binance",
-    "location": "APAC",
-    "url": "https://jobicy.com/jobs/154321-android-engineer",
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. Responsibilities • Design and implement new user-facing features for Android applications • Build stable, efficient, and high-performance code with strong attention to user experience • Collaborate with cross-functional teams to define, design, and ship new features at scale • Integrate third-party APIs and data sources, including real-time and low-latency services • Write unit tests and improve robustness, reliability, and edge-case handling • Troubleshoot issues, fix critical bugs, and continuously improve app performance • Participate in technical and architectural discussions and contribute to long-term product direction • Work on performance optimization across memory, layout, battery, rendering, networking, and cold start • Support modularization, codebase maintainability, and large-scale refactoring efforts • Contribute to code reviews, best practices, and engineering quality standards Requirements • 5+ years of Android development experience • Strong proficiency in Kotlin and Java • Solid understanding of object-oriented programming and Android fundamentals • Deep knowledge of Android system architecture, lifecycle, and UI rendering • Experience with Jetpack components such as ViewModel and Room • Experience with Retrofit, OkHttp, and modern Android networking patterns • Hands-on experience with MVVM/MVI and modular app architecture • Proven track record of performance optimization and issue diagnosis • Familiarity with debugging and profiling tools such as Profiler, Systrace, Perfetto, and LeakCanary • Strong communication, problem-solving, and teamwork skills Compensation Additional Information Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice . Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance…",
-    "published": "2026-10-01",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "web3",
-      "defi",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Distributed Systems Engineer",
-    "company": "Axiom",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/152240-distributed-systems-engineer-2",
-    "description": "About Us Axiom is using zero-knowledge proofs to enable new types of verifiable and private software applications, starting with crypto and fintech. We are a small but incredibly strong team backed by the best investors in crypto . We’re looking for exceptional people who are excited to work on challenging and impactful problems in a fast-paced environment. Our office is in NYC and working in person in NY is our strong preference, but we're open to remote candidates as well. We recently released OpenVM , a performant and modular zkVM framework built for customization and extensibility. OpenVM allows developers to verify the correct execution of arbitrary computer programs in a flexible and performant way. We are building ZK-enabled products using OpenVM and supporting teams building on OpenVM. The Role We are looking for a distributed systems engineer to join a startup using zero-knowledge proofs to scale smart contract applications. You will be responsible for building Rust-based rollup nodes and sequencers to deliver zero-knowledge proof based products on-chain. Your work will require designing secure and efficient systems and making design choices to enable rapid development without sacrificing security. We are looking for someone with strong engineering design skills, a security mindset, and the ability to design and implement blockchain protocols. We also value the ability to make pragmatic technology choices which empower our small team. Who you are You are fluent in Rust, C++, or a similarly performant backend language. We work primarily in Rust. You have experience deploying and monitoring high uptime applications to production in the cloud using orchestration and containerization (Docker, Terraform, Kubernetes). You have experience working within a large production codebase. You are extremely detail oriented and have a security mindset. You’re a clear communicator and value collaboration. You have a bias towards action and extremely strong work ethic. Bonuses You have experience working with blockchain nodes like Geth, Reth, or similar. You have experience with low-level details of Ethereum. You have experience working in an adversarial or security critical environment. Why work with us You’ll be working on groundbreaking tech that has the potential to be a key piece of infrastructure for the crypto industry You’ll receive a competitive salary with equity You will work with and receive mentorship from an exceptional team Our Team Our founders Yi Sun and Jonathan Wang met while studying math at Harvard and have been working on ZK since 2021. Together, they wrote some of the most performant ZK circuits for elliptic curve cryptography and Ethereum data reads before starting Axiom. Before Axiom, Yi was a professor at UChicago Statistics and did a math PhD at MIT. He was previously an advisor for Gauntlet and worked at an HFT startup from inception to profitable trading. Jonathan published number theory research in top math journals and did a math PhD at UChicago. The rest of our small but incredibly strong team includes alums of Applied Intuition, Coinbase, Color, Neon, Google, and Perplexity as well as math / CS PhDs and IMO / IPhO / Codeforces winners. We look forward to working with you! About Us Axiom is using zero-knowledge proofs to enable new types of verifiable and private software applications, starting with crypto and fintech. We are a small but incredibly strong team backed by the best investors in crypto. We’re looking for exceptional people who are excited to work on challenging and impactful problems in a fast-paced…",
-    "published": "2026-10-01",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "smart contract",
-      "blockchain",
-      "ethereum",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Accounting Manager (Controllership Focus)",
-    "company": "Binance",
-    "location": "Hong Kong,  Singapore",
-    "url": "https://jobicy.com/jobs/152131-accounting-manager-controllership-focus",
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. We are looking for a high-performing Accountant with strong technical accounting fundamentals and a finance transformation mindset . Beyond core accounting and reporting, you will help transform Finance through AI, automation, data and technology , improving efficiency, controls, scalability and decision-making. Experience in consulting, finance transformation or technology-enabled finance , particularly within FinTech or digital assets, is highly valued. Responsibilities Manage financial and management reporting, including cash flow, tax, GST, budgeting and statutory reporting . Prepare and review annual reports, statutory accounts and management reports . Perform and review revenue, balance sheet and intercompany reconciliations . Ensure compliance with accounting standards, tax regulations and corporate governance requirements . Liaise with auditors, tax agents and external advisors . Identify and deliver opportunities to automate, simplify and transform finance processes . Leverage AI, GenAI, automation, data analytics and technology to improve accounting efficiency, accuracy and scalability. Partner with Finance Systems, Data, Engineering and business teams to implement technology-enabled finance solutions . Lead or support process improvement and finance transformation initiatives , challenging existing ways of working. Translate complex accounting requirements into practical, scalable solutions . Requirements Bachelor's degree in Accountancy / Finance, ACCA or equivalent professional qualification. 8+ years' relevant experience in accounting, financial reporting, consulting or finance transformation. Strong technical accounting, analytical and reconciliation skills. Experience in finance transformation, automation or consulting is highly preferred. Strong interest in AI, GenAI, automation, data and emerging finance technologies . Advanced MS Excel skills; ERP, BI, workflow automation or financial systems experience is a plus. Strong communication, stakeholder management and project management skills. Able to work independently in a fast-paced, ambiguous environment . Highly detail-oriented, curious and willing to challenge the status quo. Compensation Additional Information Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice . Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance…",
-    "published": "2026-10-01",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "web3",
-      "crypto",
-      "audit",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
     "phones": []
   }
 ]

@@ -6983,6 +6983,60 @@
       "company": "Anton-OSS",
       "source": "linkedin",
       "first_seen": "2026-10-03"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-at-omrania-4472291581": {
+      "title": "HSE Engineer",
+      "company": "Omrania",
+      "source": "linkedin",
+      "first_seen": "2026-10-04"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-luxeed-abu-dhabi-4475369857": {
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "Luxeed Abu Dhabi",
+      "source": "linkedin",
+      "first_seen": "2026-10-04"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-rami-abu-shiekha-medical-equipment-%D8%B1%D8%A7%D9%85%D9%8A-%D8%A7%D8%A8%D9%88-%D8%B4%D9%8A%D8%AE%D8%A9-%D9%84%D9%84%D8%A7%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-4475385372": {
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "Rami Abu Shiekha medical Equipment رامي ابو شيخة للاجهزة الطبية",
+      "source": "linkedin",
+      "first_seen": "2026-10-04"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-blockchain-engineer-at-higher-learning-lv-4473487255": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Higher Learning LV",
+      "source": "linkedin",
+      "first_seen": "2026-10-04"
+    },
+    "https://jobicy.com/jobs/152461-principal-product-manager-omnichannel-cx": {
+      "title": "Principal Product Manager (Omnichannel CX)",
+      "company": "Nextiva",
+      "source": "jobicy",
+      "first_seen": "2026-10-04"
+    },
+    "https://jobicy.com/jobs/152445-digital-success-strategy-manager": {
+      "title": "Digital Success Strategy Manager",
+      "company": "Jamf",
+      "source": "jobicy",
+      "first_seen": "2026-10-04"
+    },
+    "https://jobicy.com/jobs/151408-senior-customer-success-engineer": {
+      "title": "Senior Customer Success Engineer",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-04"
+    },
+    "https://jobicy.com/jobs/152453-senior-account-executive-upmarket-new-logo": {
+      "title": "Senior Account Executive | Upmarket | New Logo",
+      "company": "Jamf",
+      "source": "jobicy",
+      "first_seen": "2026-10-04"
+    },
+    "https://jobicy.com/jobs/152497-senior-product-manager-ai-and-endpoint": {
+      "title": "Senior Product Manager, AI and Endpoint",
+      "company": "Teramind",
+      "source": "jobicy",
+      "first_seen": "2026-10-04"
     }
   },
   "applied": {
@@ -7783,6 +7837,20 @@
       "to": "nextbit@agilebits.com",
       "title": "Senior Developer (Windows), Product Security",
       "company": "1Password"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-luxeed-abu-dhabi-4475369857::email": {
+      "date": "2026-10-04 12:44",
+      "via": "email",
+      "to": "jjo.lux@gmail.com",
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "Luxeed Abu Dhabi"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-rami-abu-shiekha-medical-equipment-%D8%B1%D8%A7%D9%85%D9%8A-%D8%A7%D8%A8%D9%88-%D8%B4%D9%8A%D8%AE%D8%A9-%D9%84%D9%84%D8%A7%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-4475385372::email": {
+      "date": "2026-10-04 12:44",
+      "via": "email",
+      "to": "Sales@RAMI.com",
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "Rami Abu Shiekha medical Equipment رامي ابو شيخة للاجهزة الطبية"
     }
   },
   "sent": {
@@ -8240,6 +8308,16 @@
       "kind": "email",
       "to": "nextbit@agilebits.com",
       "date": "2026-10-02 20:07"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-luxeed-abu-dhabi-4475369857": {
+      "kind": "email",
+      "to": "jjo.lux@gmail.com",
+      "date": "2026-10-04 12:44"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-rami-abu-shiekha-medical-equipment-%D8%B1%D8%A7%D9%85%D9%8A-%D8%A7%D8%A8%D9%88-%D8%B4%D9%8A%D8%AE%D8%A9-%D9%84%D9%84%D8%A7%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-4475385372": {
+      "kind": "email",
+      "to": "Sales@RAMI.com",
+      "date": "2026-10-04 12:44"
     }
   },
   "replies": []
