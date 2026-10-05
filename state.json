@@ -7097,6 +7097,54 @@
       "company": "Nebius",
       "source": "jobicy",
       "first_seen": "2026-10-05"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-manager-at-trading-and-development-partnership-4470278807": {
+      "title": "Safety Manager",
+      "company": "Trading and Development Partnership",
+      "source": "linkedin",
+      "first_seen": "2026-10-05"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-engineer-ehs-at-larsen-toubro-4475506549": {
+      "title": "Sr. Engineer - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-05"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4475560330": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Cari Network",
+      "source": "linkedin",
+      "first_seen": "2026-10-05"
+    },
+    "https://jobicy.com/jobs/154593-staff-infrastructure-engineer": {
+      "title": "Staff Infrastructure Engineer",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-05"
+    },
+    "https://jobicy.com/jobs/154597-senior-software-engineer-graph-analytics": {
+      "title": "Senior Software Engineer, Graph Analytics",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-05"
+    },
+    "https://jobicy.com/jobs/154592-engineer-security-operations-engineering": {
+      "title": "Engineer, Security Operations & Engineering",
+      "company": "Collibra",
+      "source": "jobicy",
+      "first_seen": "2026-10-05"
+    },
+    "https://jobicy.com/jobs/154603-it-business-systems-manager": {
+      "title": "IT & Business Systems Manager",
+      "company": "DataGrail",
+      "source": "jobicy",
+      "first_seen": "2026-10-05"
+    },
+    "https://www.gulftalent.com/uae/jobs/cyber-security-compliance-specialist-uae-national-643029": {
+      "title": "Cyber Security Compliance Specialist (UAE National)",
+      "company": "Michael Page",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-05"
     }
   },
   "applied": {
