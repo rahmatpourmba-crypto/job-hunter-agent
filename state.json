@@ -7169,6 +7169,120 @@
       "company": "Jobgether",
       "source": "linkedin",
       "first_seen": "2026-10-06"
+    },
+    "https://sa.linkedin.com/jobs/view/occupational-health-nurse-at-meena-health-4476155639": {
+      "title": "Occupational Health Nurse",
+      "company": "Meena Health",
+      "source": "linkedin",
+      "first_seen": "2026-10-06"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-natural-gas-distribution-company-ngdc-4474043453": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Natural Gas Distribution Company (NGDC)",
+      "source": "linkedin",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/154682-senior-application-security-engineer-3": {
+      "title": "Senior Application Security Engineer",
+      "company": "Beyond Finance",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/152619-customer-experience-associate-4": {
+      "title": "Customer Experience Associate",
+      "company": "Peerspace",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement": {
+      "title": "PagerDuty: Senior Director, Field Enablement",
+      "company": "PagerDuty",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/154674-lead-product-management": {
+      "title": "Lead Product Management",
+      "company": "Carrot",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions": {
+      "title": "LaunchDarkly: Backend Engineer (Multiple Positions)",
+      "company": "LaunchDarkly",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/152562-ai-transformation-owner-cro": {
+      "title": "AI Transformation Owner, CRO",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/152561-senior-channel-enablement-manager": {
+      "title": "Senior Channel Enablement Manager",
+      "company": "Fastly",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/150236-customer-success-engineer-4": {
+      "title": "Customer Success Engineer",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/154681-senior-information-security-engineer": {
+      "title": "Senior Information Security Engineer",
+      "company": "Five9",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/154675-cloud-governance-engineer": {
+      "title": "Cloud Governance Engineer",
+      "company": "Five9",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/152618-director-global-field-channel-marketing": {
+      "title": "Director, Global Field & Channel Marketing",
+      "company": "Keyfactor, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant": {
+      "title": "PagerDuty: Principal Solutions Consultant",
+      "company": "PagerDuty",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/152578-solutions-engineer-uk-german-speaking": {
+      "title": "Solutions Engineer - UK (German Speaking)",
+      "company": "Quantum Metric",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/152575-solutions-engineer-spain-italian-speaking": {
+      "title": "Solutions Engineer - Spain (Italian Speaking)",
+      "company": "Quantum Metric",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/152571-solutions-engineer-spain-german-speaking": {
+      "title": "Solutions Engineer - Spain (German Speaking)",
+      "company": "Quantum Metric",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://www.gulftalent.com/uae/jobs/cyber-security-risk-specialist-uae-national-643389": {
+      "title": "Cyber Security Risk Specialist - UAE National",
+      "company": "Michael Page",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-06"
+    },
+    "https://www.gulftalent.com/uae/jobs/lead-it-infrastructure-security-643388": {
+      "title": "Lead IT Infrastructure & Security",
+      "company": "Michael Page",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-06"
     }
   },
   "applied": {
