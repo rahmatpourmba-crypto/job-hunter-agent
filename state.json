@@ -7343,6 +7343,30 @@
       "company": "Abby Care",
       "source": "jobicy",
       "first_seen": "2026-10-06"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-supervisor-at-larsen-toubro-4476359217": {
+      "title": "EHS SUPERVISOR",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-06"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-at-larsen-toubro-4476363160": {
+      "title": "Safety Engineer",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/154742-1150-senior-data-platform-architect-palantir-foundry-databricks-integration": {
+      "title": "1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration",
+      "company": "GoFasti",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/154752-senior-cloud-security-engineer-f-m-d": {
+      "title": "Senior Cloud Security Engineer (f/m/d)",
+      "company": "ecosio",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
     }
   },
   "applied": {

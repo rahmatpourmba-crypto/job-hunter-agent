@@ -373,6 +373,31 @@
   },
   {
     "source": "jobicy",
+    "title": "1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration",
+    "company": "GoFasti",
+    "location": "LATAM",
+    "url": "https://jobicy.com/jobs/154742-1150-senior-data-platform-architect-palantir-foundry-databricks-integration",
+    "description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti , a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-fluent Senior Data Platform Architect - Palantir Foundry & Databricks Integration , based in Latin America, available to work remotely. We are looking for someone with exceptional communication and relationship-building skills, who embraces changes while maintaining strong attention to detail. An interested and proactive person, who's constantly learning and improving their skills. Are you the one we are looking for? Responsibilities: Design and implement enterprise-scale federated architectures integrating Palantir Foundry and Databricks. Establish standards for data sharing across Foundry, Databricks, BigQuery, and Cloud Storage environments. Define architecture patterns leveraging Delta Lake, Apache Iceberg, Unity Catalog, Foundry Ontology, Virtual Tables, and Catalog Federation. Lead the modernization of legacy ETL architectures toward metadata-driven, cloud-native data products. Define enterprise data governance, lineage, metadata, and ownership models across both platforms. Create architectural roadmaps supporting AI, machine learning, real-time analytics, and self-service data consumption. Design and implement Foundry Databricks Connector solutions, including bulk imports, incremental data synchronization, virtual tables, compute pushdown, and external model integrations. Build scalable ingestion, transformation, and enrichment pipelines using PySpark, Spark SQL, Python, Databricks Workflows, Airflow, and Foundry Code Repositories. Architect secure connectivity between Palantir Foundry, Databricks, Google Cloud Platform, BigQuery, Cloud Storage, and Enterprise APIs. Enable AI and machine learning workloads across Foundry and Databricks environments. Serve as the technical authority for enterprise data platform architecture and lead architecture reviews. Requirements: 8+ years of experience in Data Engineering, Data Architecture, or Platform Engineering. 8+ years of experience with Databricks Lakehouse Architecture. Experience implementing or operating Palantir Foundry data platforms. Deep expertise in Databricks, PySpark, Spark SQL, Delta Lake, Python, and Data Modeling. Strong knowledge of Unity Catalog, Apache Iceberg, Lakehouse Architectures, Data Governance, and Metadata Management. Hands-on experience with Google Cloud Platform, including BigQuery, Cloud Storage, Pub/Sub, IAM, and Networking. Experience designing highly scalable distributed data systems. Strong architecture, leadership, and stakeholder management skills. It's a plus: Palantir Foundry certification or implementation experience. Experience with Ontology development and operational decision platforms. Experience with AI/ML infrastructure and model deployment. Familiarity with Terraform, Kubernetes, GitHub Actions, and CI/CD Pipelines. Experience with survey, consumer intelligence, marketing, or ad-tech data platforms. Experience supporting data products at Fortune 500 scale. Compensation: The salary range offered for this position varies from (USD) $6,000 - $7,000 per month, depending on seniority and skillset. This position is for a full time contract, through a payroll platform. The talent will work remotely allocated at our client. Here are the steps for this process: TBD > Application review/approval > Screening interview with GoFasti's team > We build and send your profile to our client > Profile review/approval by client > Interview with the client > Hiring and onboarding. Once you apply for the job, our team will review your resume. If it meets the requirements, we will contact you and move forward in the process. Note for Candidates Approached Directly: If you were contacted directly by a member of our team and are interested in this opportunity, please do not apply through this link. Instead, reach out to the person who contacted you to coordinate a meeting. Thank you! We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti, a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-fluent Senior Data Platform Architect - Palantir Foundry & Databricks Integration, based in Latin America, available to work remotely. We…",
+    "published": "2026-10-06",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 72000,
+    "salary_max": 84000,
+    "score": 8,
+    "title_hits": [
+      "foundry"
+    ],
+    "desc_hits": [
+      "defi"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$72,000-$84,000",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
     "title": "Engineering Manager, EMEA (Platform)",
     "company": "Testlio",
     "location": "EMEA",
@@ -618,33 +643,6 @@
       "blockchain",
       "web3",
       "defi",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Distributed Systems Engineer",
-    "company": "Axiom",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/152240-distributed-systems-engineer-2",
-    "description": "About Us Axiom is using zero-knowledge proofs to enable new types of verifiable and private software applications, starting with crypto and fintech. We are a small but incredibly strong team backed by the best investors in crypto . We’re looking for exceptional people who are excited to work on challenging and impactful problems in a fast-paced environment. Our office is in NYC and working in person in NY is our strong preference, but we're open to remote candidates as well. We recently released OpenVM , a performant and modular zkVM framework built for customization and extensibility. OpenVM allows developers to verify the correct execution of arbitrary computer programs in a flexible and performant way. We are building ZK-enabled products using OpenVM and supporting teams building on OpenVM. The Role We are looking for a distributed systems engineer to join a startup using zero-knowledge proofs to scale smart contract applications. You will be responsible for building Rust-based rollup nodes and sequencers to deliver zero-knowledge proof based products on-chain. Your work will require designing secure and efficient systems and making design choices to enable rapid development without sacrificing security. We are looking for someone with strong engineering design skills, a security mindset, and the ability to design and implement blockchain protocols. We also value the ability to make pragmatic technology choices which empower our small team. Who you are You are fluent in Rust, C++, or a similarly performant backend language. We work primarily in Rust. You have experience deploying and monitoring high uptime applications to production in the cloud using orchestration and containerization (Docker, Terraform, Kubernetes). You have experience working within a large production codebase. You are extremely detail oriented and have a security mindset. You’re a clear communicator and value collaboration. You have a bias towards action and extremely strong work ethic. Bonuses You have experience working with blockchain nodes like Geth, Reth, or similar. You have experience with low-level details of Ethereum. You have experience working in an adversarial or security critical environment. Why work with us You’ll be working on groundbreaking tech that has the potential to be a key piece of infrastructure for the crypto industry You’ll receive a competitive salary with equity You will work with and receive mentorship from an exceptional team Our Team Our founders Yi Sun and Jonathan Wang met while studying math at Harvard and have been working on ZK since 2021. Together, they wrote some of the most performant ZK circuits for elliptic curve cryptography and Ethereum data reads before starting Axiom. Before Axiom, Yi was a professor at UChicago Statistics and did a math PhD at MIT. He was previously an advisor for Gauntlet and worked at an HFT startup from inception to profitable trading. Jonathan published number theory research in top math journals and did a math PhD at UChicago. The rest of our small but incredibly strong team includes alums of Applied Intuition, Coinbase, Color, Neon, Google, and Perplexity as well as math / CS PhDs and IMO / IPhO / Codeforces winners. We look forward to working with you! About Us Axiom is using zero-knowledge proofs to enable new types of verifiable and private software applications, starting with crypto and fintech. We are a small but incredibly strong team backed by the best investors in crypto. We’re looking for exceptional people who are excited to work on challenging and impactful problems in a fast-paced…",
-    "published": "2026-10-01",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "smart contract",
-      "blockchain",
-      "ethereum",
       "crypto",
       "security"
     ],
