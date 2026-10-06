@@ -125,37 +125,6 @@
   {
     "source": "linkedin",
     "title": "Senior Blockchain Engineer",
-    "company": "Cari Network",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-cari-network-4475560330",
-    "description": "Remote (U.S.) — Full Time The Cari Network is building a blockchain-based payment system powering real-time, 24/7 movement of digital money across the traditional finance and digital asset ecosystems. A pre-launch startup, we’re creating an entirely new category of financial infrastructure that brings cash on chain through tokenization while powering the full spectrum of payments for our network—banks, digital asset exchanges, and, most importantly, the customers they serve. About The Role You'll own the systems that take a payment instruction and turn it into an immutable, on-chain record—as the trusted technical decision-maker for that domain. That means designing and extending the integration layer between our backend services and our institutional custody platform, and being accountable for transaction integrity from calldata construction through on-chain finality on our private ZKsync-based L2. You'll also own significant parts of our smart contract suite, maintaining upgrade safety, on-chain event integrity, and audit trails that satisfy the compliance and evidentiary requirements of regulated bank partners. What You'll Do Own the end-to-end transaction lifecycle as a domain: calldata construction, custody platform signing requests, nonce management, L2 submission, and finality confirmation Design the signing pipeline architecture — parallelization strategies, throughput management against custody platform rate limits, and async transaction submission patterns — and write the RFCs other engineers build against Define what production-ready means for the signing pipeline: alerting thresholds, runbooks, and SLOs, and lead incident response and root-causing when it falls short Build and maintain payment integrity controls: commitment hash verification at pipeline handoff points and co-signer policy evaluation to prevent tampering between transaction origination and on-chain execution Extend and harden our Solidity smart contracts with a focus on upgrade safety, storage layout discipline, and role governance Develop and maintain the custody platform authorization policy integration and co-signer agent for custodian-owned transaction authorization Implement structured audit trails from transaction origination through on-chain execution, satisfying evidentiary requirements for bank partners under regulatory oversight Drive the design of the async transaction queue, enabling tiered SLAs and per-bank throughput quotas at scale Mentor engineers earlier in their blockchain careers, and be the team's go-to for EVM transaction mechanics and custody integration questions Push back on scope or timeline with technical reasoning when a proposed change puts pipeline correctness at risk Qualifications 5–7 years of backend software engineering experience, with at least 3 years working directly on EVM-compatible blockchain systems Strong proficiency in TypeScript; experience with Effect (effect.ts) or a comparable functional effect system is highly valued Deep familiarity with EVM transaction mechanics: ABI encoding, nonce management, gas estimation, revert handling, and event decoding Production experience with Solidity smart contract development, including upgradeable proxy patterns (UUPS preferred) and OpenZeppelin contract libraries Experience integrating with institutional custody or key management APIs Understanding of MPC signing infrastructure and the operational model of custodial signing pipelines Strong instincts around financial-grade reliability: idempotency, at-least-once delivery, crash recovery, and reconciliation in async transaction systems Comfortable owning a domain independently and writing design docs that other engineers act on without you in the room Nice to Haves Experience with ZKsync or ZK Stack-based chains — particularly developer-facing constraints like calldata handling, system contract interactions, and AA transaction formats Familiarity with Kafka or message-queue-backed async signing pipelines Prior work in fintech, payments, or any regulated financial infrastructure environment Experience building or operating blockchain event indexers or transaction monitors Foundry proficiency (forge test, forge fmt, Foundry Upgrades for storage layout validation) Experience mentoring junior engineers What We Offer Competitive compensation: salary, bonus, and equity Full medical, vision, dental benefits 401(k) with matching program Flexible vacation policy (PTO) and remote-first work environment Interested in this role? Send us your resume. ‹ Blockchain Engineer",
-    "published": "",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "token",
-      "audit",
-      "foundry",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Senior Blockchain Engineer",
     "company": "Ondo Finance",
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-ondo-finance-4444080332",
@@ -265,7 +234,8 @@
     "emails": [
       "nextbit@agilebits.com"
     ],
-    "phones": []
+    "phones": [],
+    "about": " ## Secure access for every human and AI agent Visibility and control for humans and AI agents, built on the most trusted vault for identities, credentials, and secrets. ![Image 1](https://images.ctfassets.net/2h488pz7kg"
   },
   {
     "source": "jobicy",
@@ -649,6 +619,34 @@
     "salary_ok": true,
     "salary_str": "$150,000-$220,000",
     "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Senior QA Engineer",
+    "company": "Caylent",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/152325-senior-qa-engineer-2",
+    "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production. Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first. We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien! The Mission This role is a Senior QA/Test Engineer specializing in Amazon Connect and contact center technology, responsible for designing and executing comprehensive test strategies across contact flows, routing, IVR/self-service, and AI-driven conversational agents. They validate legacy-to-Connect migrations, build and maintain manual and automated test suites (Playwright, Cypress, Selenium) spanning UI, API, and serverless backend components, and ensure production readiness through cutover validation, monitoring verification, and incident triage. Beyond hands-on testing, they partner with engineers to shift quality left, run UAT sessions with customer stakeholders, and contribute reusable test assets and mentorship to strengthen Caylent's contact center QA practice. Your Assignment Test Strategy & Contact Center Quality Design and execute test strategies for Amazon Connect implementations covering contact flows, routing logic, IVR/self-service, Cases/Tasks workflows, and Contact Lens configurations Build test plans that validate AI agent behavior: intent recognition accuracy, escalation paths, barge-in/fallback handling, hallucination guardrails, and multilingual/SSML voice interactions Validate legacy-to-Connect migrations (i.e. Avaya, Genesys, Connect, NICE) through parallel-run testing, flow conversion verification, and data migration validation Define and track quality metrics (defect density, test coverage, escape rate) and report on release readiness to delivery leads and customer stakeholders Manual, Automated & Full-Stack Testing Build and maintain manual and automated test suites: Playwright E2E and API tests, Cypress, Selenium, integration tests against live Amazon Connect instances, and end-to-end tests of Amazon connect call flows. Test custom Agent Workspace experiences (Amazon Connect, Agent Assist) Validate serverless, event-driven backends (Lambda, EventBridge, Step Functions, SQS/SNS, DynamoDB, Kinesis) with integration and contract tests Production Readiness & Operations Execute phased rollout and cutover validation for live contact centers, where testing gaps translate directly into missed calls and customer impact Verify monitoring and alerting coverage (CloudWatch metrics, alarms, dashboards) across voice, chat, tasks, queues, agents, Lambda, and AI agents prior to go-live Participate in production incident triage, reproducing defects and validating fixes across the contact center stack Perform security and compliance validation: least-privilege IAM checks, DevSecOps scan review, and encryption standard verification Collaboration & Practice Contribution Partner with engineers during development to shift testing left: pairing on test design, reviewing acceptance criteria, and flagging risk areas early Run UAT sessions with customer stakeholders, triage findings, and drive defects to resolution ahead of production cutovers Contribute reusable test assets (automated suites, test data sets, QA checklists) back to the CXE practice Mentor junior QA engineers on contact center testing patterns and Caylent's quality standards Your Qualifications 8+ years of QA/test engineering experience, including 1+ years testing contact center, CCaaS, or IVR/voice platforms Hands-on experience with Amazon Connect or a comparable CCaaS platform: contact flows, routing, Cases/Tasks, and reporting Proficiency with automated testing frameworks (Playwright E2E and API tests, Cypress, Selenium) for unit, integration, and E2E testing Experience testing serverless/event-driven AWS architectures (Lambda, API Gateway, DynamoDB, Step Functions) Working knowledge of conversational AI / voice testing considerations: intent accuracy, latency, fallback behavior Strong defect documentation and triage skills; comfortable running UAT sessions with business and technical stakeholders Familiarity with CI/CD pipelines (GitHub Actions) and integrating automated tests into deployment workflow Preferred Qualifications Contact center migration testing experience (i.e. Avaya, Genesys, Connect, NICE) Experience with AI observability/trace validation (agent spans, token/cost attribution) or accessibility engineering AWS certifications (Solutions Architect, Developer, or ML/Connect-relevant Specialty) Contact center operations fluency: Quality management, outbound compliance, and CX KPIs Consulting or client-delivery background Benefits Medical insurance for you and eligible dependents 401k plan with company match up to 4% and immediate vesting Competitive phantom equity Company-issued laptop Dental and vision insurance Term disability and life insurance Flexible Spending Account Equipment and office stipend Annual stipend for learning and development Unlimited paid time off 10 paid holidays Base Salary Range: The expected base salary range for this position is USD $95,000 - $119,000 per year, commensurate with experience and qualifications. Additional Compensation Components: In addition to the base salary, the compensation package may include bonuses, commissions, equity, and other incentives. The specific components will vary depending on the role and individual and/or company performance. NOTE: We’re unable to provide visa sponsorship now or at any time in the future. At Caylent, we are committed to fair, transparent, and inclusive hiring practices. As part of our recruitment process, we may use artificial intelligence (AI) tools or automated systems to assist with the screening and evaluation of applications to help match candidate qualifications with job requirements. These tools are designed to support — not replace — human decision-making. Final hiring decisions are always made by our trained recruitment professionals. If an AI or automated tool is used during your application process, it will only be in accordance with applicable laws and regulations, and your information will be handled in a secure and confidential manner. If you have any questions, please contact talent@caylent.com Caylent is a place where everyone belongs . We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent. We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com. Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and…",
+    "published": "2026-10-02",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 95000,
+    "salary_max": 119000,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "defi",
+      "token",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$95,000-$119,000",
+    "emails": [
+      "talent@caylent.com",
+      "hr@caylent.com"
+    ],
     "phones": []
   }
 ]

@@ -7145,6 +7145,24 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-10-05"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-engineer-ehs-at-larsen-toubro-4475391985": {
+      "title": "Sr. Engineer - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/154651-associate-director-billing-strategy-denials-appeals": {
+      "title": "Associate Director, Billing Strategy - Denials & Appeals",
+      "company": "Natera",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
+    },
+    "https://jobicy.com/jobs/154637-site-reliability-engineer-2-3": {
+      "title": "Site Reliability Engineer 2",
+      "company": "Kong Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-06"
     }
   },
   "applied": {
