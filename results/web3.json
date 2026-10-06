@@ -65,6 +65,38 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Smart Contract Engineer",
+    "company": "X-Team",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-x-team-4476342534",
+    "description": "This role is a full-time engagement with the client, fully remote. Open to LATAM, USA & Canada. The Mission Help build and scale the secure on-chain infrastructure powering the next generation of open finance. In this role, you’ll design, implement, and battle-test critical smart contracts that manage significant TVL and capital-efficient primitives. This isn't about deploying speculative tokens; it’s about constructing highly resilient, mathematical, and adversarial-resistant software that remains upgradeable, cost-efficient, and bulletproof over time. The Role As a core protocol contributor, you will take deep ownership of smart contract architecture from initial mathematical modeling and design through to mainnet deployment, external audit facilitation, and live monitoring. • Protocol Architecture (40%): Design and implement secure, gas-optimized Solidity smart contracts for lending, borrowing, vaults, yield routing, liquidations, and access control. • Testing & Simulation (30%): Write extensive unit, integration, fork, fuzz, and invariant tests utilizing modern frameworks to ensure zero-day resiliency. • Security & Audits (15%): Prepare codebases for top-tier external audits, remediate findings, and design proactive on-chain risk mitigation/monitoring strategies. • Cross-Functional Integration (15%): Collaborate closely with risk, frontend, indexer, and quantitative engineering teams to build seamless, secure end-to-end dApps. The Must-Haves • Experience: 4+ years of professional software engineering experience, with at least 2+ years writing, deploying, and maintaining highly secure Solidity smart contracts in production.. • Tooling & Frameworks: Expert-level mastery of Foundry (Forge, Cast) including advanced fuzzing, invariant testing, and mainnet fork simulations. • EVM Deep Dive: Thorough understanding of EVM internals, storage layouts, gas optimization strategies, assembly (Yul), and standard proxy/upgradeability patterns. • DeFi Primitives: Practical, working knowledge of core financial primitives (such as ERC-20/4626/721/1155, AMMs, lending pools, oracles, and liquidation engines). • AI-Assisted Acceleration: Comfort using modern AI coding tools (e.g., Cursor, Claude, Copilot) to accelerate unit testing, documentation, and boilerplate development, backed by the critical judgment required never to trust raw model outputs blindly. • Security Mindset: An obsessive awareness of common attack vectors (reentrancy, oracle manipulation, front-running, rounding errors, and access-control flaws). The Bonus Skills • Audit Pedigree: Prior experience guiding a protocol through a major external audit (e.g., Trail of Bits, OpenZeppelin, Spearbit) or participating in competitive security audits. • Multi-Chain/SVM: Exposure to Rust-based smart contract environments (SVM/Solana, CosmWasm) or zero-knowledge (ZK) rollup architectures. • Advanced Automation: Familiarity with off-chain automation infrastructure like Keepers, Defender, or Gelato. Personal Traits • Adversarial Thinker: You don't just think about how code should work; you instinctively try to find ways to break, front-run, or exploit the state machine you are building.. • Execution & Ownership: You act as an owner, not a ticket executor. You proactively trace edge cases, optimize gas, and address technical debt before it is flagged.. • Detail-Obsessed: You care about the nuance of a single uint256 math operation and understand why rounding down vs. up is a security-critical decision.. • Collaborative & Clear: You can distill complex cryptographic or financial system logic into clear documentation and explain architectural tradeoffs to non-smart contract engineers.. Location: Remote (with meaningful overlap with US/EU working hours)",
+    "published": "",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 14,
+    "title_hits": [
+      "smart contract"
+    ],
+    "desc_hits": [
+      "solidity",
+      "defi",
+      "crypto",
+      "token",
+      "audit",
+      "security",
+      "foundry",
+      "dapp"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Solidity Compiler Frontend Engineer",
     "company": "CertiK",
@@ -614,33 +646,6 @@
       "blockchain",
       "ethereum",
       "crypto",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Accounting Manager (Controllership Focus)",
-    "company": "Binance",
-    "location": "Hong Kong,  Singapore",
-    "url": "https://jobicy.com/jobs/152131-accounting-manager-controllership-focus",
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. We are looking for a high-performing Accountant with strong technical accounting fundamentals and a finance transformation mindset . Beyond core accounting and reporting, you will help transform Finance through AI, automation, data and technology , improving efficiency, controls, scalability and decision-making. Experience in consulting, finance transformation or technology-enabled finance , particularly within FinTech or digital assets, is highly valued. Responsibilities Manage financial and management reporting, including cash flow, tax, GST, budgeting and statutory reporting . Prepare and review annual reports, statutory accounts and management reports . Perform and review revenue, balance sheet and intercompany reconciliations . Ensure compliance with accounting standards, tax regulations and corporate governance requirements . Liaise with auditors, tax agents and external advisors . Identify and deliver opportunities to automate, simplify and transform finance processes . Leverage AI, GenAI, automation, data analytics and technology to improve accounting efficiency, accuracy and scalability. Partner with Finance Systems, Data, Engineering and business teams to implement technology-enabled finance solutions . Lead or support process improvement and finance transformation initiatives , challenging existing ways of working. Translate complex accounting requirements into practical, scalable solutions . Requirements Bachelor's degree in Accountancy / Finance, ACCA or equivalent professional qualification. 8+ years' relevant experience in accounting, financial reporting, consulting or finance transformation. Strong technical accounting, analytical and reconciliation skills. Experience in finance transformation, automation or consulting is highly preferred. Strong interest in AI, GenAI, automation, data and emerging finance technologies . Advanced MS Excel skills; ERP, BI, workflow automation or financial systems experience is a plus. Strong communication, stakeholder management and project management skills. Able to work independently in a fast-paced, ambiguous environment . Highly detail-oriented, curious and willing to challenge the status quo. Compensation Additional Information Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice . Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance…",
-    "published": "2026-10-01",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "web3",
-      "crypto",
-      "audit",
       "security"
     ],
     "gulf_onsite": false,
