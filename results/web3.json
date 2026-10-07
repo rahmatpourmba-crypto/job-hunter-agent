@@ -98,36 +98,6 @@
   },
   {
     "source": "jobicy",
-    "title": "Solidity Compiler Frontend Engineer",
-    "company": "CertiK",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
-    "description": "About the Company One of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz. Investors = Insight Partners, Sequoia, Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank, Hillhouse Capital, Goldman Sachs, Shunwei Capital, IDG Capital, Wing, Legend Star, Danhua Capital and other investors. About the Role We are seeking an experienced Solidity Compiler Frontend Engineer to join our team working on cutting-edge blockchain compiler infrastructure and formal verification tools. You will participate in developing and optimizing the frontend components of Solidity compilation pipelines, with a focus on static analysis, type checking, and integration with formal verification systems. Responsibilities Design and implement frontend components for the Solidity compiler, including lexical analysis, parsing, AST generation, and semantic analysis. Optimize compiler performance and improve error reporting and diagnostics. Develop integration layers between the Solidity compiler and formal verification tools. Contribute to the evolution of Solidity language features and specification. Collaborate with security researchers to implement static analysis and security checks. Maintain and improve existing compiler infrastructure and tooling. Requirements 3+ years of professional experience in Solidity compiler development or related compiler projects (e.g., EVM-based languages, smart contract compilers) Strong proficiency in Java with deep understanding of Java based compiler development and optimization Solid foundation in compiler theory, including parsing techniques, type systems, and intermediate representations Experience with formal methods or formal verification tools (e.g., SMT solvers, theorem provers, or verification frameworks) Strong understanding of the Ethereum Virtual Machine (EVM) and smart contract execution models Excellent problem-solving skills and attention to detail Preferred Qualifications Experience with LLVM or similar compiler infrastructure Knowledge of programming language semantics and type theory Contributions to open-source compiler projects Experience with Solidity or other blockchain programming languages What We Offer Opportunity to shape the national conversation on blockchain and security. Collaborate with industry-leading security researchers, technologists, and global institutions. Flexible work environment and mission-driven culture. Compensation: If the role is performed in the US, the target annual compensation is $140,000 - $220,000. The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates. #blockchain#startups#hiring CertiK accepts applications for this position on an ongoing basis. CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements. https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf All CertiK employees are expected to actively support diversity on their teams, and in the Company. About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =…",
-    "published": "2026-09-30",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 140000,
-    "salary_max": 597000,
-    "score": 13,
-    "title_hits": [
-      "solidity"
-    ],
-    "desc_hits": [
-      "smart contract",
-      "blockchain",
-      "ethereum",
-      "polygon",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$140,000-$597,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
     "title": "Blockchain Security Expert - AI Track",
     "company": "CertiK",
     "location": "USA",
@@ -643,6 +613,33 @@
       "blockchain",
       "web3",
       "defi",
+      "crypto",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Distributed Systems Engineer",
+    "company": "Axiom",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/152240-distributed-systems-engineer-2",
+    "description": "About Us Axiom is using zero-knowledge proofs to enable new types of verifiable and private software applications, starting with crypto and fintech. We are a small but incredibly strong team backed by the best investors in crypto . We’re looking for exceptional people who are excited to work on challenging and impactful problems in a fast-paced environment. Our office is in NYC and working in person in NY is our strong preference, but we're open to remote candidates as well. We recently released OpenVM , a performant and modular zkVM framework built for customization and extensibility. OpenVM allows developers to verify the correct execution of arbitrary computer programs in a flexible and performant way. We are building ZK-enabled products using OpenVM and supporting teams building on OpenVM. The Role We are looking for a distributed systems engineer to join a startup using zero-knowledge proofs to scale smart contract applications. You will be responsible for building Rust-based rollup nodes and sequencers to deliver zero-knowledge proof based products on-chain. Your work will require designing secure and efficient systems and making design choices to enable rapid development without sacrificing security. We are looking for someone with strong engineering design skills, a security mindset, and the ability to design and implement blockchain protocols. We also value the ability to make pragmatic technology choices which empower our small team. Who you are You are fluent in Rust, C++, or a similarly performant backend language. We work primarily in Rust. You have experience deploying and monitoring high uptime applications to production in the cloud using orchestration and containerization (Docker, Terraform, Kubernetes). You have experience working within a large production codebase. You are extremely detail oriented and have a security mindset. You’re a clear communicator and value collaboration. You have a bias towards action and extremely strong work ethic. Bonuses You have experience working with blockchain nodes like Geth, Reth, or similar. You have experience with low-level details of Ethereum. You have experience working in an adversarial or security critical environment. Why work with us You’ll be working on groundbreaking tech that has the potential to be a key piece of infrastructure for the crypto industry You’ll receive a competitive salary with equity You will work with and receive mentorship from an exceptional team Our Team Our founders Yi Sun and Jonathan Wang met while studying math at Harvard and have been working on ZK since 2021. Together, they wrote some of the most performant ZK circuits for elliptic curve cryptography and Ethereum data reads before starting Axiom. Before Axiom, Yi was a professor at UChicago Statistics and did a math PhD at MIT. He was previously an advisor for Gauntlet and worked at an HFT startup from inception to profitable trading. Jonathan published number theory research in top math journals and did a math PhD at UChicago. The rest of our small but incredibly strong team includes alums of Applied Intuition, Coinbase, Color, Neon, Google, and Perplexity as well as math / CS PhDs and IMO / IPhO / Codeforces winners. We look forward to working with you! About Us Axiom is using zero-knowledge proofs to enable new types of verifiable and private software applications, starting with crypto and fintech. We are a small but incredibly strong team backed by the best investors in crypto. We’re looking for exceptional people who are excited to work on challenging and impactful problems in a fast-paced…",
+    "published": "2026-10-01",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "smart contract",
+      "blockchain",
+      "ethereum",
       "crypto",
       "security"
     ],
