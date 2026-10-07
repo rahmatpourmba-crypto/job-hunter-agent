@@ -7373,6 +7373,90 @@
       "company": "Larsen & Toubro",
       "source": "linkedin",
       "first_seen": "2026-10-07"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669": {
+      "title": "EHS Engineer",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-07"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4475170815": {
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-07"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-specialist-at-eva-pharma-4476703319": {
+      "title": "HSE Specialist",
+      "company": "EVA pharma",
+      "source": "linkedin",
+      "first_seen": "2026-10-07"
+    },
+    "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4476363108": {
+      "title": "Project EHS Manager",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-07"
+    },
+    "https://ae.linkedin.com/jobs/view/industrial-hygiene-team-lead-at-bureau-veritas-4465791323": {
+      "title": "Industrial Hygiene - Team Lead",
+      "company": "Bureau Veritas",
+      "source": "linkedin",
+      "first_seen": "2026-10-07"
+    },
+    "https://jobicy.com/jobs/152635-builder-instructure-foundry": {
+      "title": "Builder, Instructure Foundry",
+      "company": "Instructure",
+      "source": "jobicy",
+      "first_seen": "2026-10-07"
+    },
+    "https://jobicy.com/jobs/152653-director-content-marketing": {
+      "title": "Director, Content Marketing",
+      "company": "Tenable",
+      "source": "jobicy",
+      "first_seen": "2026-10-07"
+    },
+    "https://jobicy.com/jobs/145140-staff-software-developer": {
+      "title": "Staff Software Developer",
+      "company": "Cision",
+      "source": "jobicy",
+      "first_seen": "2026-10-07"
+    },
+    "https://jobicy.com/jobs/145141-software-developer-ii": {
+      "title": "Software Developer II",
+      "company": "Cision",
+      "source": "jobicy",
+      "first_seen": "2026-10-07"
+    },
+    "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution": {
+      "title": "Dremio: Software Engineer - Query Execution",
+      "company": "Dremio",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-07"
+    },
+    "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer": {
+      "title": "BeyondTrust: Cloud Engineer",
+      "company": "BeyondTrust",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-07"
+    },
+    "https://jobicy.com/jobs/152640-staff-ai-engineer-ai-product": {
+      "title": "Staff AI Engineer - AI Product",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-10-07"
+    },
+    "https://jobicy.com/jobs/152634-senior-ai-engineer-ai-product": {
+      "title": "Senior AI Engineer - AI Product",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-10-07"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-quant-strategy-%E2%80%93-crypto-funding-arbitrage-at-axiom-recruit-4476701175": {
+      "title": "Head of Quant Strategy – Crypto Funding Arbitrage",
+      "company": "Axiom Recruit",
+      "source": "linkedin",
+      "first_seen": "2026-10-07"
     }
   },
   "applied": {
@@ -8187,6 +8271,13 @@
       "to": "Sales@RAMI.com",
       "title": "Smart Contract Developer | Blockchain Solutions Architect",
       "company": "Rami Abu Shiekha medical Equipment رامي ابو شيخة للاجهزة الطبية"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-engineer-hse-project-at-penspen-4472918143::email": {
+      "date": "2026-10-07 10:53",
+      "via": "email",
+      "to": "contact@penspen.com",
+      "title": "Sr. Engineer - HSE (Project)",
+      "company": "Penspen"
     }
   },
   "sent": {
@@ -8654,6 +8745,11 @@
       "kind": "email",
       "to": "Sales@RAMI.com",
       "date": "2026-10-04 12:44"
+    },
+    "https://ae.linkedin.com/jobs/view/sr-engineer-hse-project-at-penspen-4472918143": {
+      "kind": "email",
+      "to": "contact@penspen.com",
+      "date": "2026-10-07 10:53"
     }
   },
   "replies": []
