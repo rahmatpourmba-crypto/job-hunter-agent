@@ -7679,6 +7679,54 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-10-08"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476358299": {
+      "title": "EHS Engineer",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://sa.linkedin.com/jobs/view/qhse-manager-at-parsons-corporation-4477437034": {
+      "title": "QHSE Manager",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154842-senior-security-engineer-identity-and-access-management": {
+      "title": "Senior Security Engineer, Identity and Access Management",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154856-engineering-manager-platform-security": {
+      "title": "Engineering Manager, Platform Security",
+      "company": "Discord",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154845-director-total-rewards-systems-analytics": {
+      "title": "Director, Total Rewards, Systems & Analytics",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154868-senior-ai-engineer-9": {
+      "title": "Senior AI Engineer",
+      "company": "ActiveCampaign",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154854-737-program-manager": {
+      "title": "(737) Program Manager",
+      "company": "Arlo Solutions",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154848-vp-of-revenue-marketing": {
+      "title": "VP of Revenue Marketing",
+      "company": "Veriff",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
     }
   },
   "applied": {
