@@ -7601,6 +7601,84 @@
       "company": "Bitbase Exchange",
       "source": "linkedin",
       "first_seen": "2026-10-08"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-hse-engineer-at-talentmate-4477196437": {
+      "title": "Senior HSE Engineer",
+      "company": "TALENTMATE",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://iq.linkedin.com/jobs/view/environment-health-safety-lead-at-progetti-europa-global-s-p-a-4477139657": {
+      "title": "Environment Health Safety Lead",
+      "company": "Progetti Europa & Global S.p.A",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-at-penspen-4474829524": {
+      "title": "HSE Manager",
+      "company": "Penspen",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-jazera-arabia-contracting-4477103604": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Jazera Arabia Contracting",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks": {
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154829-business-development-executive-apac-public-sector-anz": {
+      "title": "Business Development Executive, APAC Public Sector (ANZ)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154830-binance-accelerator-programm-product-manager-meme": {
+      "title": "Binance Accelerator Programm - Product Manager (meme)",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154810-senior-product-engineer-americas": {
+      "title": "Senior Product Engineer - Americas",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154825-senior-backend-engineer-data-serving": {
+      "title": "Senior Backend Engineer (Data serving)",
+      "company": "Pleo",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/154819-engineering-manager-authentication-authorisation": {
+      "title": "Engineering Manager - Authentication & Authorisation",
+      "company": "Pleo",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-consultant-%E2%80%93-senior-manager-cyber-operate-ot-security-specialist-ksa-at-deloitte-4477415262": {
+      "title": "Senior Consultant – Senior Manager| Cyber Operate | OT Security Specialist| KSA",
+      "company": "Deloitte",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://www.gulftalent.com/saudi-arabia/jobs/cybersecurity-management-oversight-associate-manager-644271": {
+      "title": "Cybersecurity Management Oversight Associate Manager",
+      "company": "Saudi Networkers Services",
+      "source": "gulftalent_saudi-arabia",
+      "first_seen": "2026-10-08"
+    },
+    "https://www.gulftalent.com/uae/jobs/data-governance-lead-644265": {
+      "title": "Data Governance Lead",
+      "company": "Michael Page",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-08"
     }
   },
   "applied": {
@@ -8436,6 +8514,13 @@
       "to": "https://www.vercel.com/contact-us",
       "title": "Vercel: Security Software Engineer, IAM",
       "company": "Vercel"
+    },
+    "https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks::email": {
+      "date": "2026-10-08 16:49",
+      "via": "email",
+      "to": "privacy@trmlabs.com",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "company": "TRM Labs"
     }
   },
   "sent": {
@@ -8918,6 +9003,11 @@
       "kind": "contact_form",
       "to": "vercel.com",
       "date": "2026-10-08 09:21"
+    },
+    "https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks": {
+      "kind": "email",
+      "to": "privacy@trmlabs.com",
+      "date": "2026-10-08 16:49"
     }
   },
   "replies": []
