@@ -7529,6 +7529,78 @@
       "company": "CAI",
       "source": "jobicy",
       "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/150280-sr-customer-success-engineer": {
+      "title": "Sr. Customer Success Engineer",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-fuel-farm-at-alshams-energy-%D8%A7%D9%84%D8%B4%D9%85%D8%B3-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-4477143286": {
+      "title": "HSE Officer - Fuel Farm",
+      "company": "Alshams Energy | الشمس للطاقة",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://ae.linkedin.com/jobs/view/regional-hse-manager-at-twoscore-hseq-recruitment-4477134444": {
+      "title": "Regional HSE Manager",
+      "company": "TwoScore - HSEQ Recruitment",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-engineer-at-jazera-arabia-contracting-4477107275": {
+      "title": "Safety Engineer",
+      "company": "Jazera Arabia Contracting",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
+    },
+    "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam": {
+      "title": "Vercel: Security Software Engineer, IAM",
+      "company": "Vercel",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-08"
+    },
+    "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering": {
+      "title": "Abnormal: Director of Security Engineering",
+      "company": "Abnormal",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/152704-senior-demand-generation-manager": {
+      "title": "Senior Demand Generation Manager",
+      "company": "DataGrail",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://weworkremotely.com/remote-jobs/abnormal-director-renewals": {
+      "title": "Abnormal: Director, Renewals",
+      "company": "Abnormal",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/152731-sr-technical-account-manager-east": {
+      "title": "Sr Technical Account Manager - East",
+      "company": "Dataiku",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/152720-enterprise-sales-engineer-fed": {
+      "title": "Enterprise Sales Engineer - FED",
+      "company": "Datadog",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://jobicy.com/jobs/150289-customer-success-architect-ceur": {
+      "title": "Customer Success Architect, CEUR",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-08"
+    },
+    "https://ae.linkedin.com/jobs/view/kol-bd-director-middle-east-crypto-exchange-experience-required-at-bitbase-exchange-4475777610": {
+      "title": "KOL BD Director (Middle East) - Crypto Exchange Experience Required",
+      "company": "Bitbase Exchange",
+      "source": "linkedin",
+      "first_seen": "2026-10-08"
     }
   },
   "applied": {
@@ -8350,6 +8422,20 @@
       "to": "contact@penspen.com",
       "title": "Sr. Engineer - HSE (Project)",
       "company": "Penspen"
+    },
+    "https://jobicy.com/jobs/150280-sr-customer-success-engineer::email": {
+      "date": "2026-10-08 09:20",
+      "via": "email",
+      "to": "support@antenna.dev",
+      "title": "Sr. Customer Success Engineer",
+      "company": "Veeam Software"
+    },
+    "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam::contact_form": {
+      "date": "2026-10-08 09:21",
+      "via": "contact_form",
+      "to": "https://www.vercel.com/contact-us",
+      "title": "Vercel: Security Software Engineer, IAM",
+      "company": "Vercel"
     }
   },
   "sent": {
@@ -8822,6 +8908,16 @@
       "kind": "email",
       "to": "contact@penspen.com",
       "date": "2026-10-07 10:53"
+    },
+    "https://jobicy.com/jobs/150280-sr-customer-success-engineer": {
+      "kind": "email",
+      "to": "support@antenna.dev",
+      "date": "2026-10-08 09:20"
+    },
+    "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam": {
+      "kind": "contact_form",
+      "to": "vercel.com",
+      "date": "2026-10-08 09:21"
     }
   },
   "replies": []
