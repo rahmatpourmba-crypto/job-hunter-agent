@@ -7781,6 +7781,66 @@
       "company": "Quantum Metric",
       "source": "jobicy",
       "first_seen": "2026-10-09"
+    },
+    "https://jobicy.com/jobs/154892-facility-security-officer": {
+      "title": "Facility Security Officer",
+      "company": "Cribl",
+      "source": "jobicy",
+      "first_seen": "2026-10-09"
+    },
+    "https://www.gulftalent.com/uae/jobs/consultant-hse-engineer-644886": {
+      "title": "Consultant HSE Engineer",
+      "company": "J10 Consulting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-09"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-saudi-national-at-vanderlande-4476803068": {
+      "title": "HSE Officer - Saudi National",
+      "company": "Vanderlande",
+      "source": "linkedin",
+      "first_seen": "2026-10-09"
+    },
+    "https://ae.linkedin.com/jobs/view/pmc-hse-manager-spb-at-talentmate-4477694882": {
+      "title": "PMC HSE Manager SPB",
+      "company": "TALENTMATE",
+      "source": "linkedin",
+      "first_seen": "2026-10-09"
+    },
+    "https://ae.linkedin.com/jobs/view/principal-safety-engineer-offshore-detailed-engineering-at-talentmate-4477814219": {
+      "title": "Principal Safety Engineer - Offshore Detailed Engineering",
+      "company": "TALENTMATE",
+      "source": "linkedin",
+      "first_seen": "2026-10-09"
+    },
+    "https://www.gulftalent.com/uae/jobs/site-engineer-infrastructure-644907": {
+      "title": "Site Engineer - Infrastructure",
+      "company": "Prompt General Contracting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-09"
+    },
+    "https://jobicy.com/jobs/154895-principal-security-field-engineer": {
+      "title": "Principal Security Field Engineer",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-10-09"
+    },
+    "https://jobicy.com/jobs/154889-data-analytics-engineer-2": {
+      "title": "Data Analytics Engineer",
+      "company": "Toptal",
+      "source": "jobicy",
+      "first_seen": "2026-10-09"
+    },
+    "https://jobicy.com/jobs/154891-manager-field-engineering-global-telecommunications": {
+      "title": "Manager, Field Engineering - Global Telecommunications",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-10-09"
+    },
+    "https://ae.linkedin.com/jobs/view/chief-revenue-officer-crypto-dubai-at-ap-executive-global-executive-search-agency-4477669750": {
+      "title": "Chief Revenue Officer, Crypto - Dubai",
+      "company": "AP Executive - Global Executive Search Agency",
+      "source": "linkedin",
+      "first_seen": "2026-10-09"
     }
   },
   "applied": {
