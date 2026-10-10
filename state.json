@@ -7973,6 +7973,24 @@
       "company": "Monks",
       "source": "jobicy",
       "first_seen": "2026-10-10"
+    },
+    "https://jobicy.com/jobs/154974-devops-engineer-7": {
+      "title": "DevOps Engineer",
+      "company": "WalkMe",
+      "source": "jobicy",
+      "first_seen": "2026-10-10"
+    },
+    "https://jobicy.com/jobs/154969-smb-account-executive-canada": {
+      "title": "SMB Account Executive, Canada",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-10"
+    },
+    "https://jobicy.com/jobs/154963-senior-product-marketing-manager-risk-advisory": {
+      "title": "Senior Product Marketing Manager, Risk Advisory",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-10"
     }
   },
   "applied": {
@@ -8815,6 +8833,27 @@
       "to": "privacy@trmlabs.com",
       "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
       "company": "TRM Labs"
+    },
+    "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering::email": {
+      "date": "2026-10-10 21:06",
+      "via": "email",
+      "to": "thogard@abnormal.com",
+      "title": "Abnormal: Director of Security Engineering",
+      "company": "Abnormal"
+    },
+    "https://jobicy.com/jobs/154856-engineering-manager-platform-security::email": {
+      "date": "2026-10-10 21:06",
+      "via": "email",
+      "to": "jobs@discordapp.com",
+      "title": "Engineering Manager, Platform Security",
+      "company": "Discord"
+    },
+    "https://jobicy.com/jobs/154829-business-development-executive-apac-public-sector-anz::email": {
+      "date": "2026-10-10 21:07",
+      "via": "email",
+      "to": "privacy@trmlabs.com",
+      "title": "Business Development Executive, APAC Public Sector (ANZ)",
+      "company": "TRM Labs"
     }
   },
   "sent": {
@@ -9302,6 +9341,21 @@
       "kind": "email",
       "to": "privacy@trmlabs.com",
       "date": "2026-10-08 16:49"
+    },
+    "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering": {
+      "kind": "email",
+      "to": "thogard@abnormal.com",
+      "date": "2026-10-10 21:06"
+    },
+    "https://jobicy.com/jobs/154856-engineering-manager-platform-security": {
+      "kind": "email",
+      "to": "jobs@discordapp.com",
+      "date": "2026-10-10 21:06"
+    },
+    "https://jobicy.com/jobs/154829-business-development-executive-apac-public-sector-anz": {
+      "kind": "email",
+      "to": "privacy@trmlabs.com",
+      "date": "2026-10-10 21:07"
     }
   },
   "replies": []
