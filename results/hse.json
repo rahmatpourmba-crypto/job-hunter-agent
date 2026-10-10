@@ -25,29 +25,6 @@
     "phones": []
   },
   {
-    "source": "jobicy",
-    "title": "Facility Security Officer",
-    "company": "Cribl",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/154892-facility-security-officer",
-    "description": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what’s next. We’re one of the fastest‑growing private companies and a leading player in a massive, fast‑moving market. With a global workforce, we’re remote‑first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd. Why You’ll Love This Role Cribl is hiring a Facility Security Officer to build and manage our industrial security program as our federal business grows. You will serve as Cribl’s appointed FSO of record with the Defense Counterintelligence and Security Agency (DCSA), own the Facility Clearance (FCL) program, and support compliance with the National Industrial Security Program and 32 CFR Part 117. This is an industrial-security role—not a guard or general office-security position. You will partner with Legal, People Operations, Contracts, Public Sector Sales, IT, Workplace, and Security & Compliance. We’re looking for a Sr Security & Compliance Engineer to join our team! As An Active Member Of Our Team, You Will… Manage FCL sponsorship and maintenance in NISS, including SF-328, KMP designations, changed conditions, and FOCI reporting. Manage the cleared-personnel lifecycle in DISS/NBIS, including sponsorship, investigations, reinvestigations, continuous vetting, transfers, debriefings, and terminations. Guide applicants through eApp and maintain accurate, confidential personnel-security records. Deliver initial, annual, insider-threat, foreign-travel, and other required security briefings. Review and maintain DD Form 254s, process visit authorizations, and advise Contracts and Legal on security requirements before commitments are made. Conduct annual self-inspections, prepare required certifications and reports, maintain corrective actions, and lead preparation for DCSA Security Reviews. Serve as Cribl’s primary point of contact with DCSA and the trusted advisor to executives and cross-functional teams on government security requirements. Partner with Workplace and Facilities on access control, visitor management, secure-area requirements, and other facility controls applicable to cleared work. Establish and maintain security policies, procedures, records, and training programs. We are a remote-first company and work happens across many time-zones - you may be required to occasionally perform duties outside your standard working hours. If You’ve Got It - We Want It U.S. citizenship and an active U.S. Government Secret clearance, with the ability to obtain and maintain Top Secret. 7+ years of industrial- or personnel-security experience, including 3+ years as an appointed FSO or Assistant FSO at a cleared contractor. Working knowledge of 32 CFR Part 117 and the NISPOM. Hands-on experience with DISS/NBIS, NISS, eApp, FCL processing, SF-328/FOCI, DD Form 254s, self-inspections, and DCSA Security Reviews. Completion of the applicable DCSA/CDSE FSO curriculum through STEPP, or the ability to complete it within six months of appointment. Experience standing up a security program or taking a facility through an initial FCL. Strong writing, communication, organization, discretion, and judgment. Ability to work effectively across a distributed, remote-first organization. Preferred Skills Experience in a commercial software, SaaS, cloud, or technology company. SPēD or NCMS ISP® certification. Familiarity with ITPSO responsibilities, FedRAMP, CMMC, DFARS, or CUI requirements. Familiarity with Cribl products or observability technologies. #LI-KJ1 #LI-Remote The salary for this role is dependent on geographic location and will be based on the individual candidate's job-related knowledge, skills, and experience. In addition to base salary, for sales and some sales-adjacent roles, employees are eligible to earn incentive compensation (commission). For all other roles, employees are eligible to participate in the Cribl Corporate Bonus Program. In addition to a competitive salary, Cribl also offers a generous benefits package which includes health, dental, vision, short-term disability, and life insurance, paid holidays and paid time off, a fertility treatment benefit, 401(k), and equity. Base Salary Range $108,000—$169,000 USD Bring Your Whole Self Diversity drives innovation, enables better decisions to support our customers, and inspires change for the better. We’re building a culture where differences are valued and welcomed, and we work together to bring out the best in each other. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying. Interested in joining the Cribl herd? Learn more about the smartest, funniest, most passionate goats you’ll ever meet at cribl.io/about-us . Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice,…",
-    "published": "2026-10-09",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 108000,
-    "salary_max": 169000,
-    "score": 7,
-    "title_hits": [
-      "security officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$108,000-$169,000",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "linkedin",
     "title": "VP Health, Safety & Environmental",
     "company": "bp",
@@ -240,6 +217,30 @@
   },
   {
     "source": "linkedin",
+    "title": "Environmental Health Safety Specialist",
+    "company": "Arctech",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-arctech-4475298720",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "environmental health",
+      "safety specialist"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "HSE Engineer",
     "company": "Nova International General Contracting L.L.C",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -339,7 +340,7 @@
     "title": "EHS Engineer",
     "company": "Larsen & Toubro",
     "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476351702",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476358299",
     "description": "",
     "published": "2026-10-06",
     "remote": false,
