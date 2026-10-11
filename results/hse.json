@@ -360,6 +360,30 @@
     "phones": []
   },
   {
+    "source": "gulftalent_uae",
+    "title": "Consultant HSE Engineer",
+    "company": "J10 Consulting",
+    "location": "Abu Dhabi",
+    "url": "https://www.gulftalent.com/uae/jobs/consultant-hse-engineer-644886",
+    "description": "",
+    "published": "9 Oct",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "linkedin",
     "title": "Vice President, Global Environmental, Health, and Safety",
     "company": "TPI Composites",
@@ -565,29 +589,6 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Sr. Engineer - HSE (Project)",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/sr-engineer-hse-project-at-penspen-4472918143",
-    "description": "",
-    "published": "2026-10-01",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
