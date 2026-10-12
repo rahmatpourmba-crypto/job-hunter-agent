@@ -8123,6 +8123,66 @@
       "company": "Larsen & Toubro",
       "source": "linkedin",
       "first_seen": "2026-10-12"
+    },
+    "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist": {
+      "title": "Datadog: Enterprise Security Sales Specialist",
+      "company": "Datadog",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-12"
+    },
+    "https://jobicy.com/jobs/153021-senior-data-scientist-2": {
+      "title": "Senior Data Scientist",
+      "company": "ExtraHop",
+      "source": "jobicy",
+      "first_seen": "2026-10-12"
+    },
+    "https://jobicy.com/jobs/155067-engineering-manager-observability-germany-remote": {
+      "title": "Engineering Manager - Observability | Germany | Remote",
+      "company": "Grafana Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-12"
+    },
+    "https://jobicy.com/jobs/155070-staff-information-security-engineer": {
+      "title": "Staff Information Security Engineer",
+      "company": "Five9",
+      "source": "jobicy",
+      "first_seen": "2026-10-12"
+    },
+    "https://weworkremotely.com/remote-jobs/keeper-security-associate-talent-acquisition-partner-tech": {
+      "title": "Keeper Security: Associate Talent Acquisition Partner, Tech",
+      "company": "Keeper Security",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-12"
+    },
+    "https://weworkremotely.com/remote-jobs/keeper-security-analyst-relations-manager": {
+      "title": "Keeper Security: Analyst Relations Manager",
+      "company": "Keeper Security",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-12"
+    },
+    "https://jobicy.com/jobs/155062-principal-software-engineer-remote-eligible-in-bulgaria": {
+      "title": "Principal Software Engineer (Remote Eligible in Bulgaria)",
+      "company": "Smartsheet",
+      "source": "jobicy",
+      "first_seen": "2026-10-12"
+    },
+    "https://jobicy.com/jobs/155065-senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk": {
+      "title": "Senior Product Manager II, Developer ecosystem MCP (Remote from UK)",
+      "company": "Smartsheet",
+      "source": "jobicy",
+      "first_seen": "2026-10-12"
+    },
+    "https://jobicy.com/jobs/155068-senior-pre-sales-solutions-engineer-europe": {
+      "title": "Senior Pre-Sales Solutions Engineer - Europe",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-10-12"
+    },
+    "https://jobicy.com/jobs/155071-engineering-manager-observability-ireland-remote": {
+      "title": "Engineering Manager - Observability | Ireland | Remote",
+      "company": "Grafana Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-12"
     }
   },
   "applied": {
