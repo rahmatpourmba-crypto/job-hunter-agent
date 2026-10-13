@@ -8411,6 +8411,84 @@
       "company": "SThree",
       "source": "linkedin",
       "first_seen": "2026-10-13"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477158896": {
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477178081": {
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-marine-ports-at-parsons-corporation-4476170835": {
+      "title": "HSE Manager (Marine/Ports)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-at-jasara-program-management-company-4479021638": {
+      "title": "HSE Officer",
+      "company": "Jasara Program Management Company",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155196-senior-gtm-systems-ai-specialist": {
+      "title": "Senior GTM Systems & AI Specialist",
+      "company": "Cobalt",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-mahindra-india-design-studio-m-i-d-s-4479035155": {
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "Mahindra India Design Studio (M.I.D.S)",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155212-senior-manager-global-procurement-materials": {
+      "title": "Senior Manager, Global Procurement (Materials)",
+      "company": "Quince",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155202-senior-platform-engineer-4": {
+      "title": "Senior Platform Engineer",
+      "company": "Solace",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155185-senior-software-engineer-admin-iam": {
+      "title": "Senior Software Engineer, Admin & IAM",
+      "company": "Mural",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155181-cx-operations-analyst": {
+      "title": "CX Operations Analyst",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155169-detection-response-engineer": {
+      "title": "Detection & Response Engineer",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155171-detection-response-lead": {
+      "title": "Detection & Response Lead",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://ae.linkedin.com/jobs/view/director-blockchain-solutions-at-halian-managed-services-recruitment-agency-contract-staffing-4478148054": {
+      "title": "Director - Blockchain Solutions",
+      "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
     }
   },
   "applied": {
@@ -9316,6 +9394,13 @@
       "to": "contact@bureau.com",
       "title": "HSE Engineer",
       "company": "Bureau Veritas"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477158896::email": {
+      "date": "2026-10-13 19:46",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro"
     }
   },
   "sent": {
@@ -9848,6 +9933,11 @@
       "kind": "email",
       "to": "contact@bureau.com",
       "date": "2026-10-13 12:54"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477158896": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-10-13 19:46"
     }
   },
   "replies": []
