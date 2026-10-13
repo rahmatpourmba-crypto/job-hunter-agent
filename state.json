@@ -8363,6 +8363,54 @@
       "company": "Zapier",
       "source": "jobicy",
       "first_seen": "2026-10-13"
+    },
+    "https://ae.linkedin.com/jobs/view/hsew-engineer-building-experience-only-at-atkinsr%C3%A9alis-4474734754": {
+      "title": "HSEW Engineer - Building experience only",
+      "company": "AtkinsRéalis",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-lead-saudi-national-at-parsons-corporation-4478792435": {
+      "title": "HSE Lead (Saudi National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent": {
+      "title": "Senior Forward Deployed Engineer (AI Agent)",
+      "company": "Cresta",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations": {
+      "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
+      "company": "Cresta",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/149049-ai-enablement-lead-gn-data-intelligence": {
+      "title": "AI Enablement Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/149110-staff-product-designer": {
+      "title": "Staff Product Designer",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://ae.linkedin.com/jobs/view/architect-at-virtusa-4476026446": {
+      "title": "Architect",
+      "company": "Virtusa",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://sa.linkedin.com/jobs/view/cyber-security-consultant-at-sthree-4476080836": {
+      "title": "Cyber Security Consultant",
+      "company": "SThree",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
     }
   },
   "applied": {
@@ -9261,6 +9309,13 @@
       "to": "careers@velixuslabs.com",
       "title": "Senior Blockchain Engineer",
       "company": "Velixus Labs"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-bureau-veritas-4477527393::email": {
+      "date": "2026-10-13 12:54",
+      "via": "email",
+      "to": "contact@bureau.com",
+      "title": "HSE Engineer",
+      "company": "Bureau Veritas"
     }
   },
   "sent": {
@@ -9788,6 +9843,11 @@
       "kind": "email",
       "to": "careers@velixuslabs.com",
       "date": "2026-10-13 05:11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-bureau-veritas-4477527393": {
+      "kind": "email",
+      "to": "contact@bureau.com",
+      "date": "2026-10-13 12:54"
     }
   },
   "replies": []
