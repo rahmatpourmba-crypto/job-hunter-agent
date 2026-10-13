@@ -8339,6 +8339,30 @@
       "company": "Playson",
       "source": "jobicy",
       "first_seen": "2026-10-12"
+    },
+    "https://iq.linkedin.com/jobs/view/industrial-hygiene-specialist-at-wood-4478541292": {
+      "title": "Industrial Hygiene Specialist",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-velixus-labs-4477944958": {
+      "title": "Senior Blockchain Engineer",
+      "company": "Velixus Labs",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/153092-account-executive-mid-market-3": {
+      "title": "Account Executive, Mid Market",
+      "company": "Zapier",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/153099-manager-gtm-analytics": {
+      "title": "Manager, GTM Analytics",
+      "company": "Zapier",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
     }
   },
   "applied": {
@@ -9223,6 +9247,20 @@
       "to": "privacy@trmlabs.com",
       "title": "Senior Blockchain Intelligence Analyst, Ransomware",
       "company": "TRM Labs"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669::email": {
+      "date": "2026-10-13 05:11",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "EHS Engineer",
+      "company": "Larsen & Toubro"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-velixus-labs-4477944958::email": {
+      "date": "2026-10-13 05:11",
+      "via": "email",
+      "to": "careers@velixuslabs.com",
+      "title": "Senior Blockchain Engineer",
+      "company": "Velixus Labs"
     }
   },
   "sent": {
@@ -9740,6 +9778,16 @@
       "kind": "email",
       "to": "privacy@trmlabs.com",
       "date": "2026-10-12 17:20"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-10-13 05:11"
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-velixus-labs-4477944958": {
+      "kind": "email",
+      "to": "careers@velixuslabs.com",
+      "date": "2026-10-13 05:11"
     }
   },
   "replies": []

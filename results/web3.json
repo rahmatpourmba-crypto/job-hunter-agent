@@ -30,6 +30,41 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Senior Blockchain Engineer",
+    "company": "Velixus Labs",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-velixus-labs-4477944958",
+    "description": "About Velixus Labs Velixus Labs is building the next generation of AI, blockchain, and Web3 infrastructure. We help organizations leverage decentralized technologies to create more secure, transparent, and intelligent digital products. We're a team of builders who enjoy solving difficult technical problems and turning ambitious ideas into production systems used by real people. The Role We're looking for a Senior Blockchain Engineer to help architect and build the blockchain products that power our clients' and partners' ecosystems. You'll work closely with product leaders, designers, and engineers to develop smart contracts, decentralized applications, and blockchain infrastructure that are secure, scalable, and ready for production. This is a hands-on engineering role for someone who enjoys writing code, making architectural decisions, and taking ownership of products from concept to deployment. What You'll Do Design and develop smart contracts and blockchain-based applications. Build backend services and integrations that interact with blockchain networks. Participate in architecture discussions and help shape technical direction. Review code, improve engineering standards, and contribute to security best practices. Work closely with product and design teams to turn ideas into working products. Identify performance, scalability, and reliability improvements across the stack. Mentor other engineers and contribute to a strong engineering culture. Stay current with developments across blockchain, Web3, and decentralized infrastructure. What We're Looking For Strong software engineering fundamentals and experience building production systems. Professional experience developing blockchain applications or smart contracts. Deep understanding of Ethereum, EVM-based networks, or similar blockchain ecosystems. Experience with Solidity and modern Web3 development tools. Ability to make sound technical decisions and work independently. A practical approach to building secure, maintainable software. Strong communication skills and a collaborative mindset. Nice to Have Experience building DeFi, tokenization, wallet, NFT, or infrastructure products. Familiarity with Layer 2 networks or cross-chain technologies. Experience working in startups or fast-moving product teams. Contributions to open-source projects or active participation in the blockchain community. Why Join Velixus Labs Work on meaningful blockchain and AI projects with global clients. Join a team that values ownership, curiosity, and technical excellence. Flexible remote-first environment. Competitive compensation and performance incentives. Learning and development support for conferences, certifications, and training. Opportunity to help shape products and technical direction from an early stage. Compensation We believe exceptional engineers should be rewarded for the value they create. Annual base salary: $180,000 – $260,000 USD Compensation is determined based on experience, technical expertise, location, and overall impact. In addition to base salary, eligible employees may receive performance-based bonuses, equity participation, or token incentives where applicable. Exceptional candidates may be considered above the stated range. Benefits & Perks Remote-first flexibility and flexible working hours. Competitive compensation package. Annual learning and development budget. Company-provided equipment and home office support. Flexible paid time off policy. Career growth opportunities in a rapidly evolving industry. How to Apply Send your resume, GitHub profile (if available), and a brief summary of blockchain projects you've worked on to: careers@velixuslabs.com We're most interested in what you've built and the problems you've solved.",
+    "published": "",
+    "remote": true,
+    "currency": null,
+    "salary_min": 180000,
+    "salary_max": 260000,
+    "score": 16,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "smart contract",
+      "web3",
+      "defi",
+      "ethereum",
+      "token",
+      "security",
+      "nft"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$180,000-$260,000",
+    "emails": [
+      "careers@velixuslabs.com"
+    ],
+    "phones": [],
+    "about": "At the heart of the action Perfectly positioned ## Explore 9 beautifully designed locations from LABS, a design-led flexible office space provider in London, across our Camden and Holborn campuses."
+  },
+  {
     "source": "jobicy",
     "title": "Blockchain Security Expert - Anti Defect Track",
     "company": "CertiK",
@@ -658,31 +693,6 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "weworkremotely",
-    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
-    "company": "ZoomInfo Technologies LLC",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
-    "description": "Headquarters: Bethesda, Maryland, United States; Remote-US-MA; Remote-US-MD; Remote-US-WA; Vancouver, Washington, United States; Waltham, Massachusetts, United States ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast. You'll lead the team that builds the intelligence every ZoomInfo AI agent reasons over — what's true about companies and the people in them, how they relate, and what they're buying. This role owns the B2B data graph strategy end to end, blending classical machine learning and data science with LLM and agentic systems, and treating evaluation and inference cost as core disciplines. You'll set the technical bar for a team of senior engineers while staying close to the code, shipping alongside the people you lead. What You'll Do You will ship code alongside your team, prototype alone to prove or kill an idea, and review code as a peer, setting how the team uses agentic coding tools with precise specifications and rigorous review. You will own delivery end-to-end, from problem framing through serving and on-call, including long-tail graph coverage and user memory for agents that separates user-supplied context from system-of-record data. You will choose the right method for each problem — classical machine learning, language models, or code — for challenges like sparse-company revenue estimation, entity resolution, and semantic intent modeling, deciding on measured evidence and stopping work that won't pay off. You will define what it takes to claim an agent's output is correct, not just that its run completed, building the evaluation datasets, regression gates, and experiment designs that back those claims. You will own inference cost, latency, and capacity, including build-versus-buy and distillation decisions, since a model too expensive to run everywhere isn't a result. You will hire and grow machine learning engineers, data scientists, and research engineers, developing senior engineers into technical leaders. You will work across product, platform, security, and legal, and present results and their limits to executives, including when a system isn't good enough to launch. What You Bring Must-Have: You have significant experience building production machine learning systems and leading the engineers who build them by shipping alongside them — demonstrated capability matters more than years. You have a track record of hiring and developing senior machine learning engineers and data scientists against a high bar. You stay hands-on today: shipping code, building prototypes independently, and using agentic coding tools daily with rigorous review. You bring deep classical machine learning and data science expertise (supervised learning, feature engineering, statistical inference and experiment design, strong SQL) alongside production LLM and agentic systems, with the judgment to choose between them, including setting an evaluation bar with leakage-safe validation, calibration, and validated LLM judges. You have a record of cost and capacity decisions for model serving, such as moving a workload from a hosted model to a distilled or self-hosted one, with the savings measured, and you report results to executives with their limits stated, including recommending against a launch. Preferred: You bring entrepreneurial experience — founding a company, or taking a product from inception to paying customers as a founding or early engineer. You have experience in propensity modeling, ranking and retrieval, clustering, or entity resolution at scale. You have worked on web-scale language processing over multilingual, noisy text, knowledge graphs, or user memory for agents. You have experience with post-training and distillation, open-weight model serving, or AI governance and safety practices (ISO/IEC 42001, NIST AI RMF). #LI-hybrid #LI-VC1 Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive. In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits here . Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply. $233,100 — $366,300 USD About us: ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller. ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant Privacy Notice for more details on how we handle your personal information. ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available here . ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements. For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location. To apply: https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
-    "published": "Tue, 29 Sep 2026",
-    "remote": true,
-    "currency": null,
-    "salary_min": 233100,
-    "salary_max": 366300,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "defi",
-      "audit",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$233,100-$366,300",
     "emails": [],
     "phones": []
   }
