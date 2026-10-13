@@ -8489,6 +8489,30 @@
       "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
       "source": "linkedin",
       "first_seen": "2026-10-13"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-tamer-group-4476454515": {
+      "title": "Environmental Health Safety Specialist",
+      "company": "Tamer Group",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155236-senior-systems-engineer-2": {
+      "title": "Senior Systems Engineer",
+      "company": "Fueled",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://jobicy.com/jobs/155227-content-designer-latam": {
+      "title": "Content Designer | LATAM",
+      "company": "Fueled",
+      "source": "jobicy",
+      "first_seen": "2026-10-13"
+    },
+    "https://ae.linkedin.com/jobs/view/blockchain-specialist-at-gravity-consultancy-4479034122": {
+      "title": "Blockchain Specialist",
+      "company": "Gravity Consultancy",
+      "source": "linkedin",
+      "first_seen": "2026-10-13"
     }
   },
   "applied": {
@@ -9401,6 +9425,13 @@
       "to": "infodesk@larsentoubro.com",
       "title": "Manager - EHS",
       "company": "Larsen & Toubro"
+    },
+    "https://www.linkedin.com/jobs/view/vice-president-global-environmental-health-and-safety-at-tpi-composites-4468144380::email": {
+      "date": "2026-10-13 23:38",
+      "via": "email",
+      "to": "contact@composites.com",
+      "title": "Vice President, Global Environmental, Health, and Safety",
+      "company": "TPI Composites"
     }
   },
   "sent": {
@@ -9938,6 +9969,11 @@
       "kind": "email",
       "to": "infodesk@larsentoubro.com",
       "date": "2026-10-13 19:46"
+    },
+    "https://www.linkedin.com/jobs/view/vice-president-global-environmental-health-and-safety-at-tpi-composites-4468144380": {
+      "kind": "email",
+      "to": "contact@composites.com",
+      "date": "2026-10-13 23:38"
     }
   },
   "replies": []
