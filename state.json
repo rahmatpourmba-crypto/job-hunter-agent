@@ -8573,6 +8573,78 @@
       "company": "TALENTMATE",
       "source": "linkedin",
       "first_seen": "2026-10-14"
+    },
+    "https://ae.linkedin.com/jobs/view/safety-engineer-at-parsons-corporation-4479569301": {
+      "title": "Safety Engineer",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155276-us-principal-ml-system-engineer": {
+      "title": "(US) Principal ML System Engineer",
+      "company": "PointClickCare",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155288-ai-solution-engineer-technology-support": {
+      "title": "Ai Solution Engineer - (Technology Support)",
+      "company": "PointClickCare",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155303-principal-macos-security-researcher": {
+      "title": "Principal macOS Security Researcher",
+      "company": "Huntress",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155283-engineering-manager-observability-uk-remote": {
+      "title": "Engineering Manager - Observability | UK | Remote",
+      "company": "Grafana Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155277-engineering-manager-observability-spain-remote": {
+      "title": "Engineering Manager - Observability | Spain | Remote",
+      "company": "Grafana Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155285-us-software-implementation-consultant-clinical": {
+      "title": "(US) Software Implementation Consultant - Clinical",
+      "company": "PointClickCare",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155279-us-sales-development-representative": {
+      "title": "(US) Sales Development Representative",
+      "company": "PointClickCare",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155297-equity-administrator": {
+      "title": "Equity Administrator",
+      "company": "Huntress",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155280-engineering-manager-observability-sweden-remote": {
+      "title": "Engineering Manager - Observability | Sweden | Remote",
+      "company": "Grafana Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155294-canada-sales-talent-community": {
+      "title": "Canada Sales - Talent Community",
+      "company": "PointClickCare",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://ae.linkedin.com/jobs/view/chief-capital-officer-web3-at-src-ecosystem-4476009488": {
+      "title": "Chief Capital Officer-Web3",
+      "company": "SRC Ecosystem",
+      "source": "linkedin",
+      "first_seen": "2026-10-14"
     }
   },
   "applied": {
@@ -9520,6 +9592,13 @@
       "to": "infodesk@larsentoubro.com",
       "title": "EHS Engineer",
       "company": "Larsen & Toubro"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4471445946::email": {
+      "date": "2026-10-14 18:49",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Engineer",
+      "company": "Parsons Corporation"
     }
   },
   "sent": {
@@ -10082,6 +10161,11 @@
       "kind": "email",
       "to": "infodesk@larsentoubro.com",
       "date": "2026-10-14 14:23"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4471445946": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-10-14 18:49"
     }
   },
   "replies": []
