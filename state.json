@@ -8555,6 +8555,24 @@
       "company": "Carrot",
       "source": "jobicy",
       "first_seen": "2026-10-14"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-manager-646695": {
+      "title": "HSE Manager",
+      "company": "Tiger Group",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-14"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-talenthive-4476669355": {
+      "title": "Health Safety Environment Officer",
+      "company": "TalentHive",
+      "source": "linkedin",
+      "first_seen": "2026-10-14"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-strategic-institutions-at-talentmate-4478335108": {
+      "title": "Head Of Strategic Institutions",
+      "company": "TALENTMATE",
+      "source": "linkedin",
+      "first_seen": "2026-10-14"
     }
   },
   "applied": {
@@ -9488,6 +9506,20 @@
       "to": "Info.Dodge-India@construction.com",
       "title": "Safety Officer-Ghuwaifat, UAE",
       "company": "Sembol Construction"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-manager-646695::email": {
+      "date": "2026-10-14 14:22",
+      "via": "email",
+      "to": "support@tiger.com",
+      "title": "HSE Manager",
+      "company": "Tiger Group"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476358299::email": {
+      "date": "2026-10-14 14:23",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "EHS Engineer",
+      "company": "Larsen & Toubro"
     }
   },
   "sent": {
@@ -10040,6 +10072,16 @@
       "kind": "email",
       "to": "Info.Dodge-India@construction.com",
       "date": "2026-10-14 09:01"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-manager-646695": {
+      "kind": "email",
+      "to": "support@tiger.com",
+      "date": "2026-10-14 14:22"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476358299": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-10-14 14:23"
     }
   },
   "replies": []

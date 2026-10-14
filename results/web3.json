@@ -90,38 +90,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Smart Contract Engineer",
-    "company": "X-Team",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/smart-contract-engineer-at-x-team-4476342534",
-    "description": "This role is a full-time engagement with the client, fully remote. Open to LATAM, USA & Canada. The Mission Help build and scale the secure on-chain infrastructure powering the next generation of open finance. In this role, you’ll design, implement, and battle-test critical smart contracts that manage significant TVL and capital-efficient primitives. This isn't about deploying speculative tokens; it’s about constructing highly resilient, mathematical, and adversarial-resistant software that remains upgradeable, cost-efficient, and bulletproof over time. The Role As a core protocol contributor, you will take deep ownership of smart contract architecture from initial mathematical modeling and design through to mainnet deployment, external audit facilitation, and live monitoring. • Protocol Architecture (40%): Design and implement secure, gas-optimized Solidity smart contracts for lending, borrowing, vaults, yield routing, liquidations, and access control. • Testing & Simulation (30%): Write extensive unit, integration, fork, fuzz, and invariant tests utilizing modern frameworks to ensure zero-day resiliency. • Security & Audits (15%): Prepare codebases for top-tier external audits, remediate findings, and design proactive on-chain risk mitigation/monitoring strategies. • Cross-Functional Integration (15%): Collaborate closely with risk, frontend, indexer, and quantitative engineering teams to build seamless, secure end-to-end dApps. The Must-Haves • Experience: 4+ years of professional software engineering experience, with at least 2+ years writing, deploying, and maintaining highly secure Solidity smart contracts in production.. • Tooling & Frameworks: Expert-level mastery of Foundry (Forge, Cast) including advanced fuzzing, invariant testing, and mainnet fork simulations. • EVM Deep Dive: Thorough understanding of EVM internals, storage layouts, gas optimization strategies, assembly (Yul), and standard proxy/upgradeability patterns. • DeFi Primitives: Practical, working knowledge of core financial primitives (such as ERC-20/4626/721/1155, AMMs, lending pools, oracles, and liquidation engines). • AI-Assisted Acceleration: Comfort using modern AI coding tools (e.g., Cursor, Claude, Copilot) to accelerate unit testing, documentation, and boilerplate development, backed by the critical judgment required never to trust raw model outputs blindly. • Security Mindset: An obsessive awareness of common attack vectors (reentrancy, oracle manipulation, front-running, rounding errors, and access-control flaws). The Bonus Skills • Audit Pedigree: Prior experience guiding a protocol through a major external audit (e.g., Trail of Bits, OpenZeppelin, Spearbit) or participating in competitive security audits. • Multi-Chain/SVM: Exposure to Rust-based smart contract environments (SVM/Solana, CosmWasm) or zero-knowledge (ZK) rollup architectures. • Advanced Automation: Familiarity with off-chain automation infrastructure like Keepers, Defender, or Gelato. Personal Traits • Adversarial Thinker: You don't just think about how code should work; you instinctively try to find ways to break, front-run, or exploit the state machine you are building.. • Execution & Ownership: You act as an owner, not a ticket executor. You proactively trace edge cases, optimize gas, and address technical debt before it is flagged.. • Detail-Obsessed: You care about the nuance of a single uint256 math operation and understand why rounding down vs. up is a security-critical decision.. • Collaborative & Clear: You can distill complex cryptographic or financial system logic into clear documentation and explain architectural tradeoffs to non-smart contract engineers.. Location: Remote (with meaningful overlap with US/EU working hours)",
-    "published": "2026-10-06",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 14,
-    "title_hits": [
-      "smart contract"
-    ],
-    "desc_hits": [
-      "solidity",
-      "defi",
-      "crypto",
-      "token",
-      "audit",
-      "security",
-      "foundry",
-      "dapp"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Senior Blockchain Intelligence Analyst, Ransomware",
     "company": "TRM Labs",
@@ -186,37 +154,6 @@
     ],
     "phones": [],
     "about": "Serious inquiries only [**cory@clickology.com**](mailto:cory@clickology.com)"
-  },
-  {
-    "source": "linkedin",
-    "title": "Senior Blockchain Engineer",
-    "company": "Ondo Finance",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-ondo-finance-4444080332",
-    "description": "About The Role As a Senior Blockchain Engineer at Ondo, you will own the design of our smart contract systems - not just the contracts themselves, but how they're deployed, secured, monitored, and managed across their entire lifetime, and how they connect to the people and products that depend on them. You'll design secure, efficient, and scalable smart contract solutions across many blockchain ecosystems powering Real World Asset (RWA) tokenization. But the harder and more important part of this role is everything around the contract: keeping it secure from deploy through every day it's live, building tooling that lets non-technical teammates safely view and manage on-chain state, and creating automated systems that take manual, error-prone work off the table. You'll think about how a smart contract design decision ripples outward, to the web app, to the teams operating the system day to day, and ultimately to our end users. You'll collaborate with product, legal, compliance, web, and ops to make sure contracts are technically sound, regulatorily aligned, and genuinely operable by the teams who rely on them day to day. Throughout, you'll favor simple, elegant designs that let us move quickly and safely. This is a unique opportunity to shape the future of finance by building the systems that bring real-world assets on-chain, and by making those systems something a whole organization can build on with confidence. Responsibilities Smart Contract System Design: Architect entire smart contract systems for Ondo's evolving product suite — covering new chain deployments, novel DeFi interoperability and bridging solutions, and DeFi protocols — with security, operability, and long-term maintainability designed in from the start. Lifecycle Security & Operations: Own contract security not just at deploy but across the full lifetime of the system — including upgrade safety, administrative controls, and the operational guardrails that keep things safe as they evolve. Tooling & Automation: Build tooling and automated systems that let non-technical teammates safely view, monitor, and manage contracts without writing scripts or touching raw chain operations directly. Cross-Functional Integration: Connect smart contract design to the rest of the product — helping the web team integrate cleanly, helping operational teams monitor and manage without direct scripting, and ensuring design decisions flow sensibly through to end users. Technical Leadership: Serve as tech lead and subject matter expert for blockchain projects, guiding the engineering team toward high-impact, scalable solutions and making sound technical decisions aligned with long-term goals. Requirements Based in PT, MT, CT, or ET time zones. Excellent technical and non-technical communication skills, verbal and written. Bachelor's degree in Computer Science, Engineering, or a related technical field. 5+ years of software engineering experience. 3+ years in blockchain engineering, ideally from another DeFi protocol live on multiple chains. Strong competency with Solidity; exposure to non-EVM smart contract languages a plus — particularly Solana. Demonstrated ability to design systems, not just contracts — including tooling, automation, security across the contract lifecycle, and the integration points between contracts, applications, and operational teams. Proven results building and scaling a DeFi protocol. Python and/or TypeScript experience preferred (for building tooling and automation). Strong technical grasp and excellent judgment on task prioritization. Strong emphasis on understanding the \"why\" behind requirements and a commitment to defining the \"minimum scope.\" What We Offer Competitive compensation including salary, future token rights, and/or equity (according to your preferences) — we're well-funded and believe that great talent deserves great compensation. Full benefits (medical, vision, and dental) and flexible vacation policy (PTO). Small remote-first team across many countries — you'll be an early team member helping shape our vision, culture, and design practices. A+ colleagues — our team includes alumni from: Goldman Sachs, Blackrock, Two Sigma, Bridgewater, SpaceX, AWS, Meta, Google, McKinsey, Circle, Uniswap. Best-in-class investors — we are proud to be backed by leading crypto experts and VCs, including Pantera Capital, Founders Fund and Coinbase Ventures.",
-    "published": "",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "crypto",
-      "token",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
   },
   {
     "source": "jobicy",
@@ -547,6 +484,35 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Director of Blockchain & Digital Asset Solutions (m/f/d)",
+    "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/director-of-blockchain-digital-asset-solutions-m-f-d-at-halian-managed-services-recruitment-agency-contract-staffing-4477561870",
+    "description": "We are seeking an experienced Director of Blockchain & Digital Asset Solutions to lead the design and advisory of enterprise-grade blockchain initiatives across financial services, digital assets, tokenization, payments, and emerging CBDC ecosystems. You will serve as a trusted technical advisor to customers, architects, engineering teams, and executive stakeholders, defining scalable and secure blockchain architectures while driving solution strategy, presales engagements, and innovation. Requirements 12+ years of technology experience, including 5+ years focused on Blockchain, DLT, Digital Assets, or Web3 solutions Deep expertise in enterprise blockchain architecture and distributed ledger technologies Strong experience with tokenization, digital assets, payments, settlement systems, or CBDC initiatives Proven track record designing solutions on platforms such as Hyperledger, Corda, Ethereum, Besu, Quorum, or similar technologies Experience leading architecture workshops, executive presentations, RFP responses, and customer advisory engagements Strong understanding of security, privacy, scalability, interoperability, and governance within blockchain ecosystems Financial services, banking, fintech, or central-bank experience strongly preferred Key Responsibilities Define end-to-end blockchain and digital asset architectures Advise clients on tokenization, payments, CBDC, and digital asset transformation initiatives Lead customer workshops, presales activities, and architectural assessments Drive interoperability and cross-chain integration strategies Establish architecture standards, governance frameworks, and technical best practices Partner with engineering, product, and business stakeholders to deliver scalable enterprise solutions Director of Blockchain & Digital Asset Solutions in Abu Dhabi, United Arab Emirates",
+    "published": "2026-10-12",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "web3",
+      "defi",
+      "ethereum",
+      "token",
+      "security"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Head of Security Engineering",
     "company": "BetterHelp",
@@ -642,6 +608,33 @@
     "salary_ok": true,
     "salary_str": "$208,000-$312,000",
     "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Principal Solutions Engineer, Emerging Technologies",
+    "company": "1Password",
+    "location": "Canada,  USA",
+    "url": "https://jobicy.com/jobs/154951-principal-solutions-engineer-emerging-technologies",
+    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work. If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future. As a Principal Solutions Engineer, Acceleration, you’ll help define how 1Password brings emerging technologies to market. Working across Product Management, Product Marketing, Enablement, Engineering, Sales, Customer Success, and strategic customers, you’ll validate new capabilities, shape product direction through field feedback, and turn what works into repeatable customer-facing motions. Your work will help customers adopt innovations that strengthen secure access for people, machines, and artificial intelligence (AI) agents while advancing 1Password’s mission to make secure access simpler. Reporting to the Vice President, Global Solutions Engineering, this remote role is open to candidates in the United States or Canada and may involve up to 30% travel. How we’re using AI today Across GTM, we’re transforming the way we work with AI. We expect every seller, CSM, and team member to become a power user, using it daily to work smarter and move faster. AI is already embedded in how we operate – from real-time coaching that sharpens how we sell and interact with customers, to surfacing insights that help us anticipate needs – creating more time for meaningful customer engagement. If you’re excited to reshape how you think, make decisions, and drive growth with AI, you’ll feel right at home here. This is a remote opportunity within Canada and the US. Note: All go-to market roles will have an in-person onboarding in Toronto. What we're looking for: 8+ years of experience in customer-facing technical roles within enterprise Business-to-Business Software as a Service (B2B SaaS), including leading initiatives beyond an individual sales territory. A track record of translating emerging technologies into customer value, repeatable field motions, and clear recommendations that shape product or go-to-market direction. Experience partnering effectively with Product Management, Engineering, Product Marketing, and other cross-functional teams to validate capabilities and incorporate customer feedback. Strong executive communication, storytelling, and presentation skills, with the ability to influence audiences ranging from technical practitioners to senior executives, analysts, and strategic partners. Deep knowledge of modern identity architectures and developer or AI-powered workflows, including Open Authorization (OAuth), OpenID Connect (OIDC), System for Cross-domain Identity Management (SCIM), application programming interfaces (APIs), Model Context Protocol (MCP), continuous integration and continuous delivery (CI/CD), infrastructure automation, AI agents, and modern cloud platforms. Experience with Metrics, Economic Buyer, Decision Criteria, Decision Process, Paper Process, Identify Pain, Champion, and Competition (MEDDPICC), or a similar enterprise sales methodology, along with the ability to work autonomously and influence without direct authority. Bonus points for: Experience with private previews, beta programs, or early-stage products; technical enablement and customer-facing content; or domains such as Artificial Intelligence Security (AI Security), Developer Security, Privileged Access, Software as a Service (SaaS) Manager, or Unified Access Management is preferred. A track record of public speaking, technical writing, podcasts, analyst engagements, or other forms of technical thought leadership is also valued. What you can expect: Lead technical validation for emerging products, strategic initiatives, and incubating technologies from early development through general availability. Partner with Product Management, Product Marketing, and Engineering to shape product direction and turn field feedback into actionable recommendations. Build repeatable discovery frameworks, demonstrations, technical messaging, reference architectures, and implementation guidance for the global Solutions Engineering organization. Design and deliver technical enablement, including workshops, labs, certifications, and playbooks that help Solutions Engineers confidently support new capabilities. Lead strategic customer engagements, private previews, beta programs, and early-adopter initiatives, providing executive-level technical guidance and influencing customer outcomes. Identify emerging market opportunities and represent 1Password through executive briefings, conferences, webinars, podcasts, customer events, and industry content. Mentor Solutions Engineers and lead cross-functional initiatives that accelerate adoption, strengthen technical excellence, and scale what works across the organization. USA-based roles only: The annual base salary for this role is between $171,000 USD and $248,000 USD, and is commission-eligible. This role is also eligible for immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs. Canada-based roles only: The annual base salary for this role is between $170,000 CAD and $247,000 CAD, and is commission-eligible. This role is also eligible for immediate participation in 1Password’s generous benefits program (health, dental, RRSP and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs. At 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set. This posting is for an existing vacancy. Our culture At 1Password, we prioritize collaboration, clear and transparent communication, receptiveness to feedback, and alignment with our core values: keep it simple, lead with honesty, and put people first. You’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is not for everyone . Our work is demanding, we strive for excellence, and the pace is fast. We need people who are keen to take on challenging problems, who seek feedback to grow, and who are driven to make an impact. If you're looking for a place where you can settle into a comfortable routine, this might not be the right fit for you. We’re looking for individuals who are proven experts in their fields, as well as those who are highly adaptable, can thrive in ambiguity and through change, are curious, and above all deliver results. How we work with AI We are committed to leveraging cutting-edge technology—including AI—to achieve our mission. We also understand that thinking critically about AI in its current forms will help us create better solutions for our customers and ourselves with its future forms, which will help us continue to close the gap between security and privacy and achieve our mission. We want team members at all levels to take the approach of actively learning AI best practices, identifying opportunities to apply AI in meaningful ways, and driving innovative solutions in their daily work. Embracing the future of AI isn't just encouraged—it's an essential part of how we will be successful at 1Password. This approach extends to our hiring process—candidates are welcome to use AI tools responsibly and thoughtfully during the application process. To us, this means we do ask that you join live interviews without using AI tools so we can get to know how you communicate, solve problems, and collaborate with others. Our approach to work We recognize the power of both in person collaboration and remote work. Some roles are designated as remote-first, with an expectation that individuals work from their homes majority of the time, while others are designated as in-office roles, with an expectation of being on-site on a regular basis. We recognize that certain roles benefit from regular, in-person connection to support collaboration, team cohesion, and customer engagement. For all roles, occasional travel may be required. This includes things like: department-wide offsites, quarterly department meetings and periodic customer events. These events are typically held in varying locations across Canada, USA and/or EMEA. In leadership roles, you can expect to travel once per month on average. Note: All go-to market roles will have an in-person onboarding in Toronto. What we offer We believe in working hard, and rewarding that hard work through our benefits. While not an exhaustive list, here is a glance at what we currently offer: Health and wellbeing Maternity and parental leave top-up programs Competitive health benefits Generous PTO policy Growth and future RSU program for most employees Retirement matching program Free 1Password account Community Paid volunteer days Peer-to-peer recognition through Bonusly Remote-first work environment *Some roles in our GTM team are currently being hired for in-person hybrid work in Toronto and Austin. These roles will specify on the posting. You belong here. 1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individuals and do not discriminate on the basis of gender identity and expression, race, ethnicity, disability, sexual orientation, colour, religion, creed, gender, national origin, age, marital status, pregnancy, sex, citizenship, education, languages spoken or veteran status. Be yourself, find your people and share the things you love. Accommodation is available upon request at any point during our recruitment process. If you require an accommodation, please speak to your talent acquisition partner or email us at nextbit@agilebits.com and we’ll work to meet your needs. Remote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working from your home country. If you've got questions or concerns about this, your talent partner would be happy to address them with you. Successful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal background, publicly available social media, credit history, or other information, as permitted by local law. 1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in the initial screening of employment applications and improve our recruitment process. See here for the latest third party bias audit information. If you prefer not to have your application assessed using AI/ML features, you may opt out by completing this form . For additional information see our Candidate Privacy Notice . 1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is…",
+    "published": "2026-10-09",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 170000,
+    "salary_max": 400000,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "defi",
+      "audit",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$170,000-$400,000",
+    "emails": [
+      "nextbit@agilebits.com"
+    ],
     "phones": []
   },
   {
