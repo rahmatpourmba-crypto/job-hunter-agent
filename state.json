@@ -8513,6 +8513,12 @@
       "company": "Gravity Consultancy",
       "source": "linkedin",
       "first_seen": "2026-10-13"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-at-assystem-radicon-4472555835": {
+      "title": "HSE Manager",
+      "company": "Assystem Radicon",
+      "source": "linkedin",
+      "first_seen": "2026-10-14"
     }
   },
   "applied": {
@@ -9432,6 +9438,13 @@
       "to": "contact@composites.com",
       "title": "Vice President, Global Environmental, Health, and Safety",
       "company": "TPI Composites"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-lead-saudi-national-at-parsons-corporation-4478792435::email": {
+      "date": "2026-10-14 03:19",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Lead (Saudi National)",
+      "company": "Parsons Corporation"
     }
   },
   "sent": {
@@ -9974,6 +9987,11 @@
       "kind": "email",
       "to": "contact@composites.com",
       "date": "2026-10-13 23:38"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-lead-saudi-national-at-parsons-corporation-4478792435": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-10-14 03:19"
     }
   },
   "replies": []
