@@ -8519,6 +8519,42 @@
       "company": "Assystem Radicon",
       "source": "linkedin",
       "first_seen": "2026-10-14"
+    },
+    "https://www.gulftalent.com/uae/jobs/safety-officer-ghuwaifat-uae-646670": {
+      "title": "Safety Officer-Ghuwaifat, UAE",
+      "company": "Sembol Construction",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-14"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer-646668": {
+      "title": "HSE Officer",
+      "company": "J10 Consulting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155257-senior-cloud-security-engineer": {
+      "title": "Senior Cloud Security Engineer",
+      "company": "Beyond Finance",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/155261-staff-security-engineer": {
+      "title": "Staff Security Engineer",
+      "company": "Beyond Finance",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
+    },
+    "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments": {
+      "title": "Coinbase: Analyst, Privacy (Privacy Assessments)",
+      "company": "Coinbase",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-14"
+    },
+    "https://jobicy.com/jobs/153151-business-intelligence-analyst": {
+      "title": "Business Intelligence Analyst",
+      "company": "Carrot",
+      "source": "jobicy",
+      "first_seen": "2026-10-14"
     }
   },
   "applied": {
@@ -9445,6 +9481,13 @@
       "to": "cybersecurity@parsons.com",
       "title": "HSE Lead (Saudi National)",
       "company": "Parsons Corporation"
+    },
+    "https://www.gulftalent.com/uae/jobs/safety-officer-ghuwaifat-uae-646670::email": {
+      "date": "2026-10-14 09:01",
+      "via": "email",
+      "to": "Info.Dodge-India@construction.com",
+      "title": "Safety Officer-Ghuwaifat, UAE",
+      "company": "Sembol Construction"
     }
   },
   "sent": {
@@ -9992,6 +10035,11 @@
       "kind": "email",
       "to": "cybersecurity@parsons.com",
       "date": "2026-10-14 03:19"
+    },
+    "https://www.gulftalent.com/uae/jobs/safety-officer-ghuwaifat-uae-646670": {
+      "kind": "email",
+      "to": "Info.Dodge-India@construction.com",
+      "date": "2026-10-14 09:01"
     }
   },
   "replies": []
