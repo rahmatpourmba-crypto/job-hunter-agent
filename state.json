@@ -8645,6 +8645,18 @@
       "company": "SRC Ecosystem",
       "source": "linkedin",
       "first_seen": "2026-10-14"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-hse-at-khazna-data-centers-4479287822": {
+      "title": "Manager - HSE",
+      "company": "Khazna Data Centers",
+      "source": "linkedin",
+      "first_seen": "2026-10-14"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4476363684": {
+      "title": "Blockchain Developer",
+      "company": "Bright Vision Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-10-14"
     }
   },
   "applied": {
@@ -9599,6 +9611,13 @@
       "to": "cybersecurity@parsons.com",
       "title": "HSE Engineer",
       "company": "Parsons Corporation"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4476363684::email": {
+      "date": "2026-10-14 22:03",
+      "via": "email",
+      "to": "info@vision.com",
+      "title": "Blockchain Developer",
+      "company": "Bright Vision Technologies"
     }
   },
   "sent": {
@@ -10166,6 +10185,11 @@
       "kind": "email",
       "to": "cybersecurity@parsons.com",
       "date": "2026-10-14 18:49"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-developer-at-bright-vision-technologies-4476363684": {
+      "kind": "email",
+      "to": "info@vision.com",
+      "date": "2026-10-14 22:03"
     }
   },
   "replies": []
