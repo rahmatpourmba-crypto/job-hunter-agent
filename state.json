@@ -8741,6 +8741,54 @@
       "company": "Cyberani by aramco digital",
       "source": "linkedin",
       "first_seen": "2026-10-15"
+    },
+    "https://sa.linkedin.com/jobs/view/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D9%88%D8%B5%D8%AD%D8%A9-%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D8%A3%D9%88%D9%84-senior-hse-engineer-at-rasan-construction-4477091565": {
+      "title": "مهندس سلامة وصحة مهنية أول (Senior HSE Engineer)",
+      "company": "Rasan Construction",
+      "source": "linkedin",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155392-senior-technical-account-manager-3": {
+      "title": "Senior Technical Account Manager",
+      "company": "Recorded Future, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155364-customer-success-engineer-6": {
+      "title": "Customer Success Engineer",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155375-solutions-architect-f-m-d": {
+      "title": "Solutions Architect f/m/d",
+      "company": "Apaleo",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155368-sales-engineer-data-ai-security": {
+      "title": "Sales Engineer - Data & AI Security",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155381-senior-software-engineer-full-stack": {
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "Tripadvisor",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155383-senior-software-engineer-full-stack-front-end-focused": {
+      "title": "Senior Software Engineer - Full Stack/Front-end focused",
+      "company": "Tripadvisor",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155370-senior-counsel-emea-employment": {
+      "title": "Senior Counsel, EMEA Employment",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
     }
   },
   "applied": {
@@ -9709,6 +9757,13 @@
       "to": "Info.Dodge-India@construction.com",
       "title": "Safety Officer",
       "company": "Sembol Construction"
+    },
+    "https://sa.linkedin.com/jobs/view/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D9%88%D8%B5%D8%AD%D8%A9-%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D8%A3%D9%88%D9%84-senior-hse-engineer-at-rasan-construction-4477091565::email": {
+      "date": "2026-10-15 19:19",
+      "via": "email",
+      "to": "info@rasan.com",
+      "title": "مهندس سلامة وصحة مهنية أول (Senior HSE Engineer)",
+      "company": "Rasan Construction"
     }
   },
   "sent": {
@@ -10286,6 +10341,11 @@
       "kind": "email",
       "to": "Info.Dodge-India@construction.com",
       "date": "2026-10-15 10:17"
+    },
+    "https://sa.linkedin.com/jobs/view/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D9%88%D8%B5%D8%AD%D8%A9-%D9%85%D9%87%D9%86%D9%8A%D8%A9-%D8%A3%D9%88%D9%84-senior-hse-engineer-at-rasan-construction-4477091565": {
+      "kind": "email",
+      "to": "info@rasan.com",
+      "date": "2026-10-15 19:19"
     }
   },
   "replies": []
