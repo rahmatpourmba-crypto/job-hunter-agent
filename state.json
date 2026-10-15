@@ -8717,6 +8717,30 @@
       "company": "Abnormal",
       "source": "weworkremotely",
       "first_seen": "2026-10-15"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-lead-at-parsons-corporation-4479823260": {
+      "title": "HSE Lead",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-15"
+    },
+    "https://iq.linkedin.com/jobs/view/degassing-station-supervisor-at-halliburton-4466545881": {
+      "title": "Degassing Station Supervisor",
+      "company": "Halliburton",
+      "source": "linkedin",
+      "first_seen": "2026-10-15"
+    },
+    "https://iq.linkedin.com/jobs/view/central-processing-facility-supervisor-at-halliburton-4466553837": {
+      "title": "Central Processing Facility Supervisor",
+      "company": "Halliburton",
+      "source": "linkedin",
+      "first_seen": "2026-10-15"
+    },
+    "https://sa.linkedin.com/jobs/view/ot-cybersecurity-principal-consultant-at-cyberani-by-aramco-digital-4479827482": {
+      "title": "OT Cybersecurity Principal Consultant",
+      "company": "Cyberani by aramco digital",
+      "source": "linkedin",
+      "first_seen": "2026-10-15"
     }
   },
   "applied": {
