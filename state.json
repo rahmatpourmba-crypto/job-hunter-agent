@@ -8663,6 +8663,60 @@
       "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
       "source": "linkedin",
       "first_seen": "2026-10-15"
+    },
+    "https://www.gulftalent.com/uae/jobs/safety-officer-647082": {
+      "title": "Safety Officer",
+      "company": "Sembol Construction",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-15"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-at-wsp-in-the-middle-east-4463967396": {
+      "title": "HSE Engineer",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/153244-sr-manager-sales-acceleration": {
+      "title": "Sr Manager Sales Acceleration",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/153198-general-counsel": {
+      "title": "General Counsel",
+      "company": "Legion",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/153265-account-executive-emea-3": {
+      "title": "Account Executive, EMEA",
+      "company": "Socket",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/146081-senior-software-engineer-backend-platform-team": {
+      "title": "Senior Software Engineer, Backend - Platform Team",
+      "company": "Cresta",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/153239-commercial-account-executive-uki": {
+      "title": "Commercial Account Executive UKI",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://ae.linkedin.com/jobs/view/devops-engineer-blockchain-infra-fully-remote-at-binance-4478868176": {
+      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+      "company": "Binance",
+      "source": "linkedin",
+      "first_seen": "2026-10-15"
+    },
+    "https://weworkremotely.com/remote-jobs/abnormal-customer-solutions-engineer-emea": {
+      "title": "Abnormal: Customer Solutions Engineer, EMEA",
+      "company": "Abnormal",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-15"
     }
   },
   "applied": {
@@ -9624,6 +9678,13 @@
       "to": "info@vision.com",
       "title": "Blockchain Developer",
       "company": "Bright Vision Technologies"
+    },
+    "https://www.gulftalent.com/uae/jobs/safety-officer-647082::email": {
+      "date": "2026-10-15 10:17",
+      "via": "email",
+      "to": "Info.Dodge-India@construction.com",
+      "title": "Safety Officer",
+      "company": "Sembol Construction"
     }
   },
   "sent": {
@@ -10196,6 +10257,11 @@
       "kind": "email",
       "to": "info@vision.com",
       "date": "2026-10-14 22:03"
+    },
+    "https://www.gulftalent.com/uae/jobs/safety-officer-647082": {
+      "kind": "email",
+      "to": "Info.Dodge-India@construction.com",
+      "date": "2026-10-15 10:17"
     }
   },
   "replies": []

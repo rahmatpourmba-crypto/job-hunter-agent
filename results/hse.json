@@ -25,6 +25,39 @@
     "phones": []
   },
   {
+    "source": "gulftalent_uae",
+    "title": "Safety Officer",
+    "company": "Sembol Construction",
+    "location": "Remote",
+    "url": "https://www.gulftalent.com/uae/jobs/safety-officer-647082",
+    "description": "## Requirements: Requirements and Qualifications • Strong practical experience in both civil construction and MEP works. • Previous experience in ADNOC offshore projects is highly preferred. • Relevant HSE qualification, such as NEBOSH IGC or an equivalent recognized certification, as required by the project. • Good knowledge of ADNOC HSE standards, UAE safety regulations, PTW systems, risk assessments, and incident investigation. • Excellent communication, reporting, and coordination skills. • Ability to work in a demanding oil & gas project environment. • Immediate joiners will be given preference. Interested Candidates – Please Provide the Following Details • Are you interested in working on an ADNOC Offshore Project? • How many years of civil construction experience do you have? • How many years of MEP experience do you have? • What is your current location? • Are you available to join immediately? If not, what is your notice period? • What is your current salary? • What is your expected salary? • What is your current UAE visa status? Candidates who answered the above queries and have relevant experience as per the job description will be contacted. “Sembol Inşaat” Company, which is well-known in Turkey and abroad by its unique construction facilities and breath-taking projects, is a company, which left a mark in Turkey and abroad historically and conducted activities in different places of the world, erected significant creation of architectural art, carried out complex and challenging projects within allocated budget and time limits.",
+    "published": "15 Oct",
+    "remote": true,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "safety officer"
+    ],
+    "desc_hits": [
+      "hse",
+      "risk assessment",
+      "incident investigation"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "Info.Dodge-India@construction.com",
+      "pr@construction.com",
+      "support@construction.com"
+    ],
+    "phones": [],
+    "emails_source": "construction.com",
+    "about": "Access project documents and specification data during planning and design before competitors enter the picture."
+  },
+  {
     "source": "linkedin",
     "title": "Environment, Health and Safety Manager",
     "company": "Nawras Power Company",
@@ -40,6 +73,54 @@
     "title_hits": [
       "safety manager",
       "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Junior HSE Engineer - Offshore SIte",
+    "company": "Worley",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/junior-hse-engineer-offshore-site-at-worley-4466796170",
+    "description": "",
+    "published": "2026-10-05",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Emiratization - Senior HSE Engineer",
+    "company": "Khazna Data Centers",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/emiratization-senior-hse-engineer-at-khazna-data-centers-4468385630",
+    "description": "",
+    "published": "2026-09-17",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -172,14 +253,80 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "cybersecurity@parsons.com"
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health and Safety Engineer",
+    "company": "WSP in the Middle East",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
+    "description": "",
+    "published": "2026-10-01",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "safety engineer",
+      "health and safety"
     ],
-    "phones": [
-      "+17039888500"
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Engineer",
+    "company": "Larsen & Toubro",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476358299",
+    "description": "",
+    "published": "2026-10-06",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "ehs engineer"
     ],
-    "emails_source": "parsons.com",
-    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "WSP in the Middle East",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-wsp-in-the-middle-east-4463967396",
+    "description": "",
+    "published": "2026-10-03",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -203,13 +350,8 @@
     "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "contact@composites.com",
-      "webmaster@composites.com"
-    ],
-    "phones": [],
-    "emails_source": "composites.com",
-    "about": "As well as molding parts, the company presses large (4' x 32'), epoxy prepreg cored panels and solid laminate sheets to any customer specified laminate schedule."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "jobicy",
@@ -229,32 +371,6 @@
     ],
     "desc_hits": [],
     "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Environment Health Safety Lead",
-    "company": "Progetti Europa & Global S.p.A",
-    "location": "Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/environment-health-safety-lead-at-progetti-europa-global-s-p-a-4477139657",
-    "description": "About Us PEG is an international engineering and contracting company with a presence across selected strategic geographies. With over 50 years of proven experience , PEG delivers process design, engineering solutions, and project management services across the Oil & Gas, Power Generation, and Renewables sectors. Our capabilities cover the full project lifecycle, from conceptual and front-end engineering design (FEED) and feasibility studies through detailed engineering, construction, commissioning and start-up, to operations and maintenance . About the Role Location: Iraq/ Basra and other project Locations Position: HSE Lead Key Responsibilities: Developing and implementing comprehensive health, safety, and environmental policies in accordance with legal and corporate guidelines. Conducting risk assessments to identify potential hazards and developing preventative strategies. Organizing safety training for employees to ensure awareness and understanding of safety and environmental practices and legislation. Monitoring compliance with policies, performing site inspections, and preparing detailed reports on findings. Leading emergency response initiatives and conducting investigations after incidents to establish causes and preventive measures. Advising on a range of specialist areas, e.g., fire regulations, hazardous substances, noise, occupational diseases, and waste management. Maintaining current knowledge of legislation and regulatory requirements related to health, safety, and environmental matters that impact the organization. Collaborating with internal leadership and external regulatory bodies to maintain compliance standards. Implementing health and safety plans that comply with company policies and legislated standards. Overseeing environmental performance and adherence to legal environmental standards. Handling safety/regulatory audits both internally and externally. Coordinating with HR departments to ensure physical examinations and medical clearances are completed per the company's policies. Developing and maintaining documentation related to HSE initiatives, such as inspection forms and training modules. Qualifications and Experience: Bachelor’s degree in Environmental Science, Safety Management, or a related field. NEBOSH IGC certification Professional certifications such as Certified Safety Professional (CSP) or Certified Industrial Hygienist (CIH) are highly desirable. Strong understanding of the legal health and safety guidelines relevant to the industry. Several years of experience in a HSE role, ideally within the industry or a closely related field. Proficient use of HSE management software and tools. What We Offer: Opportunity to work on strategically important Oil & Gas projects. International and multicultural working environment. Competitive compensation package. Professional growth and leadership opportunities within a dynamic project organization.",
-    "published": "2026-10-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 4,
-    "title_hits": [],
-    "desc_hits": [
-      "hse",
-      "health and safety",
-      "risk assessment",
-      "safety training"
-    ],
-    "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
@@ -354,190 +470,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Officer",
-    "company": "Jasara Program Management Company",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-officer-at-jasara-program-management-company-4479021638",
-    "description": "",
-    "published": "2026-10-13",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health Safety Environment Officer",
-    "company": "TalentHive",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-safety-environment-officer-at-talenthive-4476669355",
-    "description": "",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Manager",
-    "company": "Huntsman Corporation",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711",
-    "description": "",
-    "published": "2026-09-29",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Field HSE Specialist",
-    "company": "SLB",
-    "location": "Dhahran, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/field-hse-specialist-at-slb-4434932794",
-    "description": "",
-    "published": "2026-09-20",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Lead (Saudi National)",
-    "company": "Parsons Corporation",
-    "location": "Tabūk, Tabuk, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-lead-saudi-national-at-parsons-corporation-4478792435",
-    "description": "",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Penspen",
-    "location": "Khafji, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-penspen-4474829524",
-    "description": "",
-    "published": "2026-10-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Project EHS Manager",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4476353635",
-    "description": "",
-    "published": "2026-10-06",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer - Saudi National",
-    "company": "Vanderlande",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-officer-saudi-national-at-vanderlande-4476803068",
-    "description": "",
-    "published": "2026-10-09",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "EHS Officer - UAE National",
     "company": "Siemens Energy",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -574,6 +506,75 @@
     "score": 3,
     "title_hits": [
       "ehs"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Manager - EHS",
+    "company": "Larsen & Toubro",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477178081",
+    "description": "",
+    "published": "2026-10-08",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "ehs"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Manager - EHS",
+    "company": "Larsen & Toubro",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477158896",
+    "description": "",
+    "published": "2026-10-08",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "ehs"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Manager (Marine/Ports)",
+    "company": "Parsons Corporation",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-manager-marine-ports-at-parsons-corporation-4476170835",
+    "description": "",
+    "published": "2026-10-07",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
