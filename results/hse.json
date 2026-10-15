@@ -1,6 +1,31 @@
 [
   {
     "source": "linkedin",
+    "title": "Occupational Health and Safety Specialist",
+    "company": "Confidential Careers",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/occupational-health-and-safety-specialist-at-confidential-careers-4473217315",
+    "description": "",
+    "published": "2026-09-29",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 9,
+    "title_hits": [
+      "occupational health",
+      "health and safety",
+      "safety specialist"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Environment, Health and Safety Manager",
     "company": "Nawras Power Company",
     "location": "Eastern, Saudi Arabia",
@@ -15,6 +40,30 @@
     "title_hits": [
       "safety manager",
       "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Environmental Health Safety Specialist",
+    "company": "Tamer Group",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-at-tamer-group-4476454515",
+    "description": "",
+    "published": "2026-10-13",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "environmental health",
+      "safety specialist"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -81,6 +130,30 @@
   {
     "source": "linkedin",
     "title": "HSE Engineer",
+    "company": "Nova International General Contracting L.L.C",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687",
+    "description": "",
+    "published": "2026-10-08",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
     "company": "Parsons Corporation",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4471445946",
@@ -110,105 +183,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Nova International General Contracting L.L.C",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687",
-    "description": "",
-    "published": "2026-10-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health and Safety Engineer",
-    "company": "WSP in the Middle East",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
-    "description": "",
-    "published": "2026-10-01",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety engineer",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Engineer",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476358299",
-    "description": "",
-    "published": "2026-10-06",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "ehs",
-      "ehs engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "infodesk@larsentoubro.com"
-    ],
-    "phones": [],
-    "emails_source": "larsentoubro.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer (Saudi national)",
-    "company": "WSP in the Middle East",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-saudi-national-at-wsp-in-the-middle-east-4465561072",
-    "description": "",
-    "published": "2026-10-07",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Vice President, Global Environmental, Health, and Safety",
     "company": "TPI Composites",
     "location": "Scottsdale, AZ",
@@ -229,8 +203,13 @@
     "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "contact@composites.com",
+      "webmaster@composites.com"
+    ],
+    "phones": [],
+    "emails_source": "composites.com",
+    "about": "As well as molding parts, the company presses large (4' x 32'), epoxy prepreg cored panels and solid laminate sheets to any customer specified laminate schedule."
   },
   {
     "source": "jobicy",
@@ -516,7 +495,7 @@
     "title": "Project EHS Manager",
     "company": "Larsen & Toubro",
     "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4476343987",
+    "url": "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4476353635",
     "description": "",
     "published": "2026-10-06",
     "remote": false,
@@ -563,6 +542,29 @@
     "company": "Siemens Energy",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://ae.linkedin.com/jobs/view/ehs-officer-uae-national-at-siemens-energy-4463524424",
+    "description": "",
+    "published": "2026-09-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "ehs"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Officer - UAE National",
+    "company": "Siemens Energy",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/ehs-officer-uae-national-at-siemens-energy-4463531066",
     "description": "",
     "published": "2026-09-30",
     "remote": false,
