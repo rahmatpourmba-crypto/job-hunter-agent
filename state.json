@@ -8789,6 +8789,24 @@
       "company": "Veeam Software",
       "source": "jobicy",
       "first_seen": "2026-10-15"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477171400": {
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155398-senior-product-security-engineer-usa-only-100-remote": {
+      "title": "Senior Product Security Engineer (USA Only, 100% Remote)",
+      "company": "Close",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
+    },
+    "https://jobicy.com/jobs/155403-head-of-data-science-2": {
+      "title": "Head of Data Science",
+      "company": "Paddle",
+      "source": "jobicy",
+      "first_seen": "2026-10-15"
     }
   },
   "applied": {
@@ -9764,6 +9782,13 @@
       "to": "info@rasan.com",
       "title": "مهندس سلامة وصحة مهنية أول (Senior HSE Engineer)",
       "company": "Rasan Construction"
+    },
+    "https://iq.linkedin.com/jobs/view/construction-camp-supervisor-at-ilf-consulting-engineers-in-united-arab-emirates-4471481663::email": {
+      "date": "2026-10-15 22:36",
+      "via": "email",
+      "to": "Info.hannover@ilf.com",
+      "title": "Construction & Camp Supervisor",
+      "company": "ILF Consulting Engineers in United Arab Emirates"
     }
   },
   "sent": {
@@ -10346,6 +10371,11 @@
       "kind": "email",
       "to": "info@rasan.com",
       "date": "2026-10-15 19:19"
+    },
+    "https://iq.linkedin.com/jobs/view/construction-camp-supervisor-at-ilf-consulting-engineers-in-united-arab-emirates-4471481663": {
+      "kind": "email",
+      "to": "Info.hannover@ilf.com",
+      "date": "2026-10-15 22:36"
     }
   },
   "replies": []
