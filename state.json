@@ -8891,6 +8891,36 @@
       "company": "Fueled",
       "source": "jobicy",
       "first_seen": "2026-10-16"
+    },
+    "https://www.gulftalent.com/uae/jobs/qhse-officer-fire-protection-647575": {
+      "title": "QHSE Officer – Fire Protection",
+      "company": "The Talents Nation",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-16"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer-mep-647551": {
+      "title": "HSE Officer (MEP)",
+      "company": "J10 Consulting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-16"
+    },
+    "https://www.gulftalent.com/uae/jobs/income-auditor-647574": {
+      "title": "Income Auditor",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-16"
+    },
+    "https://ae.linkedin.com/jobs/view/growth-lead-ai-web3-at-shlenpower-4477390738": {
+      "title": "Growth Lead - AI & WEB3",
+      "company": "Shlenpower",
+      "source": "linkedin",
+      "first_seen": "2026-10-16"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-cyber-security-consultant-at-iconnect-it-business-solutions-dmcc-4477399333": {
+      "title": "Senior Cyber Security Consultant",
+      "company": "iConnect IT Business Solutions DMCC",
+      "source": "linkedin",
+      "first_seen": "2026-10-16"
     }
   },
   "applied": {
@@ -9873,6 +9903,13 @@
       "to": "Info.hannover@ilf.com",
       "title": "Construction & Camp Supervisor",
       "company": "ILF Consulting Engineers in United Arab Emirates"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-lead-at-wood-4467702634::email": {
+      "date": "2026-10-16 15:14",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "HSE Lead",
+      "company": "Wood"
     }
   },
   "sent": {
@@ -10460,6 +10497,11 @@
       "kind": "email",
       "to": "Info.hannover@ilf.com",
       "date": "2026-10-15 22:36"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-lead-at-wood-4467702634": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-10-16 15:14"
     }
   },
   "replies": []
