@@ -31,37 +31,6 @@
   },
   {
     "source": "jobicy",
-    "title": "Blockchain Security Expert - Anti Defect Track",
-    "company": "CertiK",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/152966-blockchain-security-expert-anti-defect-track",
-    "description": "About the Company Founded in 2018 by professors of Yale University and Columbia University, CertiK is a pioneer in blockchain security, utilizing best-in-class AI technology to secure and monitor blockchain protocols and smart contracts. CertiK’s mission is to secure the cyber world. Starting with blockchain, CertiK applies cutting-edge innovations from academia into enterprise, enabling mission-critical applications to be built with security and correctness. CertiK is one of the fastest growing and most trusted companies in blockchain security and has become a true market leader. Our clients include leading projects such as Aave, Polygon, Binance Smart Chain, Yearn, and Chiliz. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and Hillhouse Capital as well as industry leaders like Coinbase Ventures and Binance. About the Position The primary responsibility of this role is contributing to CertiK’s security-related services at the intersection of cybersecurity and blockchain. CertiK’s offerings include security consulting, security reviews, and security auditing of smart contracts and blockchains, alongside penetration testing and various verification processes. As a Security Engineer at CertiK, , You’ll discover and analyze security vulnerabilities in blockchain smart contracts, summarize attacked vulnerabilities, and design feature code analysis tools. You’ll also stay up-to-date with analysis tools and new technology trends to further strengthen CertiK’s security offerings and expand our services. Responsibilities Participate in blockchain smart contract audits, identifying, analyzing, and addressing security vulnerabilities. Help evaluate and define attack models for blockchain security. Summarize and extract key characteristics from exploited code to build and maintain tools for feature code analysis. Research and work with different analysis tools, continually learning and adapting to emerging technologies in the space. Requirements A bachelor’s degree (or higher) in full-time education, preferably in a science or engineering field, plus 3+ years of work experience. Familiarity with fundamental information security concepts. Proficiency in at least one of the following languages: Solidity, Go, Rust, C++, Python, or Node.js, along with a solid grasp of common algorithms. A demonstrated ability to function in an English working environment with strong English reading and writing skills. A passion for blockchain technology and a drive to learn and adapt to new technologies. Bonus Points Experience working with production pipelines—maintaining or developing them. Familiarity with static code analysis (e.g., Syntax Analysis, Semantic Analysis, Taint analysis). Exposure to popular blockchain-related platforms and technologies (e.g., Ethereum, Hyperledger, Cosmos). Prior knowledge of blockchain smart contracts, security audits, and associated best practices. Hands-on blockchain experience such as evaluating risks for blockchain projects or analyzing on-chain security events. Compensation Additional Information Target annual salary for this role performed is $90,000 - $150,000 if based in the US. The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates. CertiK accepts applications for this position on an ongoing basis. CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements. https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf All CertiK employees are expected to actively support diversity on their teams, and in the Company. About the Company Founded in 2018 by professors of Yale University and Columbia University, CertiK is a pioneer in blockchain security, utilizing best-in-class AI technology to secure and monitor blockchain protocols and smart contracts. CertiK’s mission is to secure the cyber world. Starting with blockchain, CertiK applies cutting-edge innovations from academia into enterprise, enabling mission-critical…",
-    "published": "2026-10-11",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 90000,
-    "salary_max": 150000,
-    "score": 16,
-    "title_hits": [
-      "blockchain",
-      "security"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "ethereum",
-      "polygon",
-      "audit"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$90,000-$150,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
     "title": "Blockchain Security Expert - Chain Security Evaluation Track",
     "company": "CertiK",
     "location": "USA",
@@ -177,36 +146,6 @@
       "token",
       "security",
       "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Business Development Manager (Junior to Mid-Level) – Hong Kong",
-    "company": "CertiK",
-    "location": "China,  Hong Kong",
-    "url": "https://jobicy.com/jobs/152991-business-development-manager-junior-to-mid-level-hong-kong",
-    "description": "Role Overview CertiK is the global leader in Web3 and blockchain security. We are seeking a high-energy, target-driven Business Development Manager based in Hong Kong to accelerate our growth across the APAC region. In this role, you will lead end-to-end sales cycles—from proactive outbound lead generation to closing deals for our suite of security solutions, including smart contract audits, penetration testing, formal verification, Skynet threat monitoring, and compliance services . You will serve as a bridge between traditional financial institutions entering the digital asset space (Web2) and crypto-native projects (Web3), leveraging your regional market understanding and language capabilities to secure high-value security partnerships. Key Responsibilities Pipeline Generation & Outbound BD: Actively identify, prospect, and engage decision-makers (CTOs, Founders, Head of Web3/Digital Assets) across blockchain protocols, DeFi projects, RWA tokenization platforms, exchanges, and Web2 institutional entrants. Full Sales Cycle Execution: Drive complex, multi-stakeholder sales cycles from initial outreach and technical discovery to proposal creation, price negotiation, and contract execution. Enterprise & Institutional Sales: Engage traditional financial institutions, asset managers, family offices, and tech enterprises seeking institutional-grade security for their Web3 initiatives. Cross-Functional Collaboration: Work closely with CertiK’s global security engineering, solutions architecture, delivery, and marketing teams to ensure smooth deal execution and client onboarding. Account Expansion & Networking: Build long-term relationships with key accounts to drive renewals, audit add-ons, and monitoring subscriptions. Represent CertiK at local industry events, conferences, and ecosystem meetups. Key Requirements & Qualifications Experience: 2–5 years of successful B2B sales or business development experience in Web3, blockchain security, cybersecurity, SaaS, or institutional fintech. Domain Knowledge: Strong familiarity with Web3 native ecosystems (EVM chains, Layer 1/Layer 2 protocols, DeFi, tokenomics, smart contract architectures). Good understanding of Web2 cybersecurity fundamentals (e.g., penetration testing, code review, risk assessments). Core Languages: Professional working proficiency (written and spoken) in English and Mandarin for regional collaboration and global client management. Track Record: Proven ability to meet or exceed quarterly sales quotas through structured outbound outreach and consultative deal closing. Language & Skills Bonuses (Highly Preferred) Cantonese Advantage (Bonus): Native or full professional fluency in Cantonese is a strong advantage for localized Hong Kong institutional coverage, government/regulatory networks, and local Web3 builders. Regional Asian Languages (Bonus): Proficiency in additional regional languages—such as Japanese, Korean, or Vietnamese, —is a significant bonus for driving APAC cross-border expansion or local market expansion. Security & Audit Familiarity: Direct experience selling smart contract audits, penetration tests, or bug bounty services. Regulatory Context: Understanding of Hong Kong’s digital asset licensing landscape (e.g., SFC VASP regulations, HKMA stablecoin frameworks). Education: Bachelor’s degree in Computer Science, Cybersecurity, Finance, Business Administration, or a related field. Compensation Additional Information This role must be performed outside the United States. We are unable to consider candidates who will work from within the U.S. Role Overview CertiK is the global leader in Web3 and blockchain security. We are seeking a high-energy, target-driven Business Development Manager based in Hong Kong to accelerate our growth across the APAC region. In this role, you will lead end-to-end sales cycles—from proactive outbound lead generation to closing deals for our suite of security solutions,…",
-    "published": "2026-10-11",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": null,
-    "salary_max": null,
-    "score": 11,
-    "title_hits": [],
-    "desc_hits": [
-      "smart contract",
-      "blockchain",
-      "web3",
-      "defi",
-      "crypto",
-      "token",
-      "audit",
-      "security"
     ],
     "gulf_onsite": false,
     "salary_ok": false,
@@ -483,6 +422,34 @@
   },
   {
     "source": "jobicy",
+    "title": "Lead Product Manager, Digital Assets",
+    "company": "CertiK",
+    "location": "APAC",
+    "url": "https://jobicy.com/jobs/155441-lead-product-manager-digital-assets",
+    "description": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incident response, and compliance services for some of the largest projects in the digital asset ecosystem. Today, CertiK supports thousands of enterprise clients and Web3 projects globally, with a distributed international team spanning North America, Asia, and Europe. The company is backed by leading investors including Coatue, Goldman Sachs, Insight Partners, and Sequoia Capital, and has been recognized by organizations such as the World Economic Forum and CB Insights for its contributions to blockchain security innovation. About the role CertiK works with banks, regulators and regulated financial institutions that adopt digital assets. We build regulatory technology for these markets, and we are hiring a lead product manager to own what we build next for these clients. You will gather client needs directly and through our client-facing consultants, turn them into a clear, prioritized roadmap, and present our products to clients, prospects and regulators in North America and, when needed, abroad. Inside the company, you represent the customer. What you'll do Run discovery with clients and prospects, on site and remotely, and work closely with the solutions consultants to set the agenda for what they learn in the field Build and run a discovery channel of your own: a panel of compliance, risk and operations practitioners at banks, VASPs and regulators for structured (including paid) interviews, so requirements never depend on a single client Convert client conversations and consultant findings into actionable, prioritized product and feature decisions, with the reason behind each request documented, and defend the ranking to leadership Present CertiK's products and services to client teams, prospects and regulators in demos, workshops and tender presentations Join Business Development and consultants on key client visits, primarily in the US, with occasional travel to Europe, the Middle East and other markets Own the roadmap conversation with the CEO, Business Development and Engineering Requirements 5–8 years in B2B product management, ideally in fintech, regtech, compliance software or at a regulated financial institution Domain experience in financial crime, AML or transaction monitoring, blockchain intelligence, or risk and surveillance products, whether as a product manager or from inside a compliance function Has led complete product cycles from discovery to launch in a regulated or enterprise domain, with demonstrated ability to identify the underlying need behind a client's stated request and show how it changed what was built Native or fully proficient English, with professional presentation skills to senior compliance, risk and regulatory audiences Established prioritization framework and a record of turning customer input into shipped features Sufficient technical fluency to challenge engineering decisions and hold a position under pushback Directs discovery through others as well as first-hand: part of the customer input comes via consultants, and the role sets their agenda Regular travel within the US and international travel as required Bonus points Prior product experience at a blockchain intelligence or crypto compliance platform Familiarity with FATF, Travel Rule, sanctions or MiCA-type requirements as they apply to digital assets Familiarity with US, UK or EU digital asset regulation Experience working with regulators or on regulatory tenders Compensation Additional Information This role must be performed outside the United States. We are unable to consider candidates who will work from within the U.S. About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart…",
+    "published": "2026-10-16",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [],
+    "desc_hits": [
+      "smart contract",
+      "blockchain",
+      "web3",
+      "crypto",
+      "audit",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
     "title": "Binance Accelerator Program - Brand Partnerships",
     "company": "Binance",
     "location": "APAC",
@@ -507,6 +474,35 @@
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Security Engineer",
+    "company": "Cision",
+    "location": "Bulgaria,  Hungary",
+    "url": "https://jobicy.com/jobs/155437-security-engineer-3",
+    "description": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we accelerate. Join us in shaping the future of communication and building authentic connections that matter. Whether you're solving complex problems or driving bold innovations, your growth is our success, and together, we’ll create the conversations of tomorrow. Empower your impact at Cision. Be seen, be understood, be you. This role strengthens and optimizes the organization's security capabilities by reviewing existing tools, applications, and processes to identify gaps. It establishes and maintains cloud security architecture best practices, focusing on cloud platforms and integrates new and existing security platforms. The role collaborates with R&D teams to maintain a secure architecture and analyzes security events for anomalous activity. It contributes to the organization's security posture and ensures a secure environment. The individual works on issues requiring the analysis of relevant factors and exercises considerable judgment within defined procedures to determine appropriate action. This individual will work across multiple departments to design, implement, and manage security solutions that protect both internal and third party (vendor) systems and customer data. You will play a critical role in ensuring that security practices are aligned with compliance requirements while driving technical solutions for secure systems and data protection across the entire organization. Responsibilities: Design, implement, and maintain security architectures across cloud, third-party, and on-premises environments. Evaluate and integrate emerging security technologies to strengthen the organisation’s security posture. Integrate security controls into CI/CD pipelines, establish secure development standards, and conduct secure code reviews in collaboration with development teams. Implement and maintain encryption mechanisms to protect data at rest and in transit. Manage cryptographic keys and ensure compliance with relevant security standards. Design and manage secure identity and access solutions, including Single Sign-On (SSO), Identity Providers (IdPs), and federation protocols such as SAML, OAuth, and OpenID Connect. Support the implementation and management of solutions such as Okta and Keycloak. Define and promote secure coding standards, advise development teams on application security, and provide guidance to prevent common vulnerabilities, including injection flaws, cross-site scripting (XSS), and authentication weaknesses. Implement and maintain technical security controls aligned with relevant frameworks and standards, including NIST, SOC 2, ISO 27001, and Cyber Essentials. Support compliance assessments, audits, and remediation activities. Conduct security risk assessments, threat modelling, and vulnerability assessments. Develop and coordinate mitigation plans to address identified risks and reduce the organisation’s exposure to threats. Develop and support incident response processes, collaborate with Security Operations Centre (SOC) teams, and implement continuous monitoring capabilities to detect threats and maintain compliance with security requirements. Partner with cross-functional teams to embed security into systems and processes, mentor junior engineers, and provide technical guidance on security technologies, tools, architecture, and best practices. Requirements: Deep understanding of security standards and frameworks such as NIST, ISO 27001, CIS Controls, and industry compliance regulations (GDPR, HIPAA, PCI-DSS). 5+ years of relevant experience in security engineering and GRC-focused security solutions development. Hands-on experience with security tools such as IDS/IPS, SIEM, vulnerability scanners, and penetration testing platforms. Experience with cloud platforms (AWS, Azure, GCP, OCI or Alibaba) and securing cloud-native applications. Proficiency in programming languages (e.g., Python, Java, C++) and automation tools (e.g., Terraform, Ansible). Strong knowledge of networking protocols, firewalls, VPNs, proxies, and security monitoring tools. Extensive hands-on experience in DevSecOps, integrating security in CI/CD pipelines, and supporting development teams in secure coding practices. Proven expertise in cryptography, including encryption, key management, and digital signatures. Cision is the global leader in consumer and media intelligence, engagement, and communication solutions. We equip PR and corporate communications, marketing, and social media professionals with the tools they need to excel in today's data driven world. Our deep expertise, exclusive data partnerships, and award-winning products, including CisionOne , Brandwatch , and PR Newswire , enable over 75,000 companies and organizations, including 84% of the Fortune 500, to see and be seen, understand and be understood by the audiences that matter most to them. Cision is committed to fostering an inclusive environment where all employees can be their authentic selves and perform at their best. We believe diversity, equity, and inclusion is vital to driving our culture, sparking innovation and achieving long-term success. Cision is proud to have joined more than 600 companies in signing the CEO Action for Diversity & Inclusion™ pledge and named a “Top Diversity Employer” for 2021 by DiversityJobs.com . Cision is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or other protected statuses. Cision is committed to the full inclusion of all qualified individuals. In keeping with our commitment, Cision will take the steps to assure that people with disabilities are provided reasonable accommodations. Accordingly, if reasonable accommodation is required to fully participate in the job application or interview process, to perform the essential functions of the position, and/or to receive all other benefits and privileges of employment, please contact hr.support@cision.com Cision, Inc. \"the Company\" only communicates with candidates and extends job offers through direct channels, not third parties. Please review our Global Candidate Data Privacy Statement to learn about Cision’s commitment to protecting personal data collected during the hiring process. At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we…",
+    "published": "2026-10-16",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi",
+      "crypto",
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "hr.support@cision.com"
+    ],
     "phones": []
   },
   {
