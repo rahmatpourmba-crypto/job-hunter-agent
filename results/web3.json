@@ -33,37 +33,6 @@
     "about": "Serious inquiries only [**cory@clickology.com**](mailto:cory@clickology.com)"
   },
   {
-    "source": "linkedin",
-    "title": "Senior Blockchain Engineer",
-    "company": "Ondo Finance",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-ondo-finance-4444080332",
-    "description": "About The Role As a Senior Blockchain Engineer at Ondo, you will own the design of our smart contract systems - not just the contracts themselves, but how they're deployed, secured, monitored, and managed across their entire lifetime, and how they connect to the people and products that depend on them. You'll design secure, efficient, and scalable smart contract solutions across many blockchain ecosystems powering Real World Asset (RWA) tokenization. But the harder and more important part of this role is everything around the contract: keeping it secure from deploy through every day it's live, building tooling that lets non-technical teammates safely view and manage on-chain state, and creating automated systems that take manual, error-prone work off the table. You'll think about how a smart contract design decision ripples outward, to the web app, to the teams operating the system day to day, and ultimately to our end users. You'll collaborate with product, legal, compliance, web, and ops to make sure contracts are technically sound, regulatorily aligned, and genuinely operable by the teams who rely on them day to day. Throughout, you'll favor simple, elegant designs that let us move quickly and safely. This is a unique opportunity to shape the future of finance by building the systems that bring real-world assets on-chain, and by making those systems something a whole organization can build on with confidence. Responsibilities Smart Contract System Design: Architect entire smart contract systems for Ondo's evolving product suite — covering new chain deployments, novel DeFi interoperability and bridging solutions, and DeFi protocols — with security, operability, and long-term maintainability designed in from the start. Lifecycle Security & Operations: Own contract security not just at deploy but across the full lifetime of the system — including upgrade safety, administrative controls, and the operational guardrails that keep things safe as they evolve. Tooling & Automation: Build tooling and automated systems that let non-technical teammates safely view, monitor, and manage contracts without writing scripts or touching raw chain operations directly. Cross-Functional Integration: Connect smart contract design to the rest of the product — helping the web team integrate cleanly, helping operational teams monitor and manage without direct scripting, and ensuring design decisions flow sensibly through to end users. Technical Leadership: Serve as tech lead and subject matter expert for blockchain projects, guiding the engineering team toward high-impact, scalable solutions and making sound technical decisions aligned with long-term goals. Requirements Based in PT, MT, CT, or ET time zones. Excellent technical and non-technical communication skills, verbal and written. Bachelor's degree in Computer Science, Engineering, or a related technical field. 5+ years of software engineering experience. 3+ years in blockchain engineering, ideally from another DeFi protocol live on multiple chains. Strong competency with Solidity; exposure to non-EVM smart contract languages a plus — particularly Solana. Demonstrated ability to design systems, not just contracts — including tooling, automation, security across the contract lifecycle, and the integration points between contracts, applications, and operational teams. Proven results building and scaling a DeFi protocol. Python and/or TypeScript experience preferred (for building tooling and automation). Strong technical grasp and excellent judgment on task prioritization. Strong emphasis on understanding the \"why\" behind requirements and a commitment to defining the \"minimum scope.\" What We Offer Competitive compensation including salary, future token rights, and/or equity (according to your preferences) — we're well-funded and believe that great talent deserves great compensation. Full benefits (medical, vision, and dental) and flexible vacation policy (PTO). Small remote-first team across many countries — you'll be an early team member helping shape our vision, culture, and design practices. A+ colleagues — our team includes alumni from: Goldman Sachs, Blackrock, Two Sigma, Bridgewater, SpaceX, AWS, Meta, Google, McKinsey, Circle, Uniswap. Best-in-class investors — we are proud to be backed by leading crypto experts and VCs, including Pantera Capital, Founders Fund and Coinbase Ventures.",
-    "published": "2026-10-13",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "crypto",
-      "token",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Director of Product, AML & Digital Asset Compliance",
     "company": "CertiK",
@@ -470,6 +439,64 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Director of Blockchain & Digital Asset Solutions (m/f/d)",
+    "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/director-of-blockchain-digital-asset-solutions-m-f-d-at-halian-managed-services-recruitment-agency-contract-staffing-4478832865",
+    "description": "We are seeking an experienced Director of Blockchain & Digital Asset Solutions to lead the design and advisory of enterprise-grade blockchain initiatives across financial services, digital assets, tokenization, payments, and emerging CBDC ecosystems. You will serve as a trusted technical advisor to customers, architects, engineering teams, and executive stakeholders, defining scalable and secure blockchain architectures while driving solution strategy, presales engagements, and innovation. Requirements 12+ years of technology experience, including 5+ years focused on Blockchain, DLT, Digital Assets, or Web3 solutions Deep expertise in enterprise blockchain architecture and distributed ledger technologies Strong experience with tokenization, digital assets, payments, settlement systems, or CBDC initiatives Proven track record designing solutions on platforms such as Hyperledger, Corda, Ethereum, Besu, Quorum, or similar technologies Experience leading architecture workshops, executive presentations, RFP responses, and customer advisory engagements Strong understanding of security, privacy, scalability, interoperability, and governance within blockchain ecosystems Financial services, banking, fintech, or central-bank experience strongly preferred Key Responsibilities Define end-to-end blockchain and digital asset architectures Advise clients on tokenization, payments, CBDC, and digital asset transformation initiatives Lead customer workshops, presales activities, and architectural assessments Drive interoperability and cross-chain integration strategies Establish architecture standards, governance frameworks, and technical best practices Partner with engineering, product, and business stakeholders to deliver scalable enterprise solutions Director of Blockchain & Digital Asset Solutions in Abu Dhabi, United Arab Emirates",
+    "published": "2026-10-15",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "web3",
+      "defi",
+      "ethereum",
+      "token",
+      "security"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Director of Blockchain & Digital Asset Solutions (m/f/d)",
+    "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/director-of-blockchain-digital-asset-solutions-m-f-d-at-halian-managed-services-recruitment-agency-contract-staffing-4477561870",
+    "description": "We are seeking an experienced Director of Blockchain & Digital Asset Solutions to lead the design and advisory of enterprise-grade blockchain initiatives across financial services, digital assets, tokenization, payments, and emerging CBDC ecosystems. You will serve as a trusted technical advisor to customers, architects, engineering teams, and executive stakeholders, defining scalable and secure blockchain architectures while driving solution strategy, presales engagements, and innovation. Requirements 12+ years of technology experience, including 5+ years focused on Blockchain, DLT, Digital Assets, or Web3 solutions Deep expertise in enterprise blockchain architecture and distributed ledger technologies Strong experience with tokenization, digital assets, payments, settlement systems, or CBDC initiatives Proven track record designing solutions on platforms such as Hyperledger, Corda, Ethereum, Besu, Quorum, or similar technologies Experience leading architecture workshops, executive presentations, RFP responses, and customer advisory engagements Strong understanding of security, privacy, scalability, interoperability, and governance within blockchain ecosystems Financial services, banking, fintech, or central-bank experience strongly preferred Key Responsibilities Define end-to-end blockchain and digital asset architectures Advise clients on tokenization, payments, CBDC, and digital asset transformation initiatives Lead customer workshops, presales activities, and architectural assessments Drive interoperability and cross-chain integration strategies Establish architecture standards, governance frameworks, and technical best practices Partner with engineering, product, and business stakeholders to deliver scalable enterprise solutions Director of Blockchain & Digital Asset Solutions in Abu Dhabi, United Arab Emirates",
+    "published": "2026-10-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "web3",
+      "defi",
+      "ethereum",
+      "token",
+      "security"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Senior Manager, AI Engineering",
     "company": "HackerOne",
@@ -614,31 +641,6 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$150,000-$150,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Senior Copywriter",
-    "company": "Phantom",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/155604-senior-copywriter",
-    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time data and the verified performance of top traders. With self-custody and access to open networks at its core, Phantom lets them control their financial moves in the same app they use to safely store or spend money worldwide. Phantom has reached #1 in Google Play's finance category and consistently ranks in the top 50 apps across all categories. Check out our Forbes Fintech 50 and CNBC and Statista's World's Top Fintech Companies 2026 ! We are around 180 people, fully remote, backed by a $150M Series C investment from a16z, Sequoia Capital and Paradigm. As a Senior Copywriter on our brand creative team you’ll craft compelling and impactful copy that brings our brand to life across all channels. Your work will engage and inspire our global community, helping users understand and embrace Phantom the next generation of digital finance. This is a general opening, based on your fit and marketing experience you could be working on projects across product, partnerships, brand, content, influencer, and experiential marketing. There will be a lot of space to conceive, own and drive initiatives with 20M+ monthly active users, Phantom is a rare opportunity to impact the experience of people at scale. Responsibilities Lead creative development of impactful copy, concepts, and campaigns across both product and brand marketing, ensuring alignment with our brand voice, tone, and creative direction. Create high-quality marketing copy for all digital channels including website, email, social media, push notifications, in-app communications, blogs, newsletters, and press releases. Generate innovative content ideas and conceptualize creative campaigns that drive brand engagement and align with business goals, ensuring that each piece of content is strategically designed to capture attention and deliver measurable impact across all channels. Ensure brand consistency by maintaining our tone of voice across all communications, fostering a cohesive and unified user experience. Oversee quality control to ensure messaging meets the highest standards, and optimize processes for efficiency and productivity to meet company-wide copy needs. Collaborate with cross-functional teams (including product, design, and engineering) to develop narratives that engage audiences and align with Phantom’s broader strategic vision. Stay up-to-date with industry trends, audience insights, and competitive landscape to ensure our messaging stays relevant, fresh, and innovative. Use data-driven insights to optimize copy performance and refine messaging, ensuring maximum impact and user engagement. Adapt quickly to changes in business needs and audience preferences, ensuring the copy reflects evolving trends and demands. Qualifications 5+ years of experience as a Copywriter or in a similar creative role, with a strong portfolio that demonstrates excellence in writing for digital marketing and brand communications. Exceptional writing and editing skills with a keen eye for detail, tone, and voice. Strong ability to adapt copy across different formats while maintaining consistency. Excellent communication and storytelling abilities to convey product benefits effectively Understanding of marketing principles and digital marketing tactics Familiarity with data analytics tools and performance metrics to refine messaging. Experience in the cryptocurrency, fintech, or tech industry is a plus, but not required. A passion for creativity and innovation, with a solid understanding of how compelling storytelling drives engagement and action. Proven ability to influence cross-functional teams without formal authority The target base salary for this role will range between $140,000 to $188,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors at the point in time of offer. Why Work With Us Phantom's journey to becoming a global trading app began with making crypto easier to use. Today, we’re building on that foundation to help people discover the markets that matter, make informed financial moves, and safely store or spend their money worldwide. Joining Phantom means helping shape that next chapter: building products that bring the freedom of open markets to more people. Build for global impact: Create products used by tens of millions of people, making innovative financial markets more accessible to users around the world. Make complexity feel simple: Solve meaningful challenges across design, engineering, and user experience to make discovering markets and managing money seamless. Put users in control: Help build a future where people have greater freedom over their assets and financial decisions, with security and self-custody at the foundation. Benefits ( only available to full-time employees) Competitive salary and equity Comprehensive insurance (medical/dental/vision): base plan 100% covered Flexible hours and a long-standing, supportive remote environment Unlimited vacation: Take time when you need it (and we really mean it!) 401(k) retirement plan Wellness stipend Weekly meal stipend Learning & Development stipend Remote / WFH set-up stipend We strongly encourage candidates of all backgrounds to apply. We believe that our work is stronger with a variety of perspectives, and we’re eager to further diversify our company. If you have a background that you feel would make an impact at Phantom, please consider applying. We’re committed to building an inclusive, supportive place for you to do the best work of your career. By submitting your resume and application materials, you acknowledge and agree that Phantom Technologies, Inc. (\"Phantom\") collects and processes your personal information (including application materials, interview records, and related data) to evaluate your candidacy. Phantom may use AI-powered tools and third-party service providers for transcription, note-taking, scheduling, and other administrative tasks. Phantom does not sell your information and your materials will be handled securely and in accordance with applicable data protection laws. Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural…",
-    "published": "2026-10-17",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 140000,
-    "salary_max": 188000,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "crypto",
-      "token",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$140,000-$188,000",
     "emails": [],
     "phones": []
   }
