@@ -93,37 +93,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Blockchain Engineer",
-    "company": "Cari Network",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/blockchain-engineer-at-cari-network-4480360032",
-    "description": "Remote (U.S.) — Full Time The Cari Network is building a blockchain-based payment system powering real-time, 24/7 movement of digital money across the traditional finance and digital asset ecosystems. A pre-launch startup, we're creating an entirely new category of financial infrastructure that brings cash on chain through tokenization while powering the full spectrum of payments for our network—banks, digital asset exchanges, and, most importantly, the customers they serve. About The Role You'll work within the systems that take a payment instruction and turn it into an immutable, on-chain record—implementing features and extensions within an established transaction pipeline architecture, alongside senior engineers who own its design. That means building out pieces of the integration layer between our backend services and our institutional custody platform, and contributing to transaction integrity from calldata construction through on-chain finality on our private ZKsync-based L2. You'll also work directly in our smart contract suite, extending existing contracts under established upgrade-safety and role-governance patterns, and building the audit trail and compliance evidence that regulated bank partners require. What You'll Do Implement components of the transaction lifecycle: calldata construction, custody platform signing requests, nonce handling, L2 submission, and finality confirmation, working within the pipeline architecture senior engineers on the team have designed Build features within the signing pipeline—new submission paths, throughput handling against custody platform rate limits, async transaction submission logic—under existing architectural patterns Implement payment integrity controls: commitment hash verification at pipeline handoff points and co-signer policy evaluation logic Extend our Solidity smart contracts, following established upgrade-safety, storage-layout, and role-governance conventions Contribute to the custody platform authorization policy integration and co-signer agent for custodian-owned transaction authorization Build structured audit trail logging from transaction origination through on-chain execution, satisfying evidentiary requirements for bank partners under regulatory oversight Contribute to the async transaction queue supporting tiered SLAs and per-bank throughput quotas Write high-coverage tests across backend services and smart contracts, maintaining our coverage threshold Participate in on-call, working through known issue patterns independently and escalating novel failure modes to senior engineers Qualifications 3–5 years of backend software engineering experience, with 1–2 years working directly on EVM-compatible blockchain systems Solid proficiency in TypeScript; familiarity with Effect (effect.ts) or a comparable functional effect system is a plus Working familiarity with EVM transaction mechanics: ABI encoding, nonce management, gas estimation, revert handling, and event decoding Some production experience with Solidity smart contract development, including exposure to upgradeable proxy patterns (UUPS) and OpenZeppelin contract libraries Exposure to institutional custody or key management APIs is a strong plus, though not required Understanding of idempotency, at-least-once delivery, and crash recovery concepts in async systems Comfortable asking for help extending existing patterns while building toward independent ownership of larger features Nice to Haves Experience with ZKsync or ZK Stack-based chains—particularly developer-facing constraints like calldata handling, system contract interactions, and AA transaction formats Familiarity with Kafka or message-queue-backed async pipelines Prior work in fintech, payments, or any regulated financial infrastructure environment Foundry proficiency (forge test, forge fmt) What We Offer Competitive compensation Remote-first work environment Opportunity to shape a market-defining protocol with an experienced founding team Meaningful influence over product design at the earliest stage Interested in this role? Send us your resume. ‹ Senior Data Engineer Senior Blockchain Engineer ›",
-    "published": "",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "token",
-      "audit",
-      "foundry",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Senior Blockchain Engineer",
     "company": "Ondo Finance",
     "location": "United States",
@@ -655,6 +624,29 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$135,320-$159,200",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "weworkremotely",
+    "title": "Datadog: Enterprise Security Sales Specialist",
+    "company": "Datadog",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
+    "description": "Headquarters: District of Columbia, USA, Remote; North Carolina, USA, Remote As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Act as the subject matter expert (SME) for Datadog Security products across a targeted account patch Collaborate closely with Enterprise AEs to support net new logo acquisition and expansion in strategic accounts Own and drive the security sales cycle from discovery to technical close, working closely with Sales Engineers Evangelize Datadog’s security story to security leaders (CISO, Security Architects, SecOps) Work cross-functionally with Datadog's partner, channel, and alliance teams to drive joint go-to-market motions Co-sell effectively with AEs and partners, contributing to deal strategy, solution alignment, and stakeholder engagement Stay informed on security trends and competitive offerings to differentiate Datadog Who You Are: Proven success selling into security buyers (CISO, SecOps, GRC, etc.) Experience co-selling in a matrixed environment, supporting or partnering with AEs and cross-functional teams Strong understanding of the partner/channel sales model, including how to navigate and influence joint selling motions Familiarity with modern security solutions such as SIEM, CSPM, CWPP, container/Kubernetes security Ability to build strong relationships with internal stakeholders, partners, and customer technical teams Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply. Benefits and Growth: High income earning opportunities based on self performance New hire stock equity (RSU) and employee stock purchase plan (ESPP) Continuous professional development, product training, and career pathing Sales training in MEDDIC and Command of the Message Intra-departmental mentor and buddy program for in-house networking An inclusive company culture, opportunity to join our Community Guilds Generous and competitive medical benefits package Retirement savings match Pet adoption and insurance program Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog. #LI-Remote Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate's skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan. The reasonably estimated yearly salary for this role at Datadog is: $124,000 — $165,000 USD About Datadog: Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on Instagram , LinkedIn, and Datadog Learning Center. Equal Opportunity at Datadog: Datadog is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our Candidate Legal Notices for your reference. Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete this form . This form is for accommodation requests only and cannot be used to inquire about the status of applications. Privacy and AI Guidelines: Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s Applicant and Candidate Privacy Notice . For information on our AI policy, please visit Interviewing at Datadog AI Guidelines . To apply: https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
+    "published": "Mon, 12 Oct 2026",
+    "remote": true,
+    "currency": null,
+    "salary_min": 124000,
+    "salary_max": 165000,
+    "score": 7,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$124,000-$165,000",
     "emails": [],
     "phones": []
   }
