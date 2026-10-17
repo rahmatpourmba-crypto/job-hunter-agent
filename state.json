@@ -9047,6 +9047,78 @@
       "company": "Larsen & Toubro",
       "source": "linkedin",
       "first_seen": "2026-10-17"
+    },
+    "https://www.gulftalent.com/uae/jobs/project-engineer-civil-mep-adnoc-offshore-647987": {
+      "title": "Project Engineer (Civil & MEP) -ADNOC Offshore",
+      "company": "Sembol Construction",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153443-grc-manager": {
+      "title": "GRC Manager",
+      "company": "Mattermost",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153436-business-development-representative-14": {
+      "title": "Business Development Representative",
+      "company": "Osano",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153393-design-engineer-2": {
+      "title": "Design Engineer",
+      "company": "Vercel",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153444-senior-product-manager-digital-risk-protection-takedowns": {
+      "title": "Senior Product Manager, Digital Risk Protection Takedowns",
+      "company": "Recorded Future, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
+    },
+    "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer": {
+      "title": "Expel: Senior Detection & Response Engineer",
+      "company": "Expel",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153438-account-manager-federal": {
+      "title": "Account Manager - Federal",
+      "company": "Mattermost",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153459-csm-ii": {
+      "title": "CSM II",
+      "company": "Carrot",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153406-senior-product-designer-12": {
+      "title": "Senior Product Designer",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
+    },
+    "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-riyadh-saudi-national": {
+      "title": "BeyondTrust: Enterprise Account Manager - Riyadh (Saudi National)",
+      "company": "BeyondTrust",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153411-senior-performance-marketing-manager-2": {
+      "title": "Senior Performance Marketing Manager",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
+    },
+    "https://jobicy.com/jobs/153365-advertising-account-director-mid-market": {
+      "title": "Advertising Account Director, Mid-Market",
+      "company": "Demandbase, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-17"
     }
   },
   "applied": {
@@ -10036,6 +10108,27 @@
       "to": "info@wood.com",
       "title": "HSE Lead",
       "company": "Wood"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477178081::email": {
+      "date": "2026-10-17 09:00",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-marine-ports-at-parsons-corporation-4476170835::email": {
+      "date": "2026-10-17 09:01",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Manager (Marine/Ports)",
+      "company": "Parsons Corporation"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4469147150::email": {
+      "date": "2026-10-17 09:01",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Officer (UAE National)",
+      "company": "Parsons Corporation"
     }
   },
   "sent": {
@@ -10628,6 +10721,21 @@
       "kind": "email",
       "to": "info@wood.com",
       "date": "2026-10-16 15:14"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477178081": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-10-17 09:00"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-marine-ports-at-parsons-corporation-4476170835": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-10-17 09:01"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4469147150": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-10-17 09:01"
     }
   },
   "replies": []
