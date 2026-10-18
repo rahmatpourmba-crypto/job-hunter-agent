@@ -25,6 +25,30 @@
   },
   {
     "source": "linkedin",
+    "title": "Junior HSE Engineer - Offshore SIte",
+    "company": "Worley",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/junior-hse-engineer-offshore-site-at-worley-4466796170",
+    "description": "",
+    "published": "2026-10-05",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Senior HSE Engineer (Project) - Offshore",
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -205,11 +229,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "infodesk@larsentoubro.com"
-    ],
-    "phones": [],
-    "emails_source": "larsentoubro.com"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -243,6 +264,30 @@
     "url": "https://sa.linkedin.com/jobs/view/senior-hse-engineer-at-astek-middle-east-4468936207",
     "description": "",
     "published": "2026-09-22",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer - Site",
+    "company": "Egis",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-site-at-egis-4478535526",
+    "description": "",
+    "published": "2026-10-14",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -493,29 +538,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Emaritisation - Health Safety Environment Engineer",
-    "company": "Khazna Data Centers",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/emaritisation-health-safety-environment-engineer-at-khazna-data-centers-4469110683",
-    "description": "",
-    "published": "2026-09-18",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Officer (UAE National)",
     "company": "Parsons Corporation",
     "location": "Dubai, Dubai, United Arab Emirates",
@@ -543,29 +565,6 @@
     "company": "Penspen",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://ae.linkedin.com/jobs/view/sr-engineer-hse-project-at-penspen-4472918143",
-    "description": "",
-    "published": "2026-10-01",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "QHSE Manager",
-    "company": "Anton-OSS",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/qhse-manager-at-anton-oss-4472692907",
     "description": "",
     "published": "2026-10-01",
     "remote": false,

@@ -9191,6 +9191,156 @@
       "company": "ADNOC Group",
       "source": "linkedin",
       "first_seen": "2026-10-17"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-site-at-egis-4478535526": {
+      "title": "HSE Engineer - Site",
+      "company": "Egis",
+      "source": "linkedin",
+      "first_seen": "2026-10-18"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-executive-hse-lot-dham-at-whitecrow-research-4480329691": {
+      "title": "Senior Executive HSE (LOT) DHAM",
+      "company": "WhiteCrow Research",
+      "source": "linkedin",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155688-account-director-emea-crypto": {
+      "title": "Account Director, EMEA (Crypto)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155691-deployment-strategist-eastern-europe": {
+      "title": "Deployment Strategist, Eastern Europe",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155658-senior-data-scientist-full-stack-brazil": {
+      "title": "Senior Data Scientist, Full Stack (Brazil)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155640-director-financial-audit-emea": {
+      "title": "Director, Financial Audit, EMEA",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155632-director-ai-platforms": {
+      "title": "Director, AI Platforms",
+      "company": "Life360",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://weworkremotely.com/remote-jobs/airbnb-engineering-manager-payments": {
+      "title": "Airbnb: Engineering Manager, Payments",
+      "company": "Airbnb",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155694-senior-international-sales-recruiter-uk-emea": {
+      "title": "Senior International Sales Recruiter, UK/EMEA",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155645-benefits-specialist": {
+      "title": "Benefits Specialist",
+      "company": "Zscaler",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155669-technical-support-engineer-apac": {
+      "title": "Technical Support Engineer, APAC",
+      "company": "Socket",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155662-senior-software-engineer-ai-engineer-brazil": {
+      "title": "Senior Software Engineer, AI Engineer (Brazil)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155666-senior-technical-recruiter-contract": {
+      "title": "Senior Technical Recruiter (Contract)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech": {
+      "title": "Airbnb: Operations Engineer, BizTech",
+      "company": "Airbnb",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155705-manager-customer-support": {
+      "title": "Manager, Customer Support",
+      "company": "Elation Health",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155673-ai-automation-ops-lead": {
+      "title": "AI Automation & Ops Lead",
+      "company": "Fresh Prints",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-w-developer-4479924508": {
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "W Developer",
+      "source": "linkedin",
+      "first_seen": "2026-10-18"
+    },
+    "https://ae.linkedin.com/jobs/view/blockchain-developer-web3-solutions-specialist-at-w-healthtech-4479930030": {
+      "title": "Blockchain Developer | Web3 Solutions Specialist",
+      "company": "W HealthTech",
+      "source": "linkedin",
+      "first_seen": "2026-10-18"
+    },
+    "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity": {
+      "title": "Dremio: Staff Software Engineer - Connectivity",
+      "company": "Dremio",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155651-senior-c-ios-engineer-user-platform": {
+      "title": "Senior C++/iOS Engineer - User Platform",
+      "company": "Spotify",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155643-product-support-representative": {
+      "title": "Product Support Representative",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155638-implementation-consultant-emea-2": {
+      "title": "Implementation Consultant, EMEA",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://jobicy.com/jobs/155679-product-sales-specialist-emea": {
+      "title": "Product Sales Specialist, EMEA",
+      "company": "Cribl",
+      "source": "jobicy",
+      "first_seen": "2026-10-18"
+    },
+    "https://iq.linkedin.com/jobs/view/senior-security-operations-engineer-at-digital-zone-4480884249": {
+      "title": "Senior Security Operations Engineer",
+      "company": "Digital Zone",
+      "source": "linkedin",
+      "first_seen": "2026-10-18"
+    },
+    "https://sa.linkedin.com/jobs/view/cyber-security-consultant-at-artificial-intelligence-global-company-4480893152": {
+      "title": "Cyber Security Consultant",
+      "company": "Artificial Intelligence Global Company",
+      "source": "linkedin",
+      "first_seen": "2026-10-18"
     }
   },
   "applied": {
@@ -10208,6 +10358,13 @@
       "to": "editor@v2x.com",
       "title": "Fire Inspector Lead",
       "company": "V2X Inc"
+    },
+    "https://jobicy.com/jobs/155688-account-director-emea-crypto::email": {
+      "date": "2026-10-18 11:33",
+      "via": "email",
+      "to": "privacy@trmlabs.com",
+      "title": "Account Director, EMEA (Crypto)",
+      "company": "TRM Labs"
     }
   },
   "sent": {
@@ -10820,6 +10977,11 @@
       "kind": "email",
       "to": "editor@v2x.com",
       "date": "2026-10-18 01:26"
+    },
+    "https://jobicy.com/jobs/155688-account-director-emea-crypto": {
+      "kind": "email",
+      "to": "privacy@trmlabs.com",
+      "date": "2026-10-18 11:33"
     }
   },
   "replies": []
