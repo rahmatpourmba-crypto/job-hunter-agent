@@ -10201,6 +10201,13 @@
       "to": "cybersecurity@parsons.com",
       "title": "HSE Officer (UAE National)",
       "company": "Parsons Corporation"
+    },
+    "https://iq.linkedin.com/jobs/view/fire-inspector-lead-at-v2x-inc-4477917259::email": {
+      "date": "2026-10-18 01:26",
+      "via": "email",
+      "to": "editor@v2x.com",
+      "title": "Fire Inspector Lead",
+      "company": "V2X Inc"
     }
   },
   "sent": {
@@ -10808,6 +10815,11 @@
       "kind": "email",
       "to": "cybersecurity@parsons.com",
       "date": "2026-10-17 09:01"
+    },
+    "https://iq.linkedin.com/jobs/view/fire-inspector-lead-at-v2x-inc-4477917259": {
+      "kind": "email",
+      "to": "editor@v2x.com",
+      "date": "2026-10-18 01:26"
     }
   },
   "replies": []
