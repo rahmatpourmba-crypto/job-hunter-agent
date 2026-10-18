@@ -33,37 +33,6 @@
     "about": "Serious inquiries only [**cory@clickology.com**](mailto:cory@clickology.com)"
   },
   {
-    "source": "linkedin",
-    "title": "Senior Blockchain Engineer",
-    "company": "Ondo Finance",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-ondo-finance-4444080332",
-    "description": "About The Role As a Senior Blockchain Engineer at Ondo, you will own the design of our smart contract systems - not just the contracts themselves, but how they're deployed, secured, monitored, and managed across their entire lifetime, and how they connect to the people and products that depend on them. You'll design secure, efficient, and scalable smart contract solutions across many blockchain ecosystems powering Real World Asset (RWA) tokenization. But the harder and more important part of this role is everything around the contract: keeping it secure from deploy through every day it's live, building tooling that lets non-technical teammates safely view and manage on-chain state, and creating automated systems that take manual, error-prone work off the table. You'll think about how a smart contract design decision ripples outward, to the web app, to the teams operating the system day to day, and ultimately to our end users. You'll collaborate with product, legal, compliance, web, and ops to make sure contracts are technically sound, regulatorily aligned, and genuinely operable by the teams who rely on them day to day. Throughout, you'll favor simple, elegant designs that let us move quickly and safely. This is a unique opportunity to shape the future of finance by building the systems that bring real-world assets on-chain, and by making those systems something a whole organization can build on with confidence. Responsibilities Smart Contract System Design: Architect entire smart contract systems for Ondo's evolving product suite — covering new chain deployments, novel DeFi interoperability and bridging solutions, and DeFi protocols — with security, operability, and long-term maintainability designed in from the start. Lifecycle Security & Operations: Own contract security not just at deploy but across the full lifetime of the system — including upgrade safety, administrative controls, and the operational guardrails that keep things safe as they evolve. Tooling & Automation: Build tooling and automated systems that let non-technical teammates safely view, monitor, and manage contracts without writing scripts or touching raw chain operations directly. Cross-Functional Integration: Connect smart contract design to the rest of the product — helping the web team integrate cleanly, helping operational teams monitor and manage without direct scripting, and ensuring design decisions flow sensibly through to end users. Technical Leadership: Serve as tech lead and subject matter expert for blockchain projects, guiding the engineering team toward high-impact, scalable solutions and making sound technical decisions aligned with long-term goals. Requirements Based in PT, MT, CT, or ET time zones. Excellent technical and non-technical communication skills, verbal and written. Bachelor's degree in Computer Science, Engineering, or a related technical field. 5+ years of software engineering experience. 3+ years in blockchain engineering, ideally from another DeFi protocol live on multiple chains. Strong competency with Solidity; exposure to non-EVM smart contract languages a plus — particularly Solana. Demonstrated ability to design systems, not just contracts — including tooling, automation, security across the contract lifecycle, and the integration points between contracts, applications, and operational teams. Proven results building and scaling a DeFi protocol. Python and/or TypeScript experience preferred (for building tooling and automation). Strong technical grasp and excellent judgment on task prioritization. Strong emphasis on understanding the \"why\" behind requirements and a commitment to defining the \"minimum scope.\" What We Offer Competitive compensation including salary, future token rights, and/or equity (according to your preferences) — we're well-funded and believe that great talent deserves great compensation. Full benefits (medical, vision, and dental) and flexible vacation policy (PTO). Small remote-first team across many countries — you'll be an early team member helping shape our vision, culture, and design practices. A+ colleagues — our team includes alumni from: Goldman Sachs, Blackrock, Two Sigma, Bridgewater, SpaceX, AWS, Meta, Google, McKinsey, Circle, Uniswap. Best-in-class investors — we are proud to be backed by leading crypto experts and VCs, including Pantera Capital, Founders Fund and Coinbase Ventures.",
-    "published": "2026-10-13",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 12,
-    "title_hits": [
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "smart contract",
-      "defi",
-      "crypto",
-      "token",
-      "security",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Director of Product, AML & Digital Asset Compliance",
     "company": "CertiK",
@@ -470,6 +439,64 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Director of Blockchain & Digital Asset Solutions (m/f/d)",
+    "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/director-of-blockchain-digital-asset-solutions-m-f-d-at-halian-managed-services-recruitment-agency-contract-staffing-4478832865",
+    "description": "We are seeking an experienced Director of Blockchain & Digital Asset Solutions to lead the design and advisory of enterprise-grade blockchain initiatives across financial services, digital assets, tokenization, payments, and emerging CBDC ecosystems. You will serve as a trusted technical advisor to customers, architects, engineering teams, and executive stakeholders, defining scalable and secure blockchain architectures while driving solution strategy, presales engagements, and innovation. Requirements 12+ years of technology experience, including 5+ years focused on Blockchain, DLT, Digital Assets, or Web3 solutions Deep expertise in enterprise blockchain architecture and distributed ledger technologies Strong experience with tokenization, digital assets, payments, settlement systems, or CBDC initiatives Proven track record designing solutions on platforms such as Hyperledger, Corda, Ethereum, Besu, Quorum, or similar technologies Experience leading architecture workshops, executive presentations, RFP responses, and customer advisory engagements Strong understanding of security, privacy, scalability, interoperability, and governance within blockchain ecosystems Financial services, banking, fintech, or central-bank experience strongly preferred Key Responsibilities Define end-to-end blockchain and digital asset architectures Advise clients on tokenization, payments, CBDC, and digital asset transformation initiatives Lead customer workshops, presales activities, and architectural assessments Drive interoperability and cross-chain integration strategies Establish architecture standards, governance frameworks, and technical best practices Partner with engineering, product, and business stakeholders to deliver scalable enterprise solutions Director of Blockchain & Digital Asset Solutions in Abu Dhabi, United Arab Emirates",
+    "published": "2026-10-15",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "web3",
+      "defi",
+      "ethereum",
+      "token",
+      "security"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Director of Blockchain & Digital Asset Solutions (m/f/d)",
+    "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/director-of-blockchain-digital-asset-solutions-m-f-d-at-halian-managed-services-recruitment-agency-contract-staffing-4477561870",
+    "description": "We are seeking an experienced Director of Blockchain & Digital Asset Solutions to lead the design and advisory of enterprise-grade blockchain initiatives across financial services, digital assets, tokenization, payments, and emerging CBDC ecosystems. You will serve as a trusted technical advisor to customers, architects, engineering teams, and executive stakeholders, defining scalable and secure blockchain architectures while driving solution strategy, presales engagements, and innovation. Requirements 12+ years of technology experience, including 5+ years focused on Blockchain, DLT, Digital Assets, or Web3 solutions Deep expertise in enterprise blockchain architecture and distributed ledger technologies Strong experience with tokenization, digital assets, payments, settlement systems, or CBDC initiatives Proven track record designing solutions on platforms such as Hyperledger, Corda, Ethereum, Besu, Quorum, or similar technologies Experience leading architecture workshops, executive presentations, RFP responses, and customer advisory engagements Strong understanding of security, privacy, scalability, interoperability, and governance within blockchain ecosystems Financial services, banking, fintech, or central-bank experience strongly preferred Key Responsibilities Define end-to-end blockchain and digital asset architectures Advise clients on tokenization, payments, CBDC, and digital asset transformation initiatives Lead customer workshops, presales activities, and architectural assessments Drive interoperability and cross-chain integration strategies Establish architecture standards, governance frameworks, and technical best practices Partner with engineering, product, and business stakeholders to deliver scalable enterprise solutions Director of Blockchain & Digital Asset Solutions in Abu Dhabi, United Arab Emirates",
+    "published": "2026-10-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "blockchain"
+    ],
+    "desc_hits": [
+      "web3",
+      "defi",
+      "ethereum",
+      "token",
+      "security"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Senior Manager, AI Engineering",
     "company": "HackerOne",
@@ -517,33 +544,6 @@
     "salary_ok": true,
     "salary_str": "$233,100-$366,300",
     "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Senior Software Engineer, Data Product",
-    "company": "TRM Labs",
-    "location": "LATAM",
-    "url": "https://jobicy.com/jobs/155044-senior-software-engineer-data-product",
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. The Data Product team collaborates with an experienced group of data scientists, engineers, and product managers to build highly scalable features that power TRM's products and services. As a Data Engineer on the Data Product team, you will be responsible for designing and building mission-critical data services. These features analyze and provide insights into blockchain transaction activity at petabyte scale, and ultimately work to build a safer financial system for billions of people.. The impact you’ll have here: Build highly scalable features that integrate with dozens of blockchains. Design and architect intricate data models for optimal storage and retrieval to support sub-second latency for querying blockchain data. Collaborate across departments, partnering with data scientists, backend engineers, and product managers to design and implement novel data models that enhance TRM’s products. What we’re looking for: Bachelor's degree (or equivalent) in Computer Science or a related field. A proven track record, with 5+ years of hands-on experience in architecting scalable API development, distributed system architecture, guiding projects from initial ideation through to successful production deployment. Exceptional programming skills in Python, as well as adeptness in SQL or SparkSQL. Versatility that spans the entire spectrum of data engineering in one or more of the following areas: In-depth experience with data stores such as BigQuery and Postgres. Proficiency in data pipeline and workflow orchestration tools like Airflow and DBT. Expertise in data processing technologies and streaming workflows including Dataflow, Spark, Kafka, and Flink. Competence in deploying and monitoring infrastructure within public cloud platforms, utilizing tools such as Docker, Terraform, Kubernetes, and Datadog. Proven ability in loading, querying, and transforming extensive datasets About the Team: Our team is spread out over several countries and time zones. To leverage the opportunities and address challenges that come with this working model, we've built a culture grounded in trust, transparency, and adaptability. Even though we're scattered across different time zones, we stay closely connected through open communication and regular check-ins. Our use of digital tools helps us collaborate seamlessly and work at an impressive pace, delivering results at TRM speed while staying in sync. The diversity of perspectives and expertise within our team sparks creative exchanges and enhances our problem-solving capabilities, allowing us to leverage our global synergy to drive innovation and efficiency. We're driven by a deep sense of ownership, constant pursuit of improvement and an obsession with delivering magical experiences to our customers; these are a core part of our culture. We're driven by the desire to continuously hone our craft and to this end, we regularly assess our processes, seek feedback, and embrace iterative development to refine what we do. We structure problems and use the 80/20 rule(for many outcomes, roughly 80% of consequences come from 20% of causes) to identify where to direct our razor-sharp focus. Each of us is passionate about excellence and growth, and we're encouraged to challenge the status quo and experiment with new methods. This mindset creates an environment where innovation is part of our daily routine and every team member is an impact-oriented trailblazer. By celebrating our successes and learning from our setbacks, we stay agile and forward-thinking, always striving to elevate our performance and impact. Learn about TRM Speed in this position: The team received a request from customers to show the running balance for assets tied to an address within the product. They brainstormed to determine the minimal viable solution that could be delivered within two weeks. The team decided to develop a framework that would facilitate enabling this feature for each chain (such as BTC, ETH, etc.) individually. They successfully implemented and tested this solution for the BTC chain and delivered it to customers within the two-week timeframe. This approach allowed the team to quickly provide value to customers and establish a repeatable process. The team was tasked with implementing a new feature that would enable TRM to gather feedback from the user community swiftly. Due to the company's goal of showcasing the feature at an upcoming event, the timeline was tight. The team quickly adjusted to the request, assessed the requirements, and developed a solution that addressed 80% of the needs and could be executed within a very short timeframe. They successfully delivered the feature on schedule, impressing customers with both the functionality and the speed of execution. The team was tasked with developing a solution to reveal Indirect Exposure through cross-chain swaps in response to a competitor's similar feature. Before choosing the technical approach, the team consulted with stakeholders to establish a feasible timeline for the implementation. With this input, the team devised a solution that fit the timeline, communicated the tradeoffs to stakeholders, and successfully delivered the solution as promised. About TRM's Engineering Levels: Engineer: Responsible for helping to define project milestones and executing small decisions independently with the appropriate tradeoffs between simplicity, readability, and performance. Provides mentorship to junior engineers, and enhances operational excellence through tech debt reduction and knowledge sharing. Senior Engineer: Successfully designs and documents system improvements and features for an OKR/project from the ground up. Consistently delivers efficient and reusable systems, optimizes team throughput with appropriate tradeoffs, mentors team members, and enhances cross-team collaboration through documentation and knowledge sharing. Staff Engineer: Drives scoping and execution of one or more OKRs/projects that impact multiple teams. Partners with stakeholders to set the team vision and technical roadmaps for one or more products. Is a role model and mentor to the entire engineering organization. Ensures system health and quality with operational reviews, testing strategies, and monitoring rigor. Application Instructions If you’re interested in joining TRM, we encourage you to apply directly. Every application is reviewed by our Talent team. Before applying, review the job description carefully and highlight the experience and impact that best demonstrate the required qualifications. Please also provide thoughtful and accurate answers to the application questions, as these will be used to evaluate your skills and qualifications for the role. If you send your resume directly to someone at TRM, we can’t guarantee it will reach the appropriate hiring team. Applying directly is the best way to ensure your application will be considered. Interviewing with TRM Our process is designed to understand how you think, solve problems, and deliver impact, while allowing you to evaluate TRM. Most interview processes include a case study, an AI skills assessment, and a Leadership Principles interview. Recruiter Intro: Qualifications, motivations, and alignment with the role. Hiring Manager: Deep dive into your relevant experience, skills, and impact. First Round: 1–2 interviews focused on the skills most critical to the role. Final Round: Hands-on case study. This is usually a panel-style session where we go deeper into your craft, problem-solving, and alignment with TRM. References: Former colleagues who can provide insight into your work and impact. Offer: Congrats! Your recruiter will present the offer and compensation details. Welcome to TRM: We're excited to build a safer world with you! Your recruiter will share your specific interview plan and preparation guidance along the way. AI Fluency at TRM AI fluency is a baseline expectation at TRM. We believe AI meaningfully changes how top performers operate. We expect every team member to use AI to accelerate and reimagine their craft, not just automate surface tasks. At TRM, AI fluency means you are among the top 10 percent of operators in your function in how you apply AI to: Accelerate repeatable workflows Structure and solve problems Improve output quality Increase speed and leverage You will be evaluated on applied AI fluency during the interview process. Life at TRM We are building a safer world. That promise shows up in how we work every day. TRM moves FAST. We are a high-velocity, high-ownership team that expects clarity, follow-through, and impact. People who thrive here are energized by hard problems, experimentation, and continuous feedback. If something takes months elsewhere, it will ship here in days. Our work sits at the intersection of AI, national security, and fighting crime. The problems are complex, the stakes are real, and the environment evolves quickly. The pace and intensity of the work reflect the importance of the mission. As a result, the way we operate requires a high level of ownership, adaptability, collaboration, and creative problem-solving. At TRM, you should expect: Priorities and targets to change quickly Operating with a high degree of ambiguity A high level of personal ownership and accountability Close collaboration across teams and functions Frequent, high-touch communication Creative problem-solving and out-of-the-box thinking A pace that rewards urgency, adaptability, and outcomes This environment is energizing for people who enjoy building, solving hard problems, and making progress in situations that are not always fully defined. It also requires thriving in ambiguity, adjusting course as new information emerges, and maintaining focus and positivity in a fast-moving and intense environment. We also recognize that this style of operating is not for everyone. If you are primarily optimizing for predictability or a consistently balanced workload, we encourage you to use the interview process to pressure-test whether this environment is truly the right fit. We want teammates who thrive here, not just survive here. If you are excited by meaningful problems, motivated by ambitious goals, and energized by working alongside mission-driven colleagues, there is a good chance you will find TRM to be an exceptional place to grow and contribute. Leadership Principles We hire and grow against three leadership principles. They’re the standards for how we operate, treat each other, and make decisions. Impact-Oriented Trailblazer: We put customers first and move with speed, focus, and adaptability. We treat every plan like an experiment – test, ship, measure, and iterate quickly. Master Craftsperson: We care deeply about our craft. We balance speed with high standards, own outcomes end‑to‑end, and invest in getting better everyday. Inspiring Colleague: We add clarity and energy, not noise. We bring humility, candor, and a one‑team mindset — giving and receiving feedback to make the team stronger. Join our Mission At TRM, we care deeply about our craft. We are looking for individuals who want their work to matter, who experiment with speed and rigor, and who take pride in building a safer world for billions of people. If you’re excited by TRM’s mission but don’t check every box, we encourage you to apply — we hire for slope, judgment, and the will to learn fast. TRM is a Series C company with $220M in total funding, backed by Goldman Sachs, Bessemer, Y Combinator, Thoma Bravo, and others. Headquartered in San Francisco, TRM operates as a distributed-first company with hubs in Los Angeles, San Francisco, New York, Washington D.C., London, and Singapore. Privacy Policy and Additional Information By submitting your application, you agree to allow TRM Labs to process your personal information in accordance with our Privacy Policy . We collect the information you provide (such as your resume, work history, and contact details) solely for the purpose of evaluating your candidacy for current and future roles at TRM. Because our hiring cycles for certain positions may span 24 to 36 months, we retain your personal information for up to 36 months from the date of your application. After that period, your data is deleted unless a different retention period is required or permitted by law. If you are located in the European Economic Area, the United Kingdom, or another jurisdiction with applicable data protection laws, you have the right to access, correct, or request deletion of your personal data at any time before that period ends. To exercise any of these rights, contact us at privacy@trmlabs.com . To notify TRM Labs that you believe this job posting is non-compliant, please submit a report through this form . No response will be provided to inquiries unrelated to job posting compliance. The use of AI tools of any kind (including but not limited to notetakers, interview assistants, and real-time coaching tools such as Otter.ai, Fireflies, Fathom, Cluey, or similar) during TRM interviews is not permitted without prior approval from TRM. TRM uses its own internal tools for note-taking to ensure a consistent and confidential experience for all candidates. We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this form . Recruitment agencies TRM Labs does not accept unsolicited agency resumes. Please do not forward resumes to TRM employees. TRM Labs is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company without a signed agreement. Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. The…",
-    "published": "2026-10-11",
-    "remote": true,
-    "currency": "usd",
-    "salary_min": 220000,
-    "salary_max": 220000,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "defi",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$220,000-$220,000",
-    "emails": [
-      "privacy@trmlabs.com"
-    ],
     "phones": []
   },
   {
