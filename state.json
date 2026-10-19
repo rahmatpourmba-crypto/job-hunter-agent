@@ -9407,6 +9407,36 @@
       "company": "Datadog",
       "source": "jobicy",
       "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/153584-business-development-manager-northeastern": {
+      "title": "Business Development Manager, Northeastern",
+      "company": "CompScience",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-manager-hse-saudi-national-at-jasara-program-management-company-4480954315": {
+      "title": "Senior Manager HSE - Saudi National",
+      "company": "Jasara Program Management Company",
+      "source": "linkedin",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/153597-sr-data-engineer-3": {
+      "title": "Sr. Data Engineer",
+      "company": "Carrot",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://weworkremotely.com/remote-jobs/expel-systems-engineer": {
+      "title": "Expel: Systems Engineer",
+      "company": "Expel",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-19"
+    },
+    "https://sa.linkedin.com/jobs/view/internal-auditor-risk-regulatory-assurance-at-lean-technologies-4480947322": {
+      "title": "Internal Auditor - Risk & Regulatory Assurance",
+      "company": "Lean Technologies",
+      "source": "linkedin",
+      "first_seen": "2026-10-19"
     }
   },
   "applied": {
@@ -10431,6 +10461,13 @@
       "to": "privacy@trmlabs.com",
       "title": "Account Director, EMEA (Crypto)",
       "company": "TRM Labs"
+    },
+    "https://jobicy.com/jobs/153584-business-development-manager-northeastern::email": {
+      "date": "2026-10-19 11:57",
+      "via": "email",
+      "to": "submissions@compscience.com",
+      "title": "Business Development Manager, Northeastern",
+      "company": "CompScience"
     }
   },
   "sent": {
@@ -11048,6 +11085,11 @@
       "kind": "email",
       "to": "privacy@trmlabs.com",
       "date": "2026-10-18 11:33"
+    },
+    "https://jobicy.com/jobs/153584-business-development-manager-northeastern": {
+      "kind": "email",
+      "to": "submissions@compscience.com",
+      "date": "2026-10-19 11:57"
     }
   },
   "replies": []
