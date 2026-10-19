@@ -9497,6 +9497,120 @@
       "company": "AlertMedia",
       "source": "jobicy",
       "first_seen": "2026-10-19"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-el-seif-operation-and-maintenance-4480947983": {
+      "title": "Health Safety Environment Engineer",
+      "company": "El Seif Operation and Maintenance",
+      "source": "linkedin",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155867-senior-ai-information-security-engineer": {
+      "title": "Senior AI Information Security Engineer",
+      "company": "Tenable",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155915-senior-or-staff-software-engineer-data-platform-brazil": {
+      "title": "Senior or Staff Software Engineer, Data Platform (Brazil)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155912-sales-enablement-manager-onchain-compliance": {
+      "title": "Sales Enablement Manager, Onchain Compliance",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance": {
+      "title": "Instructional Designer, TRM Academy (Compliance)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155922-senior-clinical-qa-specialist-ai": {
+      "title": "Senior Clinical QA Specialist, AI",
+      "company": "BetterHelp",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155883-security-operations-analyst-uk": {
+      "title": "Security Operations Analyst- UK",
+      "company": "Huntress",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155924-qa-analyst-mexico-remote-2": {
+      "title": "QA Analyst (Mexico, Remote)",
+      "company": "Varicent",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155898-distinguished-engineer-core-devops": {
+      "title": "Distinguished Engineer, Core DevOps",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155921-backend-engineer-agent-tools-latam": {
+      "title": "Backend Engineer, Agent Tools (LATAM)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155913-solution-architect-north-america": {
+      "title": "Solution Architect (North America)",
+      "company": "Safe Security",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155865-staff-software-engineer-ocr-text-extraction": {
+      "title": "Staff Software Engineer - OCR / Text Extraction",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155863-staff-software-engineer-next-gen": {
+      "title": "Staff Software Engineer - Next-Gen",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155860-senior-software-engineer-ai-growth": {
+      "title": "Senior Software Engineer - AI Growth",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155857-senior-account-executive-public-sector-2": {
+      "title": "Senior Account Executive, Public Sector",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155853-account-executive-public-sector-2": {
+      "title": "Account Executive, Public Sector",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155925-binance-accelerator-program-qa-automation": {
+      "title": "Binance Accelerator Program - QA Automation",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155897-machine-learning-engineer-7": {
+      "title": "Machine Learning Engineer",
+      "company": "Twilio",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
+    },
+    "https://jobicy.com/jobs/155892-digital-sales-representative-2": {
+      "title": "Digital Sales Representative",
+      "company": "Twilio",
+      "source": "jobicy",
+      "first_seen": "2026-10-19"
     }
   },
   "applied": {
@@ -10528,6 +10642,27 @@
       "to": "submissions@compscience.com",
       "title": "Business Development Manager, Northeastern",
       "company": "CompScience"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-supervisor-at-wood-4480991862::email": {
+      "date": "2026-10-19 22:35",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "HSE Supervisor",
+      "company": "Wood"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-site-at-egis-4478535526::email": {
+      "date": "2026-10-19 22:35",
+      "via": "email",
+      "to": "enquiries@egis.com",
+      "title": "HSE Engineer - Site",
+      "company": "Egis"
+    },
+    "https://jobicy.com/jobs/155867-senior-ai-information-security-engineer::email": {
+      "date": "2026-10-19 22:36",
+      "via": "email",
+      "to": "Recruiting@Tenable.com",
+      "title": "Senior AI Information Security Engineer",
+      "company": "Tenable"
     }
   },
   "sent": {
@@ -11150,6 +11285,21 @@
       "kind": "email",
       "to": "submissions@compscience.com",
       "date": "2026-10-19 11:57"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-supervisor-at-wood-4480991862": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-10-19 22:35"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-site-at-egis-4478535526": {
+      "kind": "email",
+      "to": "enquiries@egis.com",
+      "date": "2026-10-19 22:35"
+    },
+    "https://jobicy.com/jobs/155867-senior-ai-information-security-engineer": {
+      "kind": "email",
+      "to": "Recruiting@Tenable.com",
+      "date": "2026-10-19 22:36"
     }
   },
   "replies": []
