@@ -423,6 +423,35 @@
     "phones": []
   },
   {
+    "source": "jobicy",
+    "title": "Security Engineer",
+    "company": "Cision",
+    "location": "Bulgaria,  Hungary",
+    "url": "https://jobicy.com/jobs/155437-security-engineer-3",
+    "description": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we accelerate. Join us in shaping the future of communication and building authentic connections that matter. Whether you're solving complex problems or driving bold innovations, your growth is our success, and together, we’ll create the conversations of tomorrow. Empower your impact at Cision. Be seen, be understood, be you. This role strengthens and optimizes the organization's security capabilities by reviewing existing tools, applications, and processes to identify gaps. It establishes and maintains cloud security architecture best practices, focusing on cloud platforms and integrates new and existing security platforms. The role collaborates with R&D teams to maintain a secure architecture and analyzes security events for anomalous activity. It contributes to the organization's security posture and ensures a secure environment. The individual works on issues requiring the analysis of relevant factors and exercises considerable judgment within defined procedures to determine appropriate action. This individual will work across multiple departments to design, implement, and manage security solutions that protect both internal and third party (vendor) systems and customer data. You will play a critical role in ensuring that security practices are aligned with compliance requirements while driving technical solutions for secure systems and data protection across the entire organization. Responsibilities: Design, implement, and maintain security architectures across cloud, third-party, and on-premises environments. Evaluate and integrate emerging security technologies to strengthen the organisation’s security posture. Integrate security controls into CI/CD pipelines, establish secure development standards, and conduct secure code reviews in collaboration with development teams. Implement and maintain encryption mechanisms to protect data at rest and in transit. Manage cryptographic keys and ensure compliance with relevant security standards. Design and manage secure identity and access solutions, including Single Sign-On (SSO), Identity Providers (IdPs), and federation protocols such as SAML, OAuth, and OpenID Connect. Support the implementation and management of solutions such as Okta and Keycloak. Define and promote secure coding standards, advise development teams on application security, and provide guidance to prevent common vulnerabilities, including injection flaws, cross-site scripting (XSS), and authentication weaknesses. Implement and maintain technical security controls aligned with relevant frameworks and standards, including NIST, SOC 2, ISO 27001, and Cyber Essentials. Support compliance assessments, audits, and remediation activities. Conduct security risk assessments, threat modelling, and vulnerability assessments. Develop and coordinate mitigation plans to address identified risks and reduce the organisation’s exposure to threats. Develop and support incident response processes, collaborate with Security Operations Centre (SOC) teams, and implement continuous monitoring capabilities to detect threats and maintain compliance with security requirements. Partner with cross-functional teams to embed security into systems and processes, mentor junior engineers, and provide technical guidance on security technologies, tools, architecture, and best practices. Requirements: Deep understanding of security standards and frameworks such as NIST, ISO 27001, CIS Controls, and industry compliance regulations (GDPR, HIPAA, PCI-DSS). 5+ years of relevant experience in security engineering and GRC-focused security solutions development. Hands-on experience with security tools such as IDS/IPS, SIEM, vulnerability scanners, and penetration testing platforms. Experience with cloud platforms (AWS, Azure, GCP, OCI or Alibaba) and securing cloud-native applications. Proficiency in programming languages (e.g., Python, Java, C++) and automation tools (e.g., Terraform, Ansible). Strong knowledge of networking protocols, firewalls, VPNs, proxies, and security monitoring tools. Extensive hands-on experience in DevSecOps, integrating security in CI/CD pipelines, and supporting development teams in secure coding practices. Proven expertise in cryptography, including encryption, key management, and digital signatures. Cision is the global leader in consumer and media intelligence, engagement, and communication solutions. We equip PR and corporate communications, marketing, and social media professionals with the tools they need to excel in today's data driven world. Our deep expertise, exclusive data partnerships, and award-winning products, including CisionOne , Brandwatch , and PR Newswire , enable over 75,000 companies and organizations, including 84% of the Fortune 500, to see and be seen, understand and be understood by the audiences that matter most to them. Cision is committed to fostering an inclusive environment where all employees can be their authentic selves and perform at their best. We believe diversity, equity, and inclusion is vital to driving our culture, sparking innovation and achieving long-term success. Cision is proud to have joined more than 600 companies in signing the CEO Action for Diversity & Inclusion™ pledge and named a “Top Diversity Employer” for 2021 by DiversityJobs.com . Cision is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or other protected statuses. Cision is committed to the full inclusion of all qualified individuals. In keeping with our commitment, Cision will take the steps to assure that people with disabilities are provided reasonable accommodations. Accordingly, if reasonable accommodation is required to fully participate in the job application or interview process, to perform the essential functions of the position, and/or to receive all other benefits and privileges of employment, please contact hr.support@cision.com Cision, Inc. \"the Company\" only communicates with candidates and extends job offers through direct channels, not third parties. Please review our Global Candidate Data Privacy Statement to learn about Cision’s commitment to protecting personal data collected during the hiring process. At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we…",
+    "published": "2026-10-16",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": null,
+    "salary_max": null,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi",
+      "crypto",
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "hr.support@cision.com"
+    ],
+    "phones": []
+  },
+  {
     "source": "weworkremotely",
     "title": "ZoomInfo Technologies LLC: Director, Applied AI",
     "company": "ZoomInfo Technologies LLC",
@@ -630,31 +659,6 @@
     "emails": [
       "privacy@trmlabs.com"
     ],
-    "phones": []
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Coinbase: Analyst, Privacy (Privacy Assessments)",
-    "company": "Coinbase",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
-    "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase . As a Privacy Analyst on the Privacy Operations team within Security, you'll play a central role in how Coinbase identifies and manages privacy risk across its products and platforms. This team partners with Legal, Product, and Engineering to perform privacy assessments, manage privacy issues through the product lifecycle, and continuously improve the frameworks and tooling that keep customer data safe. You'll own the execution of complex privacy assessments for new products and features, drive issue remediation, and build scalable processes that embed privacy by design into how Coinbase ships. What you'll do: Own end-to-end privacy assessments for new products and features, synthesizing findings and driving remediation with cross-functional partners across Legal, Product, and Engineering. Perform regulatory requirement mapping against the privacy common controls framework and identify where control updates are needed to address evolving obligations. Track privacy requirements and issues throughout the product lifecycle, managing escalations and driving timely resolution with business owners. Partner with Product and Engineering teams by embedding into roadmap planning processes and advising on privacy-by-design principles for onchain and web3 products. Identify and implement automation and AI-driven process improvements to streamline privacy assessments and issue management workflows. Required Skills and Experience: 3+ years in technology risk management with a focus on privacy or security, including hands-on experience conducting privacy assessments (DPIAs/PIAs, data flow reviews, or equivalent). Demonstrated ability to map regulatory requirements (GDPR, CCPA, PIPEDA, ePrivacy) to operational controls and validate remediation efforts. Proven ability to translate privacy legal guidance and product specs into functional requirements and actionable remediation plans. Experience managing a high volume of concurrent assessments while balancing strategic priorities and stakeholder escalations across technical and non-technical audiences. Familiarity with applying privacy principles to blockchain, onchain, and web3 products or willingness to develop this expertise rapidly. Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality. #LI-Remote Pay Transparency Notice: Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)). Annual base salary range (excluding equity and bonus): $135,320 — $159,200 USD Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period. Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation. Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial . Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you agree to Arbitration of Disputes . To apply: https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
-    "published": "Wed, 14 Oct 2026",
-    "remote": true,
-    "currency": null,
-    "salary_min": 135320,
-    "salary_max": 159200,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "web3",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$135,320-$159,200",
-    "emails": [],
     "phones": []
   }
 ]
