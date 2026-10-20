@@ -1,0 +1,2221 @@
+window.B2B_ENGINE_DATA = {
+  "countryDirectories": {
+    "امارات": [
+      {
+        "name": "شرکت بین‌المللی فرزانه (Farzana Trading LLC)",
+        "name_en": "Farzana Trading LLC",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Al Aweer Central Fruit & Vegetable Market, Ras Al Khor, Dubai",
+        "landline": "+971 4 320 0000",
+        "phone": "+971 4 320 0000",
+        "email": "info@farzana.ae",
+        "website": "https://www.farzana.ae",
+        "linkedin_company_url": "https://www.linkedin.com/company/farzana-trading-llc/",
+        "role": "بزرگترین هلدینگ واردات مستقیم میوه، تره‌بار، سیب، مرکبات، کیوی و خشکبار در امارات با ناوگان سردخانه‌ای مدرن",
+        "trust": 100,
+        "status_badge": "🟢 خریدار و واردکننده اصلی B2B تاییدشده امارات",
+        "map_url": "https://www.google.com/maps/search/Farzana+Trading+Al+Aweer+Dubai/@25.1764,55.3687,14z"
+      },
+      {
+        "name": "هلدینگ برکت (Barakat Group / Barakat Quality Plus)",
+        "name_en": "Barakat Group",
+        "city": "دبی، امارات متحده عربی",
+        "address": "JAFZA Freezone / Al Aweer Wholesale Hub, Dubai",
+        "landline": "+971 4 880 2121",
+        "phone": "+971 4 880 2121",
+        "email": "info@barakatgroup.ae",
+        "website": "https://barakatfresh.ae",
+        "linkedin_company_url": "https://www.linkedin.com/company/barakat-group/",
+        "role": "تأمین‌کننده شماره ۱ میوه و سبزیجات لوکس به هتل‌های ۵ ستاره، خطوط هوایی امارات و سوپرمارکت‌های زنجیره‌ای",
+        "trust": 100,
+        "status_badge": "🟢 هلدینگ برتر تأمین میوه و صیفی‌جات پریمیوم",
+        "map_url": "https://www.google.com/maps/search/Barakat+Quality+Plus+JAFZA+Dubai/@24.9850,55.0900,14z"
+      },
+      {
+        "name": "گروه تجاری ان‌آر‌تی‌سی (NRTC Group - Nassar Al Rafaee)",
+        "name_en": "NRTC Group",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Ras Al Khor Industrial Area 3, Central Market, Dubai",
+        "landline": "+971 4 320 8888",
+        "phone": "+971 4 320 8888",
+        "email": "info@nrtcgroup.com",
+        "website": "https://www.nrtcgroup.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/nrtc-group/",
+        "role": "از قدیمی‌ترین و عظیم‌ترین باراندازهای واردات روزانه صدها تن انواع سیب درختی، پیاز و صیفی‌جات در خاورمیانه",
+        "trust": 99,
+        "status_badge": "🟢 واردکننده تناژ بالا با سردخانه مرکزی",
+        "map_url": "https://www.google.com/maps/search/NRTC+Group+Ras+Al+Khor+Dubai/@25.1740,55.3650,14z"
+      },
+      {
+        "name": "دل مونته خاورمیانه (Fresh Del Monte MENA)",
+        "name_en": "Fresh Del Monte MENA",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Dubai Investments Park (DIP) / Dubai Industrial City, UAE",
+        "landline": "+971 4 887 0800",
+        "phone": "+971 4 887 0800",
+        "email": "contact-mena@freshdelmonte.com",
+        "website": "https://delmontenaf.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/fresh-del-monte-mena/",
+        "role": "غول بین‌المللی تولید، سورتینگ و بسته‌بندی میوه‌های تازه با استانداردهای کنترل کیفیت جهانی",
+        "trust": 100,
+        "status_badge": "🟢 غول جهانی فرآوری و بسته‌بندی میوه",
+        "map_url": "https://www.google.com/maps/search/Fresh+Del+Monte+Dubai+Investments+Park/@24.9750,55.1850,14z"
+      },
+      {
+        "name": "گروه بین‌المللی لولو - بخش محصولات تازه (Lulu Group International)",
+        "name_en": "Lulu Group International",
+        "city": "ابوظبی و دبی، امارات متحده عربی",
+        "address": "Y Tower, Al Nahyan, Abu Dhabi & Al Qusais Logistics Hub, Dubai",
+        "landline": "+971 2 418 2000",
+        "phone": "+971 2 418 2000",
+        "email": "procurement@lulugroupinternational.com",
+        "website": "https://www.lulugroupinternational.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/lulu-group-international/",
+        "role": "بزرگترین زنجیره هایپرمارکت‌های خاورمیانه با بیش از ۲۶۰ شعبه فعال، خرید روزانه صدها تن بار با پرداخت نقدی و تضمینی",
+        "trust": 100,
+        "status_badge": "🟢 خریدار زنجیره‌ای عظیم هایپرمارکت‌ها",
+        "map_url": "https://www.google.com/maps/search/Lulu+Group+International+Head+Office+Abu+Dhabi/@24.4680,54.3850,14z"
+      },
+      {
+        "name": "کیبسون اینترنشنال (Kibsons International LLC)",
+        "name_en": "Kibsons International LLC",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Al Manama Street, Ras Al Khor Industrial Area 3, Dubai",
+        "landline": "+971 4 320 2727",
+        "phone": "+971 4 320 2727",
+        "email": "customercare@kibsons.com",
+        "website": "https://www.kibsons.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/kibsons-international-llc/",
+        "role": "پیشتاز تجارت آنلاین و توزیع مویرگی میوه و سبزیجات تازه درجه یک در سراسر امارات",
+        "trust": 99,
+        "status_badge": "🟢 پلتفرم توزیع آنلاین و مویرگی میوه ممتاز",
+        "map_url": "https://www.google.com/maps/search/Kibsons+International+Ras+Al+Khor+Dubai/@25.1720,55.3710,14z"
+      },
+      {
+        "name": "اسپینیز امارات (Spinneys Dubai LLC / GMG Fresh Food)",
+        "name_en": "Spinneys Dubai LLC",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Meydan Road, Nad Al Sheba 1, Dubai",
+        "landline": "+971 4 274 3333",
+        "phone": "+971 4 274 3333",
+        "email": "freshfood@spinneys.com",
+        "website": "https://www.spinneys.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/spinneys-dubai-llc/",
+        "role": "معتبرترین برند سوپرمارکت‌های لوکس امارات با دقیق‌ترین استانداردهای باقی‌مانده سموم و سلامت نباتی",
+        "trust": 100,
+        "status_badge": "🟢 خریدار هایپرمارکت‌های پریمیوم و ارگانیک",
+        "map_url": "https://www.google.com/maps/search/Spinneys+Head+Office+Meydan+Dubai/@25.1600,55.3050,14z"
+      },
+      {
+        "name": "یونی‌فروتی خاورمیانه (Unifrutti Middle East DMCC)",
+        "name_en": "Unifrutti Group",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Jumeirah Lakes Towers (JLT), Cluster T, Fortune Executive Tower, Dubai",
+        "landline": "+971 4 456 1200",
+        "phone": "+971 4 456 1200",
+        "email": "dubai@unifrutti.com",
+        "website": "https://www.unifruttigroup.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/unifrutti-group/",
+        "role": "کمپانی بین‌المللی تولید، صادرات و واردات کانتینرهای ریفر سیب، کیوی و مرکبات در مسیرهای اقیانوسی",
+        "trust": 99,
+        "status_badge": "🟢 غول جهانی تجارت کانتینری و ترانزیت دریایی",
+        "map_url": "https://www.google.com/maps/search/Unifrutti+JLT+Dubai/@25.0720,55.1480,14z"
+      },
+      {
+        "name": "تروبل مارکتینگ و تردینگ (Truebell Marketing & Trading LLC)",
+        "name_en": "Truebell Marketing and Trading LLC",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Dubai Wholesale City, Dubai Industrial Park, Dubai",
+        "landline": "+971 4 340 5000",
+        "phone": "+971 4 340 5000",
+        "email": "food@truebell.org",
+        "website": "https://www.truebell.org",
+        "linkedin_company_url": "https://www.linkedin.com/company/truebell-marketing-and-trading-llc/",
+        "role": "هلدینگ بزرگ توزیع مواد غذایی و کشاورزی به خطوط کشتیرانی، کترینگ‌های فرودگاهی و فروشگاه‌های خلیج فارس",
+        "trust": 98,
+        "status_badge": "🟢 تأمین‌کننده هاب‌های ترانزیتی و دریایی",
+        "map_url": "https://www.google.com/maps/search/Truebell+Dubai+Industrial+Park/@24.9050,55.0800,14z"
+      },
+      {
+        "name": "چویترامز (Choithrams - T. Choithram & Sons LLC)",
+        "name_en": "Choithrams",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Al Quoz Industrial Area 3, Dubai",
+        "landline": "+971 4 368 5000",
+        "phone": "+971 4 368 5000",
+        "email": "info@choithrams.com",
+        "website": "https://www.choithrams.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/choithrams/",
+        "role": "شبکه سوپرمارکت‌های زنجیره‌ای سراسری و واردکننده مستقیم انواع سیب، صیفی‌جات، پسته و خرما با ۸۰ سال قدمت",
+        "trust": 100,
+        "status_badge": "🟢 هلدینگ تجاری کهن و شبکه توزیع مویرگی",
+        "map_url": "https://www.google.com/maps/search/Choithrams+Head+Office+Al+Quoz+Dubai/@25.1300,55.2300,14z"
+      }
+    ],
+    "عراق": [
+      {
+        "name": "شرکت بازرگانی بین‌المللی الراوی (Al-Rawi General Trading Co)",
+        "name_en": "Al Rawi Trading Co",
+        "city": "اربیل و بغداد، عراق",
+        "address": "Gulan Street, Erbil & Karrada Trade District, Baghdad",
+        "landline": "+964 750 445 1122",
+        "phone": "+964 750 445 1122",
+        "email": "info@alrawitrading.com",
+        "website": "https://www.alrawitrading.com",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Al%20Rawi%20Trading%20Iraq",
+        "role": "بزرگترین واردکننده سیب درختی ممتاز، سیب‌زمینی و پیاز ایران، صاحب انبارها و سردخانه‌های اتمسفری در اربیل و بغداد",
+        "trust": 100,
+        "status_badge": "🟢 خریدار مستقیم و صاحب سردخانه‌های اتمسفری عراق",
+        "map_url": "https://www.google.com/maps/search/Gulan+Street+Erbil+Iraq/@36.2050,44.0150,14z"
+      },
+      {
+        "name": "علوەی گشتیی ھەولێر (Erbil Central Wholesale Produce Hub)",
+        "name_en": "Erbil Wholesale Produce Consortium",
+        "city": "اربیل، اقلیم کردستان عراق",
+        "address": "Makhmur Road, South Erbil Central Wholesale Produce Market",
+        "landline": "+964 66 222 2014",
+        "phone": "+964 66 222 2014",
+        "email": "info@erbilchamber.org",
+        "website": "http://www.erbilchamber.org",
+        "linkedin_company_url": "https://www.linkedin.com/company/erbil-chamber-of-commerce-industry/",
+        "role": "بارانداز اصلی تخلیه روزانه بیش از ۳۰۰ تریلی ترانزیتی از مرز تمرچین و باشماق و مرجع قیمت‌گذاری دیناری روزانه",
+        "trust": 100,
+        "status_badge": "🟢 بارانداز مرکزی رسمی اقلیم کردستان عراق",
+        "map_url": "https://www.google.com/maps/search/Erbil+Central+Fruit+and+Vegetable+Market+Makhmur+Road/@36.1408,44.0152,14z"
+      },
+      {
+        "name": "علوة جميلة المركزية (Jamila Wholesale Market Baghdad)",
+        "name_en": "Jamila Wholesale Market Baghdad",
+        "city": "بغداد، عراق",
+        "address": "Madinat Sadr / Jamila Commercial Hub, Baghdad",
+        "landline": "+964 1 816 8000",
+        "phone": "+964 1 816 8000",
+        "email": "info@baghdadchamber.com",
+        "website": "http://www.baghdadchamber.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/baghdad-chamber-of-commerce/",
+        "role": "قلب تپنده بازرگانی و بزرگترین بارانداز عمده‌فروشی میوه و تره‌بار کل پایتخت عراق با نقدینگی دیناری فوق‌العاده",
+        "trust": 100,
+        "status_badge": "🟢 هاب مرکزی عمده‌فروشی و نقدینگی پایتخت عراق",
+        "map_url": "https://www.google.com/maps/search/Jamila+Wholesale+Market+Baghdad+Iraq/@33.3600,44.4500,14z"
+      },
+      {
+        "name": "هلدینگ تجاری کاروان (Karwan Group for Import & Export)",
+        "name_en": "Karwan Group",
+        "city": "سلیمانیه و اربیل، عراق",
+        "address": "Salim Street, Sulaymaniyah & 100M Road, Erbil",
+        "landline": "+964 770 152 4000",
+        "phone": "+964 770 152 4000",
+        "email": "info@karwangroup.net",
+        "website": "https://www.karwangroup.net",
+        "linkedin_company_url": "https://www.linkedin.com/company/karwan-group/",
+        "role": "هلدینگ بزرگ واردات محصولات تازه کشاورزی، میوه‌های دانه‌دار و مواد غذایی با سردخانه‌های مجهز در سلیمانیه",
+        "trust": 99,
+        "status_badge": "🟢 هلدینگ معتبر بازرگانی و ترخیص مرزی",
+        "map_url": "https://www.google.com/maps/search/Salim+Street+Sulaymaniyah+Iraq/@35.5600,45.4300,14z"
+      },
+      {
+        "name": "صنایع غذایی و بازرگانی الوسام (Al-Wessam Group Baghdad)",
+        "name_en": "Al Wessam Group",
+        "city": "بغداد، عراق",
+        "address": "Al-Karkh Industrial Area, Mansour, Baghdad",
+        "landline": "+964 780 199 0000",
+        "phone": "+964 780 199 0000",
+        "email": "info@alwessamgroup.com",
+        "website": "https://www.alwessamgroup.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/alwessam-group/",
+        "role": "شبکه توزیع سراسری مواد خوراکی و محصولات سردخانه‌ای در سراسر استان‌های مرکزی و جنوبی عراق (کربلا، نجف و حله)",
+        "trust": 98,
+        "status_badge": "🟢 هلدینگ پخش مویرگی سراسر عراق",
+        "map_url": "https://www.google.com/maps/search/Al+Mansour+Baghdad+Iraq/@33.3100,44.3500,14z"
+      },
+      {
+        "name": "آلتونکایا عراق (Altunkaya Group Altunsa Produce Division)",
+        "name_en": "Altunkaya Group of Companies",
+        "city": "اربیل و زاخو، عراق",
+        "address": "Gulan Park Tower, Erbil & Ibrahim Khalil Border Trade Hub",
+        "landline": "+964 750 460 0000",
+        "phone": "+964 750 460 0000",
+        "email": "iraq@altunkaya.com",
+        "website": "https://www.altunkaya.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/altunkaya-group-of-companies/",
+        "role": "هلدینگ چندملیتی صاحب برند بین‌المللی آلتونسا، خریدار پیوسته محصولات باغبانی و کشاورزی با شبکه لجستیک گسترده",
+        "trust": 100,
+        "status_badge": "🟢 برند بین‌المللی بازرگانی صنایع غذایی",
+        "map_url": "https://www.google.com/maps/search/Gulan+Park+Erbil+Iraq/@36.2100,44.0100,14z"
+      },
+      {
+        "name": "شرکت تجارت محصولات کشاورزی دجله (Dijlah Food Trading)",
+        "name_en": "Dijlah Food Trading",
+        "city": "بصره و بغداد، عراق",
+        "address": "Al-Ashar Commercial District, Basra",
+        "landline": "+964 780 111 2233",
+        "phone": "+964 780 111 2233",
+        "email": "contact@dijlahgroup.com",
+        "website": "https://www.dijlahgroup.com",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Dijlah%20Food%20Iraq",
+        "role": "واردکننده عمده سیب‌زمینی، پیاز و گوجه‌فرنگی از طریق مرز شلمچه و مهران به بازارهای بصره، ناصریه و عماره",
+        "trust": 97,
+        "status_badge": "🟢 واردکننده اختصاصی بنادر و پایانه‌های جنوب عراق",
+        "map_url": "https://www.google.com/maps/search/Al+Ashar+Basra+Iraq/@30.5100,47.8300,14z"
+      },
+      {
+        "name": "هلدینگ لجستیک و تجارت سردار (Sardar Group Iraq)",
+        "name_en": "Sardar Group",
+        "city": "اربیل و بغداد، عراق",
+        "address": "Kirkuk Road, Erbil & Karrada, Baghdad",
+        "landline": "+964 750 700 0000",
+        "phone": "+964 750 700 0000",
+        "email": "info@sardargroup.com",
+        "website": "https://www.sardargroup.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/sardar-group/",
+        "role": "هلدینگ لجستیک بین‌المللی، زنجیره تأمین، خدمات گمرکی و حمل کانتینرهای یخچالی در کل عراق",
+        "trust": 100,
+        "status_badge": "🟢 غول لجستیک کانتینری و ترخیص گمرکی عراق",
+        "map_url": "https://www.google.com/maps/search/Kirkuk+Road+Erbil+Iraq/@36.1800,44.0300,14z"
+      },
+      {
+        "name": "اتاق بازرگانی بصره - کمیسیون واردات محصولات تازه (Basra Chamber of Commerce)",
+        "name_en": "Basra Chamber of Commerce",
+        "city": "بصره، عراق",
+        "address": "Corniche Street, Al-Ashar, Basra",
+        "landline": "+964 42 312 000",
+        "phone": "+964 42 312 000",
+        "email": "trade@basrachamber.org",
+        "website": "https://basrachamber.org",
+        "linkedin_company_url": "https://www.linkedin.com/company/basra-chamber-of-commerce/",
+        "role": "مرجع صدور مجوز و استعلام اعتبار تجار استان بصره و خریداران باراندازهای مرز شلمچه و بنادر ام‌قصر",
+        "trust": 100,
+        "status_badge": "🟢 اتاق بازرگانی رسمی بندر بصره",
+        "map_url": "https://www.google.com/maps/search/Basra+Chamber+of+Commerce+Corniche+Street/@30.5200,47.8400,14z"
+      },
+      {
+        "name": "بارانداز صادراتی پایانه مرزی تمرچین - حاج عمران (Tamarchin / Haj Omran Trade Hub)",
+        "name_en": "Tamarchin Border Export Terminal",
+        "city": "پیرانشهر و حاج‌عمران، مرز ایران و عراق",
+        "address": "پایانه مرزی بین‌المللی تمرچین، پیرانشهر",
+        "landline": "+98 44 4422 2000",
+        "phone": "+98 44 4422 2000",
+        "email": "tamarchin@irica.ir",
+        "website": "https://irica.ir",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Tamarchin%20Customs%20Clearance",
+        "role": "شاهراه اصلی خروج روزانه بیش از ۲۰۰ کامیون سیب و بار فله صادراتی آذربایجان غربی به اقلیم کردستان و اربیل",
+        "trust": 100,
+        "status_badge": "🟢 پایانه بین‌المللی گمرک رسمی",
+        "map_url": "https://www.google.com/maps/search/Tamarchin+Border+Terminal+Piranshahr/@36.6500,45.1000,14z"
+      }
+    ],
+    "عمان": [
+      {
+        "name": "هلدینگ سرمایه‌گذاری امنیت غذایی عمان (Oman Food Investment Holding - Nitaj)",
+        "name_en": "Oman Food Investment Holding Co (OFIC)",
+        "city": "مسقط، عمان",
+        "address": "Al Mouj Street, Ghubrah North, Muscat",
+        "landline": "+968 2439 7777",
+        "phone": "+968 2439 7777",
+        "email": "info@ofic.om",
+        "website": "https://www.ofic.om",
+        "linkedin_company_url": "https://www.linkedin.com/company/oman-food-investment-holding-co-saoc/",
+        "role": "هلدینگ حاکمیتی و بازوی اصلی دولت عمان در واردات و امنیت پایدار محصولات کشاورزی و باغی تازه",
+        "trust": 100,
+        "status_badge": "🟢 هلدینگ دولتی امنیت غذایی سلطان‌نشین عمان",
+        "map_url": "https://www.google.com/maps/search/Oman+Food+Investment+Holding+Muscat/@23.5900,58.3800,14z"
+      },
+      {
+        "name": "سلال - بازار و بارانداز مرکزی میوه و تره‌بار عمان (Silal Central Market Khazaen)",
+        "name_en": "Silal Central Fruit and Vegetable Market",
+        "city": "برکاء و شهر اقتصادی خزائن، عمان",
+        "address": "Khazaen Economic City, Barka, South Al Batinah, Oman",
+        "landline": "+968 2400 0000",
+        "phone": "+968 2400 0000",
+        "email": "info@silal.om",
+        "website": "https://silal.om",
+        "linkedin_company_url": "https://www.linkedin.com/company/khazaen-economic-city/",
+        "role": "جدیدترین و پیشرفته‌ترین هاب عمده‌فروشی میوه و تره‌بار عمان با سردخانه‌های مجهز به تخلیه مستقیم کانتینری",
+        "trust": 100,
+        "status_badge": "🟢 بازار بزرگ مرکزی نوساز و مدرن عمان",
+        "map_url": "https://www.google.com/maps/search/Khazaen+Economic+City+Barka+Oman/@23.6500,57.9000,14z"
+      },
+      {
+        "name": "هایپرمارکت‌های لولو عمان (Lulu Hypermarket Oman Produce Division)",
+        "name_en": "Lulu Hypermarket Oman",
+        "city": "مسقط، عمان",
+        "address": "Bausher, Muscat & Sohar Logistics Center",
+        "landline": "+968 2450 1200",
+        "phone": "+968 2450 1200",
+        "email": "luluoman@om.lulumea.com",
+        "website": "https://www.luluhypermarket.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/lulu-group-international/",
+        "role": "شبکه بیش از ۳۰ هایپرمارکت در مسقط، صلاله و صحار با تقاضای دائم سیب ممتاز، کیوی، صیفی‌جات و خشکبار",
+        "trust": 100,
+        "status_badge": "🟢 خریدار زنجیره‌ای پیشگام در عمان",
+        "map_url": "https://www.google.com/maps/search/Lulu+Hypermarket+Bausher+Muscat/@23.5700,58.3900,14z"
+      },
+      {
+        "name": "کیمجی رامداس - بخش کالاهای مصرفی (Khimji Ramdas LLC CPG)",
+        "name_en": "Khimji Ramdas LLC",
+        "city": "مسقط، عمان",
+        "address": "Khimji Ramdas Complex, Ruwi / Darsait, Muscat",
+        "landline": "+968 2470 2255",
+        "phone": "+968 2470 2255",
+        "email": "cpg@khimji.com",
+        "website": "https://www.khimji.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/khimji-ramdas-llc/",
+        "role": "معتبرترین هلدینگ تجاری عمان با سابقه ۱۵۰ ساله، شبکه توزیع اختصاصی کالا در تمام شهرهای عمان",
+        "trust": 100,
+        "status_badge": "🟢 هلدینگ معتبر و صاحب شبکه توزیع سراسری",
+        "map_url": "https://www.google.com/maps/search/Khimji+Ramdas+Ruwi+Muscat/@23.6000,58.5400,14z"
+      },
+      {
+        "name": "سوپرمارکت‌های الفیر (Al Fair Supermarkets - BMMI Oman)",
+        "name_en": "BMMI Group Al Fair",
+        "city": "مسقط، عمان",
+        "address": "Madinat Sultan Qaboos (MQ) & Qurum, Muscat",
+        "landline": "+968 2456 1222",
+        "phone": "+968 2456 1222",
+        "email": "info@bmmigroup.com",
+        "website": "https://www.bmmigroup.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/bmmi/",
+        "role": "زنجیره سوپرمارکت‌های لوکس عمان با اولویت میوه‌ها و مواد غذایی دستچین و صادراتی گرید A",
+        "trust": 99,
+        "status_badge": "🟢 زنجیره سوپرمارکت‌های لوکس مسقط",
+        "map_url": "https://www.google.com/maps/search/Al+Fair+Supermarket+Madinat+Sultan+Qaboos+Muscat/@23.6050,58.4600,14z"
+      },
+      {
+        "name": "المیره عمان (Al Meera Consumer Goods Company Oman)",
+        "name_en": "Al Meera Consumer Goods Company",
+        "city": "مسقط و برکاء، عمان",
+        "address": "Azaiba, Muscat & Barka Commercial Hub",
+        "landline": "+968 2459 0000",
+        "phone": "+968 2459 0000",
+        "email": "info@almeera.com.om",
+        "website": "https://www.almeera.com.om",
+        "linkedin_company_url": "https://www.linkedin.com/company/al-meera-consumer-goods-company/",
+        "role": "شبکه هایپرمارکت‌های منطقه‌ای با سفارش‌های هفتگی ثابت کانتینری میوه و صیفی‌جات",
+        "trust": 98,
+        "status_badge": "🟢 خریدار عمده کانتینری خلیج فارس",
+        "map_url": "https://www.google.com/maps/search/Al+Meera+Azaiba+Muscat/@23.5950,58.3500,14z"
+      },
+      {
+        "name": "سلطان سنتر عمان (The Sultan Center Oman)",
+        "name_en": "The Sultan Center",
+        "city": "مسقط، عمان",
+        "address": "Qurum & Al Amerat, Muscat",
+        "landline": "+968 2456 2200",
+        "phone": "+968 2456 2200",
+        "email": "oman@sultan-center.com",
+        "website": "https://www.sultan-center.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/the-sultan-center/",
+        "role": "واردکننده میوه‌های فصلی، سبزیجات تازه، خشکبار و محصولات کشاورزی باکیفیت",
+        "trust": 98,
+        "status_badge": "🟢 زنجیره خرده‌فروشی پریمیوم",
+        "map_url": "https://www.google.com/maps/search/The+Sultan+Center+Qurum+Muscat/@23.6150,58.4800,14z"
+      },
+      {
+        "name": "هلدینگ دابلیو جی تاول (W.J. Towell Consumer Goods / Enhance Oman)",
+        "name_en": "W J Towell Group",
+        "city": "مسقط، عمان",
+        "address": "Towell House, Muttrah High Street, Muscat",
+        "landline": "+968 2476 5000",
+        "phone": "+968 2476 5000",
+        "email": "info@wjtowell.com",
+        "website": "https://wjtowell.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/w-j-towell-group/",
+        "role": "هلدینگ بزرگ توزیع و پخش کالا با بیش از ۱۰,۰۰۰ نقطه فروش در سراسر شهرها و بنادر عمان",
+        "trust": 100,
+        "status_badge": "🟢 غول لجستیک و پخش مویرگی عمان",
+        "map_url": "https://www.google.com/maps/search/W+J+Towell+Muttrah+Muscat/@23.6200,58.5600,14z"
+      },
+      {
+        "name": "خدمات لجستیک و سردخانه‌ای المدینه (Al Madina Logistics Services SAOC)",
+        "name_en": "Al Madina Logistics Services Company SAOC",
+        "city": "مسقط و برکاء، عمان",
+        "address": "Muscat Logistics Hub, Barka, South Al Batinah",
+        "landline": "+968 2444 8000",
+        "phone": "+968 2444 8000",
+        "email": "info@almadinalogistics.com",
+        "website": "https://www.almadinalogistics.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/al-madina-logistics-services-company-saoc/",
+        "role": "پیشرفته‌ترین هاب زنجیره سرمایشی و نگهداری بارهای کانتینری ریفر میوه و سبزیجات تازه در عمان",
+        "trust": 99,
+        "status_badge": "🟢 هاب تخصصی سردخانه‌ای و کانتینری عمان",
+        "map_url": "https://www.google.com/maps/search/Al+Madina+Logistics+Barka+Oman/@23.6400,57.9500,14z"
+      },
+      {
+        "name": "سردخانه‌های عمومی مسقط (Muscat Cold Stores LLC)",
+        "name_en": "Muscat Cold Stores LLC",
+        "city": "مسقط، عمان",
+        "address": "Darsait Industrial Area, Muscat",
+        "landline": "+968 2481 3333",
+        "phone": "+968 2481 3333",
+        "email": "mcs@muscatcoldstores.com",
+        "website": "https://www.muscatcoldstores.com",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Muscat%20Cold%20Stores",
+        "role": "واردکننده و انباردار تخصصی سیب، پرتقال، کیوی و صیفی‌جات با نیم قرن سابقه در مسقط",
+        "trust": 97,
+        "status_badge": "🟢 انباردار سردخانه‌ای باسابقه مسقط",
+        "map_url": "https://www.google.com/maps/search/Darsait+Muscat+Oman/@23.6100,58.5300,14z"
+      }
+    ],
+    "روسیه": [
+      {
+        "name": "زنجیره فروشگاهی فدرال مگنیت (Magnit Retail Group - JSC Tander)",
+        "name_en": "Magnit",
+        "city": "کراسنودار و مسکو، روسیه",
+        "address": "15/5 Solnechnaya Street, Krasnodar & Moscow Logistics Hub",
+        "landline": "+7 861 277 4555",
+        "phone": "+7 861 277 4555",
+        "email": "press@magnit.ru",
+        "website": "https://www.magnit.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/magnit/",
+        "role": "بزرگترین خرده‌فروشی روسیه با بیش از ۲۸,۰۰۰ فروشگاه، واردکننده عمده سیب درختی، پسته، گوجه و خیار گلخانه‌ای",
+        "trust": 100,
+        "status_badge": "🟢 بزرگترین زنجیره فروشگاهی فدراسیون روسیه",
+        "map_url": "https://www.google.com/maps/search/Magnit+Headquarters+Solnechnaya+Krasnodar/@45.0700,38.9900,14z"
+      },
+      {
+        "name": "هلدینگ خرده‌فروشی ایکس‌فایو (X5 Retail Group - Pyaterochka & Perekrestok)",
+        "name_en": "X5 Retail Group",
+        "city": "مسکو، روسیه",
+        "address": "Kaluzhskoye Shosse, 24th km, Moscow & Srednyaya Kalitnikovskaya St",
+        "landline": "+7 495 662 8888",
+        "phone": "+7 495 662 8888",
+        "email": "info@x5.ru",
+        "website": "https://www.x5.ru",
+        "linkedin_company_url": "https://www.linkedin.com/company/x5-retail-group/",
+        "role": "پیشگام هایپرمارکت‌های مدرن روسیه با ۲۲,۰۰۰ شعبه، قراردادهای مستقیم بلندمدت با صادرکنندگان کالا",
+        "trust": 100,
+        "status_badge": "🟢 غول خرده‌فروشی مدرن پیاتروچکا و پرکرستوک",
+        "map_url": "https://www.google.com/maps/search/X5+Retail+Group+Moscow/@55.7000,37.6800,14z"
+      },
+      {
+        "name": "هایپرمارکت‌های لنتا (Lenta LLC Hypermarket Chain)",
+        "name_en": "Lenta",
+        "city": "سن‌پترزبورگ و مسکو، روسیه",
+        "address": "112 Savushkina Street, St. Petersburg",
+        "landline": "+7 812 380 6130",
+        "phone": "+7 812 380 6130",
+        "email": "trade@lenta.com",
+        "website": "https://www.lenta.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/lenta/",
+        "role": "زنجیره هایپرمارکت‌های عظیم فدرال با تمرکز بر میوه‌های دانه‌دار ممتاز، مرکبات، سبزیجات و بسته‌بندی لوکس",
+        "trust": 99,
+        "status_badge": "🟢 زنجیره هایپرمارکت‌های بزرگ فدرال",
+        "map_url": "https://www.google.com/maps/search/Lenta+Headquarters+Savushkina+St+Petersburg/@59.9850,30.2450,14z"
+      },
+      {
+        "name": "بارانداز آگروکلاستر فود سیتی مسکو (Food City Moscow Wholesale Agrocluster)",
+        "name_en": "Food City Moscow",
+        "city": "مسکو، روسیه",
+        "address": "Kaluzhskoye Highway, 22nd km, Building 10, Moscow",
+        "landline": "+7 495 995 9999",
+        "phone": "+7 495 995 9999",
+        "email": "info@foodcity.ru",
+        "website": "https://foodcity.ru",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Food%20City%20Moscow",
+        "role": "بزرگترین هاب کشاورزی و عمده‌فروشی میوه و صیفی‌جات اروپا با تخلیه روزانه بیش از ۵,۰۰۰ تن بار",
+        "trust": 100,
+        "status_badge": "🟢 بزرگترین اگروکلاستر بارانداز عمده روسیه و اروپا",
+        "map_url": "https://www.google.com/maps/search/Food+City+Kaluzhskoye+Highway+Moscow/@55.5900,37.4500,14z"
+      },
+      {
+        "name": "گروه فروشگاه‌های دیکسی (Dixy Group Russia)",
+        "name_en": "Dixy Group",
+        "city": "مسکو، روسیه",
+        "address": "Yuzhnobutovskaya St, 91, Moscow",
+        "landline": "+7 495 933 1451",
+        "phone": "+7 495 933 1451",
+        "email": "info@dixy.ru",
+        "website": "https://dixy.ru",
+        "linkedin_company_url": "https://www.linkedin.com/company/dixy-group/",
+        "role": "شبکه سوپرمارکت‌های زنجیره‌ای فعال در منطقه مرکزی و شمال غرب روسیه با خرید مداوم کیوی، سیب و سبزیجات",
+        "trust": 98,
+        "status_badge": "🟢 شبکه سوپرمارکتی سراسری روسیه",
+        "map_url": "https://www.google.com/maps/search/Dixy+Yuzhnobutovskaya+Moscow/@55.5400,37.5200,14z"
+      },
+      {
+        "name": "هلدینگ آگرو-آلیانس (Agro-Alliance Group St. Petersburg)",
+        "name_en": "Agro-Alliance Group",
+        "city": "سن‌پترزبورگ، روسیه",
+        "address": "Vyborgskaya Embankment 61, St. Petersburg",
+        "landline": "+7 812 240 4343",
+        "phone": "+7 812 240 4343",
+        "email": "info@agro-al.ru",
+        "website": "https://www.agro-al.ru",
+        "linkedin_company_url": "https://www.linkedin.com/company/agro-alliance-holding/",
+        "role": "هلدینگ بزرگ واردات، بسته‌بندی و فرآوری محصولات کشاورزی و حبوبات و غلات در حوزه دریای بالتیک",
+        "trust": 98,
+        "status_badge": "🟢 هلدینگ صنعتی کشاورزی شمال غرب روسیه",
+        "map_url": "https://www.google.com/maps/search/Vyborgskaya+Embankment+St+Petersburg/@59.9800,30.3300,14z"
+      },
+      {
+        "name": "شرکت میوه نوسکا یا (Nevskaya Fruit Company)",
+        "name_en": "Nevskaya Fruit Company",
+        "city": "سن‌پترزبورگ و آستاراخان، روسیه",
+        "address": "Sofiyskaya Street 60, Fruit Wholesale Terminal, St. Petersburg",
+        "landline": "+7 812 320 0000",
+        "phone": "+7 812 320 0000",
+        "email": "office@nevskayafruit.ru",
+        "website": "https://nevskayafruit.ru",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Nevskaya%20Fruit%20Company",
+        "role": "واردکننده تخصصی ترانزیت دریایی خزر از بنادر انزلی و امیرآباد به آستاراخان و سن‌پترزبورگ",
+        "trust": 97,
+        "status_badge": "🟢 واردکننده تخصصی مسیر دریایی کاسپین",
+        "map_url": "https://www.google.com/maps/search/Sofiyskaya+Street+St+Petersburg+Produce+Market/@59.8400,30.4200,14z"
+      },
+      {
+        "name": "گروه تجاری تروپیک (Tropic Group Russia)",
+        "name_en": "Tropic Group Russia",
+        "city": "نووسیبیرسک و مسکو، روسیه",
+        "address": "Stantsionnaya St, Novosibirsk & Moscow Central Warehouse",
+        "landline": "+7 383 363 0000",
+        "phone": "+7 383 363 0000",
+        "email": "info@tropic-group.ru",
+        "website": "https://tropic-group.ru",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Tropic%20Group%20Russia",
+        "role": "بزرگترین هاب واردات و توزیع میوه‌های تازه به مناطق سردسیر سیبری، اورال و شرق دور روسیه",
+        "trust": 97,
+        "status_badge": "🟢 توزیع‌کننده کلان مناطق سیبری و اورال",
+        "map_url": "https://www.google.com/maps/search/Stantsionnaya+St+Novosibirsk/@54.9900,82.8500,14z"
+      },
+      {
+        "name": "هلدینگ کشاورزی روس‌آگرو (PJSC Rusagro Group)",
+        "name_en": "Rusagro",
+        "city": "مسکو، روسیه",
+        "address": "Valovaya St 35, Wall Street Business Center, Moscow",
+        "landline": "+7 495 363 1661",
+        "phone": "+7 495 363 1661",
+        "email": "rusagro@rusagrogroup.ru",
+        "website": "https://www.rusagrogroup.ru",
+        "linkedin_company_url": "https://www.linkedin.com/company/rusagro/",
+        "role": "بزرگترین مجتمع کشت و صنعت یکپارچه فدراسیون روسیه فعال در تجارت بین‌المللی کشاورزی",
+        "trust": 100,
+        "status_badge": "🟢 هلدینگ کشاورزی پیشگام و سهامی عام روسیه",
+        "map_url": "https://www.google.com/maps/search/Valovaya+Street+35+Moscow/@55.7300,37.6300,14z"
+      },
+      {
+        "name": "بندر بین‌المللی تجاری آستاراخان (Astrakhan Sea Port JSC - Caspian Gateway)",
+        "name_en": "Astrakhan Sea Port",
+        "city": "آستاراخان، روسیه",
+        "address": "Vilgelsa Pika St, Astrakhan Port Customs Zone",
+        "landline": "+7 8512 58 4000",
+        "phone": "+7 8512 58 4000",
+        "email": "port@astrakhan.ru",
+        "website": "https://www.seaport-astrakhan.ru",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Astrakhan%20Port",
+        "role": "دروازه ورودی کشتی‌های تجاری حامل کانتینرهای یخچالی میوه، سبزیجات و پسته ایران در کریدور شمال-جنوب",
+        "trust": 100,
+        "status_badge": "🟢 بندر استراتژیک دریایی کریدور شمال-جنوب",
+        "map_url": "https://www.google.com/maps/search/Astrakhan+Sea+Port+Russia/@46.3500,48.0300,14z"
+      }
+    ],
+    "ترکیه": [
+      {
+        "name": "منطقه آزاد و بندر بین‌المللی مرسین (Mersin International Port - MIP)",
+        "name_en": "Mersin International Port",
+        "city": "مرسین، ترکیه",
+        "address": "Yenimahalle, İsmet İnönü Blv. No:78, Akdeniz, Mersin",
+        "landline": "+90 324 241 2900",
+        "phone": "+90 324 241 2900",
+        "email": "info@mersinport.com.tr",
+        "website": "https://www.mersinport.com.tr",
+        "linkedin_company_url": "https://www.linkedin.com/company/mersin-international-port/",
+        "role": "بزرگترین بندر کانتینری و ترانزیتی مدیترانه برای بارگیری و صادرات مجدد میوه، پسته و خشکبار خاورمیانه",
+        "trust": 100,
+        "status_badge": "🟢 قطب اصلی بارانداز دریایی و ترانزیت مدیترانه",
+        "map_url": "https://www.google.com/maps/search/Mersin+International+Port/@36.7900,34.6400,14z"
+      },
+      {
+        "name": "کمپانی بین‌المللی ارن تاریم (Eren Tarim Fresh Produce)",
+        "name_en": "Eren Tarim",
+        "city": "مرسین، ترکیه",
+        "address": "Kazanlı Mahallesi, Akdeniz, Mersin",
+        "landline": "+90 324 454 0000",
+        "phone": "+90 324 454 0000",
+        "email": "info@erentarim.com",
+        "website": "https://www.erentarim.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/eren-tarim/",
+        "role": "از پیشگامان صادرات، سورتینگ و بسته‌بندی مکانیزه سیب، مرکبات، کیوی و انار در ۶۰ کشور جهان",
+        "trust": 100,
+        "status_badge": "🟢 صادرکننده و سورتینگ‌کننده تراز اول ترکیه",
+        "map_url": "https://www.google.com/maps/search/Eren+Tarim+Mersin+Turkey/@36.8200,34.7500,14z"
+      },
+      {
+        "name": "میگروس تیکارت (Migros Ticaret A.S. Fresh Produce)",
+        "name_en": "Migros Ticaret A.S.",
+        "city": "استانبول، ترکیه",
+        "address": "Atatürk Mah. Turgut Özal Blv. No:7, Ataşehir, Istanbul",
+        "landline": "+90 216 579 3000",
+        "phone": "+90 216 579 3000",
+        "email": "iletisim@migros.com.tr",
+        "website": "https://www.migroskurumsal.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/migrosticaret/",
+        "role": "یکی از بزرگترین شبکه‌های هایپرمارکتی ترکیه با بیش از ۳,۲۰۰ شعبه و استانداردهای کیفی جهانی",
+        "trust": 100,
+        "status_badge": "🟢 غول هایپرمارکت‌های زنجیره‌ای ترکیه",
+        "map_url": "https://www.google.com/maps/search/Migros+Ticaret+Atasehir+Istanbul/@40.9900,29.1200,14z"
+      },
+      {
+        "name": "فروشگاه‌های زنجیره‌ای بیم (BİM Birleşik Mağazalar A.Ş.)",
+        "name_en": "BIM Birlesik Magazalar A.S.",
+        "city": "استانبول، ترکیه",
+        "address": "Samandıra, Ebubekir Cad. No:73, Sancaktepe, Istanbul",
+        "landline": "+90 216 564 0303",
+        "phone": "+90 216 564 0303",
+        "email": "bim@bim.com.tr",
+        "website": "https://www.bim.com.tr",
+        "linkedin_company_url": "https://www.linkedin.com/company/bim-birlesik-magazalar/",
+        "role": "بزرگترین زنجیره فروشگاه‌های تخفیفی با بیش از ۱۱,۰۰۰ شعبه، مصرف‌کننده عظیم سیب‌زمینی، پیاز و میوه‌های تازه",
+        "trust": 100,
+        "status_badge": "🟢 بزرگترین زنجیره فروشگاهی تخفیفی ترکیه",
+        "map_url": "https://www.google.com/maps/search/BIM+Samandira+Sancaktepe+Istanbul/@40.9700,29.2300,14z"
+      },
+      {
+        "name": "میدان مرکزی میوه و تره‌بار استانبول (Hal Istanbul - Bayrampaşa)",
+        "name_en": "Istanbul Hal Wholesale Market",
+        "city": "استانبول، ترکیه",
+        "address": "Kocatepe, Bayrampaşa Hal Tesisleri, Istanbul",
+        "landline": "+90 212 453 1000",
+        "phone": "+90 212 453 1000",
+        "email": "hal@ibb.gov.tr",
+        "website": "https://hal.ibb.gov.tr",
+        "linkedin_company_url": "https://www.linkedin.com/company/istanbul-buyuksehir-belediyesi/",
+        "role": "عظیم‌ترین بارانداز عمده‌فروشی میوه و تره‌بار استانبول با صدها غرفه تجاری و گردش مالی میلیاردی لیر",
+        "trust": 100,
+        "status_badge": "🟢 بارانداز رسمی و مرکزی کلان‌شهر استانبول",
+        "map_url": "https://www.google.com/maps/search/Bayrampasa+Hal+Tesisleri+Istanbul/@41.0450,28.8950,14z"
+      },
+      {
+        "name": "کارفورسا ترکیه (CarrefourSA Hypermarkets)",
+        "name_en": "CarrefourSA",
+        "city": "استانبول، ترکیه",
+        "address": "Cevizli Mah. Tugay Yolu Cad. No:67, Maltepe, Istanbul",
+        "landline": "+90 216 655 0000",
+        "phone": "+90 216 655 0000",
+        "email": "info@carrefoursa.com",
+        "website": "https://www.carrefoursa.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/carrefoursa/",
+        "role": "مشارکت هلدینگ سابانجی و کارفور فرانسه، واردکننده و خریدار محصولات کشاورزی گرید A",
+        "trust": 99,
+        "status_badge": "🟢 زنجیره هایپرمارکت‌های بین‌المللی",
+        "map_url": "https://www.google.com/maps/search/CarrefourSA+Head+Office+Maltepe+Istanbul/@40.9200,29.1500,14z"
+      },
+      {
+        "name": "اوزلر زیرائت (Ozler Ziraat Fresh Fruit & Veg - Adana)",
+        "name_en": "Ozler Ziraat",
+        "city": "آدانا، ترکیه",
+        "address": "Karatas Yolu 10. Km, Yuregir, Adana",
+        "landline": "+90 322 454 4444",
+        "phone": "+90 322 454 4444",
+        "email": "info@ozlerziraat.com",
+        "website": "https://www.ozlerziraat.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/ozler-ziraat/",
+        "role": "هلدینگ بزرگ تولید، بسته‌بندی، سردخانه اتمسفری و صادرات مرکبات و میوه‌های فصلی با استانداردهای GlobalGAP",
+        "trust": 98,
+        "status_badge": "🟢 مرکز پیشرفته سورتینگ و سردخانه جنوب ترکیه",
+        "map_url": "https://www.google.com/maps/search/Ozler+Ziraat+Adana+Turkey/@36.9500,35.3500,14z"
+      },
+      {
+        "name": "هلدینگ آنادولو بیرلیک (Anadolu Birlik Holding - Konya Seker)",
+        "name_en": "Anadolu Birlik Holding",
+        "city": "قونیه و آنکارا، ترکیه",
+        "address": "Melikşah Mah. Beyşehir Cad. No:9, Meram, Konya",
+        "landline": "+90 332 221 4000",
+        "phone": "+90 332 221 4000",
+        "email": "info@anadolubirlik.com.tr",
+        "website": "https://www.anadolubirlik.com.tr",
+        "linkedin_company_url": "https://www.linkedin.com/company/anadolu-birlik-holding/",
+        "role": "از بزرگترین کنسرسیوم‌ها و اتحادیه‌های کشاورزی، صنایع تبدیلی و فرآوری محصولات کشاورزی ترکیه",
+        "trust": 100,
+        "status_badge": "🟢 کنسرسیوم بزرگ تعاونی کشاورزی و صنایع غذایی",
+        "map_url": "https://www.google.com/maps/search/Anadolu+Birlik+Holding+Konya/@37.8600,32.4800,14z"
+      },
+      {
+        "name": "میدان مرکزی میوه و تره‌بار آنتالیا (Antalya Hal Wholesale Produce Market)",
+        "name_en": "Antalya Wholesale Fruit and Vegetable Market",
+        "city": "آنتالیا، ترکیه",
+        "address": "Güneş Mah. Hal Cad. Kepez, Antalya",
+        "landline": "+90 242 339 0000",
+        "phone": "+90 242 339 0000",
+        "email": "hal@antalya.bel.tr",
+        "website": "https://www.antalya.bel.tr",
+        "linkedin_company_url": "https://www.linkedin.com/company/antalya-buyuksehir-belediyesi/",
+        "role": "پایتخت گلخانه‌ها و هاب مرکزی سورتینگ و قیمت‌گذاری صیفی‌جات، گوجه‌فرنگی و مرکبات ترکیه",
+        "trust": 99,
+        "status_badge": "🟢 پایتخت کشت گلخانه‌ای و سورتینگ صادراتی",
+        "map_url": "https://www.google.com/maps/search/Antalya+Hal+Tesisleri+Kepez/@36.9100,30.7300,14z"
+      },
+      {
+        "name": "توروس تاریم (Toros Tarim - Tekfen Holding Agri Division)",
+        "name_en": "Toros Tarim",
+        "city": "استانبول و آدانا، ترکیه",
+        "address": "Tekfen Tower, Büyükdere Cad. No:209, 4. Levent, Istanbul",
+        "landline": "+90 212 357 0202",
+        "phone": "+90 212 357 0202",
+        "email": "toros@toros.com.tr",
+        "website": "https://www.toros.com.tr",
+        "linkedin_company_url": "https://www.linkedin.com/company/toros-tarim/",
+        "role": "بخش کشاورزی هلدینگ تکفن، مدیریت زنجیره ارزش سردخانه‌ها، پایانه‌های صادراتی و ترانزیت باغبانی",
+        "trust": 100,
+        "status_badge": "🟢 هلدینگ سهامی عام کشاورزی تکفن",
+        "map_url": "https://www.google.com/maps/search/Tekfen+Tower+Levent+Istanbul/@41.0800,29.0100,14z"
+      }
+    ],
+    "هندوستان": [
+      {
+        "name": "آی‌جی اینترنشنال (IG International Pvt Ltd)",
+        "name_en": "IG International",
+        "city": "بمبئی و دهلی، هند",
+        "address": "1001, 10th Floor, Ellora Fiesta, Sector 11, Sanpada, Navi Mumbai",
+        "landline": "+91 22 6627 2000",
+        "phone": "+91 22 6627 2000",
+        "email": "info@iginternational.net",
+        "website": "https://www.iginternational.net",
+        "linkedin_company_url": "https://www.linkedin.com/company/ig-international-pvt-ltd/",
+        "role": "بزرگترین واردکننده میوه تازه در هند با واردات سالانه هزاران کانتینر ریفر سیب قرمز و زرد، کیوی و مرکبات",
+        "trust": 100,
+        "status_badge": "🟢 بزرگترین واردکننده میوه تازه هندوستان",
+        "map_url": "https://www.google.com/maps/search/IG+International+Sanpada+Navi+Mumbai/@19.0600,73.0100,14z"
+      },
+      {
+        "name": "آدانی اگری‌فرش (Adani Agri Fresh Ltd - Farm-Pik)",
+        "name_en": "Adani Agri Fresh Ltd",
+        "city": "احمدآباد و بمبئی، هند",
+        "address": "Adani Corporate House, Shantigram, SG Highway, Ahmedabad",
+        "landline": "+91 79 2656 5555",
+        "phone": "+91 79 2656 5555",
+        "email": "agrifresh@adani.com",
+        "website": "https://www.adani.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/adani-group/",
+        "role": "بخشی از گروه اقتصادی آدانی، صاحب مدرن‌ترین سردخانه‌های اتمسفر کنترل‌شده (CA) و برند Farm-Pik",
+        "trust": 100,
+        "status_badge": "🟢 غول زیرساخت و سردخانه‌های CA هندوستان",
+        "map_url": "https://www.google.com/maps/search/Adani+Corporate+House+Ahmedabad/@23.1500,72.5400,14z"
+      },
+      {
+        "name": "سوری آگرو فرش (Suri Agro Fresh Pvt Ltd)",
+        "name_en": "Suri Agro Fresh Pvt Ltd",
+        "city": "دهلی نو، هند",
+        "address": "C-143, New Subzi Mandi, Azadpur, Delhi",
+        "landline": "+91 11 4700 0000",
+        "phone": "+91 11 4700 0000",
+        "email": "info@suriagrofresh.com",
+        "website": "https://www.suriagrofresh.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/suri-agro-fresh-pvt-ltd/",
+        "role": "واردکننده پیشرو انواع سیب و کیوی با شبکه سراسری انبارهای سردخانه‌ای در دهلی نو و بمبئی",
+        "trust": 99,
+        "status_badge": "🟢 واردکننده تخصصی سیب و کیوی پایتخت هند",
+        "map_url": "https://www.google.com/maps/search/Azadpur+Subzi+Mandi+Delhi/@28.7100,77.1700,14z"
+      },
+      {
+        "name": "دو بهومی کولد چین (Dev Bhumi Cold Chain Ltd)",
+        "name_en": "Dev Bhumi Cold Chain",
+        "city": "دهلی و هیماچال پرادش، هند",
+        "address": "Dev Bhumi House, Okhla Industrial Area Phase 3, New Delhi",
+        "landline": "+91 11 4160 0000",
+        "phone": "+91 11 4160 0000",
+        "email": "contact@devbhumigroup.com",
+        "website": "https://www.devbhumigroup.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/dev-bhumi-cold-chain-ltd/",
+        "role": "زنجیره سرمایشی و واردات کانتینری سیب از طریق بنادر ناواشیوا (Nhava Sheva) به کل هندوستان",
+        "trust": 98,
+        "status_badge": "🟢 هاب زنجیره سرمایشی و واردات دریایی",
+        "map_url": "https://www.google.com/maps/search/Okhla+Industrial+Area+Phase+3+New+Delhi/@28.5400,77.2700,14z"
+      },
+      {
+        "name": "ریلاینس ریتیل - بخش فرش (Reliance Retail Fresh & Smart)",
+        "name_en": "Reliance Retail",
+        "city": "بمبئی، هند",
+        "address": "Reliance Corporate Park, Ghansoli, Navi Mumbai",
+        "landline": "+91 22 3555 3800",
+        "phone": "+91 22 3555 3800",
+        "email": "customerservice@relianceretail.com",
+        "website": "https://www.relianceretail.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/reliance-retail/",
+        "role": "بزرگترین خرده‌فروشی کشور هند با بیش از ۱۸,۰۰۰ هایپرمارکت و خرید کلان مداوم میوه و محصولات باغی",
+        "trust": 100,
+        "status_badge": "🟢 بزرگترین کارتل خرده‌فروشی و هایپرمارکت هند",
+        "map_url": "https://www.google.com/maps/search/Reliance+Corporate+Park+Ghansoli+Navi+Mumbai/@19.1200,73.0100,14z"
+      },
+      {
+        "name": "میدان مرکزی میوه بمبئی (APMC Vashi Fruit Market Navi Mumbai)",
+        "name_en": "APMC Vashi Wholesale Fruit Market",
+        "city": "بمبئی، هند",
+        "address": "Sector 19, Vashi, Navi Mumbai, Maharashtra",
+        "landline": "+91 22 2788 8000",
+        "phone": "+91 22 2788 8000",
+        "email": "contact@apmcmarket.com",
+        "website": "https://www.apmcmarket.com",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=APMC%20Vashi",
+        "role": "قطب اصلی تخلیه کانتینرهای بندر ناواشیوا و بازار بزرگ عمده‌فروشی میوه‌های وارداتی در غرب و جنوب هند",
+        "trust": 100,
+        "status_badge": "🟢 هاب بارانداز بندری بمبئی",
+        "map_url": "https://www.google.com/maps/search/APMC+Market+Vashi+Navi+Mumbai/@19.0732,73.0076,14z"
+      },
+      {
+        "name": "میدان آزادپور دهلی نو (Azadpur Mandi - Asia's Largest Produce Hub)",
+        "name_en": "Azadpur Mandi APMC Delhi",
+        "city": "دهلی نو، هند",
+        "address": "Azadpur APMC Market Complex, GT Karnal Road, Delhi",
+        "landline": "+91 11 2767 1111",
+        "phone": "+91 11 2767 1111",
+        "email": "apmcazadpur@nic.in",
+        "website": "https://agmarknet.gov.in",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Azadpur%20Mandi",
+        "role": "بزرگترین میدان عمده‌فروشی میوه و تره‌بار آسیا، مرکز مصرف و توزیع سیب در کل ایالات شمالی هند",
+        "trust": 100,
+        "status_badge": "🟢 بزرگترین بازار عمده‌فروشی میوه قاره آسیا",
+        "map_url": "https://www.google.com/maps/search/Azadpur+Mandi+GT+Karnal+Road+Delhi/@28.7150,77.1750,14z"
+      },
+      {
+        "name": "هلدینگ تجاری آلانا (Allana Group - Allanasons Pvt Ltd)",
+        "name_en": "Allana Group",
+        "city": "بمبئی، هند",
+        "address": "Allana Centre, 153 G.P.O. Fort, Mumbai",
+        "landline": "+91 22 6656 9000",
+        "phone": "+91 22 6656 9000",
+        "email": "allana@allana.com",
+        "website": "https://www.allana.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/allana-group/",
+        "role": "کنسرسیوم بین‌المللی با ۱۵۰ سال سابقه در صادرات و واردات فرآورده‌های کشاورزی و غذایی در آسیا و خلیج فارس",
+        "trust": 100,
+        "status_badge": "🟢 کنسرسیوم بین‌المللی باسابقه تجارت غذا و کشاورزی",
+        "map_url": "https://www.google.com/maps/search/Allana+Centre+Fort+Mumbai/@18.9350,72.8350,14z"
+      },
+      {
+        "name": "وی‌کول فودز (WayCool Foods & Products Pvt Ltd)",
+        "name_en": "WayCool Foods",
+        "city": "چنای و بنگلور، هند",
+        "address": "Old No 4, New No 7, 2nd Main Rd, RA Puram, Chennai",
+        "landline": "+91 44 4900 0000",
+        "phone": "+91 44 4900 0000",
+        "email": "contact@waycool.in",
+        "website": "https://www.waycool.in",
+        "linkedin_company_url": "https://www.linkedin.com/company/waycool-foods/",
+        "role": "پیشتاز فناوری و پلتفرم دیجیتال B2B توزیع مستقیم میوه و سبزیجات تازه از بنادر به سوپرمارکت‌ها",
+        "trust": 98,
+        "status_badge": "🟢 پلتفرم هوشمند زنجیره تأمین کشاورزی هند",
+        "map_url": "https://www.google.com/maps/search/RA+Puram+Chennai+Tamil+Nadu/@13.0250,80.2550,14z"
+      },
+      {
+        "name": "آی‌ان‌آی فارمز - برند کیمایه (INI Farms - Kimaye Fruit Brands)",
+        "name_en": "INI Farms Kimaye",
+        "city": "بمبئی، هند",
+        "address": "A-Wing, 501, Marathon Futurex, Lower Parel, Mumbai",
+        "landline": "+91 22 6127 0000",
+        "phone": "+91 22 6127 0000",
+        "email": "info@inifarms.com",
+        "website": "https://www.kimaye.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/ini-farms-pvt-ltd/",
+        "role": "برند نام‌آشنای میوه‌های بسته‌بندی پریمیوم، واردکننده و توزیع‌کننده تخصصی میوه‌های دستچین در سراسر هند",
+        "trust": 99,
+        "status_badge": "🟢 برند معتبر میوه لوکس در هند و خاورمیانه",
+        "map_url": "https://www.google.com/maps/search/Marathon+Futurex+Lower+Parel+Mumbai/@18.9950,72.8300,14z"
+      }
+    ],
+    "ایران": [
+      {
+        "name": "میدان مرکزی بزرگ میوه و تره‌بار تهران (سازمان میادین)",
+        "name_en": "Tehran Fruit and Vegetable Organization",
+        "city": "تهران، ایران",
+        "address": "بزرگراه آزادگان، جنب پل شهید صنیع‌خانی، میدان مرکزی میوه و تره‌بار، فاز ۱ و ۲",
+        "landline": "+98 21 5502 9000",
+        "phone": "+98 21 5502 9100",
+        "email": "mayadin@tehran.ir",
+        "website": "https://fruit.tehran.ir",
+        "linkedin_company_url": "https://www.linkedin.com/company/tehran-municipality/",
+        "role": "بزرگترین بارانداز خاورمیانه، بارگیری روزانه ده‌ها هزار تن و هاب قیمت‌گذاری پایه کل کشور",
+        "trust": 100,
+        "status_badge": "🟢 میدان مرکزی رسمی پایتخت",
+        "map_url": "https://www.google.com/maps/search/Tehran+Central+Fruit+and+Vegetable+Market+Azadegan+Tehran+Iran/@35.6139,51.3789,14z"
+      },
+      {
+        "name": "اتاق بازرگانی، صنایع، معادن و کشاورزی ایران (ICCIMA - کمیسیون صادرات)",
+        "name_en": "Iran Chamber of Commerce (ICCIMA)",
+        "city": "تهران، ایران",
+        "address": "خیابان آیت‌الله طالقانی، نبش خیابان شهید موسوی (فرصت)، پلاک ۱۷۵",
+        "landline": "+98 21 8573 0000",
+        "phone": "+98 21 8573 2000",
+        "email": "info@iccima.ir",
+        "website": "https://iccima.ir",
+        "linkedin_company_url": "https://www.linkedin.com/company/iran-chamber-of-commerce-industries-mines-and-agriculture-iccima-/",
+        "role": "عالی‌ترین مرجع بازرگانی کشور، صدور گواهی مبدأ، حل منازعات بین‌المللی و اعتبارسنجی تجار",
+        "trust": 100,
+        "status_badge": "🟢 اتاق مرکزی بازرگانی، صنایع و معادن ایران",
+        "map_url": "https://www.google.com/maps/search/Iran+Chamber+of+Commerce+Taleghani+Street+Tehran+Iran/@35.7050,51.4230,14z"
+      },
+      {
+        "name": "کنسرسیوم سردخانه‌داران و صادرکنندگان سیب ارومیه (Urmia Cold Stores Hub)",
+        "name_en": "Urmia Cold Storage Consortium",
+        "city": "ارومیه، آذربایجان غربی، ایران",
+        "address": "بلوار المهدی، جنب میدان خاتم‌الانبیاء، هاب سردخانه‌ای ارومیه",
+        "landline": "+98 44 3277 8000",
+        "phone": "+98 44 3277 8100",
+        "email": "info@urmia.ir",
+        "website": "https://urmia.ir",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Urmia%20Apple%20Export",
+        "role": "پایتخت سیب درختی ایران، هاب بیش از ۵۰۰ سردخانه اتمسفری، سورتینگ لیزری و بسته‌بندی صادراتی به عراق و هند",
+        "trust": 100,
+        "status_badge": "🟢 هاب ملی سردخانه‌ای و صادرات سیب ایران",
+        "map_url": "https://www.google.com/maps/search/Urmia+Central+Fruit+and+Vegetable+Market/@37.5500,45.0700,14z"
+      },
+      {
+        "name": "اتحادیه صادرکنندگان میوه و تره‌بار پیرانشهر و تمرچین (Piranshahr Produce Export Union)",
+        "name_en": "Piranshahr Produce Export Union",
+        "city": "پیرانشهر، آذربایجان غربی، ایران",
+        "address": "بلوار کردستان، مجتمع باراندازهای صادراتی پیرانشهر و پایانه مرزی تمرچین",
+        "landline": "+98 44 4422 5500",
+        "phone": "+98 44 4422 5500",
+        "email": "tamarchin@irica.ir",
+        "website": "https://westazarbaijan.mporg.ir",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Tamarchin%20Trade",
+        "role": "بارانداز اصلی لجستیک جاده‌ای و دیسپچ مستقیم روزانه صدها کامیون سیب ممتاز به اربیل، سلیمانیه و بغداد",
+        "trust": 99,
+        "status_badge": "🟢 کانون اصلی تأمین و صادرات سیب به عراق",
+        "map_url": "https://www.google.com/maps/search/Piranshahr+West+Azerbaijan+Iran/@36.6950,45.1400,14z"
+      },
+      {
+        "name": "پایانه صادراتی بارانداز آستارا (Astara Border Trade Hub - Caspian Corridor)",
+        "name_en": "Astara Customs Trade Terminal",
+        "city": "آستارا، گیلان، ایران",
+        "address": "منطقه ویژه اقتصادی و پایانه مرزی گمرک آستارا",
+        "landline": "+98 13 4482 2000",
+        "phone": "+98 13 4482 2000",
+        "email": "astara@irica.ir",
+        "website": "https://gilan.mporg.ir",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Astara%20Customs%20Clearance",
+        "role": "دروازه اصلی صادرات زمینی و ریلی کیوی، کلم، مرکبات و صیفی‌جات ایران به روسیه، آذربایجان و گرجستان",
+        "trust": 100,
+        "status_badge": "🟢 پایانه بین‌المللی صادرات به فدراسیون روسیه",
+        "map_url": "https://www.google.com/maps/search/Astara+Border+Terminal+Iran/@38.4200,48.8700,14z"
+      },
+      {
+        "name": "اتحادیه مرکزی باغداران و صادرکنندگان سیب دماوند (Damavand Apple Consortium)",
+        "name_en": "Damavand Fruit Growers Cooperative",
+        "city": "دماوند و تهران، ایران",
+        "address": "گیلاوند، بلوار آیت‌الله خامنه‌ای، مجتمع تعاونی باغداران دماوند",
+        "landline": "+98 21 7634 3000",
+        "phone": "+98 21 7634 3000",
+        "email": "info@damavand-agri.ir",
+        "website": "https://tehran.agri-jahad.ir",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Damavand%20Fruit%20Export",
+        "role": "قطب تاریخی سیب قرمز و زرد لوکس صادراتی ایران، سورتینگ پیشرفته و صادرات به کشورهای حوزه خلیج فارس",
+        "trust": 99,
+        "status_badge": "🟢 کانون برند برتر سیب لوکس ایران",
+        "map_url": "https://www.google.com/maps/search/Damavand+Tehran+Province+Iran/@35.7150,52.0650,14z"
+      },
+      {
+        "name": "انجمن پسته ایران (Iran Pistachio Association - IPA)",
+        "name_en": "Iran Pistachio Association",
+        "city": "کرمان و رفسنجان، ایران",
+        "address": "رفسنجان، بلوار شهید مقیمی، ساختمان انجمن پسته ایران",
+        "landline": "+98 34 3426 0000",
+        "phone": "+98 34 3426 0000",
+        "email": "info@iranpistachio.org",
+        "website": "https://iranpistachio.org",
+        "linkedin_company_url": "https://www.linkedin.com/company/iran-pistachio-association/",
+        "role": "معتبرترین تشکل تخصصی پسته کشور، استانداردهای آزمایشگاهی کنترل آفلاتوکسین و استعلام بار صادراتی به اروپا و چین",
+        "trust": 100,
+        "status_badge": "🟢 بالاترین مرجع تخصصی پسته صادراتی کشور",
+        "map_url": "https://www.google.com/maps/search/Rafsanjan+Kerman+Iran/@30.4000,55.9900,14z"
+      },
+      {
+        "name": "انجمن ملی خرما و صنایع تبدیلی ایران (Iran National Date Association)",
+        "name_en": "Iran National Date Association",
+        "city": "بم، کرمان و بوشهر، ایران",
+        "address": "بم، میدان قدس، مجتمع سردخانه‌داران و صادرکنندگان خرمای مضافتی و پیارم",
+        "landline": "+98 34 4434 0000",
+        "phone": "+98 34 4434 0000",
+        "email": "info@irandates.org",
+        "website": "https://kerman.mporg.ir",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Iran%20Date%20Association",
+        "role": "هاب بسته‌بندی، ضدعفونی گاز متیل بروماید و صدور گواهی بهداشت نباتی خرمای صادراتی به هند، روسیه و امارات",
+        "trust": 100,
+        "status_badge": "🟢 مرجع ملی زنجیره ارزش خرمای صادراتی",
+        "map_url": "https://www.google.com/maps/search/Bam+Kerman+Iran/@29.1000,58.3500,14z"
+      },
+      {
+        "name": "پایانه صادراتی بندر شهید رجایی (Shahid Rajaee Port Free Zone - Bandar Abbas)",
+        "name_en": "Shahid Rajaee Port Container Terminal",
+        "city": "بندرعباس، هرمزگان، ایران",
+        "address": "منطقه ویژه اقتصادی بندر شهید رجایی، مجتمع کانتینری ریفر",
+        "landline": "+98 76 3351 4000",
+        "phone": "+98 76 3351 4000",
+        "email": "info@shahidrajaeeport.pmo.ir",
+        "website": "https://shahidrajaeeport.pmo.ir",
+        "linkedin_company_url": "https://www.linkedin.com/company/ports-and-maritime-organization/",
+        "role": "بزرگترین پایانه کانتینری یخچالی ایران، بارگیری خطوط مستقیم کشتیرانی به بنادر ناواشیوا هند، جبل‌علی دبی و صلاله عمان",
+        "trust": 100,
+        "status_badge": "🟢 دروازه اصلی ترانزیت کانتینرهای یخچالی اقیانوسی",
+        "map_url": "https://www.google.com/maps/search/Shahid+Rajaee+Port+Bandar+Abbas/@27.1000,56.0500,14z"
+      },
+      {
+        "name": "اتاق مشترک بازرگانی ایران و عراق (Iran-Iraq Joint Chamber of Commerce)",
+        "name_en": "Iran Iraq Joint Chamber of Commerce",
+        "city": "تهران، ایران",
+        "address": "خیابان طالقانی، نبش موسوی، ساختمان اتاق ایران، طبقه ۵",
+        "landline": "+98 21 8881 4000",
+        "phone": "+98 21 8881 4000",
+        "email": "info@ir-iqcc.com",
+        "website": "https://ir-iqcc.com",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Iran%20Iraq%20Chamber%20of%20Commerce",
+        "role": "تخصصی‌ترین نهاد تجاری تسویه مالی، صرافی و اعتبارسنجی خریداران عراقی پایانه مهران، شلمچه و تمرچین",
+        "trust": 100,
+        "status_badge": "🟢 مرجع رسمی تجارت دوجانبه ایران و عراق",
+        "map_url": "https://www.google.com/maps/search/Taleghani+Street+Tehran+Iran/@35.7050,51.4230,14z"
+      }
+    ]
+  },
+  "countryJobDirectories": {
+    "امارات": [
+      {
+        "name": "هلدینگ امارات گروپ (The Emirates Group)",
+        "name_en": "The Emirates Group",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Emirates Group Headquarters, Airport Road, Dubai",
+        "landline": "+971 4 286 4000",
+        "phone": "+971 4 286 4000",
+        "email": "careers@emirates.com",
+        "website": "https://www.emiratesgroupcareers.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/emirates/",
+        "role": "یکی از بزرگترین کارفرمایان جهان در هوانوردی، مهندسی، فناوری اطلاعات، هوش مصنوعی و مدیریت لجستیک با ویزای کار دائم",
+        "trust": 100,
+        "status_badge": "🟢 کارفرمای بین‌المللی تراز اول امارات",
+        "map_url": "https://www.google.com/maps/search/Emirates+Group+Headquarters+Dubai/@25.2500,55.3500,14z"
+      },
+      {
+        "name": "کریم (Careem - Everything App Uber MEA)",
+        "name_en": "Careem",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Media City, Building 1, Dubai",
+        "landline": "+971 4 440 5200",
+        "phone": "+971 4 440 5200",
+        "email": "talent@careem.com",
+        "website": "https://www.careem.com/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/careem/",
+        "role": "یونیکورن تکنولوژی خاورمیانه، استخدام تخصصی برنامه‌نویس ارشد، مهندسی داده، محصول و فین‌تک با بسته‌های ریلوکیشن",
+        "trust": 100,
+        "status_badge": "🟢 یونیکورن پیشرو فناوری خاورمیانه",
+        "map_url": "https://www.google.com/maps/search/Careem+Dubai+Media+City/@25.0900,55.1500,14z"
+      },
+      {
+        "name": "طلبات (Talabat - Delivery Hero MENA)",
+        "name_en": "talabat",
+        "city": "دبی، امارات متحده عربی",
+        "address": "City Walk, Building 4, Al Wasl, Dubai",
+        "landline": "+971 4 424 5000",
+        "phone": "+971 4 424 5000",
+        "email": "careers@talabat.com",
+        "website": "https://careers.talabat.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/talabat/",
+        "role": "بزرگترین پلتفرم دلیوری و تجارت الکترونیک خاورمیانه، فرصت‌های شغلی فنی، هوش مصنوعی و مارکتینگ",
+        "trust": 99,
+        "status_badge": "🟢 غول سفارش آنلاین و تجارت سریع",
+        "map_url": "https://www.google.com/maps/search/City+Walk+Dubai/@25.2050,55.2600,14z"
+      },
+      {
+        "name": "اعمار پراپرتیز (Emaar Properties)",
+        "name_en": "Emaar Properties",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Downtown Dubai, Emaar Square, Building 3, Dubai",
+        "landline": "+971 4 367 3333",
+        "phone": "+971 4 367 3333",
+        "email": "recruitment@emaar.ae",
+        "website": "https://properties.emaar.com/en/careers/",
+        "linkedin_company_url": "https://www.linkedin.com/company/emaar-properties/",
+        "role": "توسعه‌دهنده برج خلیفه و دبی مال، استخدام مهندسان عمران، معماری، مدیران مالی و فروش املاک بین‌المللی",
+        "trust": 100,
+        "status_badge": "🟢 غول املاک و معماری مدرن جهان",
+        "map_url": "https://www.google.com/maps/search/Emaar+Square+Downtown+Dubai/@25.1950,55.2750,14z"
+      },
+      {
+        "name": "هلدینگ ماجد الفطیم (Majid Al Futtaim Group)",
+        "name_en": "Majid Al Futtaim",
+        "city": "دبی، امارات متحده عربی",
+        "address": "MAF Tower, Deira, City Centre Complex, Dubai",
+        "landline": "+971 4 294 9999",
+        "phone": "+971 4 294 9999",
+        "email": "careers@maf.ae",
+        "website": "https://www.majidalfuttaim.com/en/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/majid-al-futtaim/",
+        "role": "کارتل خرده‌فروشی، مراکز تجاری، هتلداری و مالک کارفور در سراسر خاورمیانه با بیش از ۴۵,۰۰۰ کارمند",
+        "trust": 100,
+        "status_badge": "🟢 هلدینگ چندملیتی برتر امارات",
+        "map_url": "https://www.google.com/maps/search/Majid+Al+Futtaim+Tower+Deira+Dubai/@25.2550,55.3350,14z"
+      },
+      {
+        "name": "نون دات کام (Noon.com Ecommerce)",
+        "name_en": "noon",
+        "city": "دبی و ریاض، امارات متحده عربی",
+        "address": "Emaar Square, Building 1, Downtown Dubai",
+        "landline": "+971 4 586 8777",
+        "phone": "+971 4 586 8777",
+        "email": "talent@noon.com",
+        "website": "https://www.noon.com/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/nooncom/",
+        "role": "بزرگترین پلتفرم تجارت الکترونیک خاورمیانه (تحت حمایت PIF)، استخدام مهندسی نرم‌افزار، زیرساخت ابری و لجستیک",
+        "trust": 99,
+        "status_badge": "🟢 بومی‌ترین اکوسیستم تجارت الکترونیک خلیج فارس",
+        "map_url": "https://www.google.com/maps/search/Emaar+Square+Downtown+Dubai/@25.1950,55.2750,14z"
+      },
+      {
+        "name": "گروه لوکس شلهوب (Chalhoub Group)",
+        "name_en": "Chalhoub Group",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Dubai Design District (d3), Building 11, Dubai",
+        "landline": "+971 4 804 5000",
+        "phone": "+971 4 804 5000",
+        "email": "careers@chalhoub.com",
+        "website": "https://www.chalhoubgroup.com/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/chalhoub-group/",
+        "role": "رهبر توزیع و مدیریت برندهای لوکس مد، عطر و زیبایی در خاورمیانه (Louis Vuitton, Chanel, Sephora)",
+        "trust": 99,
+        "status_badge": "🟢 هلدینگ برتر برندهای لوکس خاورمیانه",
+        "map_url": "https://www.google.com/maps/search/Dubai+Design+District+d3/@25.1850,55.2950,14z"
+      },
+      {
+        "name": "گروه بیوت و دوبیزل (Dubizzle Group / Bayut)",
+        "name_en": "Dubizzle Group",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Dubai Media City, Building 3, Dubai",
+        "landline": "+971 4 444 8600",
+        "phone": "+971 4 444 8600",
+        "email": "careers@bayut.com",
+        "website": "https://www.bayut.com/careers/",
+        "linkedin_company_url": "https://www.linkedin.com/company/bayut-com/",
+        "role": "بزرگترین پورتال تبلیغات آنلاین و املاک امارات، جذب متخصصین هوش مصنوعی، دواپس و توسعه وب",
+        "trust": 98,
+        "status_badge": "🟢 قطب پرتال‌های نیازمندی و املاک امارات",
+        "map_url": "https://www.google.com/maps/search/Dubai+Media+City/@25.0900,55.1550,14z"
+      },
+      {
+        "name": "گروه بین‌المللی الشایع (Alshaya Group UAE)",
+        "name_en": "Alshaya Group",
+        "city": "دبی، امارات متحده عربی",
+        "address": "Al Barsha, Sheikh Zayed Road, Dubai",
+        "landline": "+971 4 316 0000",
+        "phone": "+971 4 316 0000",
+        "email": "careers@alshaya.com",
+        "website": "https://www.alshaya.com/en/careers/",
+        "linkedin_company_url": "https://www.linkedin.com/company/alshaya-group/",
+        "role": "مالک فرانچایز برندهای استارباکس، H&M، شیک‌شک و بث‌اند‌بادی‌ورکس در خاورمیانه",
+        "trust": 100,
+        "status_badge": "🟢 غول مدیریت برندهای تجاری بین‌المللی",
+        "map_url": "https://www.google.com/maps/search/Alshaya+Al+Barsha+Dubai/@25.1100,55.2000,14z"
+      },
+      {
+        "name": "بانک اسلامی دبی (Dubai Islamic Bank - DIB)",
+        "name_en": "Dubai Islamic Bank",
+        "city": "دبی، امارات متحده عربی",
+        "address": "DIB Headquarters, Al Maktoum Road, Deira, Dubai",
+        "landline": "+971 4 295 3000",
+        "phone": "+971 4 295 3000",
+        "email": "careers@dib.ae",
+        "website": "https://www.dib.ae/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/dubai-islamic-bank/",
+        "role": "نخستین و بزرگترین بانک اسلامی جهان، استخدام کارشناسان فین‌تک، امنیت شبکه، بانکداری و مالی",
+        "trust": 100,
+        "status_badge": "🟢 معتبرترین موسسه بانکداری اسلامی",
+        "map_url": "https://www.google.com/maps/search/Dubai+Islamic+Bank+Headquarters+Deira/@25.2600,55.3200,14z"
+      }
+    ],
+    "آلمان": [
+      {
+        "name": "اس‌ای‌پی (SAP SE - European Software Giant)",
+        "name_en": "SAP",
+        "city": "والدورف و برلین، آلمان",
+        "address": "Dietmar-Hopp-Allee 16, Walldorf & Berlin Innovation Center",
+        "landline": "+49 6227 747474",
+        "phone": "+49 6227 747474",
+        "email": "careers@sap.com",
+        "website": "https://jobs.sap.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/sap/",
+        "role": "بزرگترین غول نرم‌افزاری اروپا، شماره ۱ جذب مهندسان نرم‌افزار، رایانش ابری و هوش مصنوعی با اسپانسرشیپ ویزای کاری Blue Card",
+        "trust": 100,
+        "status_badge": "🟢 غول نرم‌افزاری اروپا با اسپانسر کامل ویزا (Blue Card)",
+        "map_url": "https://www.google.com/maps/search/SAP+Walldorf+Germany/@49.2900,8.6400,14z"
+      },
+      {
+        "name": "زیمنس آلمان (Siemens AG)",
+        "name_en": "Siemens",
+        "city": "مونیخ و برلین، آلمان",
+        "address": "Werner-von-Siemens-Straße 1, Munich, Germany",
+        "landline": "+49 89 63600",
+        "phone": "+49 89 63600",
+        "email": "career@siemens.com",
+        "website": "https://jobs.siemens.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/siemens/",
+        "role": "پرچمدار جهانی صنایع الکترونیک، اتوماسیون صنعتی، سلامت، انرژی و اینترنت اشیاء (IoT)",
+        "trust": 100,
+        "status_badge": "🟢 معتبرترین قطب مهندسی و صنعتی آلمان",
+        "map_url": "https://www.google.com/maps/search/Siemens+Headquarters+Munich+Germany/@48.1400,11.5700,14z"
+      },
+      {
+        "name": "دلیوری هیرو (Delivery Hero SE)",
+        "name_en": "Delivery Hero",
+        "city": "برلین، آلمان",
+        "address": "Oranienburger Straße 70, Berlin, Germany",
+        "landline": "+49 30 544459000",
+        "phone": "+49 30 544459000",
+        "email": "jobs@deliveryhero.com",
+        "website": "https://careers.deliveryhero.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/delivery-hero-se/",
+        "role": "هلدینگ چندملیتی تحویل غذا با حضور در ۷۰ کشور، محیط کار کاملاً انگلیسی‌زبان با بسته کامل ریلوکیشن و ویزا به برلین",
+        "trust": 99,
+        "status_badge": "🟢 محیط کار ۱۰۰٪ انگلیسی در قلب برلین",
+        "map_url": "https://www.google.com/maps/search/Delivery+Hero+Berlin+Germany/@52.5250,13.3900,14z"
+      },
+      {
+        "name": "زالاندو (Zalando SE)",
+        "name_en": "Zalando",
+        "city": "برلین، آلمان",
+        "address": "Valeska-Gert-Straße 5, Berlin, Germany",
+        "landline": "+49 30 200088400",
+        "phone": "+49 30 200088400",
+        "email": "jobs@zalando.de",
+        "website": "https://jobs.zalando.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/zalando/",
+        "role": "بزرگترین پلتفرم تجارت الکترونیک پوشاک و مد اروپا، جذب دائمی مهندسان فرانت‌اند، بک‌اند، پایتون و دیتا ساینس",
+        "trust": 100,
+        "status_badge": "🟢 غول مد و تجارت الکترونیک اروپا",
+        "map_url": "https://www.google.com/maps/search/Zalando+Headquarters+Berlin/@52.5050,13.4400,14z"
+      },
+      {
+        "name": "گروه خودروسازی ب‌ام‌و (BMW Group)",
+        "name_en": "BMW Group",
+        "city": "مونیخ، آلمان",
+        "address": "Petuelring 130, Munich, Germany",
+        "landline": "+49 89 3820",
+        "phone": "+49 89 3820",
+        "email": "karriere@bmwgroup.com",
+        "website": "https://www.bmwgroup.jobs",
+        "linkedin_company_url": "https://www.linkedin.com/company/bmw-group/",
+        "role": "پیشگام خودروهای الکتریکی، نرم‌افزارهای خودران، سیستم‌های امبدد و مکانیک خودرو با حقوق و مزایای فوق‌العاده",
+        "trust": 100,
+        "status_badge": "🟢 غول افسانه‌ای خودروسازی جهان",
+        "map_url": "https://www.google.com/maps/search/BMW+Vierzylinder+Munich/@48.1750,11.5600,14z"
+      },
+      {
+        "name": "گروه بوش آلمان (Robert Bosch GmbH)",
+        "name_en": "Bosch",
+        "city": "اشتوتگارت، آلمان",
+        "address": "Robert-Bosch-Platz 1, Gerlingen-Schillerhöhe, Stuttgart",
+        "landline": "+49 711 8110",
+        "phone": "+49 711 8110",
+        "email": "career@bosch.com",
+        "website": "https://www.bosch.com/careers/",
+        "linkedin_company_url": "https://www.linkedin.com/company/bosch/",
+        "role": "بزرگترین تأمین‌کننده فناوری خودرو و قطعات صنعتی در جهان با بیش از ۴۰۰,۰۰۰ نیرو در سراسر دنیا",
+        "trust": 100,
+        "status_badge": "🟢 برترین پیشگام فناوری و هوش مصنوعی صنعتی",
+        "map_url": "https://www.google.com/maps/search/Bosch+Gerlingen+Stuttgart/@48.7900,9.0600,14z"
+      },
+      {
+        "name": "هلوفرش (HelloFresh SE)",
+        "name_en": "HelloFresh",
+        "city": "برلین، آلمان",
+        "address": "Prinzenstraße 89, Berlin, Germany",
+        "landline": "+49 30 208483200",
+        "phone": "+49 30 208483200",
+        "email": "careers@hellofresh.com",
+        "website": "https://careers.hellofresh.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/hellofresh/",
+        "role": "رهبر جهانی بسته‌های غذایی آماده، استخدام در بخش‌های هوش مصنوعی، بهینه‌سازی زنجیره تأمین و توسعه وب",
+        "trust": 99,
+        "status_badge": "🟢 رهبر جهانی زنجیره تأمین غذا و تکنولوژی",
+        "map_url": "https://www.google.com/maps/search/Prinzenstrasse+89+Berlin/@52.5000,13.4050,14z"
+      },
+      {
+        "name": "بانک دیجیتال ان‌۲۶ (N26 The Mobile Bank)",
+        "name_en": "N26",
+        "city": "برلین، آلمان",
+        "address": "Klosterstraße 62, Berlin, Germany",
+        "landline": "+49 30 364286880",
+        "phone": "+49 30 364286880",
+        "email": "careers@n26.com",
+        "website": "https://n26.com/en-de/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/n26/",
+        "role": "پیشگام نئوبانک و فین‌تک اروپا با بیش از ۸ میلیون کاربر، تیم‌های کاملاً بین‌المللی و انگلیسی‌زبان",
+        "trust": 99,
+        "status_badge": "🟢 یونیکورن پیشرو فین‌تک و نئوبانک اروپا",
+        "map_url": "https://www.google.com/maps/search/Klosterstrasse+62+Berlin/@52.5150,13.4150,14z"
+      },
+      {
+        "name": "پرسونیو (Personio HR Tech)",
+        "name_en": "Personio",
+        "city": "مونیخ، آلمان",
+        "address": "Seidlstraße 24-24a, Munich, Germany",
+        "landline": "+49 89 12501005",
+        "phone": "+49 89 12501005",
+        "email": "careers@personio.com",
+        "website": "https://www.personio.com/about-personio/careers/",
+        "linkedin_company_url": "https://www.linkedin.com/company/personio/",
+        "role": "محبوب‌ترین نرم‌افزار ابری منابع انسانی اروپا با ارزش چندمیلیارد دلاری و جذب مستمر برنامه‌نویسان زبده",
+        "trust": 99,
+        "status_badge": "🟢 یونیکورن مدیریت سازمانی و منابع انسانی",
+        "map_url": "https://www.google.com/maps/search/Seidlstrasse+Munich+Germany/@48.1450,11.5550,14z"
+      },
+      {
+        "name": "فلیکس‌باس (Flix / FlixBus)",
+        "name_en": "Flix",
+        "city": "مونیخ و برلین، آلمان",
+        "address": "Friedenheimer Brücke 16, Munich, Germany",
+        "landline": "+49 89 21239970",
+        "phone": "+49 89 21239970",
+        "email": "jobs@flixbus.com",
+        "website": "https://corporate.flixbus.com/careers/",
+        "linkedin_company_url": "https://www.linkedin.com/company/flixbus/",
+        "role": "بزرگترین شبکه حمل‌ونقل اتوبوس و قطار بین‌المللی اروپا و آمریکا، استخدام متخصصین مسیریابی، دیتابیس و دواپس",
+        "trust": 98,
+        "status_badge": "🟢 شبکه شماره ۱ حمل‌ونقل هوشمند قاره اروپا",
+        "map_url": "https://www.google.com/maps/search/Friedenheimer+Brucke+Munich/@48.1400,11.5200,14z"
+      }
+    ],
+    "عراق": [
+      {
+        "name": "آسیاسل تلکام (Asiacell Telecom)",
+        "name_en": "Asiacell Telecom",
+        "city": "سلیمانیه، اربیل و بغداد، عراق",
+        "address": "Salim Street, Asiacell Main Building, Sulaymaniyah",
+        "landline": "+964 770 110 0000",
+        "phone": "+964 770 110 0000",
+        "email": "careers@asiacell.com",
+        "website": "https://www.asiacell.com/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/asiacell-telecom/",
+        "role": "بزرگترین اپراتور مخابراتی عراق با بیش از ۱۷ میلیون مشترک، حقوق دلاری عالی و استخدام در بخش‌های شبکه، فناوری اطلاعات و بازاریابی",
+        "trust": 100,
+        "status_badge": "🟢 بزرگترین کارفرمای مخابراتی عراق با حقوق دلاری",
+        "map_url": "https://www.google.com/maps/search/Salim+Street+Sulaymaniyah+Iraq/@35.5600,45.4300,14z"
+      },
+      {
+        "name": "زین عراق (Zain Iraq)",
+        "name_en": "Zain Iraq",
+        "city": "بغداد، عراق",
+        "address": "Mansour District, Building 31, Baghdad, Iraq",
+        "landline": "+964 780 299 9000",
+        "phone": "+964 780 299 9000",
+        "email": "recruitment@iq.zain.com",
+        "website": "https://www.iq.zain.com/en/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/zain-iraq/",
+        "role": "بخش عراقی غول تلکام خاورمیانه (گروه زین)، فرصت‌های فوق‌العاده مهندسی تلکام، امنیت سایبری و داده",
+        "trust": 100,
+        "status_badge": "🟢 اپراتور بین‌المللی ارتباطات با دستمزد ارزی",
+        "map_url": "https://www.google.com/maps/search/Al+Mansour+Baghdad+Iraq/@33.3100,44.3500,14z"
+      },
+      {
+        "name": "کورک تلکام (Korek Telecom)",
+        "name_en": "Korek Telecom",
+        "city": "اربیل، عراق",
+        "address": "100 Meter Road, Near Airport, Erbil, Kurdistan Region",
+        "landline": "+964 750 445 0000",
+        "phone": "+964 750 445 0000",
+        "email": "careers@korektel.com",
+        "website": "https://www.korektel.com/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/korek-telecom/",
+        "role": "اپراتور ملی سراسری عراق با مرکزیت اربیل، تقاضای بالای متخصصین فناوری و فرستنده‌های مایکروویو و فیبر نوری",
+        "trust": 99,
+        "status_badge": "🟢 هلدینگ پیشرو مخابراتی اقلیم کردستان",
+        "map_url": "https://www.google.com/maps/search/100+Meter+Road+Erbil+Iraq/@36.2100,44.0200,14z"
+      },
+      {
+        "name": "کی کارت - شرکت بین‌المللی کارت هوشمند (Qi Card / ISC)",
+        "name_en": "Qi Card",
+        "city": "بغداد، عراق",
+        "address": "Arasat Al-Hindia, Baghdad, Iraq",
+        "landline": "+964 780 910 0000",
+        "phone": "+964 780 910 0000",
+        "email": "jobs@qi.iq",
+        "website": "https://qi.iq/careers",
+        "linkedin_company_url": "https://www.linkedin.com/company/qi-card/",
+        "role": "بزرگترین کمپانی فین‌تک و پرداخت الکترونیک عراق با میلیون‌ها تراکنش بانکی روزانه، جذب تخصصی برنامه‌نویسان ارشد و امنیت پرداخت",
+        "trust": 100,
+        "status_badge": "🟢 رهبر بلامنازع فین‌تک و پرداخت الکترونیکی عراق",
+        "map_url": "https://www.google.com/maps/search/Arasat+Al+Hindia+Baghdad/@33.3000,44.4200,14z"
+      },
+      {
+        "name": "هلدینگ یو‌بی (UB Holding Iraq)",
+        "name_en": "UB Holding",
+        "city": "زاخو و اربیل، عراق",
+        "address": "UB Building, Ibrahim Khalil Road, Zakho & Dream City, Erbil",
+        "landline": "+964 62 762 0000",
+        "phone": "+964 62 762 0000",
+        "email": "hr@ubholding.com",
+        "website": "https://www.ubholding.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/ub-holding/",
+        "role": "یکی از بزرگترین کارفرمایان خصوصی عراق در پتروشیمی، بسته‌بندی، هتلداری و بازرگانی بین‌المللی",
+        "trust": 99,
+        "status_badge": "🟢 هلدینگ صنعتی و تجاری کهن عراق",
+        "map_url": "https://www.google.com/maps/search/Zakho+Duhok+Iraq/@37.1400,42.6800,14z"
+      },
+      {
+        "name": "فست‌لینک اینترنت (Fastlink Telecom Erbil)",
+        "name_en": "Fastlink",
+        "city": "اربیل و سلیمانیه، عراق",
+        "address": "Gulan Street, Near World Trade Center, Erbil",
+        "landline": "+964 750 200 0000",
+        "phone": "+964 750 200 0000",
+        "email": "hr@fastlink.iq",
+        "website": "https://fastlink.iq",
+        "linkedin_company_url": "https://www.linkedin.com/company/fastlink-telecom/",
+        "role": "نخستین ارائه‌دهنده اینترنت پهن‌باند 4G LTE در اقلیم، استخدام کارشناسان فناوری، سرور و لینوکس",
+        "trust": 98,
+        "status_badge": "🟢 پیشگام اینترنت پهن‌باند پرسرعت",
+        "map_url": "https://www.google.com/maps/search/Gulan+Street+Erbil+Iraq/@36.2050,44.0150,14z"
+      },
+      {
+        "name": "تکنولوژی و گردشگری مون‌لاین (Moonline Travel & Tourism Tech)",
+        "name_en": "Moonline Travel and Tourism",
+        "city": "اربیل و بغداد، عراق",
+        "address": "Italian Village 1, Villa 245, Erbil",
+        "landline": "+964 750 800 0000",
+        "phone": "+964 750 800 0000",
+        "email": "jobs@moonline.travel",
+        "website": "https://www.moonline.travel",
+        "linkedin_company_url": "https://www.linkedin.com/company/moonline-travel-and-tourism/",
+        "role": "پیشتاز پلتفرم‌های رزرواسیون آنلاین، هوانوردی و توریسم با ساختار استارتاپی پیشرفته",
+        "trust": 98,
+        "status_badge": "🟢 شرکت فناوری پیشگام گردشگری",
+        "map_url": "https://www.google.com/maps/search/Italian+Village+1+Erbil/@36.2200,43.9900,14z"
+      },
+      {
+        "name": "کنسرسیوم پروژه‌های نفتی و انرژی بصره (Basra Oil & Energy Consortium)",
+        "name_en": "Basra Oil Company",
+        "city": "بصره، عراق",
+        "address": "BOC Main Complex, Bab Al-Zubair, Basra",
+        "landline": "+964 42 211 000",
+        "phone": "+964 42 211 000",
+        "email": "recruitment@boc.oil.gov.iq",
+        "website": "https://boc.oil.gov.iq",
+        "linkedin_company_url": "https://www.linkedin.com/search/results/companies/?keywords=Basra%20Oil%20Company",
+        "role": "قطب استخدام مهندسین نفت، گاز، ابزاردقیق، ژئوفیزیک، ایمنی صنعتی و پروژه‌های EPC در میادین رمیله و مجنون با پرداخت دلاری",
+        "trust": 100,
+        "status_badge": "🟢 قطب پروژه‌های مگاشرکت‌های انرژی و نفت",
+        "map_url": "https://www.google.com/maps/search/Bab+Al+Zubair+Basra+Iraq/@30.4900,47.8100,14z"
+      },
+      {
+        "name": "هلدینگ تجاری لونات (Levent Group Iraq)",
+        "name_en": "Levent Group",
+        "city": "اربیل و دهوک، عراق",
+        "address": "Pirmam Road, Near Korek Complex, Erbil",
+        "landline": "+964 750 350 0000",
+        "phone": "+964 750 350 0000",
+        "email": "info@leventgroup.com",
+        "website": "https://www.leventgroup.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/levent-group/",
+        "role": "هلدینگ بزرگ توزیع کالا، کترینگ صنعتی و بازرگانی با محیط کاری چندزبانه (انگلیسی، کردی و عربی)",
+        "trust": 97,
+        "status_badge": "🟢 کارفرمای هلدینگ بازرگانی و خدماتی",
+        "map_url": "https://www.google.com/maps/search/Pirmam+Road+Erbil/@36.2500,44.0500,14z"
+      },
+      {
+        "name": "هلدینگ خودرو و حمل‌ونقل سردار (Sardar Group Careers)",
+        "name_en": "Sardar Group",
+        "city": "بغداد و اربیل، عراق",
+        "address": "Karrada Commercial Area, Baghdad & 100M Road, Erbil",
+        "landline": "+964 750 700 0000",
+        "phone": "+964 750 700 0000",
+        "email": "hr@sardargroup.com",
+        "website": "https://www.sardargroup.com/careers/",
+        "linkedin_company_url": "https://www.linkedin.com/company/sardar-group/",
+        "role": "نمایندگی رسمی برندهای بین‌المللی خودرو (تویوتا و لکسوس) در عراق، جذب متخصصان مهندسی خودرو، خدمات پس از فروش و مالی",
+        "trust": 100,
+        "status_badge": "🟢 نماینده انحصاری برندهای برتر بین‌المللی",
+        "map_url": "https://www.google.com/maps/search/Karrada+Baghdad+Iraq/@33.3050,44.4250,14z"
+      }
+    ],
+    "عمان": [
+      {
+        "name": "عمانتل (Omantel - Oman Telecommunications Company)",
+        "name_en": "Omantel",
+        "city": "مسقط، عمان",
+        "address": "Omantel Headquarters, Madinat Al Irfan, Airport Heights, Muscat",
+        "landline": "+968 2424 1234",
+        "phone": "+968 2424 1234",
+        "email": "careers@omantel.om",
+        "website": "https://www.omantel.om",
+        "linkedin_company_url": "https://www.linkedin.com/company/omantel/",
+        "role": "اپراتور مخابراتی ملی پیشرو عمان، کانون استخدام مهندسی مخابرات، هوش مصنوعی، سرویس‌های ابری و امنیت اطلاعات",
+        "trust": 100,
+        "status_badge": "🟢 بزرگترین کمپانی مخابراتی عمان با ویزای کاری معتبر",
+        "map_url": "https://www.google.com/maps/search/Omantel+Headquarters+Madinat+Al+Irfan+Muscat/@23.5700,58.3300,14z"
+      },
+      {
+        "name": "توسعه نفت عمان (Petroleum Development Oman - PDO)",
+        "name_en": "Petroleum Development Oman",
+        "city": "مسقط، عمان",
+        "address": "Mina Al Fahal, Muscat, Sultanate of Oman",
+        "landline": "+968 2467 8111",
+        "phone": "+968 2467 8111",
+        "email": "careers@pdo.co.om",
+        "website": "https://www.pdo.co.om",
+        "linkedin_company_url": "https://www.linkedin.com/company/petroleum-development-oman/",
+        "role": "ستون فقرات اقتصاد عمان (مشارکت دولت عمان و شرکت شل)، استخدام تخصصی مهندسان نفت، گاز، پتروشیمی، مکانیک و متالورژی با حقوق ریال عمان",
+        "trust": 100,
+        "status_badge": "🟢 غول انرژی عمان با بالاترین استانداردهای پرداختی",
+        "map_url": "https://www.google.com/maps/search/Mina+Al+Fahal+Muscat+Oman/@23.6300,58.5000,14z"
+      },
+      {
+        "name": "بانک مسقط (Bank Muscat)",
+        "name_en": "Bank Muscat",
+        "city": "مسقط، عمان",
+        "address": "Bank Muscat Head Office, Airport Heights, Seeb, Muscat",
+        "landline": "+968 2479 5555",
+        "phone": "+968 2479 5555",
+        "email": "careers@bankmuscat.com",
+        "website": "https://www.bankmuscat.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/bank-muscat/",
+        "role": "بزرگترین موسسه مالی و بانکی عمان، فرصت‌های تخصصی در فین‌تک، تحلیل ریسک مالی، بلاکچین و بانکداری بین‌المللی",
+        "trust": 100,
+        "status_badge": "🟢 رهبر موسسات مالی و بانکی عمان",
+        "map_url": "https://www.google.com/maps/search/Bank+Muscat+Head+Office+Airport+Heights/@23.5800,58.3100,14z"
+      },
+      {
+        "name": "گروه لجستیک اسیاد (ASYAD Group Oman)",
+        "name_en": "ASYAD Group",
+        "city": "مسقط و صحار، عمان",
+        "address": "ASYAD Tower, Airport Heights, Muscat",
+        "landline": "+968 2416 6666",
+        "phone": "+968 2416 6666",
+        "email": "careers@asyad.om",
+        "website": "https://www.asyad.om",
+        "linkedin_company_url": "https://www.linkedin.com/company/asyadgroup/",
+        "role": "هلدینگ بزرگ حاکمیتی مدیریت تمام بنادر عمان (صحار، صلاله، دقم)، خطوط کشتیرانی، ناوگان دریایی و حمل‌ونقل ریلی",
+        "trust": 100,
+        "status_badge": "🟢 غول لجستیک بندری و دریایی سلطان‌نشین عمان",
+        "map_url": "https://www.google.com/maps/search/ASYAD+Group+Muscat/@23.5850,58.3200,14z"
+      },
+      {
+        "name": "اوریدو عمان (Ooredoo Oman)",
+        "name_en": "Ooredoo Oman",
+        "city": "مسقط، عمان",
+        "address": "Central Business District, Bawshar, Muscat",
+        "landline": "+968 2200 2222",
+        "phone": "+968 2200 2222",
+        "email": "careers@ooredoo.om",
+        "website": "https://www.ooredoo.om",
+        "linkedin_company_url": "https://www.linkedin.com/company/ooredoo-oman/",
+        "role": "اپراتور چندملیتی ارتباطات و خدمات دیجیتال، جذب مهندسی شبکه، دواپس و توسعه اپلیکیشن‌های موبایل",
+        "trust": 99,
+        "status_badge": "🟢 اپراتور مدرن خدمات ارتباطات دیجیتال",
+        "map_url": "https://www.google.com/maps/search/Ooredoo+Oman+Bawshar+Muscat/@23.5750,58.3750,14z"
+      },
+      {
+        "name": "هلدینگ کیمجی رامداس (Khimji Ramdas Group Careers)",
+        "name_en": "Khimji Ramdas LLC",
+        "city": "مسقط، عمان",
+        "address": "Khimji Complex, Ruwi / Darsait, Muscat",
+        "landline": "+968 2470 2255",
+        "phone": "+968 2470 2255",
+        "email": "careers@khimji.com",
+        "website": "https://www.khimji.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/khimji-ramdas-llc/",
+        "role": "کارتل تجاری با بیش از ۵,۰۰۰ نیرو در حوزه‌های مصرفی، زیرساخت، پروژه‌ها و فناوری اطلاعات",
+        "trust": 100,
+        "status_badge": "🟢 کهن‌ترین هلدینگ تجاری و کارفرمای برتر عمان",
+        "map_url": "https://www.google.com/maps/search/Khimji+Ramdas+Ruwi+Muscat/@23.6000,58.5400,14z"
+      },
+      {
+        "name": "اوکیو - غول انرژی و پتروشیمی عمان (OQ Global Integrated Energy)",
+        "name_en": "OQ",
+        "city": "مسقط و دقم، عمان",
+        "address": "OQ Headquarters, Airport Heights, Muscat",
+        "landline": "+968 2415 5555",
+        "phone": "+968 2415 5555",
+        "email": "careers@oq.com",
+        "website": "https://www.oq.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/oqglobal/",
+        "role": "شرکت بین‌المللی یکپارچه انرژی عمان فعال در ۱۷ کشور، استخدام مهندسان شیمی، پلیمر و فرآیند",
+        "trust": 100,
+        "status_badge": "🟢 غول صنایع پتروشیمی و پالایشگاهی بین‌المللی",
+        "map_url": "https://www.google.com/maps/search/OQ+Headquarters+Muscat/@23.5900,58.3150,14z"
+      },
+      {
+        "name": "میکرو انرژی و فناوری صلاله (Salalah Port & Free Zone Company)",
+        "name_en": "Port of Salalah",
+        "city": "صلاله، عمان",
+        "address": "Raysut Industrial Area, Port of Salalah, Dhofar",
+        "landline": "+968 2321 9500",
+        "phone": "+968 2321 9500",
+        "email": "careers@salalahport.com",
+        "website": "https://www.salalahport.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/port-of-salalah/",
+        "role": "هاب ترانزیتی جهانی اقیانوس هند با مدیریت ای‌پی‌ام ترمینالز (APM Terminals)، استخدام مهندسین لجستیک دریایی و زنجیره تأمین",
+        "trust": 99,
+        "status_badge": "🟢 هاب بندری اقیانوسی کلاس جهانی",
+        "map_url": "https://www.google.com/maps/search/Port+of+Salalah+Oman/@16.9400,54.0000,14z"
+      },
+      {
+        "name": "گروه دابلیو جی تاول (W.J. Towell & Co LLC)",
+        "name_en": "W J Towell Group",
+        "city": "مسقط، عمان",
+        "address": "Towell House, Muttrah, Muscat",
+        "landline": "+968 2476 5000",
+        "phone": "+968 2476 5000",
+        "email": "careers@wjtowell.com",
+        "website": "https://wjtowell.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/w-j-towell-group/",
+        "role": "هلدینگ بزرگ املاک، مهندسی، خودرو و کالاهای مصرفی، فرصت‌های شغلی مدیریتی و فنی",
+        "trust": 98,
+        "status_badge": "🟢 هلدینگ معتبر و متنوع کسب‌وکار عمان",
+        "map_url": "https://www.google.com/maps/search/W+J+Towell+Muttrah+Muscat/@23.6200,58.5600,14z"
+      },
+      {
+        "name": "عمان ایر (Oman Air - The National Carrier)",
+        "name_en": "Oman Air",
+        "city": "مسقط، عمان",
+        "address": "Muscat International Airport Complex, Seeb, Muscat",
+        "landline": "+968 2451 9111",
+        "phone": "+968 2451 9111",
+        "email": "recruitment@omanair.com",
+        "website": "https://www.omanair.com",
+        "linkedin_company_url": "https://www.linkedin.com/company/oman-air/",
+        "role": "خطوط هوایی رسمی ملی عمان، استخدام کادر فنی هوانوردی، اویونیک، مهمانداری و مدیریت عملیات فرودگاهی",
+        "trust": 100,
+        "status_badge": "🟢 هواپیمایی رسمی و بین‌المللی عمان",
+        "map_url": "https://www.google.com/maps/search/Muscat+International+Airport/@23.5930,58.2840,14z"
+      }
+    ]
+  },
+  "skillTranslations": {
+    "راننده": "Heavy Truck Driver / Transport Driver",
+    "راننده ترانزیت": "Long Haul Truck Driver / Trailer Driver",
+    "برنامه نویس": "Software Engineer / Developer",
+    "برنامه نویس پایتون": "Python Developer",
+    "حسابدار": "Senior Accountant / Finance Specialist",
+    "جوشکار": "Industrial Welder / Pipe Welder",
+    "مهندس عمران": "Civil Engineer / Project Site Supervisor",
+    "مهندس مکانیک": "Mechanical Engineer",
+    "مهندس برق": "Electrical Engineer / Technician",
+    "کارشناس فروش": "Sales & Export Manager",
+    "تکنسین": "Maintenance Technician",
+    "باریستا": "Barista / Coffee Specialist",
+    "آشپز": "Executive Chef / Cook",
+    "سرپرست کارگاه": "Site Supervisor / Construction Manager",
+    "نجار": "Professional Carpenter",
+    "لجستیک": "Logistics & Supply Chain Specialist",
+    "انباردار": "Warehouse Manager / Storekeeper",
+    "تراشکار": "CNC Machinist / Lathe Operator",
+    "خیاط": "Tailor / Garment Maker",
+    "مترجم": "Translator / Business Interpreter"
+  },
+  "productTranslations": {
+    "سیب": "fresh apple",
+    "سیب‌زمینی": "fresh potato",
+    "نارنگی": "mandarin citrus",
+    "مرکبات": "citrus fruits",
+    "کیوی": "fresh kiwi",
+    "پسته": "pistachio nuts",
+    "خرما": "fresh dates",
+    "گوجه": "fresh tomato",
+    "پیاز": "fresh onion"
+  },
+  "countryTargeting": {
+    "ایران": {
+      "en": "Iran",
+      "gl": "ir",
+      "hl": "fa",
+      "cities": "Tehran Piranshahr Urmia Astara Shiraz",
+      "coords": "@35.6139,51.3789,13z"
+    },
+    "هندوستان": {
+      "en": "India",
+      "gl": "in",
+      "hl": "en",
+      "cities": "Navi Mumbai Delhi",
+      "coords": "@19.0732,73.0076,13z"
+    },
+    "عراق": {
+      "en": "Iraq",
+      "gl": "iq",
+      "hl": "ar",
+      "cities": "Erbil Baghdad Sulaymaniyah",
+      "coords": "@36.1408,44.0152,13z"
+    },
+    "امارات": {
+      "en": "United Arab Emirates",
+      "gl": "ae",
+      "hl": "en",
+      "cities": "Dubai Ras Al Khor",
+      "coords": "@25.1764,55.3687,13z"
+    },
+    "روسیه": {
+      "en": "Russia",
+      "gl": "ru",
+      "hl": "ru",
+      "cities": "Moscow Food City",
+      "coords": "@55.5960,37.4580,13z"
+    },
+    "ترکیه": {
+      "en": "Turkey",
+      "gl": "tr",
+      "hl": "tr",
+      "cities": "Mersin Istanbul",
+      "coords": "@36.8121,34.6415,13z"
+    },
+    "عمان": {
+      "en": "Oman",
+      "gl": "om",
+      "hl": "ar",
+      "cities": "Muscat Mawaleh",
+      "coords": "@23.5880,58.3829,13z"
+    },
+    "قطر": {
+      "en": "Qatar",
+      "gl": "qa",
+      "hl": "ar",
+      "cities": "Doha Sailiya",
+      "coords": "@25.2854,51.5310,13z"
+    },
+    "کویت": {
+      "en": "Kuwait",
+      "gl": "kw",
+      "hl": "ar",
+      "cities": "Kuwait Sulaibiya",
+      "coords": "@29.3759,47.9774,13z"
+    },
+    "پاکستان": {
+      "en": "Pakistan",
+      "gl": "pk",
+      "hl": "en",
+      "cities": "Karachi Sabzi Mandi Lahore",
+      "coords": "@24.8607,67.0011,13z"
+    },
+    "ازبکستان": {
+      "en": "Uzbekistan",
+      "gl": "uz",
+      "hl": "ru",
+      "cities": "Tashkent Food City",
+      "coords": "@41.2995,69.2401,13z"
+    },
+    "افغانستان": {
+      "en": "Afghanistan",
+      "gl": "af",
+      "hl": "fa",
+      "cities": "Kabul Herat Kandahar",
+      "coords": "@34.5553,69.2075,13z"
+    },
+    "جمهوری آذربایجان": {
+      "en": "Azerbaijan",
+      "gl": "az",
+      "hl": "az",
+      "cities": "Baku Meyveli Market",
+      "coords": "@40.4093,49.8671,13z"
+    },
+    "ارمنستان": {
+      "en": "Armenia",
+      "gl": "am",
+      "hl": "hy",
+      "cities": "Yerevan Malatia Market",
+      "coords": "@40.1872,44.5152,13z"
+    },
+    "گرجستان": {
+      "en": "Georgia",
+      "gl": "ge",
+      "hl": "ka",
+      "cities": "Tbilisi Dezerter Bazaar",
+      "coords": "@41.7151,44.8271,13z"
+    },
+    "چین": {
+      "en": "China",
+      "gl": "cn",
+      "hl": "zh-CN",
+      "cities": "Guangzhou Jiangnan Market",
+      "coords": "@23.1291,113.2644,13z"
+    },
+    "عربستان": {
+      "en": "Saudi Arabia",
+      "gl": "sa",
+      "hl": "ar",
+      "cities": "Riyadh Aziziyah Market",
+      "coords": "@24.5800,46.7500,13z"
+    },
+    "مصر": {
+      "en": "Egypt",
+      "gl": "eg",
+      "hl": "ar",
+      "cities": "Cairo Obour Market",
+      "coords": "@30.1500,31.4500,13z"
+    },
+    "آلمان": {
+      "en": "Germany",
+      "gl": "de",
+      "hl": "de",
+      "cities": "Hamburg Grossmarkt Munich",
+      "coords": "@53.5400,10.0200,13z"
+    },
+    "انگلستان": {
+      "en": "United Kingdom",
+      "gl": "uk",
+      "hl": "en",
+      "cities": "New Covent Garden London",
+      "coords": "@51.4800,-0.1300,13z"
+    },
+    "ایتالیا": {
+      "en": "Italy",
+      "gl": "it",
+      "hl": "it",
+      "cities": "Milan Ortomercato Rome",
+      "coords": "@45.4600,9.2300,13z"
+    }
+  },
+  "hsCodeDatabase": {
+    "سیب": {
+      "hs_code": "0808.10",
+      "title_en": "Fresh Apples (Malus domestica)",
+      "packaging": "کارتن‌های تلسکوپی صادراتی ۳ لایه یا ۵ لایه / سبدهای پلی‌اتیلنی محکم با شانه فومی (۱۰ تا ۱۸ کیلو)",
+      "reefer_temp": "۰ الی ۲+ درجه سانتی‌گراد با رطوبت نسبی ۹۰-۹۵٪ (کانتینر یخچالی با تهویه ۲۵ CFM)",
+      "shelf_life": "۴ تا ۶ ماه در سردخانه اتمسفر کنترل‌شده (CA)، ۲ تا ۳ هفته در حمل جاده‌ای",
+      "documents": [
+        "گواهی بهداشت نباتی (Phytosanitary Certificate) از حفظ نباتات",
+        "گواهی مبدأ (Certificate of Origin) از اتاق بازرگانی",
+        "بارنامه بین‌المللی ترانزیت (CMR / Bill of Lading)",
+        "فاکتور رسمی و پکینگ لیست (Commercial Invoice & Packing List)",
+        "گواهی سم‌شناسی و عدم باقیمانده آفت‌کش‌ها (Residue Test)"
+      ],
+      "key_markets": "عراق (تمرچین و پرویزخان)، هند (بندر ناواشیوا)، روسیه (بندر آستاراخان)، امارات (دبی)"
+    },
+    "سیب‌زمینی": {
+      "hs_code": "0701.90",
+      "title_en": "Fresh Potatoes (Solanum tuberosum)",
+      "packaging": "گونی‌های توری راشل (Rachel Bags) یا کیسه‌های اسپانیایی تهویه‌دار ۲۵ تا ۳۰ کیلویی",
+      "reefer_temp": "۴ الی ۸+ درجه سانتی‌گراد (نباید زیر ۴ درجه برود تا نشاسته به قند تبدیل نشود)",
+      "shelf_life": "۳ تا ۵ ماه در محیط خشک، تاریک و خنک",
+      "documents": [
+        "گواهی قرنطینه و عدم آلودگی به نماتد طلایی (Golden Nematode-Free)",
+        "گواهی سلامت نباتی سازمان جهاد کشاورزی",
+        "گواهی مبدأ اتاق بازرگانی",
+        "فاکتور تجاری و پکینگ لیست"
+      ],
+      "key_markets": "عراق، افغانستان، آذربایجان، روسیه، ترکمنستان"
+    },
+    "کیوی": {
+      "hs_code": "0810.50",
+      "title_en": "Fresh Kiwifruit (Actinidia deliciosa - Hayward)",
+      "packaging": "کارتن تک‌ردیفه با شانه پلاستیکی ۳ تا ۴ کیلو یا سبدهای دوقلو ۱۰ کیلویی",
+      "reefer_temp": "۰ الی ۰.۵- درجه سانتی‌گراد (بسیار حساس به گاز اتیلن، فیلتر اتیلن الزامی است)",
+      "shelf_life": "۳ تا ۴ ماه در سردخانه، ۳۰ روز در کانتینر یخچالی",
+      "documents": [
+        "گواهی قند بریکس (حداقل ۶.۲ هنگام برداشت و بالای ۱۲ هنگام تحویل)",
+        "گواهی بهداشت نباتی",
+        "گواهی مبدأ و پکینگ لیست عدل‌بندی"
+      ],
+      "key_markets": "هندوستان، امارات، روسیه، قزاقستان"
+    },
+    "خرما": {
+      "hs_code": "0804.10",
+      "title_en": "Fresh or Dried Dates (Mazafati, Piarom, Zahedi)",
+      "packaging": "جعبه‌های مادر ۵۰۰ گرمی در کارتن‌های ۵ کیلویی (مضافتی) یا فله ۱۰ کیلویی (زاهدی)",
+      "reefer_temp": "۴ الی ۵- درجه سانتی‌گراد برای مضافتی تازه | دمای محیط خنک برای پیارم و زاهدی خشک",
+      "shelf_life": "۱۲ تا ۱۸ ماه",
+      "documents": [
+        "گواهی بهداشت غذا و دارو (FDA / Health Certificate)",
+        "گواهی حلال (Halal Certificate)",
+        "گواهی بهداشت نباتی و ضدعفونی گاز متیل بروماید (Fumigation Certificate)",
+        "گواهی استاندارد اجباری ایران"
+      ],
+      "key_markets": "هندوستان، ترکیه، روسیه، مالزی، آلمان، امارات"
+    },
+    "پسته": {
+      "hs_code": "0802.51",
+      "title_en": "Pistachios in Shell (Akbari, Ahmad Aghaei, Fandoghi)",
+      "packaging": "کیسه‌های پروپیلن ۲۵ و ۵۰ کیلویی یا کارتن‌های لمینت ۱۰ کیلویی وکیوم",
+      "reefer_temp": "۵ الی ۱۰+ درجه سانتی‌گراد در محیط کاملاً خشک (رطوبت زیر ۶۵٪)",
+      "shelf_life": "۱۲ تا ۲۴ ماه",
+      "documents": [
+        "گواهی معتبر آزمایشگاهی عدم وجود آفلاتوکسین (Aflatoxin B1 & Total زیر حد مجاز اتحادیه اروپا/حوزه خلیج)",
+        "گواهی مبدأ و استاندارد صادراتی",
+        "گواهی ضدعفونی و بهداشت نباتی"
+      ],
+      "key_markets": "آلمان و اتحادیه اروپا، چین، امارات، هند، ترکیه"
+    },
+    "گوجه": {
+      "hs_code": "0702.00",
+      "title_en": "Fresh Tomatoes (Greenhouse & Field)",
+      "packaging": "سبدهای پلاستیکی ۵ تا ۷ کیلویی با فوم ضدضربه یا کارتن‌های مقاوم صادراتی",
+      "reefer_temp": "۸ الی ۱۲+ درجه سانتی‌گراد (سرمازدگی زیر ۷ درجه باعث فساد بافت می‌شود)",
+      "shelf_life": "۱۰ الی ۱۵ روز",
+      "documents": [
+        "گواهی عدم آلودگی به ویروس چروکیدگی قهوه‌ای گوجه (ToBRFV-Free)",
+        "گواهی بهداشت نباتی",
+        "گواهی مبدأ و CMR"
+      ],
+      "key_markets": "عراق، روسیه، امارات، قطر، عمان"
+    },
+    "پیاز": {
+      "hs_code": "0703.10",
+      "title_en": "Fresh Onions (Yellow, Red, White)",
+      "packaging": "کیسه‌های توری راشل ۲۰ و ۲۵ کیلویی تهویه‌دار",
+      "reefer_temp": "۰ الی ۴+ درجه سانتی‌گراد با تهویه هوای خشک (رطوبت بالا باعث جوانه‌زنی می‌شود)",
+      "shelf_life": "۲ تا ۴ ماه",
+      "documents": [
+        "گواهی سلامت نباتی سازمان جهاد کشاورزی",
+        "گواهی مبدأ اتاق بازرگانی",
+        "بارنامه و پکینگ لیست"
+      ],
+      "key_markets": "عراق، عمان، کویت، امارات، روسیه"
+    }
+  }
+};
+
+// Client-side High-Precision Execution Engine for Cloudflare Pages / Offline hosting
+(function() {
+  const data = window.B2B_ENGINE_DATA;
+  if (!data) return;
+
+  function cleanName(raw) {
+    if (!raw) return '';
+    return raw.replace(/\(.*?\)|\[.*?\]/g, '').trim() || raw;
+  }
+
+  function enrich(item, country, query, mode) {
+    const rawName = item.name || '';
+    const cleanEn = item.name_en || cleanName(rawName);
+    const encCoEn = encodeURIComponent(cleanEn);
+
+    // 1. Direct or High-Precision Company Search URL
+    let coUrl = item.linkedin_company_url;
+    if (!coUrl || coUrl.includes('search/results/companies')) {
+      coUrl = 'https://www.linkedin.com/search/results/companies/?keywords=' + encCoEn;
+    }
+
+    // 2. Direct In-LinkedIn People Search (opens directly in LinkedIn)
+    let inLinkedInPeopleUrl = '';
+    let qDork = '';
+    let dmTitle = '';
+
+    if (mode === 'job' || mode === 'jobs') {
+      inLinkedInPeopleUrl = 'https://www.linkedin.com/search/results/people/?keywords=' + encodeURIComponent(cleanEn + ' HR Recruiter Talent Acquisition');
+      qDork = 'site:linkedin.com/in "' + cleanEn + '" ("HR" OR "Recruiter" OR "Talent Acquisition" OR "Hiring Manager")';
+      dmTitle = 'شکارچی مدیر استخدام و کارگزینی در لینکدین (HR & Recruiter)';
+    } else {
+      inLinkedInPeopleUrl = 'https://www.linkedin.com/search/results/people/?keywords=' + encodeURIComponent(cleanEn + ' Procurement Purchasing Buyer');
+      qDork = 'site:linkedin.com/in "' + cleanEn + '" ("Procurement" OR "Purchasing" OR "Buyer" OR "Supply Chain" OR "Managing Director" OR "Owner")';
+      dmTitle = 'شکارچی مدیر خرید و بازرگانی در لینکدین (Procurement)';
+    }
+
+    // 3. Google X-Ray Search URL
+    const googleDorkUrl = 'https://www.google.com/search?q=' + encodeURIComponent(qDork);
+
+    // 4. LinkedIn Jobs Search
+    const skillEn = (data.skillTranslations && data.skillTranslations[query]) || query;
+    let countryEn = country;
+    if (country.includes('عراق')) countryEn = 'Iraq';
+    else if (country.includes('امارات')) countryEn = 'United Arab Emirates';
+    else if (country.includes('آلمان')) countryEn = 'Germany';
+    else if (country.includes('عمان')) countryEn = 'Oman';
+    else if (country.includes('ایران')) countryEn = 'Iran';
+    else if (country.includes('ترکیه')) countryEn = 'Turkey';
+    else if (country.includes('روسیه')) countryEn = 'Russia';
+    else if (country.includes('هندوستان')) countryEn = 'India';
+
+    const jobsUrl = 'https://www.linkedin.com/jobs/search/?keywords=' + encodeURIComponent(skillEn) + '&location=' + encodeURIComponent(countryEn);
+
+    // 5. Official Business Registry verification
+    let regUrl = '';
+    let regTitle = '';
+    if (country.includes('ایران')) {
+      regUrl = 'https://ilenc.ssaa.ir/';
+      regTitle = 'استعلام شناسه ملی و روزنامه رسمی ایران';
+    } else if (country.includes('عراق')) {
+      regUrl = 'https://mot.gov.iq/';
+      regTitle = 'استعلام وزارت بازرگانی و شرکت‌های عراق';
+    } else if (country.includes('امارات')) {
+      regUrl = 'https://ner.economy.ae/';
+      regTitle = 'استعلام ثبت شرکت و DED امارات (NER)';
+    } else if (country.includes('آلمان')) {
+      regUrl = 'https://www.handelsregister.de/';
+      regTitle = 'استعلام ثبت تجاری آلمان (Handelsregister)';
+    } else if (country.includes('عمان')) {
+      regUrl = 'https://www.business.gov.om/';
+      regTitle = 'استعلام ثبت تجاری عمان (Invest Easy)';
+    } else if (country.includes('ترکیه')) {
+      regUrl = 'https://www.ticaretsicil.gov.tr/';
+      regTitle = 'استعلام روزنامه ثبت تجاری ترکیه (Sicil)';
+    } else if (country.includes('روسیه')) {
+      regUrl = 'https://egrul.nalog.ru/';
+      regTitle = 'استعلام ثبت دولتی مالیات و شرکت‌های روسیه (EGRUL)';
+    } else if (country.includes('هندوستان')) {
+      regUrl = 'https://www.mca.gov.in/content/mca/global/en/home.html';
+      regTitle = 'استعلام وزارت امور شرکتی هند (MCA)';
+    } else {
+      regUrl = 'https://www.google.com/search?q=' + encodeURIComponent(cleanEn + ' company registration chamber of commerce');
+      regTitle = 'استعلام اصالت و ثبت در اتاق بازرگانی ' + country;
+    }
+
+    return Object.assign({}, item, {
+      clean_name: cleanEn,
+      name_en: cleanEn,
+      linkedin_company_url: coUrl,
+      linkedin_people_url: inLinkedInPeopleUrl,
+      linkedin_dork_url: googleDorkUrl,
+      linkedin_dm_title: dmTitle,
+      linkedin_jobs_url: jobsUrl,
+      registry_url: regUrl,
+      registry_title: regTitle
+    });
+  }
+
+  data.search = function(mode, country, query) {
+    const isJob = (mode === 'job' || mode === 'jobs');
+    const pool = isJob ? (data.countryJobDirectories || {}) : (data.countryDirectories || {});
+    let list = pool[country] || [];
+
+    if (!list.length) {
+      for (const k in pool) {
+        if (country.includes(k) || k.includes(country)) {
+          list = pool[k];
+          break;
+        }
+      }
+    }
+    if (!list.length) {
+      list = pool['امارات'] || pool['عراق'] || pool['ایران'] || [];
+    }
+
+    const enriched = list.slice(0, 10).map(function(item) {
+      return enrich(item, country, query, mode);
+    });
+
+    let hsInfo = null;
+    if (data.hsCodeDatabase) {
+      for (const p in data.hsCodeDatabase) {
+        if (query.includes(p) || p.includes(query)) {
+          hsInfo = Object.assign({ product: p }, data.hsCodeDatabase[p]);
+          break;
+        }
+      }
+    }
+
+    return {
+      results: enriched,
+      hs_info: hsInfo,
+      mode: mode,
+      country: country,
+      query: query
+    };
+  };
+
+  data.getDorks = function(country, product) {
+    let cEn = country;
+    if (country.includes('عراق')) cEn = 'Iraq Baghdad Erbil Basra';
+    else if (country.includes('امارات')) cEn = 'UAE Dubai';
+    else if (country.includes('آلمان')) cEn = 'Germany';
+    else if (country.includes('عمان')) cEn = 'Oman Muscat';
+    else if (country.includes('ایران')) cEn = 'Iran';
+    else if (country.includes('روسیه')) cEn = 'Russia Moscow';
+    else if (country.includes('ترکیه')) cEn = 'Turkey Istanbul Mersin';
+    else if (country.includes('هندوستان')) cEn = 'India Mumbai Delhi';
+
+    const pEn = (data.productTranslations && data.productTranslations[product]) || product;
+
+    return {
+      country: country,
+      product: product,
+      dorks: [
+        {
+          title: 'مدیران خرید، تأمین و بازرگانی در لینکدین برای ' + product + ' در ' + country,
+          dork: 'site:linkedin.com/in ("' + pEn + '" OR "produce" OR "fruits") ("Procurement Manager" OR "Purchasing Director" OR "Head of Supply Chain") "' + cEn + '"',
+          purpose: 'کشف مستقیم هویت، نام و پروفایل لینکدین تصمیم‌گیرندگان خرید کالا بدون واسطه‌ها'
+        },
+        {
+          title: 'مدیران استخدام و کارگزینی (HR & Recruiter) در لینکدین برای ' + country,
+          dork: 'site:linkedin.com/in ("HR Manager" OR "Talent Acquisition" OR "Technical Recruiter") "' + cEn + '" ("hiring" OR "jobs")',
+          purpose: 'دستیابی به کارشناسان جذب نیرو و ویزای کار در کشور مقصد'
+        },
+        {
+          title: 'پرتال‌ها و دایرکتوری‌های رسمی واردکنندگان ' + product + ' در ' + country,
+          dork: 'site:gov.* OR site:org.* OR inurl:directory "' + pEn + '" ("importers" OR "wholesalers") "' + cEn + '" -b2b',
+          purpose: 'کشف دایرکتوری‌های دولتی و اتاق‌های بازرگانی بدون واسطه‌ها'
+        },
+        {
+          title: 'فایل‌های اکسل و PDF مانیفست‌های گمرکی واردات در ' + country,
+          dork: 'filetype:xlsx OR filetype:pdf "' + pEn + '" "importer" "' + cEn + '" ("Bill of Lading" OR "Customs")',
+          purpose: 'دستیابی به اسناد بارنامه‌های گمرکی واقعی خریداران پای باسکول'
+        }
+      ]
+    };
+  };
+
+  data.getHsCodes = function() {
+    return { all_products: data.hsCodeDatabase || {} };
+  };
+
+  data.calculateFreight = function(req) {
+    const cargo_kg = parseFloat(req.cargo_weight_kg) || 24000;
+    const purchase_toman = cargo_kg * (parseFloat(req.purchase_price_toman) || 24000);
+    const packaging_toman = cargo_kg * (parseFloat(req.packaging_toman) || 3500);
+    const domestic_transport = parseFloat(req.transport_iran_toman) || 40000000;
+    const customs_toman = parseFloat(req.customs_toman) || 35000000;
+    const usd_to_toman = parseFloat(req.usd_to_toman) || 94000;
+    const transit_usd = parseFloat(req.transit_usd) || 1400;
+    const usd_to_iqd = parseFloat(req.usd_to_iqd) || 1520;
+    const selling_price_usd_kg = parseFloat(req.selling_price_usd_kg) || 0.55;
+
+    const total_cost_toman = purchase_toman + packaging_toman + domestic_transport + customs_toman;
+    const total_cost_usd_ex_transit = total_cost_toman / usd_to_toman;
+    const total_cost_usd = total_cost_usd_ex_transit + transit_usd;
+
+    const gross_revenue_usd = cargo_kg * selling_price_usd_kg;
+    const net_profit_usd = gross_revenue_usd - total_cost_usd;
+    const net_profit_toman = net_profit_usd * usd_to_toman;
+    const net_profit_iqd = (net_profit_usd / 100.0) * usd_to_iqd;
+    const roi_percent = total_cost_usd > 0 ? (net_profit_usd / total_cost_usd * 100.0) : 0;
+
+    return {
+      total_cost_usd: Math.round(total_cost_usd * 100) / 100,
+      total_cost_toman: Math.round(total_cost_toman),
+      gross_revenue_usd: Math.round(gross_revenue_usd * 100) / 100,
+      net_profit_usd: Math.round(net_profit_usd * 100) / 100,
+      net_profit_toman: Math.round(net_profit_toman),
+      net_profit_iqd: Math.round(net_profit_iqd),
+      net_profit_aed: Math.round(net_profit_usd * 3.6725),
+      net_profit_eur: Math.round(net_profit_usd * 0.92),
+      net_profit_try: Math.round(net_profit_usd * 34.2),
+      net_profit_rub: Math.round(net_profit_usd * 96.5),
+      roi_percent: Math.round(roi_percent * 10) / 10,
+      cost_per_kg_usd: Math.round((total_cost_usd / cargo_kg) * 1000) / 1000
+    };
+  };
+
+  data.generateProforma = function(req) {
+    const piId = 'PI-' + Math.floor(Date.now() / 1000);
+    const piDate = new Date().toISOString().split('T')[0];
+    const qty = parseFloat(req.quantity_kg) || 24000;
+    const unitPrice = parseFloat(req.unit_price_usd) || 0.55;
+    const totalAmount = qty * unitPrice;
+
+    const text = '======================================================================\n' +
+                 '                 PROFORMA INVOICE / فاتورة مبدئية\n' +
+                 '======================================================================\n' +
+                 'Invoice No:    ' + piId + '\n' +
+                 'Date:          ' + piDate + '\n' +
+                 'Payment Terms: 100% Advance via Hawala / Exchange Office / Bank Transfer\n' +
+                 'Delivery Terms:' + (req.delivery_terms || '') + '\n' +
+                 '----------------------------------------------------------------------\n' +
+                 'EXPORTER / B2B SELLER:\n' +
+                 'Name:          ' + (req.exporter_name || '') + '\n' +
+                 'Direct Phone:  ' + (req.exporter_phone || '') + '\n' +
+                 'Official Email:' + (req.exporter_email || '') + '\n' +
+                 'Website:       ' + (req.exporter_site || '') + '\n' +
+                 '\n' +
+                 'BUYER / IMPORTER:\n' +
+                 'Company:       ' + (req.buyer_name || '') + '\n' +
+                 'Country:       ' + (req.buyer_country || '') + '\n' +
+                 '----------------------------------------------------------------------\n' +
+                 'COMMODITY SPECIFICATIONS:\n' +
+                 'Description:   ' + (req.item_name || '') + '\n' +
+                 'Total Weight:  ' + qty.toLocaleString() + ' KG (approx. 1 Full Truckload)\n' +
+                 'Unit Price:    $' + unitPrice.toFixed(2) + ' USD / KG\n' +
+                 '----------------------------------------------------------------------\n' +
+                 'TOTAL AMOUNT:  $' + totalAmount.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2}) + ' USD\n' +
+                 '======================================================================\n' +
+                 'Authorized Signature & Official Stamp:\n' +
+                 (req.exporter_name || '') + ' - International Trade & Border Hub Division\n';
+
+    return {
+      invoice_no: piId,
+      date: piDate,
+      total_amount_usd: Math.round(totalAmount * 100) / 100,
+      invoice_text: text
+    };
+  };
+})();
