@@ -76,115 +76,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Senior HSE Engineer (Project) - Offshore",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-hse-engineer-project-offshore-at-penspen-4476027728",
-    "description": "",
-    "published": "2026-10-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Bureau Veritas",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-bureau-veritas-4477527393",
-    "description": "",
-    "published": "2026-10-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "contact@bureau.com"
-    ],
-    "phones": [],
-    "emails_source": "bureau.com",
-    "about": " "
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Parsons Corporation",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-parsons-corporation-4471445946",
-    "description": "",
-    "published": "2026-09-27",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "cybersecurity@parsons.com"
-    ],
-    "phones": [
-      "+17039888500"
-    ],
-    "emails_source": "parsons.com",
-    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Nova International General Contracting L.L.C",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687",
-    "description": "",
-    "published": "2026-10-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Health and Safety Engineer",
     "company": "WSP in the Middle East",
     "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -228,8 +119,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "infodesk@larsentoubro.com"
+    ],
+    "phones": [],
+    "emails_source": "larsentoubro.com"
   },
   {
     "source": "linkedin",
@@ -276,8 +170,12 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "info@astek.com"
+    ],
+    "phones": [],
+    "emails_source": "astek.com",
+    "about": "Translation missing: en.sections.slideshow.pause_slideshow Translation missing: en.sections.slideshow.play_slideshow ![Image 3](https://www.astek.com/) ## Opaline Opaline is a study in restraint—where texture, light, and"
   },
   {
     "source": "linkedin",
@@ -287,6 +185,34 @@
     "url": "https://sa.linkedin.com/jobs/view/hse-engineer-site-at-egis-4478535526",
     "description": "",
     "published": "2026-10-14",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "enquiries@egis.com"
+    ],
+    "phones": [],
+    "emails_source": "egis.com",
+    "about": "Your name * Email * Describe your issue [Send message](javascript:;) We'll get back to you as soon as possible."
+  },
+  {
+    "source": "gulftalent_uae",
+    "title": "Consultant HSE Engineer",
+    "company": "J10 Consulting",
+    "location": "Abu Dhabi",
+    "url": "https://www.gulftalent.com/uae/jobs/consultant-hse-engineer-648605",
+    "description": "",
+    "published": "20 Oct",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -573,6 +499,75 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Officer",
+    "company": "Target Engineering Construction Co LLC",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-target-engineering-construction-co-llc-4468979575",
+    "description": "",
+    "published": "2026-09-23",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Lead",
+    "company": "Parsons Corporation",
+    "location": "Tabūk, Tabuk, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-lead-at-parsons-corporation-4479823260",
+    "description": "",
+    "published": "2026-10-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Manager",
+    "company": "Huntsman Corporation",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711",
+    "description": "",
+    "published": "2026-09-29",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "ehs"
     ],
     "desc_hits": [],
     "gulf_onsite": true,

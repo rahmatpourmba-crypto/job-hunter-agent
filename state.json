@@ -9797,6 +9797,24 @@
       "company": "IdeaSoft.io",
       "source": "linkedin",
       "first_seen": "2026-10-20"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-officer-at-larsen-toubro-4476359225": {
+      "title": "EHS Officer",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/156080-backend-engineer-ruby-plan-spec-driven-development": {
+      "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/156092-senior-revenue-accountant": {
+      "title": "Senior Revenue Accountant",
+      "company": "Cologix, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
     }
   },
   "applied": {
