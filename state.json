@@ -9755,6 +9755,48 @@
       "company": "ExtraHop",
       "source": "jobicy",
       "first_seen": "2026-10-20"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-director-at-parsons-corporation-4481556689": {
+      "title": "HSE Director",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/156011-rvp-enterprise-sales-leader": {
+      "title": "RVP, Enterprise Sales Leader",
+      "company": "Ironclad",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/155974-principal-product-manager-identity-trust": {
+      "title": "Principal Product Manager, Identity & Trust",
+      "company": "Life360",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/156002-territory-partner-manager-mi-il-in-oh": {
+      "title": "Territory Partner Manager (MI, IL, IN, OH)",
+      "company": "Nextiva",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/155993-solutions-engineer-financial-audit": {
+      "title": "Solutions Engineer, Financial Audit",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/155988-staff-software-engineer-full-stack-backend": {
+      "title": "Staff Software Engineer (Full-stack/Backend)",
+      "company": "hims &#038; hers",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://ae.linkedin.com/jobs/view/blockchain-protocol-architect-at-ideasoft-io-4481754068": {
+      "title": "Blockchain Protocol Architect",
+      "company": "IdeaSoft.io",
+      "source": "linkedin",
+      "first_seen": "2026-10-20"
     }
   },
   "applied": {
