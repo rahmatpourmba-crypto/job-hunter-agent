@@ -9623,6 +9623,102 @@
       "company": "Coinbase",
       "source": "linkedin",
       "first_seen": "2026-10-20"
+    },
+    "https://www.gulftalent.com/uae/jobs/consultant-hse-engineer-648605": {
+      "title": "Consultant HSE Engineer",
+      "company": "J10 Consulting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-20"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-parsons-corporation-4481565494": {
+      "title": "HSE Officer",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-20"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4481577035": {
+      "title": "HSE Officer (UAE National)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-20"
+    },
+    "https://weworkremotely.com/remote-jobs/carrot-director-information-security": {
+      "title": "Carrot: Director, Information Security",
+      "company": "Carrot",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/151120-enterprise-account-executive-9": {
+      "title": "Enterprise Account Executive",
+      "company": "Socket",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/153632-sales-director-namer-us": {
+      "title": "Sales Director, NAMER | US",
+      "company": "Degreed",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/153638-data-engineer-fedd024": {
+      "title": "Data Engineer (FedD024)",
+      "company": "Defense Unicorns",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/153626-professional-services-engineer-ii-west": {
+      "title": "Professional Services Engineer II - West",
+      "company": "Tines",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/153628-associate-director-b2b-strategy": {
+      "title": "Associate Director, B2B Strategy",
+      "company": "Wpromote",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry": {
+      "title": "Celonis: Client Value Partner (CVP) - Utilities & Energy Industry",
+      "company": "Celonis",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-20"
+    },
+    "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry": {
+      "title": "Celonis: Client Value Partner (CVP) - Oil & Gas Industry",
+      "company": "Celonis",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/151116-senior-account-executive-us-west-coast": {
+      "title": "Senior Account Executive (US, West Coast)",
+      "company": "emnify",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/153646-business-development-manager-baden-wurttemberg": {
+      "title": "Business Development Manager (Baden-Württemberg)",
+      "company": "Ajax Systems",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/153657-software-architect-gn-data-intelligence-2": {
+      "title": "Software Architect [gn] Data Intelligence",
+      "company": "Actian",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://jobicy.com/jobs/153680-sales-compensation-analyst-2": {
+      "title": "Sales Compensation Analyst",
+      "company": "Semperis",
+      "source": "jobicy",
+      "first_seen": "2026-10-20"
+    },
+    "https://ae.linkedin.com/jobs/view/global-asset-tokenization-principal-at-fundshing-4478678105": {
+      "title": "Global Asset Tokenization Principal",
+      "company": "Fundshing",
+      "source": "linkedin",
+      "first_seen": "2026-10-20"
     }
   },
   "applied": {
@@ -10675,6 +10771,13 @@
       "to": "Recruiting@Tenable.com",
       "title": "Senior AI Information Security Engineer",
       "company": "Tenable"
+    },
+    "https://weworkremotely.com/remote-jobs/carrot-director-information-security::email": {
+      "date": "2026-10-20 11:59",
+      "via": "email",
+      "to": "securityreporting@get-carrot.com",
+      "title": "Carrot: Director, Information Security",
+      "company": "Carrot"
     }
   },
   "sent": {
@@ -11312,6 +11415,11 @@
       "kind": "email",
       "to": "Recruiting@Tenable.com",
       "date": "2026-10-19 22:36"
+    },
+    "https://weworkremotely.com/remote-jobs/carrot-director-information-security": {
+      "kind": "email",
+      "to": "securityreporting@get-carrot.com",
+      "date": "2026-10-20 11:59"
     }
   },
   "replies": []
