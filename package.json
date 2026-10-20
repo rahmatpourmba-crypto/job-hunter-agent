@@ -1,0 +1,8 @@
+﻿{
+  "name": "job-hunter-agent",
+  "version": "1.0.0",
+  "description": "Global Career & B2B Commodity Export Platform",
+  "scripts": {
+    "build": "echo Build complete"
+  }
+}
