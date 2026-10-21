@@ -10013,6 +10013,48 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-10-21"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-officer-manufacturing-649183": {
+      "title": "HSE Officer - Manufacturing",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156233-it-operations-manager": {
+      "title": "IT Operations Manager",
+      "company": "Cordance",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156214-sr-it-systems-engineer-2": {
+      "title": "Sr. IT Systems Engineer",
+      "company": "Carrot",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote": {
+      "title": "Senior Platform Engineer - US Remote",
+      "company": "PerfectServe",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156242-functional-consultant-contact-center": {
+      "title": "Functional Consultant - Contact Center",
+      "company": "Caylent",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156248-regional-sales-director-singapore": {
+      "title": "Regional Sales Director, Singapore",
+      "company": "Cribl",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156236-regional-sales-director-commercial-latam": {
+      "title": "Regional Sales Director, Commercial - LATAM",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
     }
   },
   "applied": {
