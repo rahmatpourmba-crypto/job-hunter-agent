@@ -239,14 +239,19 @@
       const [gmapsBusinessType, setGmapsBusinessType] = useState("");
       const [gmapsCity, setGmapsCity] = useState("");
 
-            // VIP Membership, Card-to-Card Payment & Expiration System (+989141688217)
+            // VIP Membership, Card-to-Card Payment, Expiration & Owner System (+989141688217)
       const BANK_CARD = "6037701616939556";
       const BANK_CARD_FORMATTED = "6037 - 7016 - 1693 - 9556";
       const BANK_OWNER = "عبدالباسط رحمت پور";
       const BANK_NAME = "بانک کشاورزی (عضو شتاب)";
 
+      const [isOwner, setIsOwner] = useState(() => {
+        try { return localStorage.getItem("b2b_is_owner") === "true"; } catch(e) { return false; }
+      });
+
       const [isVip, setIsVip] = useState(() => {
         try {
+          if (localStorage.getItem("b2b_is_owner") === "true") return true;
           const status = localStorage.getItem("b2b_vip_status") === "true";
           const expiry = parseInt(localStorage.getItem("b2b_vip_expiry") || "0");
           if (status) {
@@ -261,11 +266,17 @@
           return false;
         } catch(e) { return false; }
       });
+
       const [vipPlanName, setVipPlanName] = useState(() => {
-        try { return localStorage.getItem("b2b_vip_plan") || ""; } catch(e) { return ""; }
+        try { 
+          if (localStorage.getItem("b2b_is_owner") === "true") return "مدیر ارشد سامانه";
+          return localStorage.getItem("b2b_vip_plan") || ""; 
+        } catch(e) { return ""; }
       });
+
       const [vipDaysLeft, setVipDaysLeft] = useState(() => {
         try {
+          if (localStorage.getItem("b2b_is_owner") === "true") return 9999;
           const expiry = parseInt(localStorage.getItem("b2b_vip_expiry") || "0");
           if (expiry > 0) {
             const diff = expiry - Date.now();
@@ -274,6 +285,7 @@
           return 0;
         } catch(e) { return 0; }
       });
+
       const [showVipModal, setShowVipModal] = useState(false);
       const [selectedPlan, setSelectedPlan] = useState("30"); // "30" or "365"
       const [vipInputCode, setVipInputCode] = useState("");
@@ -399,6 +411,29 @@
       useEffect(() => {
         executeSearch();
       }, [searchMode]);
+
+      // Auto-unlock Owner / Super Admin mode permanently via URL (?owner, ?admin, #admin, #owner)
+      useEffect(() => {
+        try {
+          const urlParams = new URLSearchParams(window.location.search);
+          const hasOwnerKey = urlParams.has("owner") || urlParams.has("admin") || urlParams.get("key") === "98914" || window.location.hash.includes("owner") || window.location.hash.includes("admin");
+          if (hasOwnerKey) {
+            localStorage.setItem("b2b_is_owner", "true");
+            localStorage.setItem("b2b_vip_status", "true");
+            localStorage.setItem("b2b_vip_expiry", "9999999999999");
+            localStorage.setItem("b2b_vip_plan", "مدیر ارشد سامانه (Super Admin)");
+            localStorage.setItem("b2b_active_code", "OWNER-PERMANENT");
+            setIsOwner(true);
+            setIsVip(true);
+            setVipPlanName("مدیر ارشد سامانه");
+            setVipDaysLeft(9999);
+            showToast("👑 خوش آمدید جناب رحمت پور! دسترسی دائمی مدیر ارشد فعال شد.");
+            if (window.history && window.history.replaceState) {
+              window.history.replaceState({}, document.title, window.location.pathname);
+            }
+          }
+        } catch(e) {}
+      }, []);
 
       const showToast = (msg) => {
         setToastMsg(msg);
@@ -2363,76 +2398,137 @@ https://meet.google.com/new`}
             </a>
           </div>
 
-          {/* ================= VIP & PAYWALL MODAL ================= */}
+          {/* ================= VIP & CARD-TO-CARD PAYMENT MODAL ================= */}
           {showVipModal && (
-            <div className="fixed inset-0 bg-black/80 backdrop-blur-md flex items-center justify-center p-4 z-50 animate-fadeIn">
-              <div className="glass-card max-w-lg w-full p-6 sm:p-8 rounded-3xl border border-amber-500/40 shadow-2xl relative">
+            <div className="fixed inset-0 bg-black/85 backdrop-blur-md flex items-center justify-center p-3 sm:p-4 z-50 animate-fadeIn overflow-y-auto">
+              <div className="glass-card max-w-lg w-full p-5 sm:p-7 rounded-3xl border border-amber-500/50 shadow-2xl relative my-auto">
                 <button
                   onClick={() => setShowVipModal(false)}
-                  className="absolute top-4 left-4 text-slate-400 hover:text-white text-lg p-2 transition-colors"
+                  className="absolute top-4 left-4 text-slate-400 hover:text-white text-lg p-2 transition-colors z-10"
                 >
                   ✕
                 </button>
 
-                <div className="text-center mb-6">
-                  <div className="w-16 h-16 rounded-2xl bg-gradient-to-tr from-amber-500 to-yellow-400 flex items-center justify-center text-slate-950 font-black text-2xl mx-auto mb-3 shadow-xl shadow-amber-500/30">
+                {/* Header */}
+                <div className="text-center mb-5">
+                  <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-amber-500 to-yellow-400 flex items-center justify-center text-slate-950 font-black text-2xl mx-auto mb-2.5 shadow-xl shadow-amber-500/30">
                     👑
                   </div>
                   <h3 className="text-xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-yellow-200 to-amber-400">
-                    دسترسی به دیتابیس کامل و پنل VIP
+                    درگاه پرداخت کارت به کارت و فعال‌سازی VIP
                   </h3>
-                  <p className="text-xs sm:text-sm text-slate-300 mt-2 leading-relaxed">
-                    شما در حال حاضر در نسخه آزمایشی (مشاهده ۲ خریدار اول) هستید. جهت باز شدن تمامی ۵۰ خریدار، تلفن‌های مستقیم، ایمیل‌های تجاری و دانلود اکسل، اشتراک VIP خود را فعال کنید.
+                  <p className="text-xs text-slate-300 mt-1.5 leading-relaxed">
+                    جهت دسترسی به دیتابیس کامل خریداران خارجی، تلفن‌ها، ایمیل‌های مستقیم و دانلود نامحدود اکسل
                   </p>
                 </div>
 
-                <div className="bg-slate-900/80 border border-slate-800 rounded-2xl p-4 mb-5 space-y-2.5 text-xs text-slate-200">
-                  <div className="flex items-center gap-2 text-emerald-400 font-semibold">
-                    <span>✓</span>
-                    <span>باز شدن تمام شماره تماس‌ها و ایمیل‌های اختصاصی خریداران</span>
+                {/* Plan Selection Tabs */}
+                <div className="grid grid-cols-2 gap-2 mb-4">
+                  <button
+                    type="button"
+                    onClick={() => setSelectedPlan("30")}
+                    className={`p-3 rounded-2xl border text-right transition-all flex flex-col justify-between ${
+                      selectedPlan === "30"
+                        ? "bg-amber-500/15 border-amber-500 ring-2 ring-amber-500/30"
+                        : "bg-slate-900/60 border-slate-800 hover:border-slate-700"
+                    }`}
+                  >
+                    <div className="flex items-center justify-between">
+                      <span className="text-xs font-bold text-white">اشتراک ۱ ماهه</span>
+                      <span className="text-[10px] bg-amber-500/20 text-amber-300 px-2 py-0.5 rounded-full font-mono font-bold">۳۰ روزه</span>
+                    </div>
+                    <div className="mt-2 text-base font-extrabold text-amber-400">
+                      ۳۹۰,۰۰۰ <span className="text-[10px] font-normal text-slate-400">تومان</span>
+                    </div>
+                  </button>
+
+                  <button
+                    type="button"
+                    onClick={() => setSelectedPlan("365")}
+                    className={`p-3 rounded-2xl border text-right transition-all flex flex-col justify-between relative overflow-hidden ${
+                      selectedPlan === "365"
+                        ? "bg-amber-500/15 border-amber-500 ring-2 ring-amber-500/30"
+                        : "bg-slate-900/60 border-slate-800 hover:border-slate-700"
+                    }`}
+                  >
+                    <div className="absolute -top-2 -left-8 bg-emerald-500 text-slate-950 text-[9px] font-black py-1 px-8 rotate-[-35deg]">
+                      تخفیف ویژه
+                    </div>
+                    <div className="flex items-center justify-between">
+                      <span className="text-xs font-bold text-white">اشتراک ۱ ساله</span>
+                      <span className="text-[10px] bg-emerald-500/20 text-emerald-300 px-2 py-0.5 rounded-full font-mono font-bold">۳۶۵ روزه</span>
+                    </div>
+                    <div className="mt-2 text-base font-extrabold text-emerald-400">
+                      ۷۹۰,۰۰۰ <span className="text-[10px] font-normal text-slate-400">تومان</span>
+                    </div>
+                  </button>
+                </div>
+
+                {/* Smart Bank Card Display */}
+                <div className="bg-gradient-to-br from-amber-700 via-amber-800 to-yellow-950 p-4 rounded-2xl border border-amber-400/40 shadow-xl mb-4 relative overflow-hidden text-white">
+                  <div className="flex justify-between items-center mb-3">
+                    <span className="text-xs font-bold tracking-wider text-amber-200">کارت بانکی شتاب ({BANK_NAME})</span>
+                    <span className="text-xs font-mono bg-black/40 px-2 py-0.5 rounded text-amber-300">SHETAB</span>
                   </div>
-                  <div className="flex items-center gap-2 text-emerald-400 font-semibold">
-                    <span>✓</span>
-                    <span>دسترسی به هوش لینکدین و اسامی تصمیم‌گیرندگان خرید</span>
+
+                  <div className="text-center my-2 font-mono text-lg sm:text-xl font-black tracking-widest text-amber-100 select-all" dir="ltr">
+                    {BANK_CARD_FORMATTED}
                   </div>
-                  <div className="flex items-center gap-2 text-emerald-400 font-semibold">
-                    <span>✓</span>
-                    <span>دانلود نامحدود فایل‌های اکسل (.xlsx) آماده برای CRM</span>
-                  </div>
-                  <div className="flex items-center gap-2 text-emerald-400 font-semibold">
-                    <span>✓</span>
-                    <span>پشتیبانی مستقیم و مشاوره اختصاصی صادراتی</span>
+
+                  <div className="flex justify-between items-end mt-3 text-xs">
+                    <div>
+                      <span className="text-[10px] text-amber-300/80 block">صاحب حساب:</span>
+                      <span className="font-extrabold text-amber-100">{BANK_OWNER}</span>
+                    </div>
+                    <button
+                      type="button"
+                      onClick={copyCardToClipboard}
+                      className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold px-3 py-1.5 rounded-xl text-xs flex items-center gap-1 transition-all shadow-md shadow-black/30"
+                    >
+                      {cardCopied ? "کپی شد! ✅" : "کپی شماره کارت 📋"}
+                    </button>
                   </div>
                 </div>
 
-                {/* WhatsApp & Call CTA */}
-                <div className="space-y-2.5 mb-6">
+                {/* Step 2: Tracking & WhatsApp Button */}
+                <div className="bg-slate-900/80 border border-slate-800 rounded-2xl p-3.5 mb-4 space-y-2.5">
+                  <div className="flex items-center justify-between text-xs text-slate-300">
+                    <span className="font-bold">مبلغ قابل پرداخت:</span>
+                    <span className="font-extrabold text-amber-400 text-sm">
+                      {selectedPlan === "30" ? "۳۹۰,۰۰۰ تومان" : "۷۹۰,۰۰۰ تومان"}
+                    </span>
+                  </div>
+
+                  <input
+                    type="text"
+                    value={trackingCode}
+                    onChange={(e) => setTrackingCode(e.target.value)}
+                    placeholder="شماره پیگیری واریز یا ۴ رقم آخر کارت شما (اختیاری)"
+                    className="w-full bg-slate-800/90 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-amber-500"
+                  />
+
                   <a
-                    href={getWhatsAppLink("سلام جناب صادقی، مایل به خرید و فعال‌سازی اکانت VIP سامانه تجارت و کاریابی هستم.")}
+                    href={getWhatsAppLink(
+                      `سلام جناب رحمت پور، مبلغ ${selectedPlan === "30" ? "۳۹۰,۰۰۰ تومان بابت اشتراک ۱ ماهه (کد VIP30)" : "۷۹۰,۰۰۰ تومان بابت اشتراک ۱ ساله (کد VIP365)"} به شماره کارت ۶۰۳۷۷۰۱۶۱۶۹۳۹۵۵۶ واریز شد.${trackingCode ? " شماره پیگیری: " + trackingCode : ""} لطفاً کد اختصاصی فعال‌سازی را ارسال فرمایید.`
+                    )}
                     target="_blank"
                     rel="noreferrer"
-                    className="w-full flex items-center justify-center gap-2 bg-gradient-to-r from-emerald-600 to-green-600 hover:from-emerald-500 hover:to-green-500 text-white font-bold py-3.5 px-6 rounded-2xl shadow-xl shadow-emerald-600/30 transition-all hover:scale-[1.02] text-sm text-center"
+                    className="w-full flex items-center justify-center gap-2 bg-gradient-to-r from-emerald-600 to-green-600 hover:from-emerald-500 hover:to-green-500 text-white font-bold py-3 px-4 rounded-xl shadow-lg shadow-emerald-600/30 transition-all text-xs text-center"
                   >
-                    <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0 0 12.04 2m.01 1.67c2.2 0 4.26.86 5.82 2.42a8.225 8.225 0 0 1 2.41 5.83c0 4.54-3.7 8.24-8.24 8.24-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.196 8.196 0 0 1-1.26-4.38c0-4.54 3.7-8.24 8.24-8.24m4.52 11.66c-.25-.13-1.47-.72-1.7-.81-.23-.08-.39-.13-.56.13-.17.25-.64.81-.79.97-.14.17-.29.19-.54.06-.25-.13-1.06-.39-2.03-1.24-.75-.67-1.26-1.5-1.41-1.75-.14-.25-.02-.39.11-.51.11-.11.25-.29.37-.43.13-.15.17-.25.25-.42.08-.17.04-.31-.02-.44-.06-.13-.56-1.34-.76-1.84-.2-.49-.4-.42-.56-.43h-.48c-.17 0-.44.06-.67.31-.23.25-.88.86-.88 2.1 0 1.24.9 2.44 1.03 2.61.13.17 1.78 2.71 4.3 3.8.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.47-.6 1.68-1.18.21-.58.21-1.07.15-1.18-.06-.1-.23-.17-.48-.29z"/></svg>
-                    <span>سفارش و استعلام آنی در واتساپ (۰۹۱۴۱۶۸۸۲۱۷)</span>
-                  </a>
-                  <a
-                    href="tel:+989141688217"
-                    className="w-full flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white py-2.5 px-4 rounded-xl border border-slate-700 text-xs font-semibold transition-all"
-                  >
-                    <span>📞 تماس تلفنی مستقیم: ۰۹۱۴۱۶۸۸۲۱۷</span>
+                    <svg className="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0 0 12.04 2m.01 1.67c2.2 0 4.26.86 5.82 2.42a8.225 8.225 0 0 1 2.41 5.83c0 4.54-3.7 8.24-8.24 8.24-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.196 8.196 0 0 1-1.26-4.38c0-4.54 3.7-8.24 8.24-8.24m4.52 11.66c-.25-.13-1.47-.72-1.7-.81-.23-.08-.39-.13-.56.13-.17.25-.64.81-.79.97-.14.17-.29.19-.54.06-.25-.13-1.06-.39-2.03-1.24-.75-.67-1.26-1.5-1.41-1.75-.14-.25-.02-.39.11-.51.11-.11.25-.29.37-.43.13-.15.17-.25.25-.42.08-.17.04-.31-.02-.44-.06-.13-.56-1.34-.76-1.84-.2-.49-.4-.42-.56-.43h-.48c-.17 0-.44.06-.67.31-.23.25-.88.86-.88 2.1 0 1.24.9 2.44 1.03 2.61.13.17 1.78 2.71 4.3 3.8.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.47-.6 1.68-1.18.21-.58.21-1.07.15-1.18-.06-.1-.23-.17-.48-.29z"/></svg>
+                    <span>ارسال فیش و درخواست کد فعال‌سازی در واتساپ (۰۹۱۴۱۶۸۸۲۱۷)</span>
                   </a>
                 </div>
 
-                {/* VIP Activation Code Form */}
-                <div className="pt-4 border-t border-slate-800">
-                  <label className="text-[11px] text-slate-400 block mb-1.5">کد فعال‌سازی VIP دارید؟ وارد کنید:</label>
+                {/* Step 3: Enter Activation Code */}
+                <div className="pt-3 border-t border-slate-800">
+                  <label className="text-[11px] text-slate-300 block mb-1.5 font-bold">کد فعال‌سازی اختصاصی خود را وارد نمایید:</label>
                   <div className="flex gap-2">
                     <input
                       type="text"
                       value={vipInputCode}
                       onChange={(e) => setVipInputCode(e.target.value)}
-                      placeholder="کد فعال‌سازی (مثلاً: VIP2026)"
+                      placeholder="مثال: VIP30-1 یا VIP365-1"
                       className="flex-1 bg-slate-800 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-amber-500 font-mono text-center tracking-wider"
                     />
                     <button
@@ -2442,12 +2538,110 @@ https://meet.google.com/new`}
                       تایید کد
                     </button>
                   </div>
-                  <p className="text-[10px] text-slate-500 mt-1.5 text-center">کد فعال‌سازی را پس از واریز از پشتیبانی دریافت نمایید.</p>
+                  <p className="text-[10px] text-slate-500 mt-1 text-center">کد اختصاصی پس از ارسال فیش، مستقیماً در واتساپ برای شما ارسال می‌شود.</p>
                 </div>
+
+                {/* Secret Admin Generator & Owner Master Key for Mr. Rahmatpour */}
+                <div className="mt-4 pt-2 border-t border-slate-800/60 text-center">
+                  {!showAdminPanel ? (
+                    <button
+                      type="button"
+                      onClick={() => setShowAdminPanel(true)}
+                      className="text-[10px] text-slate-500 hover:text-amber-400 transition-colors font-medium"
+                    >
+                      🔒 پنل مدیریت کل و صدور کد (جناب رحمت پور)
+                    </button>
+                  ) : (
+                    <div className="bg-slate-950/90 p-3.5 rounded-2xl border border-amber-500/40 text-xs mt-2">
+                      {!adminUnlocked ? (
+                        <div className="flex gap-2 items-center justify-center">
+                          <input
+                            type="password"
+                            value={adminPass}
+                            onChange={(e) => setAdminPass(e.target.value)}
+                            placeholder="رمز مدیر کل (۹۸۹۱۴)"
+                            className="bg-slate-900 border border-slate-700 rounded-xl px-3 py-1.5 text-xs text-white w-36 text-center focus:border-amber-500 focus:outline-none"
+                          />
+                          <button
+                            type="button"
+                            onClick={() => {
+                              if (["98914", "9556", "1234", "rahmatpour"].includes(adminPass.trim().toLowerCase())) {
+                                setAdminUnlocked(true);
+                              } else {
+                                showToast("❌ رمز نادرست است");
+                              }
+                            }}
+                            className="bg-amber-500 hover:bg-amber-400 text-slate-950 font-black px-3 py-1.5 rounded-xl text-xs"
+                          >
+                            ورود مدیر
+                          </button>
+                        </div>
+                      ) : (
+                        <div className="space-y-3">
+                          <div className="text-[11px] text-amber-300 font-extrabold flex items-center justify-center gap-1">
+                            <span>👑</span>
+                            <span>پنل اختصاصی مدیریت کل سامانه (جناب رحمت پور)</span>
+                          </div>
+
+                          {/* Instant 1-Click Owner Lifetime Unlock */}
+                          <button
+                            type="button"
+                            onClick={() => {
+                              localStorage.setItem("b2b_is_owner", "true");
+                              localStorage.setItem("b2b_vip_status", "true");
+                              localStorage.setItem("b2b_vip_expiry", "9999999999999");
+                              localStorage.setItem("b2b_vip_plan", "مدیر ارشد سامانه (Super Admin)");
+                              localStorage.setItem("b2b_active_code", "OWNER-PERMANENT");
+                              setIsOwner(true);
+                              setIsVip(true);
+                              setVipPlanName("مدیر ارشد سامانه");
+                              setVipDaysLeft(9999);
+                              showToast("👑 تبریک! دسترسی دائمی مدیر ارشد بدون نیاز به کد برای همیشه فعال شد.");
+                              setShowVipModal(false);
+                            }}
+                            className="w-full bg-gradient-to-r from-amber-500 to-yellow-400 hover:from-amber-400 hover:to-yellow-300 text-slate-950 font-black py-2.5 px-3 rounded-xl text-xs flex items-center justify-center gap-1.5 shadow-lg shadow-amber-500/30 transition-all hover:scale-[1.02]"
+                          >
+                            <span>👑</span>
+                            <span>فعال‌سازی دائمی حالت مدیر کل برای این مرورگر (بدون نیاز به بلیت)</span>
+                          </button>
+
+                          <div className="pt-2 border-t border-slate-800 text-[10px] text-slate-400 text-center">
+                            صدور کدهای غیرتکراری برای مشتریان:
+                          </div>
+
+                          <div className="flex gap-2 justify-center">
+                            <button
+                              type="button"
+                              onClick={() => generateUniqueCode("30")}
+                              className="bg-amber-600/80 hover:bg-amber-500 text-white font-bold px-2.5 py-1.5 rounded-xl text-[11px] transition-all flex-1"
+                            >
+                              + صدور کد ۱ ماهه (VIP30)
+                            </button>
+                            <button
+                              type="button"
+                              onClick={() => generateUniqueCode("365")}
+                              className="bg-emerald-600/80 hover:bg-emerald-500 text-white font-bold px-2.5 py-1.5 rounded-xl text-[11px] transition-all flex-1"
+                            >
+                              + صدور کد ۱ ساله (VIP365)
+                            </button>
+                          </div>
+
+                          {generatedCode && (
+                            <div className="p-2 bg-slate-900 rounded-xl border border-amber-500/40 font-mono text-amber-300 text-xs text-center select-all flex items-center justify-between">
+                              <span>کد: <strong>{generatedCode}</strong></span>
+                              <span className="text-[10px] bg-emerald-500/20 text-emerald-400 px-2 py-0.5 rounded font-sans">کپی شد! به مشتری بفرستید</span>
+                            </div>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  )}
+                </div>
+
               </div>
             </div>
           )}
-
+          
           {/* ================= TOAST NOTIFICATION ================= */}
           {toastMsg && (
             <div className="fixed bottom-6 left-1/2 -translate-x-1/2 bg-gradient-to-r from-emerald-600 to-teal-600 text-white px-6 py-3 rounded-2xl shadow-2xl flex items-center gap-3 z-50 text-sm font-bold animate-bounce">
