@@ -9833,6 +9833,96 @@
       "company": "AlphaSense",
       "source": "jobicy",
       "first_seen": "2026-10-21"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-engineer-at-%D8%B4%D8%B1%D9%83%D8%A9-%D9%86%D8%A8%D8%B1%D8%A7%D8%B3-%D8%AD%D8%A8%D9%88%D8%A9-nebras-habwah-company-4479410089": {
+      "title": "HSE Engineer",
+      "company": "شركة نبراس حبوة NEBRAS HABWAH COMPANY",
+      "source": "linkedin",
+      "first_seen": "2026-10-21"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-2p-perfect-presentation-4478985766": {
+      "title": "Health Safety Environment Engineer",
+      "company": "2P Perfect Presentation",
+      "source": "linkedin",
+      "first_seen": "2026-10-21"
+    },
+    "https://iq.linkedin.com/jobs/view/asset-protection-supervisor-at-crescent-petroleum-4478693146": {
+      "title": "Asset Protection Supervisor",
+      "company": "Crescent Petroleum",
+      "source": "linkedin",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156123-senior-product-security-engineer": {
+      "title": "Senior Product Security Engineer",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer": {
+      "title": "Ritual: Core Protocol Engineer",
+      "company": "Ritual",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156139-senior-all-source-investigator-severe-harms": {
+      "title": "Senior All-Source Investigator, Severe Harms",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156140-staff-software-engineer-market-data": {
+      "title": "Staff Software Engineer - Market Data",
+      "company": "Dune",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/153699-associate-director-influencer-creator-marketing": {
+      "title": "Associate Director, Influencer & Creator Marketing",
+      "company": "Wpromote",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/153702-b2b-account-director-abm-focus": {
+      "title": "B2B Account Director (ABM Focus)",
+      "company": "Wpromote",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156144-head-of-product-2": {
+      "title": "Head of Product",
+      "company": "Dune",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-engage-4-events-llp-4479407298": {
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "ENGAGE 4 EVENTS LLP",
+      "source": "linkedin",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/151265-senior-database-reliability-engineer": {
+      "title": "Senior Database Reliability Engineer",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156118-principal-software-engineer-product-platforms": {
+      "title": "Principal Software Engineer - Product Platforms",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://jobicy.com/jobs/156120-product-manager-new-content-initiatives-and-analysis": {
+      "title": "Product Manager, New Content Initiatives and Analysis",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-21"
+    },
+    "https://sa.linkedin.com/jobs/view/post-quantum-cryptography-pqc-consultant-at-protiviti-middle-east-member-firm-4482056541": {
+      "title": "Post-Quantum Cryptography (PQC) Consultant",
+      "company": "Protiviti Middle East Member Firm",
+      "source": "linkedin",
+      "first_seen": "2026-10-21"
     }
   },
   "applied": {
@@ -10892,6 +10982,13 @@
       "to": "securityreporting@get-carrot.com",
       "title": "Carrot: Director, Information Security",
       "company": "Carrot"
+    },
+    "https://jobicy.com/jobs/156123-senior-product-security-engineer::email": {
+      "date": "2026-10-21 12:45",
+      "via": "email",
+      "to": "sensors.alphasense@ametek.com",
+      "title": "Senior Product Security Engineer",
+      "company": "AlphaSense"
     }
   },
   "sent": {
@@ -11534,6 +11631,11 @@
       "kind": "email",
       "to": "securityreporting@get-carrot.com",
       "date": "2026-10-20 11:59"
+    },
+    "https://jobicy.com/jobs/156123-senior-product-security-engineer": {
+      "kind": "email",
+      "to": "sensors.alphasense@ametek.com",
+      "date": "2026-10-21 12:45"
     }
   },
   "replies": []
