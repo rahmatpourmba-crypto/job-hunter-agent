@@ -239,14 +239,51 @@
       const [gmapsBusinessType, setGmapsBusinessType] = useState("");
       const [gmapsCity, setGmapsCity] = useState("");
 
-      // VIP Membership & WhatsApp Integration (+989141688217)
+            // VIP Membership, Card-to-Card Payment & Expiration System (+989141688217)
+      const BANK_CARD = "6037701616939556";
+      const BANK_CARD_FORMATTED = "6037 - 7016 - 1693 - 9556";
+      const BANK_OWNER = "عبدالباسط رحمت پور";
+      const BANK_NAME = "بانک کشاورزی (عضو شتاب)";
+
       const [isVip, setIsVip] = useState(() => {
         try {
-          return localStorage.getItem("b2b_vip_status") === "true";
+          const status = localStorage.getItem("b2b_vip_status") === "true";
+          const expiry = parseInt(localStorage.getItem("b2b_vip_expiry") || "0");
+          if (status) {
+            if (expiry > 0 && Date.now() > expiry) {
+              localStorage.removeItem("b2b_vip_status");
+              localStorage.removeItem("b2b_vip_expiry");
+              localStorage.removeItem("b2b_vip_plan");
+              return false;
+            }
+            return true;
+          }
+          return false;
         } catch(e) { return false; }
       });
+      const [vipPlanName, setVipPlanName] = useState(() => {
+        try { return localStorage.getItem("b2b_vip_plan") || ""; } catch(e) { return ""; }
+      });
+      const [vipDaysLeft, setVipDaysLeft] = useState(() => {
+        try {
+          const expiry = parseInt(localStorage.getItem("b2b_vip_expiry") || "0");
+          if (expiry > 0) {
+            const diff = expiry - Date.now();
+            return Math.max(1, Math.ceil(diff / (1000 * 60 * 60 * 24)));
+          }
+          return 0;
+        } catch(e) { return 0; }
+      });
       const [showVipModal, setShowVipModal] = useState(false);
+      const [selectedPlan, setSelectedPlan] = useState("30"); // "30" or "365"
       const [vipInputCode, setVipInputCode] = useState("");
+      const [trackingCode, setTrackingCode] = useState("");
+      const [cardCopied, setCardCopied] = useState(false);
+      const [showAdminPanel, setShowAdminPanel] = useState(false);
+      const [adminPass, setAdminPass] = useState("");
+      const [adminUnlocked, setAdminUnlocked] = useState(false);
+      const [generatedCode, setGeneratedCode] = useState("");
+
       const [searchCount, setSearchCount] = useState(() => {
         try {
           return parseInt(localStorage.getItem("b2b_search_count") || "0");
@@ -256,20 +293,71 @@
       const WHATSAPP_NUMBER = "989141688217";
       const WHATSAPP_DISPLAY = "۰۹۱۴۱۶۸۸۲۱۷";
       const getWhatsAppLink = (customText) => {
-        const text = customText || "سلام جناب صادقی، وقت بخیر. مایل به فعال‌سازی اشتراک VIP و دریافت اطلاعات کامل خریداران و صادرات در سامانه هستم.";
+        const text = customText || "سلام جناب رحمت پور، وقت بخیر. مایل به فعال‌سازی اشتراک VIP و دریافت اطلاعات کامل خریداران و صادرات در سامانه هستم.";
         return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
       };
 
+      const copyCardToClipboard = () => {
+        try {
+          navigator.clipboard.writeText(BANK_CARD);
+          setCardCopied(true);
+          showToast("شماره کارت ۶۰۳۷۷۰۱۶۱۶۹۳۹۵۵۶ با موفقیت کپی شد! ✅");
+          setTimeout(() => setCardCopied(false), 3000);
+        } catch(e) {
+          showToast("شماره کارت: " + BANK_CARD);
+        }
+      };
+
       const handleVipCodeSubmit = () => {
-        const cleanCode = vipInputCode.trim().toUpperCase();
-        if (["VIP2026", "EXPORT777", "GOLD2026", "ARIA98914", "SHAHRAM"].includes(cleanCode)) {
+        const cleanCode = vipInputCode.trim().toUpperCase().replace(/\s+/g, '');
+        if (!cleanCode) {
+          showToast("لطفاً کد فعال‌سازی را وارد کنید.");
+          return;
+        }
+
+        // 30-Day Plan patterns: VIP30, VIP30-1, VIP30-2, VIP30-100, M30-XXX, etc.
+        const is30Day = /^VIP30(-\w+)?$/i.test(cleanCode) || /^M30(-\w+)?$/i.test(cleanCode) || /^EXP30(-\w+)?$/i.test(cleanCode);
+
+        // 365-Day (1-Year) Plan patterns: VIP365, VIP365-1, VIP365-2, VIP365-100, Y365-XXX, etc.
+        const is365Day = /^VIP365(-\w+)?$/i.test(cleanCode) || /^Y365(-\w+)?$/i.test(cleanCode) || /^EXP365(-\w+)?$/i.test(cleanCode) || ["GOLD2026", "ARIA98914", "SHAHRAM", "VIP2026"].includes(cleanCode);
+
+        if (is30Day) {
+          const expiryDate = Date.now() + (30 * 24 * 60 * 60 * 1000);
           setIsVip(true);
-          try { localStorage.setItem("b2b_vip_status", "true"); } catch(e) {}
-          showToast("🎉 تبریک! اکانت VIP با موفقیت فعال شد و تمامی اطلاعات باز شدند.");
+          setVipPlanName("۳۰ روزه");
+          setVipDaysLeft(30);
+          try {
+            localStorage.setItem("b2b_vip_status", "true");
+            localStorage.setItem("b2b_vip_expiry", expiryDate.toString());
+            localStorage.setItem("b2b_vip_plan", "اشتراک ۱ ماهه (۳۰ روز)");
+            localStorage.setItem("b2b_active_code", cleanCode);
+          } catch(e) {}
+          showToast(`🎉 تبریک! اشتراک ۱ ماهه طلایی (${cleanCode}) فعال شد. اعتبار: ۳۰ روز.`);
+          setShowVipModal(false);
+        } else if (is365Day) {
+          const expiryDate = Date.now() + (365 * 24 * 60 * 60 * 1000);
+          setIsVip(true);
+          setVipPlanName("۱ ساله");
+          setVipDaysLeft(365);
+          try {
+            localStorage.setItem("b2b_vip_status", "true");
+            localStorage.setItem("b2b_vip_expiry", expiryDate.toString());
+            localStorage.setItem("b2b_vip_plan", "اشتراک ۱ ساله (۳۶۵ روز)");
+            localStorage.setItem("b2b_active_code", cleanCode);
+          } catch(e) {}
+          showToast(`👑 تبریک! اشتراک ۱ ساله طلایی (${cleanCode}) فعال شد. اعتبار: ۳۶۵ روز دسترسی نامحدود.`);
           setShowVipModal(false);
         } else {
-          showToast("❌ کد فعال‌سازی نامعتبر است. جهت خرید اشتراک به واتساپ پیام دهید.");
+          showToast("❌ کد فعال‌سازی نامعتبر است. پس از واریز کارت به کارت، کد را از واتساپ دریافت فرمایید.");
         }
+      };
+
+      const generateUniqueCode = (type) => {
+        const randomNum = Math.floor(1000 + Math.random() * 9000);
+        const code = type === "30" ? `VIP30-${randomNum}` : `VIP365-${randomNum}`;
+        setGeneratedCode(code);
+        try { navigator.clipboard.writeText(code); } catch(e) {}
+        showToast(`کد اختصاصی تولید و کپی شد: ${code}`);
       };
       const [sellSheet, setSellSheet] = useState({
         productName: "Premium Red Apples (Grade-A Export)",
@@ -527,16 +615,16 @@
                 <span>واتساپ پشتیبانی: ۰۹۱۴۱۶۸۸۲۱۷</span>
               </a>
 
-              {isVip ? (
+                            {isVip ? (
                 <div className="flex items-center gap-1.5 bg-gradient-to-r from-amber-500/20 to-yellow-500/20 border border-amber-500/40 text-amber-300 px-3.5 py-1.5 rounded-full text-xs font-bold shadow-lg shadow-amber-500/10">
-                  <span>👑 اکانت فعال VIP</span>
+                  <span>👑 اکانت طلایی ({vipPlanName || (vipDaysLeft > 0 ? `${vipDaysLeft} روز مانده` : "VIP")})</span>
                 </div>
               ) : (
                 <button
                   onClick={() => setShowVipModal(true)}
                   className="flex items-center gap-1.5 bg-gradient-to-r from-amber-500 to-yellow-500 hover:from-amber-400 hover:to-yellow-400 text-slate-950 px-3.5 py-1.5 rounded-full text-xs font-black shadow-lg shadow-amber-500/30 transition-all hover:scale-105"
                 >
-                  <span>🔒 ورود کد / خرید VIP</span>
+                  <span>💳 کارت به کارت / فعال‌سازی VIP</span>
                 </button>
               )}
             </div>
