@@ -10127,6 +10127,144 @@
       "company": "DeleteMe",
       "source": "jobicy",
       "first_seen": "2026-10-22"
+    },
+    "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4481361747": {
+      "title": "Airfield Safety Manager",
+      "company": "V2X Inc",
+      "source": "linkedin",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156364-global-investigator-triage": {
+      "title": "Global Investigator (Triage)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156286-head-of-marketing-compliance": {
+      "title": "Head of Marketing Compliance",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156389-product-manager-security": {
+      "title": "Product Manager - Security",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156368-senior-capture-manager-uk": {
+      "title": "Senior Capture Manager - UK",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156280-backend-engineer-multiple-positions": {
+      "title": "Backend Engineer (Multiple Positions)",
+      "company": "LaunchDarkly",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156288-director-of-people-programs-systems-analytics": {
+      "title": "Director of People Programs, Systems & Analytics",
+      "company": "LaunchDarkly",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156283-senior-technical-account-manager-federal": {
+      "title": "Senior Technical Account Manager (Federal)",
+      "company": "Mattermost",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156383-firefox-enterprise-partnership-lead-dach": {
+      "title": "Firefox Enterprise Partnership Lead (DACH)",
+      "company": "Mozilla",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156384-firefox-enterprise-partnership-lead-france": {
+      "title": "Firefox Enterprise Partnership Lead (France)",
+      "company": "Mozilla",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156369-binance-accelerator-program-tradfi-business-development": {
+      "title": "Binance Accelerator Program - TradFI Business Development",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156339-senior-manager-customer-complaints": {
+      "title": "Senior Manager, Customer Complaints",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156330-overseas-operations-manager-p2p": {
+      "title": "Overseas Operations Manager (P2P)",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156386-offensive-security-engineer-2": {
+      "title": "Offensive Security Engineer",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156385-network-security-engineer": {
+      "title": "Network Security Engineer",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156285-gtm-devops-engineer": {
+      "title": "GTM DevOps Engineer",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156358-senior-staff-product-designer": {
+      "title": "Senior/Staff Product Designer",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156356-senior-staff-engineer-ios": {
+      "title": "Senior Staff Engineer, iOS",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156352-associate-vice-president-pre-sales-emea": {
+      "title": "Associate Vice President, Pre-Sales, EMEA",
+      "company": "Semperis",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156350-principal-engineer-core-cloud-platform": {
+      "title": "Principal Engineer - Core Cloud Platform",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156355-corporate-development-director-2": {
+      "title": "Corporate Development Director",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156354-senior-staff-engineer-android": {
+      "title": "Senior Staff Engineer, Android",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156345-tech-lead-data-engineer": {
+      "title": "Tech Lead Data Engineer",
+      "company": "Cloudbeds",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
     }
   },
   "applied": {
