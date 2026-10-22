@@ -10067,6 +10067,66 @@
       "company": "Vonage",
       "source": "jobicy",
       "first_seen": "2026-10-22"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4482442348": {
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-22"
+    },
+    "https://www.gulftalent.com/iraq/jobs/hse-eptw-advisor-648384": {
+      "title": "HSE EPTW Advisor",
+      "company": "KBR",
+      "source": "gulftalent_iraq",
+      "first_seen": "2026-10-22"
+    },
+    "https://www.linkedin.com/jobs/view/bondex-fullstack-web3-engineer-solidity-rust-typescript-at-react-libraries-4482431989": {
+      "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+      "company": "React Libraries",
+      "source": "linkedin",
+      "first_seen": "2026-10-22"
+    },
+    "https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c": {
+      "title": "Maven Clinic: Head of Member Growth (B2B2C)",
+      "company": "Maven Clinic",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/150340-senior-manager-customer-success-operations": {
+      "title": "Senior Manager, Customer Success Operations",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/153795-director-it": {
+      "title": "Director, IT",
+      "company": "Life360",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/153830-director-partner-programs-enablement-and-operations": {
+      "title": "Director, Partner Programs, Enablement, and Operations",
+      "company": "Ping Identity",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/153726-enterprise-customer-success-manager-7": {
+      "title": "Enterprise, Customer Success Manager",
+      "company": "DeleteMe",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/153785-lifecycle-marketing-manager": {
+      "title": "Lifecycle Marketing Manager",
+      "company": "DeleteMe",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/153793-privacy-advisor": {
+      "title": "Privacy Advisor",
+      "company": "DeleteMe",
+      "source": "jobicy",
+      "first_seen": "2026-10-22"
     }
   },
   "applied": {
@@ -11133,6 +11193,13 @@
       "to": "sensors.alphasense@ametek.com",
       "title": "Senior Product Security Engineer",
       "company": "AlphaSense"
+    },
+    "https://www.linkedin.com/jobs/view/bondex-fullstack-web3-engineer-solidity-rust-typescript-at-react-libraries-4482431989::email": {
+      "date": "2026-10-22 10:28",
+      "via": "email",
+      "to": "reactlibraries@gmail.com",
+      "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+      "company": "React Libraries"
     }
   },
   "sent": {
@@ -11780,6 +11847,11 @@
       "kind": "email",
       "to": "sensors.alphasense@ametek.com",
       "date": "2026-10-21 12:45"
+    },
+    "https://www.linkedin.com/jobs/view/bondex-fullstack-web3-engineer-solidity-rust-typescript-at-react-libraries-4482431989": {
+      "kind": "email",
+      "to": "reactlibraries@gmail.com",
+      "date": "2026-10-22 10:28"
     }
   },
   "replies": []
