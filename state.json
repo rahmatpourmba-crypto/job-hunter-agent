@@ -10361,6 +10361,114 @@
       "company": "Parsons Corporation",
       "source": "linkedin",
       "first_seen": "2026-10-23"
+    },
+    "https://www.linkedin.com/jobs/view/bondex-fullstack-web3-engineer-solidity-rust-typescript-at-react-libraries-4482824860": {
+      "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+      "company": "React Libraries",
+      "source": "linkedin",
+      "first_seen": "2026-10-23"
+    },
+    "https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-lead": {
+      "title": "Bybit: Blockchain Risk Control Lead",
+      "company": "Bybit",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-23"
+    },
+    "https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security": {
+      "title": "Discord: Engineering Manager, Platform Security",
+      "company": "Discord",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156495-compliance-regulatory-counsel": {
+      "title": "Compliance & Regulatory Counsel",
+      "company": "ExtraHop",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156488-director-people-operations": {
+      "title": "Director, People Operations",
+      "company": "LaunchDarkly",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156502-regional-sales-manager-financial-services": {
+      "title": "Regional Sales Manager, Financial Services",
+      "company": "ExtraHop",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156496-principal-product-manager-omnichannel-cx-2": {
+      "title": "Principal Product Manager, Omnichannel CX",
+      "company": "Nextiva",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156503-senior-product-designer-16": {
+      "title": "Senior Product Designer",
+      "company": "Nextiva",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156490-content-strategist-contract-us": {
+      "title": "Content Strategist, Contract (US)",
+      "company": "PointClickCare",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156499-learning-experience-designer-2": {
+      "title": "Learning Experience Designer",
+      "company": "ExtraHop",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156486-content-strategist-contract-ca": {
+      "title": "Content Strategist, Contract (CA)",
+      "company": "PointClickCare",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156529-security-solutions-engineer": {
+      "title": "Security Solutions Engineer",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156525-product-manager-anti-fraud": {
+      "title": "Product Manager - Anti Fraud",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://weworkremotely.com/remote-jobs/bybit-animator-intern": {
+      "title": "Bybit: Animator Intern",
+      "company": "Bybit",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156535-senior-customer-ai-engineer-token-factory": {
+      "title": "Senior Customer AI Engineer - Token Factory",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-sled-1": {
+      "title": "BeyondTrust: Enterprise Account Manager, SLED",
+      "company": "BeyondTrust",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156540-senior-hpc-cluster-engineer": {
+      "title": "Senior HPC Cluster Engineer",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156543-senior-hpc-engineer-gpu-compute": {
+      "title": "Senior HPC Engineer, GPU Compute",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
     }
   },
   "applied": {
@@ -11455,6 +11563,13 @@
       "to": "cybersecurity@parsons.com",
       "title": "HSE Engineer (Rail)",
       "company": "Parsons Corporation"
+    },
+    "https://www.linkedin.com/jobs/view/bondex-fullstack-web3-engineer-solidity-rust-typescript-at-react-libraries-4482824860::email": {
+      "date": "2026-10-23 11:57",
+      "via": "email",
+      "to": "reactlibraries@gmail.com",
+      "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+      "company": "React Libraries"
     }
   },
   "sent": {
@@ -12122,6 +12237,11 @@
       "kind": "email",
       "to": "cybersecurity@parsons.com",
       "date": "2026-10-23 06:16"
+    },
+    "https://www.linkedin.com/jobs/view/bondex-fullstack-web3-engineer-solidity-rust-typescript-at-react-libraries-4482824860": {
+      "kind": "email",
+      "to": "reactlibraries@gmail.com",
+      "date": "2026-10-23 11:57"
     }
   },
   "replies": []
