@@ -1049,27 +1049,33 @@ translations_script = '''
           {/* Header */}
           <header className="flex flex-col md:flex-row justify-between items-center pb-6 mb-8 border-b border-slate-800 gap-4">
             <div className="flex items-center gap-4">
-              {/* Luxury Gold-Emerald Brand Logo */}
+              {/* Luxury Raman B2B Gold-Emerald Brand Logo */}
               <div className="relative group cursor-pointer flex-shrink-0">
-                <div className="absolute -inset-1.5 bg-gradient-to-r from-amber-500 via-yellow-400 to-emerald-500 rounded-2xl blur-md opacity-75 group-hover:opacity-100 transition duration-500 animate-pulse"></div>
-                <div className="relative w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-950 border-2 border-amber-400/80 flex items-center justify-center shadow-2xl overflow-hidden p-2">
-                  <svg viewBox="0 0 100 100" className="w-full h-full filter drop-shadow-[0_2px_10px_rgba(245,158,11,0.7)]" fill="none">
-                    <circle cx="50" cy="50" r="47" stroke="#f59e0b" strokeWidth="2" strokeDasharray="3 3"/>
-                    <circle cx="50" cy="50" r="42" stroke="#10b981" strokeWidth="1.5" opacity="0.8"/>
-                    <ellipse cx="50" cy="50" rx="38" ry="16" stroke="#fbbf24" strokeWidth="1.2" opacity="0.7"/>
-                    <ellipse cx="50" cy="50" rx="18" ry="38" stroke="#fbbf24" strokeWidth="1.2" opacity="0.6"/>
-                    <line x1="12" y1="50" x2="88" y2="50" stroke="#10b981" strokeWidth="1.5" opacity="0.9"/>
-                    <path d="M50 12 L64 36 L88 40 L68 56 L74 84 L50 68 L26 84 L32 56 L12 40 L36 36 Z" fill="#f59e0b" opacity="0.3"/>
-                    <path d="M50 16 L76 46 L62 46 L62 76 L38 76 L38 46 L24 46 Z" fill="url(#ramanGoldGrad)"/>
-                    <circle cx="50" cy="36" r="4.5" fill="#ffffff" filter="drop-shadow(0 0 6px #10b981)"/>
-                    <defs>
-                      <linearGradient id="ramanGoldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-                        <stop offset="0%" stopColor="#fef08a" />
-                        <stop offset="45%" stopColor="#f59e0b" />
-                        <stop offset="100%" stopColor="#b45309" />
-                      </linearGradient>
-                    </defs>
-                  </svg>
+                <div className="absolute -inset-1.5 bg-gradient-to-r from-amber-500 via-yellow-400 to-emerald-500 rounded-2xl blur-md opacity-80 group-hover:opacity-100 transition duration-500 animate-pulse"></div>
+                <div className="relative w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-950 border-2 border-amber-400/80 flex items-center justify-center shadow-2xl overflow-hidden p-0.5">
+                  <img
+                    src="logo.png"
+                    alt="Raman B2B Logo"
+                    className="w-full h-full object-cover rounded-xl transform group-hover:scale-105 transition duration-500"
+                    onError={(e) => {
+                      e.target.style.display = 'none';
+                      if (e.target.nextSibling) e.target.nextSibling.style.display = 'block';
+                    }}
+                  />
+                  {/* Raman B2B Monogram SVG Fallback */}
+                  <div style={{ display: 'none' }} className="w-full h-full p-1.5">
+                    <svg viewBox="0 0 100 100" className="w-full h-full filter drop-shadow-[0_2px_8px_rgba(245,158,11,0.6)]" fill="none">
+                      <circle cx="50" cy="50" r="46" stroke="#f59e0b" strokeWidth="1.5" strokeDasharray="3 3"/>
+                      <circle cx="50" cy="50" r="41" stroke="#10b981" strokeWidth="1.2" opacity="0.7"/>
+                      {/* Stylized 'R' Monogram */}
+                      <path d="M34 26 L42 26 L42 74 L34 74 Z" fill="#fbbf24"/>
+                      <path d="M42 26 C58 26 65 33 65 42 C65 51 58 56 42 56 L42 47 C52 47 56 44 56 42 C56 37 52 35 42 35 Z" fill="#f59e0b"/>
+                      <path d="M42 50 L64 74 L74 74 L52 50 Z" fill="#10b981"/>
+                      {/* B2B Badge */}
+                      <rect x="42" y="76" width="30" height="11" rx="5" fill="#020617" stroke="#f59e0b" strokeWidth="1"/>
+                      <text x="57" y="84" fill="#fef08a" fontSize="7" fontWeight="900" fontFamily="sans-serif" textAnchor="middle">B2B</text>
+                    </svg>
+                  </div>
                 </div>
               </div>
 
