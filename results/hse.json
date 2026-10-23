@@ -76,45 +76,105 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Lead",
-    "company": "Wood",
-    "location": "Kirkuk, Kirkuk Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/hse-lead-at-wood-4467702634",
+    "title": "Senior HSE Engineer (Project) - Offshore",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/senior-hse-engineer-project-offshore-at-penspen-4476027728",
     "description": "",
-    "published": "2026-10-06",
+    "published": "2026-10-12",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 3,
+    "score": 6,
     "title_hits": [
-      "hse"
+      "hse",
+      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [
-      "info@wood.com"
+      "contact@penspen.com"
     ],
     "phones": [],
-    "emails_source": "wood.com"
+    "emails_source": "penspen.com"
   },
   {
     "source": "linkedin",
-    "title": "HSE Supervisor (Water Injection Operations)",
-    "company": "Anton-OSS",
-    "location": "Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/hse-supervisor-water-injection-operations-at-anton-oss-4473453413",
+    "title": "HSE Engineer",
+    "company": "Bureau Veritas",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-bureau-veritas-4477527393",
     "description": "",
-    "published": "2026-10-03",
+    "published": "2026-10-12",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 3,
+    "score": 6,
     "title_hits": [
-      "hse"
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@bureau.com"
+    ],
+    "phones": [],
+    "emails_source": "bureau.com",
+    "about": " "
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer (Rail)",
+    "company": "Parsons Corporation",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-rail-at-parsons-corporation-4482723828",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "cybersecurity@parsons.com"
+    ],
+    "phones": [
+      "+17039888500"
+    ],
+    "emails_source": "parsons.com",
+    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Nova International General Contracting L.L.C",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687",
+    "description": "",
+    "published": "2026-10-08",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -125,59 +185,124 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Professional (Flexible Plant)",
-    "company": "ALMUTAHIDA PACKAGING",
-    "location": "Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/hse-professional-flexible-plant-at-almutahida-packaging-4478229337",
+    "title": "Health and Safety Engineer",
+    "company": "WSP in the Middle East",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
     "description": "",
-    "published": "2026-10-18",
+    "published": "2026-10-01",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 3,
+    "score": 6,
     "title_hits": [
-      "hse"
+      "safety engineer",
+      "health and safety"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "jones@packaging.com",
-      "sales@packaging.com"
-    ],
-    "phones": [],
-    "emails_source": "packaging.com",
-    "about": "Anaheim, March 5-7, 2025 ![Image 15: Natural Products Expo West](https://www.packaging.com/wp-content/plugins/revslider/public/assets/assets/dummy.png)![Image 16: Aaron Thomas Logo](https://www.packaging.com/wp-content/u"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
-    "title": "Airfield Safety Manager",
-    "company": "V2X Inc",
-    "location": "Balad, Saladin Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4481361747",
+    "title": "EHS Engineer",
+    "company": "Larsen & Toubro",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669",
     "description": "",
-    "published": "",
+    "published": "2026-10-06",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
-    "score": 3,
+    "score": 6,
     "title_hits": [
-      "safety manager"
+      "ehs",
+      "ehs engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "editor@v2x.com",
-      "hello@v2x.com"
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "WSP in the Middle East",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-wsp-in-the-middle-east-4463967396",
+    "description": "",
+    "published": "2026-10-03",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
     ],
-    "phones": [],
-    "emails_source": "v2x.com",
-    "about": "Search V2X Intelligence Platform Search companies, technologies, products, projects, standards, news, and locations."
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer - Site",
+    "company": "Egis",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-site-at-egis-4478535526",
+    "description": "",
+    "published": "2026-10-14",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Shift Operator",
+    "company": "Siemens Energy",
+    "location": "Erbil, Erbil Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/shift-operator-at-siemens-energy-4479969141",
+    "description": "A Snapshot of your day Your day involves monitoring and controlling gas turbine operations in real time through DCS systems, conducting routine equipment inspections, and ensuring safe, efficient, and reliable power generation across the Khormala Power Plant. You play a key role in minimizing downtime by responding to operational needs, adhering to strict HSE standards, and maintaining the continuous performance of critical plant equipment. How You’ll Make An Impact Monitor and control gas turbine generators, auxiliary systems, and plant equipment through DCS to ensure safe, reliable, and efficient operations. Respond to alarms, investigate system abnormalities, and take corrective or emergency actions to maintain operational continuity. Conduct routine equipment inspections, identify faults or abnormalities, and support troubleshooting and maintenance activities. Safely isolate equipment and implement Lockout/Tagout (LOTO) procedures while verifying plant readiness following maintenance work. Maintain full compliance with HSE standards and environmental regulations through safety inspections, hazard identification, incident reporting, and participation in safety programs. What You Bring Technical Diploma or bachelor’s degree in mechanical, Electrical, Control & Instrumentation Engineering, with 3-5 years of experience in power plant operations, preferably within gas turbine or combined cycle power plants. DCS Operator Certification and a recognized Health & Safety certification such as OSHA, NEBOSH, or equivalent. Strong expertise in Distributed Control Systems (DCS), gas turbine technology, auxiliary equipment, and Balance of Plant (BOP) systems. Proven knowledge of safety procedures including Lockout/Tagout (LOTO), hazard identification, risk assessment, and emergency response protocols. Excellent troubleshooting, root cause analysis, technical documentation, shift reporting, communication, and teamwork skills. About The Team Our Gas Services division offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet. Who is Siemens Energy? At Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo Our Commitment to Diversity Lucky for us, we are not all the same. Through diversity we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences. Rewards/Benefits Opportunities to work with a global team Opportunities to work on and lead a variety of innovative projects Access to a variety of employee resource groups Competitive Salary Package https://jobs.siemens-energy.com/jobs",
+    "published": "2026-10-19",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [],
+    "desc_hits": [
+      "hse",
+      "risk assessment",
+      "osha"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -447,121 +572,6 @@
     "score": 3,
     "title_hits": [
       "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Penspen",
-    "location": "Khafji, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-penspen-4474829524",
-    "description": "",
-    "published": "2026-10-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Project EHS Manager",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4476343987",
-    "description": "",
-    "published": "2026-10-06",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer - Saudi National",
-    "company": "Vanderlande",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-officer-saudi-national-at-vanderlande-4476803068",
-    "description": "",
-    "published": "2026-10-09",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer | Eastern Province (Aramco Approval Preferred)",
-    "company": "alfanar",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-officer-eastern-province-aramco-approval-preferred-at-alfanar-4477258274",
-    "description": "",
-    "published": "2026-10-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Assystem Radicon",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-assystem-radicon-4472555835",
-    "description": "",
-    "published": "2026-10-01",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,

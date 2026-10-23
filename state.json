@@ -10355,6 +10355,12 @@
       "company": "BigID",
       "source": "jobicy",
       "first_seen": "2026-10-23"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-rail-at-parsons-corporation-4482723828": {
+      "title": "HSE Engineer (Rail)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-23"
     }
   },
   "applied": {
@@ -11442,6 +11448,13 @@
       "to": "editor@v2x.com",
       "title": "Airfield Safety Manager",
       "company": "V2X Inc"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-rail-at-parsons-corporation-4482723828::email": {
+      "date": "2026-10-23 06:16",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Engineer (Rail)",
+      "company": "Parsons Corporation"
     }
   },
   "sent": {
@@ -12104,6 +12117,11 @@
       "kind": "email",
       "to": "editor@v2x.com",
       "date": "2026-10-23 01:11"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-rail-at-parsons-corporation-4482723828": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-10-23 06:16"
     }
   },
   "replies": []
