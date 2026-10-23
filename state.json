@@ -10499,6 +10499,30 @@
       "company": "ClickUp",
       "source": "jobicy",
       "first_seen": "2026-10-23"
+    },
+    "https://iq.linkedin.com/jobs/view/fire-inspector-lead-at-v2x-inc-4481935072": {
+      "title": "Fire Inspector Lead",
+      "company": "V2X Inc",
+      "source": "linkedin",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156615-servicenow-developer": {
+      "title": "ServiceNow Developer",
+      "company": "Lightspeed Commerce",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156602-forward-deployed-engineer-8": {
+      "title": "Forward Deployed Engineer",
+      "company": "Banyan Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156599-account-executive-director-gaming": {
+      "title": "Account Executive Director, Gaming",
+      "company": "Socure",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
     }
   },
   "applied": {
