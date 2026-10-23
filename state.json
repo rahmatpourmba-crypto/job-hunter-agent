@@ -10469,6 +10469,36 @@
       "company": "Nebius",
       "source": "jobicy",
       "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security": {
+      "title": "Sr. Engineer, Infrastructure Security",
+      "company": "Zapier",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156593-senior-manager-software-engineering-ai": {
+      "title": "Senior Manager, Software Engineering - AI",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156590-renewals-specialist": {
+      "title": "Renewals Specialist",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156586-associate-renewals-specialist": {
+      "title": "Associate Renewals Specialist",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156568-senior-backend-engineer-cloud-platform": {
+      "title": "Senior Backend Engineer, Cloud Platform",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
     }
   },
   "applied": {
@@ -11570,6 +11600,20 @@
       "to": "reactlibraries@gmail.com",
       "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
       "company": "React Libraries"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-parsons-corporation-4481565494::email": {
+      "date": "2026-10-23 16:22",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Officer",
+      "company": "Parsons Corporation"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4482442348::email": {
+      "date": "2026-10-23 16:22",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro"
     }
   },
   "sent": {
@@ -12242,6 +12286,16 @@
       "kind": "email",
       "to": "reactlibraries@gmail.com",
       "date": "2026-10-23 11:57"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-at-parsons-corporation-4481565494": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-10-23 16:22"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4482442348": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-10-23 16:22"
     }
   },
   "replies": []
