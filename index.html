@@ -156,6 +156,420 @@
       )
     };
 
+    import os
+import re
+
+files_to_update = [
+    r"C:\Users\Admin\.gemini\antigravity\scratch\job_hunter_repo\index.html",
+    r"C:\Users\Admin\.gemini\antigravity\scratch\whatsapp_export_agent\static\index.html",
+    r"C:\Users\Admin\Desktop\Website_For_Cloudflare\index.html"
+]
+
+translations_script = '''
+    // ================= MULTILINGUAL DICTIONARY (7 LANGUAGES) =================
+    const TRANSLATIONS = {
+      fa: {
+        dir: "rtl",
+        name: "فارسی",
+        flag: "🇮🇷",
+        brandName: "سامانه B2B رامان | Raman B2B",
+        brandBadge: "خریداران دست‌اول و کاریابی جهانی",
+        tagline: "مرکز تجارت و صادرات بین‌المللی B2B رامان",
+        subTagline: "مدیریت: مهندس عبدالباسط رحمت‌پور",
+        findBuyers: "🎯 پیدا کردن مشتری صادراتی",
+        findJobs: "💼 پیدا کردن شغل در خارج",
+        tabSearch: "🎯 پیدا کردن مشتری صادراتی و کاریابی",
+        tabMaps: "📍 پیدا کردن مشتریان از روی نقشه (Google Maps)",
+        tabCustoms: "📦 تعرفه گمرکی و شرایط ورود کالا",
+        tabCalc: "🚚 محاسبه هزینه حمل و کرایه تریلی",
+        tabInvoice: "📄 صدور پیش‌فاکتور رسمی صادرات (PI)",
+        tabContracts: "📋 کاتالوگ و قراردادهای رسمی",
+        tabCV: "📝 رزومه‌ساز استاندارد کاریابی بین‌المللی",
+        modeCommodity: "🎯 پیدا کردن مشتری صادراتی (خریداران خارجی کالا)",
+        modeCommodityBadge: "بخش بازرگانی",
+        modeCommodityDesc: "استخراج شماره تلفن مستقیم، ایمیل و مشخصات تجار و خریداران دست‌اول خارجی",
+        modeJob: "💼 پیدا کردن شغل در خارج از کشور (کاریابی بین‌المللی)",
+        modeJobBadge: "بخش کاریابی",
+        modeJobDesc: "فرصت‌های استخدام بین‌المللی برای رانندگان ترانزیت، مهندسان و نیروهای متخصص",
+        queryLabelCommodity: "نام محصول صادراتی شما (سیب، کیوی، خرما، قیر، فولاد...):",
+        queryPlaceholderCommodity: "مثال: سیب، کیوی، خرما، قیر، میلگرد، پسته، رب گوجه...",
+        queryLabelJob: "شغل یا مهارتی که دنبال استخدام آن هستید:",
+        queryPlaceholderJob: "مثال: راننده ترانزیت، مهندس عمران، برنامه‌نویس، برقکار...",
+        countryLabel: "کشور مقصد خریدار (امارات، عراق، روسیه، عمان، ترکیه، آلمان...):",
+        searchBtn: "🔍 پیدا کردن خریداران / فرصت‌ها",
+        vipModalTitle: "درگاه پرداخت و خرید اشتراک VIP سامانه رامان B2B",
+        vipModalSubtitle: "جهت دسترسی به دیتابیس کامل خریداران خارجی، تلفن‌های مستقیم، ایمیل‌ها و دانلود اکسل",
+        plan1MonthTitle: "اشتراک ۱ ماهه (۳۰ روزه)",
+        plan1MonthTag: "۳۰ روزه",
+        plan1MonthPrice: "۳۹۰,۰۰۰ تومان",
+        plan1YearTitle: "اشتراک ۱ ساله (۳۶۵ روزه)",
+        plan1YearTag: "۳۶۵ روزه",
+        plan1YearPrice: "۷۹۰,۰۰۰ تومان",
+        plan1YearBadge: "تخفیف ویژه",
+        cardTitle: "کارت بانکی شتاب (بانک کشاورزی)",
+        cardHolderLabel: "صاحب حساب:",
+        cardHolderName: "عبدالباسط رحمت پور",
+        cardNumber: "6037 - 7016 - 1693 - 9556",
+        copyCardBtn: "کپی شماره کارت 📋",
+        copyCardDone: "کپی شد! ✅",
+        payableAmount: "مبلغ قابل پرداخت:",
+        receiptInstructions: "⚠️ مهم: لطفاً پس از واریز کارت به کارت، حتماً تصویر فیش واریز یا شماره پیگیری را به واتساپ ۰۹۱۴۱۶۸۸۲۱۷ ارسال نمایید تا کد اشتراک اختصاصی شما صادر و فرستاده شود.",
+        sendReceiptBtn: "📲 ارسال رسید در واتساپ (۰۹۱۴۱۶۸۸۲۱۷)",
+        enterCodeLabel: "کد فعال‌سازی اختصاصی خود را وارد نمایید:",
+        codePlaceholder: "مثال: RAMAN-VIP30-1 یا VIP365-1",
+        submitCodeBtn: "تایید کد",
+        codeNote: "کد اختصاصی پس از ارسال رسید، مستقیماً در واتساپ برای شما ارسال می‌شود.",
+        adminLoginBtn: "🔑 ورود مدیر سایت",
+        adminBadge: "👑 مدیر ارشد سامانه (رحمت‌پور) - دسترسی نامحدود",
+        vipBadge: "👑 اکانت طلایی",
+        upgradeBtn: "💳 خرید اشتراک / فعال‌سازی VIP",
+        whatsappSupport: "واتساپ پشتیبانی: ۰۹۱۴۱۶۸۸۲۱۷"
+      },
+      ku: {
+        dir: "rtl",
+        name: "کوردی",
+        flag: "🇹🇯",
+        brandName: "سیستەمی B2B ڕامان | Raman B2B",
+        brandBadge: "کڕیارانی دەستی یەک و کاری جیهانی",
+        tagline: "ناوەندی بازرگانی و هەناردەکردنی نێودەوڵەتی ڕامان B2B",
+        subTagline: "بەڕێوەبەر: ئەندازیار عەبدولباست ڕەحمەت‌پوور",
+        findBuyers: "🎯 دۆزینەوەی کڕیاری هەناردە",
+        findJobs: "💼 دۆزینەوەی کار لە دەرەوە",
+        tabSearch: "🎯 دۆزینەوەی کڕیاری هەناردە و کار",
+        tabMaps: "📍 دۆزینەوەی کڕیاران لەسەر نەخشە (Google Maps)",
+        tabCustoms: "📦 گومرگ و مەرجەکانی هاوردەکردن",
+        tabCalc: "🚚 حیسابکردنی کرێی بارهەڵگر و ترانزیت",
+        tabInvoice: "📄 دەرکردنی پێش‌فاکتۆری فەرمی هەناردە (PI)",
+        tabContracts: "📋 گرێبەست و کەتەلۆکی فەرمی",
+        tabCV: "📝 سی‌ڤی دروستکەری نێودەوڵەتی",
+        modeCommodity: "🎯 دۆزینەوەی کڕیاری هەناردەکردن (کڕیارانی دەستی یەک)",
+        modeCommodityBadge: "بەشی بازرگانی",
+        modeCommodityDesc: "دۆزینەوەی تەلەفۆنی ڕاستەوخۆ، ئیمەیڵ و زانیاری کڕیارانی نێودەوڵەتی",
+        modeJob: "💼 دۆزینەوەی کار لە دەرەوەی وڵات (کاری نێودەوڵەتی)",
+        modeJobBadge: "بەشی دامەزراندن",
+        modeJobDesc: "هەلی دامەزراندنی ڕاستەوخۆ بۆ شۆفێرانی ترانزیت، ئەندازیاران و شارەزایان",
+        queryLabelCommodity: "ناوی بەرهەمی هەناردەکراو (سێو، کێوی، خورما، قیڕ...):",
+        queryPlaceholderCommodity: "نموونە: سێو، خورما، قیڕ، شیش، پەتاتە...",
+        queryLabelJob: "ناوی پیشە یان پسپۆڕی داواکراو:",
+        queryPlaceholderJob: "نموونە: شۆفێری ترانزیت، ئەندازیار، بەرنامەنووس...",
+        countryLabel: "وڵاتی مەبەست (ئیمارات، عێراق، ڕووسیا، عومان، تورکیا، ئەڵمانیا...):",
+        searchBtn: "🔍 گەڕان بۆ کڕیاران / هەلی کار",
+        vipModalTitle: "دەروازەی پارەدان و کڕینی بەشداریکردنی VIP ڕامان B2B",
+        vipModalSubtitle: "بۆ دەستڕاگەیشتن بە داتابەیسی کڕیارانی بیانی، تەلەفۆن، ئیمەیڵ و داگرتنی ئێکسڵ",
+        plan1MonthTitle: "بەشداریکردنی ۱ مانگە (۳۰ ڕۆژ)",
+        plan1MonthTag: "۳۰ ڕۆژ",
+        plan1MonthPrice: "۳۹۰,۰۰۰ تمەن",
+        plan1YearTitle: "بەشداریکردنی ۱ ساڵە (۳۶۵ ڕۆژ)",
+        plan1YearTag: "۳۶۵ ڕۆژ",
+        plan1YearPrice: "۷۹۰,۰۰۰ تمەن",
+        plan1YearBadge: "داشکاندنی تایبەت",
+        cardTitle: "کارتی بانکی شتاب (بانکی کشتوکاڵ)",
+        cardHolderLabel: "خاوەنی هەژمار:",
+        cardHolderName: "عبدالباسط رحمت پور",
+        cardNumber: "6037 - 7016 - 1693 - 9556",
+        copyCardBtn: "کۆپیکردنی ژمارەی کارت 📋",
+        copyCardDone: "کۆپی کرا! ✅",
+        payableAmount: "بڕی پارەی پێویست:",
+        receiptInstructions: "⚠️ تکایە دوای پارەدان بە کارت، وێنەی فیشەکە بنێرن بۆ واتساپی 09141688217 تا کۆدی تایبەتتان بۆ بنێردرێت.",
+        sendReceiptBtn: "📲 ناردنی فیش لە واتساپ (09141688217)",
+        enterCodeLabel: "کۆدی تایبەتی چالاککردن داخڵ بکەن:",
+        codePlaceholder: "نموونە: RAMAN-VIP30-1 یان VIP365-1",
+        submitCodeBtn: "پەسەندکردن",
+        codeNote: "کۆدی تایبەت دوای ناردنی فیش، ڕاستەوخۆ لە واتساپ بۆتان دەنێردرێت.",
+        adminLoginBtn: "🔑 چوونەژوورەوەی بەڕێوەبەر",
+        adminBadge: "👑 بەڕێوەبەری گشتی سامانه (ڕەحمەت‌پوور) - بێ سنوور",
+        vipBadge: "👑 ئەکاونتی VIP",
+        upgradeBtn: "💳 کڕینی بەشداریکردن / VIP",
+        whatsappSupport: "واتساپی پشتیوانی: 09141688217"
+      },
+      en: {
+        dir: "ltr",
+        name: "English",
+        flag: "🇬🇧",
+        brandName: "Raman B2B | Global Trade & Career Hub",
+        brandBadge: "Verified Direct Buyers & Global Careers",
+        tagline: "Raman B2B Global Trade & Employment Platform",
+        subTagline: "Managing Director: Eng. Abdulbaset Rahmatpour",
+        findBuyers: "🎯 Find Export Buyers",
+        findJobs: "💼 Overseas Careers",
+        tabSearch: "🎯 Find Export Buyers & Jobs",
+        tabMaps: "📍 Find Buyers on Google Maps",
+        tabCustoms: "📦 Customs Tariff (HS Code) & Entry Rules",
+        tabCalc: "🚚 Freight & Truck Rate Calculator",
+        tabInvoice: "📄 Proforma Invoice Generator (PI)",
+        tabContracts: "📋 Export Contracts & Catalogs",
+        tabCV: "📝 International CV Builder",
+        modeCommodity: "🎯 Find Export Buyers (Direct Importers)",
+        modeCommodityBadge: "Export Division",
+        modeCommodityDesc: "Extract direct phone numbers, verified emails, and decision-makers for commodities",
+        modeJob: "💼 Find International Jobs & Overseas Hiring",
+        modeJobBadge: "Careers Division",
+        modeJobDesc: "Direct overseas job vacancies for transit drivers, engineers, and skilled professionals",
+        queryLabelCommodity: "Your Export Product (Apples, Dates, Bitumen, Steel...):",
+        queryPlaceholderCommodity: "e.g., Red Apples, Kiwi, Fresh Dates, Bitumen 60/70, Rebar, Pistachio...",
+        queryLabelJob: "Job Title or Profession you are seeking:",
+        queryPlaceholderJob: "e.g., Transit Driver, Civil Engineer, Python Developer, Welder...",
+        countryLabel: "Destination Country (UAE, Iraq, Russia, Oman, Turkey, Germany...):",
+        searchBtn: "🔍 Search Buyers / Jobs Now",
+        vipModalTitle: "Raman B2B VIP Subscription & Payment Gateway",
+        vipModalSubtitle: "Access full verified international buyers database, direct cell numbers, and unlimited Excel export",
+        plan1MonthTitle: "1-Month Plan (30 Days)",
+        plan1MonthTag: "30 Days",
+        plan1MonthPrice: "390,000 Tomans ($8 USDT)",
+        plan1YearTitle: "1-Year Plan (365 Days)",
+        plan1YearTag: "365 Days",
+        plan1YearPrice: "790,000 Tomans ($16 USDT)",
+        plan1YearBadge: "Best Value",
+        cardTitle: "Bank Card (Keshavarzi / Shetab Network)",
+        cardHolderLabel: "Account Holder:",
+        cardHolderName: "Abdulbaset Rahmatpour",
+        cardNumber: "6037 - 7016 - 1693 - 9556",
+        copyCardBtn: "Copy Card Number 📋",
+        copyCardDone: "Copied! ✅",
+        payableAmount: "Amount Due:",
+        receiptInstructions: "⚠️ Important: After payment, please send the transfer screenshot/receipt to WhatsApp +989141688217 to receive your exclusive VIP activation code.",
+        sendReceiptBtn: "📲 Send Receipt on WhatsApp (+989141688217)",
+        enterCodeLabel: "Enter your personal VIP activation code:",
+        codePlaceholder: "e.g., RAMAN-VIP30-1 or VIP365-1",
+        submitCodeBtn: "Activate VIP",
+        codeNote: "Your unique activation code will be sent to your WhatsApp immediately after verification.",
+        adminLoginBtn: "🔑 Admin Login",
+        adminBadge: "👑 Super Admin (Rahmatpour) - Unlimited Access",
+        vipBadge: "👑 VIP Member",
+        upgradeBtn: "💳 Upgrade to VIP",
+        whatsappSupport: "WhatsApp Support: +989141688217"
+      },
+      ar: {
+        dir: "rtl",
+        name: "العربية",
+        flag: "🇦🇪",
+        brandName: "منصة رامان B2B للتجارة والتوظيف الدولي",
+        brandBadge: "مشترين مباشرين وتوظيف عالمي",
+        tagline: "مركز رامان B2B الدولي للتصدير والتوظيف",
+        subTagline: "الإدارة العامة: المهندس عبدالباسط رحمت‌بور",
+        findBuyers: "🎯 إيجاد المشترين الدوليين",
+        findJobs: "💼 التوظيف الدولي بالخارج",
+        tabSearch: "🎯 إيجاد المشترين الدوليين والوظائف",
+        tabMaps: "📍 استخراج المشترين من خرائط جوجل",
+        tabCustoms: "📦 التعريفة الجمركية وشروط الاستيراد",
+        tabCalc: "🚚 حاسبة تكاليف الشحن الدولي والشاحنات",
+        tabInvoice: "📄 إصدار الفاتورة المبدئية (PI)",
+        tabContracts: "📋 العقود والكتالوجات التصديرية",
+        tabCV: "📝 منشئ السيرة الذاتية الاحترافية (CV)",
+        modeCommodity: "🎯 إيجاد المشترين الدوليين (كبار المستوردين)",
+        modeCommodityBadge: "قسم التجارة",
+        modeCommodityDesc: "استخراج أرقام الهواتف المباشرة والبريد الإلكتروني للشركات المستوردة للمنتجات",
+        modeJob: "💼 إيجاد وظائف في الخارج (التوظيف الدولي)",
+        modeJobBadge: "قسم التوظيف",
+        modeJobDesc: "فرص توظيف فورية لسائقي الترانزيت، المهندسين والكوادر الفنية المتخصصة",
+        queryLabelCommodity: "اسم المنتج التصديري (تفاح، تمور، بيتومين، حديد...):",
+        queryPlaceholderCommodity: "مثال: تفاح أحمر، كيوي، تمور مجدول، قار، فولاذ، فستق...",
+        queryLabelJob: "المسمى الوظيفي أو التخصص المطلوب:",
+        queryPlaceholderJob: "مثال: سائق شاحنة ترانزيت، مهندس مدني، مبرمج، فني لحام...",
+        countryLabel: "الدولة المستهدفة (الإمارات، العراق، روسيا، عمان، تركيا، ألمانيا...):",
+        searchBtn: "🔍 ابحث عن المشترين والوظائف",
+        vipModalTitle: "بوابة دفع واشتراك VIP في منصة رامان B2B",
+        vipModalSubtitle: "للوصول إلى قاعدة بيانات المشترين بالكامل، الهواتف، الإيميلات وتنزيل ملفات الإكسل",
+        plan1MonthTitle: "اشتراك شهر واحد (30 يوماً)",
+        plan1MonthTag: "30 يوماً",
+        plan1MonthPrice: "390,000 تومان (8 دولارات / USDT)",
+        plan1YearTitle: "اشتراك سنة كاملة (365 يوماً)",
+        plan1YearTag: "365 يوماً",
+        plan1YearPrice: "790,000 تومان (16 دولاراً / USDT)",
+        plan1YearBadge: "عرض خاص",
+        cardTitle: "البطاقة المصرفية (بنك كشاورزي - شتاب)",
+        cardHolderLabel: "صاحب الحساب:",
+        cardHolderName: "عبدالباسط رحمت پور",
+        cardNumber: "6037 - 7016 - 1693 - 9556",
+        copyCardBtn: "نسخ رقم البطاقة 📋",
+        copyCardDone: "تم النسخ! ✅",
+        payableAmount: "المبلغ المطلوب:",
+        receiptInstructions: "⚠️ تنبيه هام: بعد تحويل المبلغ، يُرجى إرسال صورة الإيصال عبر واتساب إلى 09141688217+ لاستلام كود التفعيل المخصص لك فوراً.",
+        sendReceiptBtn: "📲 إرسال الإيصال عبر واتساب (09141688217+)",
+        enterCodeLabel: "أدخل كود تفعيل VIP المخصص لك:",
+        codePlaceholder: "مثال: RAMAN-VIP30-1 أو VIP365-1",
+        submitCodeBtn: "تأكيد الكود",
+        codeNote: "سيتم إرسال كود التفعيل المخصص لك على واتساب بعد إرسال الإيصال مباشرة.",
+        adminLoginBtn: "🔑 تسجيل دخول المدير",
+        adminBadge: "👑 مدير عام المنصة (رحمت‌بور) - وصول غير محدود",
+        vipBadge: "👑 عضو VIP",
+        upgradeBtn: "💳 ترقية الحساب إلى VIP",
+        whatsappSupport: "واتساب الدعم: 09141688217+"
+      },
+      zh: {
+        dir: "ltr",
+        name: "中文",
+        flag: "🇨🇳",
+        brandName: "Raman B2B 全球外贸与国际招聘平台",
+        brandBadge: "一手直采买家与海外高端职位",
+        tagline: "Raman B2B 国际大宗商品出口与海外雇佣平台",
+        subTagline: "总经理：Abdulbaset Rahmatpour 工程师",
+        findBuyers: "🎯 寻找出口买家",
+        findJobs: "💼 寻找海外工作",
+        tabSearch: "🎯 寻找出口买家与海外招聘",
+        tabMaps: "📍 谷歌地图精准定位采购商",
+        tabCustoms: "📦 关税查询 (HS Code) 与准入规则",
+        tabCalc: "🚚 国际货运与跨境卡车运费测算",
+        tabInvoice: "📄 快速开具形式发票 (PI)",
+        tabContracts: "📋 国际贸易合同与产品画册",
+        tabCV: "📝 国际标准求职简历生成器",
+        modeCommodity: "🎯 寻找海外商品一手买家 (直采进口商)",
+        modeCommodityBadge: "国际贸易板块",
+        modeCommodityDesc: "一键获取国外一手大宗买家直通电话、负责人官方邮箱与采购决策人",
+        modeJob: "💼 寻找海外高薪职位 (国际招聘)",
+        modeJobBadge: "海外求职板块",
+        modeJobDesc: "直接面向国际跨境物流司机、工程师、程序员及高级技术工人的直聘通道",
+        queryLabelCommodity: "您的出口产品名称 (如苹果、红枣、沥青、钢材...):",
+        queryPlaceholderCommodity: "例如：红富士苹果、猕猴桃、椰枣、60/70沥青、螺纹钢、开心果...",
+        queryLabelJob: "您期望寻找的海外职位或技能：",
+        queryPlaceholderJob: "例如：跨境卡车司机、土木工程师、Python程序员、焊工...",
+        countryLabel: "目标买家/工作所在国 (阿联酋、伊拉克、俄罗斯、阿曼、土耳其、德国...):",
+        searchBtn: "🔍 立即检索精准买家 / 职位",
+        vipModalTitle: "Raman B2B VIP 会员订阅与付款通道",
+        vipModalSubtitle: "全面解锁 100+ 海外真实一手买家电话、高管直邮与 Excel 数据批量下载",
+        plan1MonthTitle: "1个月会员 (30天)",
+        plan1MonthTag: "30天",
+        plan1MonthPrice: "390,000 图曼 (约 8 USDT)",
+        plan1YearTitle: "1年全功能会员 (365天)",
+        plan1YearTag: "365天",
+        plan1YearPrice: "790,000 图曼 (约 16 USDT)",
+        plan1YearBadge: "超值特惠",
+        cardTitle: "银行卡号 (伊朗农业银行 / Shetab 结算网络)",
+        cardHolderLabel: "账户持有人：",
+        cardHolderName: "Abdulbaset Rahmatpour",
+        cardNumber: "6037 - 7016 - 1693 - 9556",
+        copyCardBtn: "复制银行卡号 📋",
+        copyCardDone: "已成功复制！✅",
+        payableAmount: "应付金额：",
+        receiptInstructions: "⚠️ 重要提示：完成银行卡转账后，请务必将转账水单/截图发送至 WhatsApp +989141688217，我们将立即向您发放专属 VIP 激活码。",
+        sendReceiptBtn: "📲 在 WhatsApp 发送转账凭证 (+989141688217)",
+        enterCodeLabel: "请输入您的专属 VIP 激活码：",
+        codePlaceholder: "例如：RAMAN-VIP30-1 或 VIP365-1",
+        submitCodeBtn: "验证并激活",
+        codeNote: "查验付款后，客服将在 WhatsApp 直接发送专属激活码给您。",
+        adminLoginBtn: "🔑 管理员登录",
+        adminBadge: "👑 超级管理员 (Rahmatpour) - 永久无限权限",
+        vipBadge: "👑 VIP 贵宾会员",
+        upgradeBtn: "💳 订阅购买 / 激活 VIP",
+        whatsappSupport: "官方 WhatsApp：+989141688217"
+      },
+      hi: {
+        dir: "ltr",
+        name: "हिन्दी",
+        flag: "🇮🇳",
+        brandName: "रमन B2B ग्लोबल ट्रेड और करियर हब",
+        brandBadge: "सत्यापित प्रत्यक्ष विदेशी खरीदार और वैश्विक नौकरियां",
+        tagline: "रमन B2B अंतर्राष्ट्रीय निर्यात और रोजगार मंच",
+        subTagline: "प्रबंध निदेशक: इंजीनियर अब्दुलबासित रहमतपुर",
+        findBuyers: "🎯 निर्यात खरीदार खोजें",
+        findJobs: "💼 विदेशी नौकरियां खोजें",
+        tabSearch: "🎯 निर्यात खरीदार और नौकरियां खोजें",
+        tabMaps: "📍 गूगल मैप्स से खरीदार खोजें",
+        tabCustoms: "📦 सीमा शुल्क टैरिफ और प्रवेश नियम (HS Code)",
+        tabCalc: "🚚 माल ढुलाई और ट्रक भाड़ा कैलकुलेटर",
+        tabInvoice: "📄 प्रोफार्मा इनवॉइस जेनरेटर (PI)",
+        tabContracts: "📋 निर्यात अनुबंध और कैटलॉग",
+        tabCV: "📝 अंतर्राष्ट्रीय सीवी बिल्डर",
+        modeCommodity: "🎯 निर्यात खरीदार खोजें (प्रत्यक्ष विदेशी आयातक)",
+        modeCommodityBadge: "व्यापार प्रभाग",
+        modeCommodityDesc: "विदेशी खरीदारों के सीधे फोन नंबर, आधिकारिक ईमेल और निर्णयकर्ताओं का विवरण प्राप्त करें",
+        modeJob: "💼 विदेश में नौकरी खोजें (अंतर्राष्ट्रीय करियर)",
+        modeJobBadge: "भर्ती प्रभाग",
+        modeJobDesc: "ट्रांजिट ट्रक ड्राइवरों, इंजीनियरों और कुशल श्रमिकों के लिए सीधी विदेशी भर्तियां",
+        queryLabelCommodity: "आपका निर्यात उत्पाद (सेब, कीवी, खजूर, कोलतार, स्टील...):",
+        queryPlaceholderCommodity: "उदा: लाल सेब, कीवी, ताजा खजूर, बिटुमेन, स्टील, पिस्ता...",
+        queryLabelJob: "नौकरी का शीर्षक या कौशल जिसकी आपको तलाश है:",
+        queryPlaceholderJob: "उदा: ट्रांजिट ड्राइवर, सिविल इंजीनियर, प्रोग्रामर, वेल्डर...",
+        countryLabel: "लक्षित देश (यूएई, इराक, रूस, ओमान, तुर्की, जर्मनी...):",
+        searchBtn: "🔍 खरीदार और नौकरियां खोजें",
+        vipModalTitle: "रमन B2B वीआईपी सदस्यता और भुगतान गेटवे",
+        vipModalSubtitle: "पूर्ण सत्यापित अंतर्राष्ट्रीय खरीदार डेटाबेस, सीधे फोन नंबर और असीमित एक्सेल डाउनलोड अनलॉक करें",
+        plan1MonthTitle: "1 महीने का प्लान (30 दिन)",
+        plan1MonthTag: "30 दिन",
+        plan1MonthPrice: "390,000 तोमान ($8 USDT)",
+        plan1YearTitle: "1 साल का प्लान (365 दिन)",
+        plan1YearTag: "365 दिन",
+        plan1YearPrice: "790,000 तोमान ($16 USDT)",
+        plan1YearBadge: "विशेष छूट",
+        cardTitle: "बैंक कार्ड (केशवर्ज़ी बैंक - शताब नेटवर्क)",
+        cardHolderLabel: "खाता धारक का नाम:",
+        cardHolderName: "अब्दुलबासित रहमतपुर (Abdulbaset Rahmatpour)",
+        cardNumber: "6037 - 7016 - 1693 - 9556",
+        copyCardBtn: "कार्ड नंबर कॉपी करें 📋",
+        copyCardDone: "कॉपी हो गया! ✅",
+        payableAmount: "देय राशि:",
+        receiptInstructions: "⚠️ महत्वपूर्ण: कार्ड ट्रांसफर के बाद, कृपया तुरंत अपना समर्पित वीआईपी कोड प्राप्त करने के लिए व्हाट्सएप +989141688217 पर भुगतान रसीद भेजें।",
+        sendReceiptBtn: "📲 व्हाट्सएप पर रसीद भेजें (+989141688217)",
+        enterCodeLabel: "अपना व्यक्तिगत वीआईपी सक्रियण कोड दर्ज करें:",
+        codePlaceholder: "उदा: RAMAN-VIP30-1 या VIP365-1",
+        submitCodeBtn: "कोड सत्यापित करें",
+        codeNote: "रसीद भेजने के बाद आपका व्यक्तिगत कोड सीधे व्हाट्सएप पर भेजा जाएगा।",
+        adminLoginBtn: "🔑 एडमिन लॉगिन",
+        adminBadge: "👑 सुपर एडमिन (रहमतपुर) - असीमित पहुंच",
+        vipBadge: "👑 वीआईपी सदस्य",
+        upgradeBtn: "💳 सदस्यता खरीदें / वीआईपी सक्रिय करें",
+        whatsappSupport: "व्हाट्सएप सहायता: +989141688217"
+      },
+      de: {
+        dir: "ltr",
+        name: "Deutsch",
+        flag: "🇩🇪",
+        brandName: "Raman B2B | Globaler Handels- & Karriere-Hub",
+        brandBadge: "Geprüfte Direkteinkäufer & Globale Karrieren",
+        tagline: "Raman B2B Internationale Handels- & Beschäftigungsplattform",
+        subTagline: "Geschäftsführer: Ing. Abdulbaset Rahmatpour",
+        findBuyers: "🎯 B2B-Käufer finden",
+        findJobs: "💼 Auslandskarrieren",
+        tabSearch: "🎯 B2B-Exportkäufer & Jobs finden",
+        tabMaps: "📍 Käufer auf Google Maps finden",
+        tabCustoms: "📦 Zölle (HS-Code) & Einfuhrbestimmungen",
+        tabCalc: "🚚 Fracht- & LKW-Kostenrechner",
+        tabInvoice: "📄 Proforma-Rechnung erstellen (PI)",
+        tabContracts: "📋 Exportverträge & Produktkataloge",
+        tabCV: "📝 Internationaler Lebenslauf-Generator",
+        modeCommodity: "🎯 B2B-Exportkäufer finden (Direktimporteure)",
+        modeCommodityBadge: "Handelsabteilung",
+        modeCommodityDesc: "Direkte Telefonnummern, offizielle E-Mails und Entscheidungsträger internationaler Importeure",
+        modeJob: "💼 Internationale Jobs & Auslandskarrieren",
+        modeJobBadge: "Karriereabteilung",
+        modeJobDesc: "Direkte Auslandsstellenangebote für Fernfahrer, Ingenieure und qualifizierte Fachkräfte",
+        queryLabelCommodity: "Ihr Exportprodukt (Äpfel, Datteln, Bitumen, Stahl...):",
+        queryPlaceholderCommodity: "z.B. Äpfel, Kiwi, Datteln, Bitumen 60/70, Baustahl, Pistazien...",
+        queryLabelJob: "Gesuchter Beruf oder Qualifikation:",
+        queryPlaceholderJob: "z.B. Fernfahrer, Bauingenieur, Softwareentwickler, Schweißer...",
+        countryLabel: "Zielland (VAE, Irak, Russland, Oman, Türkei, Deutschland...):",
+        searchBtn: "🔍 Käufer / Jobs jetzt suchen",
+        vipModalTitle: "Raman B2B VIP-Abonnement & Zahlungsportal",
+        vipModalSubtitle: "Schalten Sie die vollständige Käuferdatenbank, direkte Telefonnummern und unbegrenzte Excel-Downloads frei",
+        plan1MonthTitle: "1-Monats-Paket (30 Tage)",
+        plan1MonthTag: "30 Tage",
+        plan1MonthPrice: "390.000 Toman (ca. 8 USDT)",
+        plan1YearTitle: "1-Jahres-Paket (365 Tage)",
+        plan1YearTag: "365 Tage",
+        plan1YearPrice: "790.000 Toman (ca. 16 USDT)",
+        plan1YearBadge: "Bester Wert",
+        cardTitle: "Bankkarte (Keshavarzi Bank / Shetab Netzwerk)",
+        cardHolderLabel: "Kontoinhaber:",
+        cardHolderName: "Abdulbaset Rahmatpour",
+        cardNumber: "6037 - 7016 - 1693 - 9556",
+        copyCardBtn: "Kartennummer kopieren 📋",
+        copyCardDone: "Kopiert! ✅",
+        payableAmount: "Zu zahlender Betrag:",
+        receiptInstructions: "⚠️ Wichtig: Bitte senden Sie nach der Überweisung Ihren Zahlungsbeleg per WhatsApp an +989141688217, um Ihren exklusiven VIP-Freischaltcode zu erhalten.",
+        sendReceiptBtn: "📲 Zahlungsbeleg per WhatsApp senden (+989141688217)",
+        enterCodeLabel: "Geben Sie Ihren persönlichen VIP-Freischaltcode ein:",
+        codePlaceholder: "z.B. RAMAN-VIP30-1 oder VIP365-1",
+        submitCodeBtn: "VIP aktivieren",
+        codeNote: "Ihr persönlicher VIP-Code wird Ihnen nach Prüfung des Belegs umgehend per WhatsApp zugesandt.",
+        adminLoginBtn: "🔑 Admin-Login",
+        adminBadge: "👑 Super-Admin (Rahmatpour) - Unbegrenzter Zugriff",
+        vipBadge: "👑 VIP-Mitglied",
+        upgradeBtn: "💳 Abonnement buchen / VIP aktivieren",
+        whatsappSupport: "WhatsApp-Support: +989141688217"
+      }
+    };
+'''
+
     function App() {
       // Navigation tab: "search" | "dorks" | "calculator" | "invoice" | "customs" | "cvbuilder"
       const [activeTab, setActiveTab] = useState("search");
@@ -247,6 +661,13 @@
       const BANK_OWNER = "عبدالباسط رحمت پور";
       const BANK_NAME = "بانک کشاورزی (عضو شتاب)";
 
+      const [lang, setLang] = useState(() => {
+        try { return localStorage.getItem("b2b_lang") || "fa"; } catch(e) { return "fa"; }
+      });
+      const t = (key) => TRANSLATIONS[lang]?.[key] || TRANSLATIONS["fa"]?.[key] || key;
+      const isRtl = ["fa", "ku", "ar"].includes(lang);
+      const [customerName, setCustomerName] = useState("");
+
       const [isOwner, setIsOwner] = useState(() => {
         try { return localStorage.getItem("b2b_is_owner") === "true"; } catch(e) { return false; }
       });
@@ -329,11 +750,9 @@
           return;
         }
 
-        // 30-Day Plan patterns: VIP30, VIP30-1, VIP30-2, VIP30-100, M30-XXX, etc.
-        const is30Day = /^VIP30(-\w+)?$/i.test(cleanCode) || /^M30(-\w+)?$/i.test(cleanCode) || /^EXP30(-\w+)?$/i.test(cleanCode);
-
-        // 365-Day (1-Year) Plan patterns: VIP365, VIP365-1, VIP365-2, VIP365-100, Y365-XXX, etc.
-        const is365Day = /^VIP365(-\w+)?$/i.test(cleanCode) || /^Y365(-\w+)?$/i.test(cleanCode) || /^EXP365(-\w+)?$/i.test(cleanCode) || ["GOLD2026", "ARIA98914", "SHAHRAM", "VIP2026"].includes(cleanCode);
+        // Supports RAMAN-VIP30, RAMAN-VIP365, VIP30, VIP365, etc.
+        const is30Day = cleanCode.includes("VIP30") || cleanCode.includes("M30") || cleanCode.startsWith("VIP30");
+        const is365Day = cleanCode.includes("VIP365") || cleanCode.includes("Y365") || cleanCode.startsWith("VIP365") || ["GOLD2026", "ARIA98914", "SHAHRAM", "RAMAN"].includes(cleanCode);
 
         if (is30Day) {
           const expiryDate = Date.now() + (30 * 24 * 60 * 60 * 1000);
@@ -366,12 +785,15 @@
         }
       };
 
-      const generateUniqueCode = (type) => {
+      const generatePersonalizedCode = (type) => {
         const randomNum = Math.floor(1000 + Math.random() * 9000);
-        const code = type === "30" ? `VIP30-${randomNum}` : `VIP365-${randomNum}`;
+        const cleanName = customerName ? customerName.trim().toUpperCase().replace(/\s+/g, '-').slice(0, 10) : "";
+        const code = type === "30" 
+          ? (cleanName ? `RAMAN-VIP30-${cleanName}-${randomNum}` : `RAMAN-VIP30-${randomNum}`)
+          : (cleanName ? `RAMAN-VIP365-${cleanName}-${randomNum}` : `RAMAN-VIP365-${randomNum}`);
         setGeneratedCode(code);
         try { navigator.clipboard.writeText(code); } catch(e) {}
-        showToast(`کد اختصاصی تولید و کپی شد: ${code}`);
+        showToast(`کد اختصاصی ${customerName ? 'برای ' + customerName : ''} صادر و کپی شد: ${code}`);
       };
       const [sellSheet, setSellSheet] = useState({
         productName: "Premium Red Apples (Grade-A Export)",
@@ -622,29 +1044,26 @@
       }, [results, filterText]);
 
       return (
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6" dir={isRtl ? "rtl" : "ltr"}>
           
           {/* Header */}
           <header className="flex flex-col md:flex-row justify-between items-center pb-6 mb-8 border-b border-slate-800 gap-4">
             <div className="flex items-center gap-4">
-              {/* Luxury Brand Logo Emblem */}
-              <div className="relative group cursor-pointer">
-                <div className="absolute -inset-1.5 bg-gradient-to-r from-amber-500 via-yellow-400 to-emerald-500 rounded-2xl blur-md opacity-70 group-hover:opacity-100 transition duration-500 animate-pulse"></div>
-                <div className="relative w-16 h-16 sm:w-18 sm:h-18 rounded-2xl bg-slate-950 border-2 border-amber-400/60 flex items-center justify-center shadow-2xl overflow-hidden p-0.5">
-                  {/* Guaranteed 100% Ultra-Sharp Luxury Gold Brand Emblem */}
-                  <svg viewBox="0 0 100 100" className="w-full h-full p-1 filter drop-shadow-[0_2px_10px_rgba(245,158,11,0.7)]" fill="none">
+              {/* Luxury Gold-Emerald Brand Logo */}
+              <div className="relative group cursor-pointer flex-shrink-0">
+                <div className="absolute -inset-1.5 bg-gradient-to-r from-amber-500 via-yellow-400 to-emerald-500 rounded-2xl blur-md opacity-75 group-hover:opacity-100 transition duration-500 animate-pulse"></div>
+                <div className="relative w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-950 border-2 border-amber-400/80 flex items-center justify-center shadow-2xl overflow-hidden p-2">
+                  <svg viewBox="0 0 100 100" className="w-full h-full filter drop-shadow-[0_2px_10px_rgba(245,158,11,0.7)]" fill="none">
                     <circle cx="50" cy="50" r="47" stroke="#f59e0b" strokeWidth="2" strokeDasharray="3 3"/>
                     <circle cx="50" cy="50" r="42" stroke="#10b981" strokeWidth="1.5" opacity="0.8"/>
                     <ellipse cx="50" cy="50" rx="38" ry="16" stroke="#fbbf24" strokeWidth="1.2" opacity="0.7"/>
                     <ellipse cx="50" cy="50" rx="18" ry="38" stroke="#fbbf24" strokeWidth="1.2" opacity="0.6"/>
                     <line x1="12" y1="50" x2="88" y2="50" stroke="#10b981" strokeWidth="1.5" opacity="0.9"/>
-                    {/* Golden Falcon Wings */}
                     <path d="M50 12 L64 36 L88 40 L68 56 L74 84 L50 68 L26 84 L32 56 L12 40 L36 36 Z" fill="#f59e0b" opacity="0.3"/>
-                    {/* Ascending Export Apex Arrow */}
-                    <path d="M50 16 L76 46 L62 46 L62 76 L38 76 L38 46 L24 46 Z" fill="url(#mainLogoGold)"/>
+                    <path d="M50 16 L76 46 L62 46 L62 76 L38 76 L38 46 L24 46 Z" fill="url(#ramanGoldGrad)"/>
                     <circle cx="50" cy="36" r="4.5" fill="#ffffff" filter="drop-shadow(0 0 6px #10b981)"/>
                     <defs>
-                      <linearGradient id="mainLogoGold" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <linearGradient id="ramanGoldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
                         <stop offset="0%" stopColor="#fef08a" />
                         <stop offset="45%" stopColor="#f59e0b" />
                         <stop offset="100%" stopColor="#b45309" />
@@ -655,49 +1074,71 @@
               </div>
 
               <div>
-                <div className="flex items-center gap-2 mb-1">
-                  <span className="text-[10px] sm:text-xs font-mono font-bold tracking-widest uppercase bg-gradient-to-r from-amber-500/20 to-emerald-500/20 border border-amber-500/40 text-amber-300 px-2.5 py-0.5 rounded-full">
-                    ARYA GLOBAL TRADE & CAREER HUB
+                <div className="flex items-center gap-2 mb-1 flex-wrap">
+                  <span className="text-[10px] sm:text-xs font-mono font-black tracking-widest uppercase bg-gradient-to-r from-amber-500/20 to-emerald-500/20 border border-amber-500/50 text-amber-300 px-3 py-0.5 rounded-full">
+                    {t("brandName")}
                   </span>
-                  <span className="text-[10px] text-emerald-400 font-bold hidden sm:inline-flex items-center gap-1">
+                  <span className="text-[10px] text-emerald-400 font-bold inline-flex items-center gap-1">
                     <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping"></span>
-                    Verified B2B Direct
+                    {t("brandBadge")}
                   </span>
                 </div>
                 <h1 className="text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-amber-300 via-yellow-200 to-emerald-400 bg-clip-text text-transparent">
-                  مرکز صادرات و کاریابی بین‌المللی آریا
+                  {t("tagline")}
                 </h1>
                 <p className="text-xs sm:text-sm text-slate-300 mt-1 flex items-center gap-2 flex-wrap font-medium">
-                  <span className="text-emerald-400 font-bold">🎯 پیدا کردن مشتری صادراتی</span>
+                  <span className="text-emerald-400 font-bold">{t("findBuyers")}</span>
                   <span className="text-slate-600">•</span>
-                  <span className="text-cyan-400 font-bold">💼 پیدا کردن شغل در خارج</span>
+                  <span className="text-cyan-400 font-bold">{t("findJobs")}</span>
                   <span className="text-slate-600">•</span>
-                  <span className="text-amber-300 text-[11px]">مدیریت: مهندس عبدالباسط رحمت‌پور</span>
+                  <span className="text-amber-300 text-[11px]">{t("subTagline")}</span>
                 </p>
               </div>
             </div>
 
-            {/* Header VIP badge & Direct WhatsApp button */}
+            {/* Header Controls: Language Selector, WhatsApp, VIP/Admin */}
             <div className="flex flex-wrap items-center gap-2.5">
+              {/* Language Selector Dropdown */}
+              <div className="flex items-center gap-1.5 bg-slate-900/90 border border-amber-500/40 px-3 py-1.5 rounded-full text-xs shadow-md">
+                <span className="text-base">{TRANSLATIONS[lang]?.flag}</span>
+                <select
+                  value={lang}
+                  onChange={(e) => {
+                    const newL = e.target.value;
+                    setLang(newL);
+                    try { localStorage.setItem("b2b_lang", newL); } catch(err) {}
+                  }}
+                  className="bg-transparent text-white text-xs font-bold outline-none cursor-pointer"
+                >
+                  <option value="fa" className="bg-slate-900 text-white">🇮🇷 فارسی</option>
+                  <option value="ku" className="bg-slate-900 text-white">🇹🇯 کوردی</option>
+                  <option value="en" className="bg-slate-900 text-white">🇬🇧 English</option>
+                  <option value="ar" className="bg-slate-900 text-white">🇦🇪 العربية</option>
+                  <option value="zh" className="bg-slate-900 text-white">🇨🇳 中文</option>
+                  <option value="hi" className="bg-slate-900 text-white">🇮🇳 हिन्दी</option>
+                  <option value="de" className="bg-slate-900 text-white">🇩🇪 Deutsch</option>
+                </select>
+              </div>
+
               <a
-                href={getWhatsAppLink("سلام جناب صادقی، از طریق سامانه پیام می‌دهم و مایل به استعلام و مشاوره صادراتی هستم.")}
+                href={getWhatsAppLink("سلام جناب رحمت پور، از طریق سامانه B2B رامان پیام می‌دهم.")}
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-1.5 bg-emerald-600/20 hover:bg-emerald-600 border border-emerald-500/40 text-emerald-300 hover:text-white px-3.5 py-1.5 rounded-full text-xs font-bold transition-all shadow-md shadow-emerald-600/10"
               >
                 <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-                <span>واتساپ پشتیبانی: ۰۹۱۴۱۶۸۸۲۱۷</span>
+                <span>{t("whatsappSupport")}</span>
               </a>
 
-              {/* Admin / VIP Header Display */}
+              {/* Owner Badge or Quick Admin Login */}
               {isOwner ? (
                 <div className="flex items-center gap-1.5 bg-gradient-to-r from-amber-500/25 to-yellow-500/25 border border-amber-500/60 text-amber-300 px-3.5 py-1.5 rounded-full text-xs font-black shadow-lg shadow-amber-500/20">
                   <span className="w-2 h-2 rounded-full bg-amber-400 animate-ping"></span>
-                  <span>👑 مدیر ارشد سامانه (رحمت‌پور) - دسترسی نامحدود</span>
+                  <span>{t("adminBadge")}</span>
                 </div>
               ) : isVip ? (
                 <div className="flex items-center gap-1.5 bg-gradient-to-r from-amber-500/20 to-yellow-500/20 border border-amber-500/40 text-amber-300 px-3.5 py-1.5 rounded-full text-xs font-bold shadow-lg shadow-amber-500/10">
-                  <span>👑 اکانت طلایی ({vipPlanName || (vipDaysLeft > 0 ? `${vipDaysLeft} روز مانده` : "VIP")})</span>
+                  <span>{t("vipBadge")} ({vipPlanName || (vipDaysLeft > 0 ? `${vipDaysLeft} روز مانده` : "VIP")})</span>
                 </div>
               ) : (
                 <div className="flex items-center gap-2">
@@ -705,11 +1146,11 @@
                     onClick={() => setShowVipModal(true)}
                     className="flex items-center gap-1.5 bg-gradient-to-r from-amber-500 to-yellow-500 hover:from-amber-400 hover:to-yellow-400 text-slate-950 px-3.5 py-1.5 rounded-full text-xs font-black shadow-lg shadow-amber-500/30 transition-all hover:scale-105"
                   >
-                    <span>💳 کارت به کارت / فعال‌سازی VIP</span>
+                    <span>{t("upgradeBtn")}</span>
                   </button>
                   <button
                     onClick={() => {
-                      const pass = prompt("رمز ورود مدیر ارشد سامانه (رحمت‌پور) را وارد کنید:");
+                      const pass = prompt("رمز ورود مدیر ارشد سامانه رامان B2B (رحمت‌پور) را وارد کنید:");
                       if (pass && ["98914", "9556", "1234", "rahmatpour"].includes(pass.trim().toLowerCase())) {
                         localStorage.setItem("b2b_is_owner", "true");
                         localStorage.setItem("b2b_vip_status", "true");
@@ -728,7 +1169,7 @@
                     className="text-[11px] bg-slate-800 hover:bg-slate-700 text-amber-400 border border-slate-700 px-2.5 py-1.5 rounded-full font-bold transition-all"
                     title="ورود دائمی مدیر بدون نیاز به بلیت"
                   >
-                    🔑 ورود مدیر سایت
+                    {t("adminLoginBtn")}
                   </button>
                 </div>
               )}
@@ -746,19 +1187,19 @@
               }`}
             >
               <Icons.Search />
-              <span>🎯 پیدا کردن مشتری صادراتی و کاریابی</span>
+              <span>{t("tabSearch")}</span>
             </button>
 
             <button
-              onClick={() => setActiveTab("dorks")}
+              onClick={() => setActiveTab("gmaps")}
               className={`flex items-center gap-2 px-4 py-2.5 rounded-xl font-medium text-xs sm:text-sm transition-all ${
-                activeTab === "dorks"
-                  ? "bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-lg shadow-blue-600/30 font-bold"
+                activeTab === "gmaps"
+                  ? "bg-gradient-to-r from-cyan-600 to-blue-600 text-white shadow-lg shadow-cyan-600/30 font-bold"
                   : "text-slate-400 hover:text-slate-200 hover:bg-slate-800/50"
               }`}
             >
               <Icons.Globe />
-              <span>🌐 جستجوی پیشرفته بازارهای هدف</span>
+              <span>{t("tabMaps")}</span>
             </button>
 
             <button
@@ -770,7 +1211,7 @@
               }`}
             >
               <Icons.Package />
-              <span>📦 تعرفه گمرکی و شرایط ورود کالا</span>
+              <span>{t("tabCustoms")}</span>
             </button>
 
             <button
@@ -782,7 +1223,7 @@
               }`}
             >
               <Icons.Calculator />
-              <span>🚚 محاسبه هزینه حمل و کرایه تریلی</span>
+              <span>{t("tabCalc")}</span>
             </button>
 
             <button
@@ -794,19 +1235,7 @@
               }`}
             >
               <Icons.FileText />
-              <span>📄 صدور پیش‌فاکتور صادرات (PI)</span>
-            </button>
-
-            <button
-              onClick={() => setActiveTab("cvbuilder")}
-              className={`flex items-center gap-2 px-4 py-2.5 rounded-xl font-medium text-xs sm:text-sm transition-all ${
-                activeTab === "cvbuilder"
-                  ? "bg-gradient-to-r from-purple-600 to-pink-600 text-white shadow-lg shadow-purple-600/30 font-bold"
-                  : "text-slate-400 hover:text-slate-200 hover:bg-slate-800/50"
-              }`}
-            >
-              <Icons.UserCheck />
-              <span>📝 رزومه‌ساز استاندارد کاریابی خارجی</span>
+              <span>{t("tabInvoice")}</span>
             </button>
 
             <button
@@ -818,19 +1247,19 @@
               }`}
             >
               <Icons.FileText />
-              <span>کاتالوگ صادراتی و قرارداد رسمی</span>
+              <span>{t("tabContracts")}</span>
             </button>
 
             <button
-              onClick={() => setActiveTab("gmaps")}
+              onClick={() => setActiveTab("cvbuilder")}
               className={`flex items-center gap-2 px-4 py-2.5 rounded-xl font-medium text-xs sm:text-sm transition-all ${
-                activeTab === "gmaps"
-                  ? "bg-gradient-to-r from-red-600 to-orange-600 text-white shadow-lg shadow-orange-600/30 font-bold"
+                activeTab === "cvbuilder"
+                  ? "bg-gradient-to-r from-purple-600 to-pink-600 text-white shadow-lg shadow-purple-600/30 font-bold"
                   : "text-slate-400 hover:text-slate-200 hover:bg-slate-800/50"
               }`}
             >
-              <Icons.MapPin />
-              <span>اسکرپر گوگل مپ (Lead Gen)</span>
+              <Icons.UserCheck />
+              <span>{t("tabCV")}</span>
             </button>
           </nav>
 
@@ -840,42 +1269,54 @@
               {/* Mode Switcher */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
                 <button
+                  type="button"
                   onClick={() => {
                     setSearchMode("commodity");
                     setQueryText("سیب");
                   }}
-                  className={`flex items-center justify-center gap-3 p-4 rounded-2xl border transition-all text-right ${
+                  className={`flex items-center justify-start gap-4 p-5 rounded-2xl border transition-all text-right ${
                     searchMode === "commodity"
-                      ? "glass-card border-emerald-500/80 bg-emerald-950/20 glow-emerald"
-                      : "bg-slate-900/40 border-slate-800 text-slate-400 hover:border-slate-700"
+                      ? "glass-card border-emerald-500/80 bg-emerald-950/30 ring-2 ring-emerald-500/30 shadow-xl shadow-emerald-500/10"
+                      : "bg-slate-900/50 border-slate-800 text-slate-400 hover:border-slate-700"
                   }`}
                 >
-                  <div className={`p-2.5 rounded-xl ${searchMode === "commodity" ? "bg-emerald-500 text-white" : "bg-slate-800 text-slate-400"}`}>
+                  <div className={`p-3 rounded-2xl ${searchMode === "commodity" ? "bg-emerald-500 text-white shadow-lg shadow-emerald-500/30" : "bg-slate-800 text-slate-400"}`}>
                     <Icons.Package />
                   </div>
                   <div>
-                    <h3 className="font-bold text-base text-slate-100">🎯 پیدا کردن مشتری صادراتی (خریداران خارجی کالا)</h3>
-                    <p className="text-xs text-slate-400 mt-0.5">استخراج شماره تلفن مستقیم، ایمیل و مشخصات تجار و خریداران دست‌اول خارجی</p>
+                    <h3 className="font-extrabold text-base text-white flex items-center gap-2">
+                      <span>{t("modeCommodity")}</span>
+                      <span className="text-[10px] bg-emerald-500/20 text-emerald-300 px-2 py-0.5 rounded-full font-bold">{t("modeCommodityBadge")}</span>
+                    </h3>
+                    <p className="text-xs text-slate-300 mt-1 leading-relaxed">
+                      {t("modeCommodityDesc")}
+                    </p>
                   </div>
                 </button>
 
                 <button
+                  type="button"
                   onClick={() => {
                     setSearchMode("job");
                     setQueryText("راننده ترانزیت");
                   }}
-                  className={`flex items-center justify-center gap-3 p-4 rounded-2xl border transition-all text-right ${
+                  className={`flex items-center justify-start gap-4 p-5 rounded-2xl border transition-all text-right ${
                     searchMode === "job"
-                      ? "glass-card border-blue-500/80 bg-blue-950/20 glow-blue"
-                      : "bg-slate-900/40 border-slate-800 text-slate-400 hover:border-slate-700"
+                      ? "glass-card border-blue-500/80 bg-blue-950/30 ring-2 ring-blue-500/30 shadow-xl shadow-blue-500/10"
+                      : "bg-slate-900/50 border-slate-800 text-slate-400 hover:border-slate-700"
                   }`}
                 >
-                  <div className={`p-2.5 rounded-xl ${searchMode === "job" ? "bg-blue-600 text-white" : "bg-slate-800 text-slate-400"}`}>
+                  <div className={`p-3 rounded-2xl ${searchMode === "job" ? "bg-blue-600 text-white shadow-lg shadow-blue-600/30" : "bg-slate-800 text-slate-400"}`}>
                     <Icons.Briefcase />
                   </div>
                   <div>
-                    <h3 className="font-bold text-base text-slate-100">💼 پیدا کردن شغل در خارج از کشور (کاریابی بین‌المللی)</h3>
-                    <p className="text-xs text-slate-400 mt-0.5">فرصت‌های استخدام بین‌المللی برای رانندگان ترانزیت، مهندسان و نیروهای متخصص</p>
+                    <h3 className="font-extrabold text-base text-white flex items-center gap-2">
+                      <span>{t("modeJob")}</span>
+                      <span className="text-[10px] bg-blue-500/20 text-blue-300 px-2 py-0.5 rounded-full font-bold">{t("modeJobBadge")}</span>
+                    </h3>
+                    <p className="text-xs text-slate-300 mt-1 leading-relaxed">
+                      {t("modeJobDesc")}
+                    </p>
                   </div>
                 </button>
               </div>
@@ -887,14 +1328,14 @@
                   {/* Query Input */}
                   <div className="md:col-span-5">
                     <label className="block text-xs font-semibold text-slate-300 mb-2">
-                      {searchMode === "commodity" ? "نام محصول صادراتی شما (سیب، کیوی، خرما، قیر، فولاد...):" : "شغل یا مهارتی که دنبال استخدام آن هستید:"}
+                      {searchMode === "commodity" ? t("queryLabelCommodity") : t("queryLabelJob")}
                     </label>
                     <input
                       type="text"
                       value={queryText}
                       onChange={(e) => setQueryText(e.target.value)}
                       onKeyDown={(e) => e.key === 'Enter' && executeSearch()}
-                      placeholder={searchMode === "commodity" ? "مثال: سیب، کیوی، سیب‌زمینی، خرما، پسته، گوجه..." : "مثال: راننده ترانزیت، مهندس عمران، برنامه‌نویس، جوشکار..."}
+                      placeholder={searchMode === "commodity" ? t("queryPlaceholderCommodity") : t("queryPlaceholderJob")}
                       className="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3 text-sm text-white focus:outline-none focus:border-emerald-500 focus:ring-1 focus:ring-emerald-500 transition-all"
                     />
                   </div>
@@ -902,7 +1343,7 @@
                   {/* Country Selector & Input */}
                   <div className="md:col-span-4">
                     <label className="block text-xs font-semibold text-slate-300 mb-2">
-                      کشور مقصد خریدار (امارات، عراق، روسیه، عمان، ترکیه، آلمان...):
+                      {t("countryLabel")}
                     </label>
                     <input
                       type="text"
@@ -2485,10 +2926,10 @@ https://meet.google.com/new`}
                     👑
                   </div>
                   <h3 className="text-xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-yellow-200 to-amber-400">
-                    درگاه پرداخت کارت به کارت و فعال‌سازی VIP
+                    {t("vipModalTitle")}
                   </h3>
                   <p className="text-xs text-slate-300 mt-1.5 leading-relaxed">
-                    جهت دسترسی به دیتابیس کامل خریداران خارجی، تلفن‌ها، ایمیل‌های مستقیم و دانلود نامحدود اکسل
+                    {t("vipModalSubtitle")}
                   </p>
                 </div>
 
@@ -2504,11 +2945,11 @@ https://meet.google.com/new`}
                     }`}
                   >
                     <div className="flex items-center justify-between">
-                      <span className="text-xs font-bold text-white">اشتراک ۱ ماهه</span>
-                      <span className="text-[10px] bg-amber-500/20 text-amber-300 px-2 py-0.5 rounded-full font-mono font-bold">۳۰ روزه</span>
+                      <span className="text-xs font-bold text-white">{t("plan1MonthTitle")}</span>
+                      <span className="text-[10px] bg-amber-500/20 text-amber-300 px-2 py-0.5 rounded-full font-mono font-bold">{t("plan1MonthTag")}</span>
                     </div>
                     <div className="mt-2 text-base font-extrabold text-amber-400">
-                      ۳۹۰,۰۰۰ <span className="text-[10px] font-normal text-slate-400">تومان</span>
+                      {t("plan1MonthPrice")}
                     </div>
                   </button>
 
@@ -2522,22 +2963,22 @@ https://meet.google.com/new`}
                     }`}
                   >
                     <div className="absolute -top-2 -left-8 bg-emerald-500 text-slate-950 text-[9px] font-black py-1 px-8 rotate-[-35deg]">
-                      تخفیف ویژه
+                      {t("plan1YearBadge")}
                     </div>
                     <div className="flex items-center justify-between">
-                      <span className="text-xs font-bold text-white">اشتراک ۱ ساله</span>
-                      <span className="text-[10px] bg-emerald-500/20 text-emerald-300 px-2 py-0.5 rounded-full font-mono font-bold">۳۶۵ روزه</span>
+                      <span className="text-xs font-bold text-white">{t("plan1YearTitle")}</span>
+                      <span className="text-[10px] bg-emerald-500/20 text-emerald-300 px-2 py-0.5 rounded-full font-mono font-bold">{t("plan1YearTag")}</span>
                     </div>
                     <div className="mt-2 text-base font-extrabold text-emerald-400">
-                      ۷۹۰,۰۰۰ <span className="text-[10px] font-normal text-slate-400">تومان</span>
+                      {t("plan1YearPrice")}
                     </div>
                   </button>
                 </div>
 
-                {/* Smart Bank Card Display */}
+                {/* Smart Bank Card Display (Bank Keshavarzi - Abdulbaset Rahmatpour) */}
                 <div className="bg-gradient-to-br from-amber-700 via-amber-800 to-yellow-950 p-4 rounded-2xl border border-amber-400/40 shadow-xl mb-4 relative overflow-hidden text-white">
                   <div className="flex justify-between items-center mb-3">
-                    <span className="text-xs font-bold tracking-wider text-amber-200">کارت بانکی شتاب ({BANK_NAME})</span>
+                    <span className="text-xs font-bold tracking-wider text-amber-200">{t("cardTitle")}</span>
                     <span className="text-xs font-mono bg-black/40 px-2 py-0.5 rounded text-amber-300">SHETAB</span>
                   </div>
 
@@ -2547,171 +2988,129 @@ https://meet.google.com/new`}
 
                   <div className="flex justify-between items-end mt-3 text-xs">
                     <div>
-                      <span className="text-[10px] text-amber-300/80 block">صاحب حساب:</span>
-                      <span className="font-extrabold text-amber-100">{BANK_OWNER}</span>
+                      <span className="text-[10px] text-amber-300/80 block">{t("cardHolderLabel")}</span>
+                      <span className="font-extrabold text-amber-100 text-sm">{BANK_OWNER}</span>
                     </div>
                     <button
                       type="button"
                       onClick={copyCardToClipboard}
                       className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold px-3 py-1.5 rounded-xl text-xs flex items-center gap-1 transition-all shadow-md shadow-black/30"
                     >
-                      {cardCopied ? "کپی شد! ✅" : "کپی شماره کارت 📋"}
+                      {cardCopied ? t("copyCardDone") : t("copyCardBtn")}
                     </button>
                   </div>
                 </div>
 
-                {/* Step 2: Tracking & WhatsApp Button */}
-                <div className="bg-slate-900/80 border border-slate-800 rounded-2xl p-3.5 mb-4 space-y-2.5">
+                {/* Step 2: Payment Receipt Instructions & WhatsApp CTA */}
+                <div className="bg-slate-900/90 border border-slate-800 rounded-2xl p-4 mb-4 space-y-3">
                   <div className="flex items-center justify-between text-xs text-slate-300">
-                    <span className="font-bold">مبلغ قابل پرداخت:</span>
+                    <span className="font-bold">{t("payableAmount")}</span>
                     <span className="font-extrabold text-amber-400 text-sm">
-                      {selectedPlan === "30" ? "۳۹۰,۰۰۰ تومان" : "۷۹۰,۰۰۰ تومان"}
+                      {selectedPlan === "30" ? t("plan1MonthPrice") : t("plan1YearPrice")}
                     </span>
+                  </div>
+
+                  <div className="p-3 bg-amber-500/10 border border-amber-500/30 rounded-xl text-xs text-amber-200 leading-relaxed font-medium">
+                    {t("receiptInstructions")}
                   </div>
 
                   <input
                     type="text"
                     value={trackingCode}
                     onChange={(e) => setTrackingCode(e.target.value)}
-                    placeholder="شماره پیگیری واریز یا ۴ رقم آخر کارت شما (اختیاری)"
+                    placeholder="شماره پیگیری واریز یا ۴ رقم آخر کارت شما"
                     className="w-full bg-slate-800/90 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-amber-500"
                   />
 
                   <a
                     href={getWhatsAppLink(
-                      `سلام جناب رحمت پور، مبلغ ${selectedPlan === "30" ? "۳۹۰,۰۰۰ تومان بابت اشتراک ۱ ماهه (کد VIP30)" : "۷۹۰,۰۰۰ تومان بابت اشتراک ۱ ساله (کد VIP365)"} به شماره کارت ۶۰۳۷۷۰۱۶۱۶۹۳۹۵۵۶ واریز شد.${trackingCode ? " شماره پیگیری: " + trackingCode : ""} لطفاً کد اختصاصی فعال‌سازی را ارسال فرمایید.`
+                      `سلام جناب رحمت پور، مبلغ ${selectedPlan === "30" ? t("plan1MonthPrice") + " بابت اشتراک ۱ ماهه" : t("plan1YearPrice") + " بابت اشتراک ۱ ساله"} به شماره کارت ۶۰۳۷۷۰۱۶۱۶۹۳۹۵۵۶ واریز شد.${trackingCode ? " شماره پیگیری: " + trackingCode : ""} لطفاً کد اشتراک اختصاصی من را ارسال فرمایید.`
                     )}
                     target="_blank"
                     rel="noreferrer"
                     className="w-full flex items-center justify-center gap-2 bg-gradient-to-r from-emerald-600 to-green-600 hover:from-emerald-500 hover:to-green-500 text-white font-bold py-3 px-4 rounded-xl shadow-lg shadow-emerald-600/30 transition-all text-xs text-center"
                   >
                     <svg className="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0 0 12.04 2m.01 1.67c2.2 0 4.26.86 5.82 2.42a8.225 8.225 0 0 1 2.41 5.83c0 4.54-3.7 8.24-8.24 8.24-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.196 8.196 0 0 1-1.26-4.38c0-4.54 3.7-8.24 8.24-8.24m4.52 11.66c-.25-.13-1.47-.72-1.7-.81-.23-.08-.39-.13-.56.13-.17.25-.64.81-.79.97-.14.17-.29.19-.54.06-.25-.13-1.06-.39-2.03-1.24-.75-.67-1.26-1.5-1.41-1.75-.14-.25-.02-.39.11-.51.11-.11.25-.29.37-.43.13-.15.17-.25.25-.42.08-.17.04-.31-.02-.44-.06-.13-.56-1.34-.76-1.84-.2-.49-.4-.42-.56-.43h-.48c-.17 0-.44.06-.67.31-.23.25-.88.86-.88 2.1 0 1.24.9 2.44 1.03 2.61.13.17 1.78 2.71 4.3 3.8.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.47-.6 1.68-1.18.21-.58.21-1.07.15-1.18-.06-.1-.23-.17-.48-.29z"/></svg>
-                    <span>ارسال فیش و درخواست کد فعال‌سازی در واتساپ (۰۹۱۴۱۶۸۸۲۱۷)</span>
+                    <span>{t("sendReceiptBtn")}</span>
                   </a>
                 </div>
 
                 {/* Step 3: Enter Activation Code */}
                 <div className="pt-3 border-t border-slate-800">
-                  <label className="text-[11px] text-slate-300 block mb-1.5 font-bold">کد فعال‌سازی اختصاصی خود را وارد نمایید:</label>
+                  <label className="text-[11px] text-slate-300 block mb-1.5 font-bold">{t("enterCodeLabel")}</label>
                   <div className="flex gap-2">
                     <input
                       type="text"
                       value={vipInputCode}
                       onChange={(e) => setVipInputCode(e.target.value)}
-                      placeholder="مثال: VIP30-1 یا VIP365-1"
+                      placeholder={t("codePlaceholder")}
                       className="flex-1 bg-slate-800 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-amber-500 font-mono text-center tracking-wider"
                     />
                     <button
                       onClick={handleVipCodeSubmit}
                       className="bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold px-4 py-2 rounded-xl text-xs transition-all shadow-md shadow-amber-500/20"
                     >
-                      تایید کد
+                      {t("submitCodeBtn")}
                     </button>
                   </div>
-                  <p className="text-[10px] text-slate-500 mt-1 text-center">کد اختصاصی پس از ارسال فیش، مستقیماً در واتساپ برای شما ارسال می‌شود.</p>
+                  <p className="text-[10px] text-slate-500 mt-1.5 text-center">{t("codeNote")}</p>
                 </div>
 
-                {/* Secret Admin Generator & Owner Master Key for Mr. Rahmatpour */}
-                <div className="mt-4 pt-2 border-t border-slate-800/60 text-center">
-                  {!showAdminPanel ? (
-                    <button
-                      type="button"
-                      onClick={() => setShowAdminPanel(true)}
-                      className="text-[10px] text-slate-500 hover:text-amber-400 transition-colors font-medium"
-                    >
-                      🔒 پنل مدیریت کل و صدور کد (جناب رحمت پور)
-                    </button>
-                  ) : (
-                    <div className="bg-slate-950/90 p-3.5 rounded-2xl border border-amber-500/40 text-xs mt-2">
-                      {!adminUnlocked ? (
-                        <div className="flex gap-2 items-center justify-center">
-                          <input
-                            type="password"
-                            value={adminPass}
-                            onChange={(e) => setAdminPass(e.target.value)}
-                            placeholder="رمز مدیر کل (۹۸۹۱۴)"
-                            className="bg-slate-900 border border-slate-700 rounded-xl px-3 py-1.5 text-xs text-white w-36 text-center focus:border-amber-500 focus:outline-none"
-                          />
-                          <button
-                            type="button"
-                            onClick={() => {
-                              if (["98914", "9556", "1234", "rahmatpour"].includes(adminPass.trim().toLowerCase())) {
-                                setAdminUnlocked(true);
-                              } else {
-                                showToast("❌ رمز نادرست است");
-                              }
-                            }}
-                            className="bg-amber-500 hover:bg-amber-400 text-slate-950 font-black px-3 py-1.5 rounded-xl text-xs"
-                          >
-                            ورود مدیر
-                          </button>
-                        </div>
-                      ) : (
-                        <div className="space-y-3">
-                          <div className="text-[11px] text-amber-300 font-extrabold flex items-center justify-center gap-1">
-                            <span>👑</span>
-                            <span>پنل اختصاصی مدیریت کل سامانه (جناب رحمت پور)</span>
-                          </div>
-
-                          {/* Instant 1-Click Owner Lifetime Unlock */}
-                          <button
-                            type="button"
-                            onClick={() => {
-                              localStorage.setItem("b2b_is_owner", "true");
-                              localStorage.setItem("b2b_vip_status", "true");
-                              localStorage.setItem("b2b_vip_expiry", "9999999999999");
-                              localStorage.setItem("b2b_vip_plan", "مدیر ارشد سامانه (Super Admin)");
-                              localStorage.setItem("b2b_active_code", "OWNER-PERMANENT");
-                              setIsOwner(true);
-                              setIsVip(true);
-                              setVipPlanName("مدیر ارشد سامانه");
-                              setVipDaysLeft(9999);
-                              showToast("👑 تبریک! دسترسی دائمی مدیر ارشد بدون نیاز به کد برای همیشه فعال شد.");
-                              setShowVipModal(false);
-                            }}
-                            className="w-full bg-gradient-to-r from-amber-500 to-yellow-400 hover:from-amber-400 hover:to-yellow-300 text-slate-950 font-black py-2.5 px-3 rounded-xl text-xs flex items-center justify-center gap-1.5 shadow-lg shadow-amber-500/30 transition-all hover:scale-[1.02]"
-                          >
-                            <span>👑</span>
-                            <span>فعال‌سازی دائمی حالت مدیر کل برای این مرورگر (بدون نیاز به بلیت)</span>
-                          </button>
-
-                          <div className="pt-2 border-t border-slate-800 text-[10px] text-slate-400 text-center">
-                            صدور کدهای غیرتکراری برای مشتریان:
-                          </div>
-
-                          <div className="flex gap-2 justify-center">
-                            <button
-                              type="button"
-                              onClick={() => generateUniqueCode("30")}
-                              className="bg-amber-600/80 hover:bg-amber-500 text-white font-bold px-2.5 py-1.5 rounded-xl text-[11px] transition-all flex-1"
-                            >
-                              + صدور کد ۱ ماهه (VIP30)
-                            </button>
-                            <button
-                              type="button"
-                              onClick={() => generateUniqueCode("365")}
-                              className="bg-emerald-600/80 hover:bg-emerald-500 text-white font-bold px-2.5 py-1.5 rounded-xl text-[11px] transition-all flex-1"
-                            >
-                              + صدور کد ۱ ساله (VIP365)
-                            </button>
-                          </div>
-
-                          {generatedCode && (
-                            <div className="p-2 bg-slate-900 rounded-xl border border-amber-500/40 font-mono text-amber-300 text-xs text-center select-all flex items-center justify-between">
-                              <span>کد: <strong>{generatedCode}</strong></span>
-                              <span className="text-[10px] bg-emerald-500/20 text-emerald-400 px-2 py-0.5 rounded font-sans">کپی شد! به مشتری بفرستید</span>
-                            </div>
-                          )}
-                        </div>
-                      )}
+                {/* STRICTLY OWNER-ONLY Personalized Code Generator (Completely invisible to everyone else) */}
+                {isOwner && (
+                  <div className="mt-5 p-4 bg-slate-950/95 border-2 border-amber-500/70 rounded-2xl shadow-2xl">
+                    <div className="flex items-center justify-between mb-2.5 pb-2 border-b border-slate-800">
+                      <span className="font-extrabold text-amber-300 text-xs flex items-center gap-1.5">
+                        <span>👑</span>
+                        <span>پنل مدیریت و صدور کد اختصاصی مشتریان (مخصوص جناب رحمت‌پور)</span>
+                      </span>
+                      <span className="text-[10px] bg-amber-500/20 text-amber-300 px-2.5 py-0.5 rounded-full font-bold">مدیر ارشد</span>
                     </div>
-                  )}
-                </div>
+
+                    <label className="text-[11px] text-slate-400 block mb-1">نام یا شماره مشتری جهت صدور کد اختصاصی غیرتکراری:</label>
+                    <input
+                      type="text"
+                      value={customerName}
+                      onChange={(e) => setCustomerName(e.target.value)}
+                      placeholder="مثال: علی رضایی، بازرگانی دبی، ۰۹۱۲..."
+                      className="w-full bg-slate-900 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white placeholder-slate-500 mb-3 focus:border-amber-500 focus:outline-none"
+                    />
+
+                    <div className="flex gap-2">
+                      <button
+                        type="button"
+                        onClick={() => generatePersonalizedCode("30")}
+                        className="flex-1 bg-amber-600 hover:bg-amber-500 text-white font-bold py-2.5 px-3 rounded-xl text-xs transition-all shadow-md"
+                      >
+                        + صدور کد ۱ ماهه (۳۰ روز)
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => generatePersonalizedCode("365")}
+                        className="flex-1 bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-2.5 px-3 rounded-xl text-xs transition-all shadow-md"
+                      >
+                        + صدور کد ۱ ساله (۳۶۵ روز)
+                      </button>
+                    </div>
+
+                    {generatedCode && (
+                      <div className="mt-3 p-3 bg-slate-900 rounded-xl border border-amber-500/50 text-center">
+                        <div className="font-mono text-amber-300 font-extrabold text-sm tracking-wider select-all">
+                          {generatedCode}
+                        </div>
+                        <div className="text-[11px] text-emerald-400 font-bold mt-1.5 flex items-center justify-center gap-1">
+                          <span>✅</span>
+                          <span>کد اختصاصی کپی شد! در واتساپ برای {customerName || 'مشتری'} ارسال کنید.</span>
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                )}
 
               </div>
             </div>
           )}
-          
+
           {/* ================= TOAST NOTIFICATION ================= */}
           {toastMsg && (
             <div className="fixed bottom-6 left-1/2 -translate-x-1/2 bg-gradient-to-r from-emerald-600 to-teal-600 text-white px-6 py-3 rounded-2xl shadow-2xl flex items-center gap-3 z-50 text-sm font-bold animate-bounce">
