@@ -10343,6 +10343,18 @@
       "company": "Lightspeed Commerce",
       "source": "jobicy",
       "first_seen": "2026-10-22"
+    },
+    "https://jobicy.com/jobs/156466-manager-software-test-automation": {
+      "title": "Manager Software Test Automation",
+      "company": "Veracyte",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/156467-senior-it-operations-engineer-2": {
+      "title": "Senior IT Operations Engineer",
+      "company": "BigID",
+      "source": "jobicy",
+      "first_seen": "2026-10-23"
     }
   },
   "applied": {
@@ -11416,6 +11428,20 @@
       "to": "reactlibraries@gmail.com",
       "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
       "company": "React Libraries"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-professional-flexible-plant-at-almutahida-packaging-4478229337::email": {
+      "date": "2026-10-23 01:11",
+      "via": "email",
+      "to": "jones@packaging.com",
+      "title": "HSE Professional (Flexible Plant)",
+      "company": "ALMUTAHIDA PACKAGING"
+    },
+    "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4481361747::email": {
+      "date": "2026-10-23 01:11",
+      "via": "email",
+      "to": "editor@v2x.com",
+      "title": "Airfield Safety Manager",
+      "company": "V2X Inc"
     }
   },
   "sent": {
@@ -12068,6 +12094,16 @@
       "kind": "email",
       "to": "reactlibraries@gmail.com",
       "date": "2026-10-22 10:28"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-professional-flexible-plant-at-almutahida-packaging-4478229337": {
+      "kind": "email",
+      "to": "jones@packaging.com",
+      "date": "2026-10-23 01:11"
+    },
+    "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4481361747": {
+      "kind": "email",
+      "to": "editor@v2x.com",
+      "date": "2026-10-23 01:11"
     }
   },
   "replies": []
