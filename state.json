@@ -11698,6 +11698,13 @@
       "to": "infodesk@larsentoubro.com",
       "title": "Manager - EHS",
       "company": "Larsen & Toubro"
+    },
+    "https://iq.linkedin.com/jobs/view/fire-inspector-lead-at-v2x-inc-4481935072::email": {
+      "date": "2026-10-24 01:48",
+      "via": "email",
+      "to": "editor@v2x.com",
+      "title": "Fire Inspector Lead",
+      "company": "V2X Inc"
     }
   },
   "sent": {
@@ -12380,6 +12387,11 @@
       "kind": "email",
       "to": "infodesk@larsentoubro.com",
       "date": "2026-10-23 16:22"
+    },
+    "https://iq.linkedin.com/jobs/view/fire-inspector-lead-at-v2x-inc-4481935072": {
+      "kind": "email",
+      "to": "editor@v2x.com",
+      "date": "2026-10-24 01:48"
     }
   },
   "replies": []
