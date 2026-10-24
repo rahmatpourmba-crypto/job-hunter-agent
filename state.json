@@ -10583,6 +10583,24 @@
       "company": "OpenAI",
       "source": "jobicy",
       "first_seen": "2026-10-23"
+    },
+    "https://jobicy.com/jobs/151402-customer-solutions-engineer-3": {
+      "title": "Customer Solutions Engineer",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://ae.linkedin.com/jobs/view/legal-consultant-digital-asset-or-ecm-structured-products-remote-at-axiom-4463981293": {
+      "title": "Legal Consultant - Digital Asset or ECM / Structured Products (Remote)",
+      "company": "Axiom",
+      "source": "linkedin",
+      "first_seen": "2026-10-24"
+    },
+    "https://ae.linkedin.com/jobs/view/architect-at-virtusa-4480628769": {
+      "title": "Architect",
+      "company": "Virtusa",
+      "source": "linkedin",
+      "first_seen": "2026-10-24"
     }
   },
   "applied": {
@@ -11705,6 +11723,13 @@
       "to": "editor@v2x.com",
       "title": "Fire Inspector Lead",
       "company": "V2X Inc"
+    },
+    "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer::email": {
+      "date": "2026-10-24 06:52",
+      "via": "email",
+      "to": "careers@ritual.com",
+      "title": "Ritual: Core Protocol Engineer",
+      "company": "Ritual"
     }
   },
   "sent": {
@@ -12392,6 +12417,11 @@
       "kind": "email",
       "to": "editor@v2x.com",
       "date": "2026-10-24 01:48"
+    },
+    "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer": {
+      "kind": "email",
+      "to": "careers@ritual.com",
+      "date": "2026-10-24 06:52"
     }
   },
   "replies": []
