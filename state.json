@@ -10601,6 +10601,42 @@
       "company": "Virtusa",
       "source": "linkedin",
       "first_seen": "2026-10-24"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-officer-at-agile-consultants-4481023376": {
+      "title": "HSE Officer",
+      "company": "Agile Consultants",
+      "source": "linkedin",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/153953-vp-of-it-infrastructure-operations": {
+      "title": "VP of IT Infrastructure & Operations",
+      "company": "Serve Robotics",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/153951-director-of-discovery-framing": {
+      "title": "Director of Discovery & Framing",
+      "company": "Defense Unicorns",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://weworkremotely.com/remote-jobs/carrot-lead-product-management": {
+      "title": "Carrot: Lead Product Management",
+      "company": "Carrot",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-24"
+    },
+    "https://ae.linkedin.com/jobs/view/smart-contract-developer-blockchain-solutions-architect-at-t-emplea-consulting-4481033659": {
+      "title": "Smart Contract Developer | Blockchain Solutions Architect",
+      "company": "T-EMPLEA CONSULTING",
+      "source": "linkedin",
+      "first_seen": "2026-10-24"
+    },
+    "https://www.gulftalent.com/uae/jobs/auditor-582918": {
+      "title": "Auditor",
+      "company": "XB4 - CPAs & Advisors (Dubai Branch",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-24"
     }
   },
   "applied": {
