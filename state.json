@@ -10799,6 +10799,30 @@
       "company": "Twilio",
       "source": "jobicy",
       "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156856-financial-analyst-3": {
+      "title": "Financial Analyst",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156863-frontend-architect": {
+      "title": "Frontend Architect",
+      "company": "TripActions",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156857-design-engineer-americas": {
+      "title": "Design Engineer - Americas",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156861-design-engineer-canada": {
+      "title": "Design Engineer - Canada",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
     }
   },
   "applied": {
