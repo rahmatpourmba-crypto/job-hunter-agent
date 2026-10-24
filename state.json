@@ -10637,6 +10637,72 @@
       "company": "XB4 - CPAs & Advisors (Dubai Branch",
       "source": "gulftalent_uae",
       "first_seen": "2026-10-24"
+    },
+    "https://www.gulftalent.com/uae/jobs/factory-camp-boss-interior-fit-out-joinery-650523": {
+      "title": "Factory / Camp Boss – Interior Fit-Out & Joinery",
+      "company": "Trust Conso",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156714-principal-ai-security-specialist-benelux-nordics": {
+      "title": "Principal AI Security Specialist, BeNeLux & Nordics",
+      "company": "Zscaler",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156713-benefits-specialist-2": {
+      "title": "Benefits Specialist",
+      "company": "Zscaler",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156728-project-manager-ii": {
+      "title": "Project Manager II",
+      "company": "Tines",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156716-principal-ai-security-specialist-uki": {
+      "title": "Principal AI Security Specialist, UK&I",
+      "company": "Zscaler",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156726-professional-services-engineer-ii": {
+      "title": "Professional Services Engineer II",
+      "company": "Tines",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156719-senior-partner-solutions-architect-pan-emea-gsi": {
+      "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156711-partner-solutions-architect-emea": {
+      "title": "Partner Solutions Architect (EMEA)",
+      "company": "Datadog",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156730-senior-manager-pricing": {
+      "title": "Senior Manager, Pricing",
+      "company": "Tines",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156723-manager-sales-compensation": {
+      "title": "Manager, Sales Compensation",
+      "company": "Tines",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
+    },
+    "https://jobicy.com/jobs/156720-principal-regional-partner-programs": {
+      "title": "Principal, Regional Partner Programs",
+      "company": "Zscaler",
+      "source": "jobicy",
+      "first_seen": "2026-10-24"
     }
   },
   "applied": {
@@ -11766,6 +11832,13 @@
       "to": "careers@ritual.com",
       "title": "Ritual: Core Protocol Engineer",
       "company": "Ritual"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4481577035::email": {
+      "date": "2026-10-24 15:19",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Officer (UAE National)",
+      "company": "Parsons Corporation"
     }
   },
   "sent": {
@@ -12458,6 +12531,11 @@
       "kind": "email",
       "to": "careers@ritual.com",
       "date": "2026-10-24 06:52"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4481577035": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-10-24 15:19"
     }
   },
   "replies": []
