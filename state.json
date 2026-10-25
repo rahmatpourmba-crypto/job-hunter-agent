@@ -11027,6 +11027,12 @@
       "company": "GT",
       "source": "jobicy",
       "first_seen": "2026-10-25"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4483387587": {
+      "title": "HSE Manager",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-10-25"
     }
   },
   "applied": {
