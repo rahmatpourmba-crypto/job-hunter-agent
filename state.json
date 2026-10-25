@@ -10937,6 +10937,96 @@
       "company": "OpenAI",
       "source": "jobicy",
       "first_seen": "2026-10-25"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-fixed-facilities-at-baker-hughes-4483378763": {
+      "title": "Environmental Health & Safety Specialist - Fixed Facilities",
+      "company": "Baker Hughes",
+      "source": "linkedin",
+      "first_seen": "2026-10-25"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-radian-engineering-consulting-company-4483375561": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Radian Engineering Consulting Company",
+      "source": "linkedin",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156961-global-investigator-triage-apac": {
+      "title": "Global Investigator - Triage (APAC)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156965-global-investigator-apac": {
+      "title": "Global Investigator (APAC)",
+      "company": "TRM Labs",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156955-staff-design-engineer-2": {
+      "title": "Staff Design Engineer",
+      "company": "Juniper Square",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156917-senior-accounting-manager-3": {
+      "title": "Senior Accounting Manager",
+      "company": "ExtraHop",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156926-intermediate-software-engineer-security-factory-vulnerability-management": {
+      "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156981-risk-manager": {
+      "title": "Risk Manager",
+      "company": "Ping Identity",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156976-senior-sales-engineer-majors-uk-nordics-netherlands": {
+      "title": "Senior Sales Engineer - Majors (UK/Nordics/Netherlands)",
+      "company": "Datadog",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156983-senior-field-marketing-manager-2": {
+      "title": "Senior Field Marketing Manager",
+      "company": "Ping Identity",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156956-lead-program-manager-finance-transformation": {
+      "title": "Lead Program Manager, Finance Transformation",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156923-intermediate-fullstack-engineer-ruby-vue-js-growth": {
+      "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156925-senior-technical-product-marketing-manager-agent-identity-auth-emea": {
+      "title": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
+      "company": "Kong Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156928-intermediate-support-engineer-shift": {
+      "title": "Intermediate Support Engineer (SHIFT)",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
+    },
+    "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company": {
+      "title": "DevOps Engineer | Live Entertainment Company",
+      "company": "GT",
+      "source": "jobicy",
+      "first_seen": "2026-10-25"
     }
   },
   "applied": {
@@ -12073,6 +12163,13 @@
       "to": "cybersecurity@parsons.com",
       "title": "HSE Officer (UAE National)",
       "company": "Parsons Corporation"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-fixed-facilities-at-baker-hughes-4483378763::email": {
+      "date": "2026-10-25 16:59",
+      "via": "email",
+      "to": "leaves@dish.com",
+      "title": "Environmental Health & Safety Specialist - Fixed Facilities",
+      "company": "Baker Hughes"
     }
   },
   "sent": {
@@ -12770,6 +12867,11 @@
       "kind": "email",
       "to": "cybersecurity@parsons.com",
       "date": "2026-10-24 15:19"
+    },
+    "https://sa.linkedin.com/jobs/view/environmental-health-safety-specialist-fixed-facilities-at-baker-hughes-4483378763": {
+      "kind": "email",
+      "to": "leaves@dish.com",
+      "date": "2026-10-25 16:59"
     }
   },
   "replies": []
