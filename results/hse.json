@@ -27,6 +27,36 @@
     "phones": []
   },
   {
+    "source": "gulftalent_uae",
+    "title": "HSE Engineer",
+    "company": "Royal Classic",
+    "location": "Abu Dhabi",
+    "url": "https://www.gulftalent.com/uae/jobs/hse-engineer-650765",
+    "description": "## Requirements: - Bachelor’s degree in Engineering, Environmental Health, Safety Management, or a related field. - Proven experience as an HSE Engineer or similar role within the construction or fitout industry. - In-depth knowledge of UAE health, safety, and environmental regulations and standards. - Strong analytical and problem-solving skills with keen attention to detail. - Excellent communication and interpersonal skills to effectively train and engage teams. - Ability to work independently and as part of a multidisciplinary team. - Relevant certifications such as NEBOSH, IOSH, or equivalent are highly desirable. - Proficiency in report writing and HSE management software. - Commitment to promoting and maintaining a safe and healthy work environment. **Salary:** AED 8,000 to 10,000 per month inclusive of fixed allowances. Founded in 2005, Royal Classic, now a highly successful ISO certified entity, has built a solid reputation for market excellence, drawing on a rich history and a strong heritage of Quality, Stability and Innovative leadership in the marketplace. We take pride in our successful accomplishment and in satisfaction of our clients and we regard our clients as our most valuable asset.",
+    "published": "26 Oct",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 7,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [
+      "environmental health"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "insight@classic.com"
+    ],
+    "phones": [],
+    "emails_source": "classic.com",
+    "about": "It's free to track the value of any classic or exotic car on CLASSIC.COM."
+  },
+  {
     "source": "linkedin",
     "title": "Senior HSE Engineer (Project) - Offshore",
     "company": "Penspen",
@@ -131,162 +161,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Bureau Veritas",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-bureau-veritas-4477527393",
-    "description": "",
-    "published": "2026-10-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "contact@bureau.com"
-    ],
-    "phones": [],
-    "emails_source": "bureau.com",
-    "about": " "
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer (Rail)",
-    "company": "Parsons Corporation",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-rail-at-parsons-corporation-4482723828",
-    "description": "",
-    "published": "2026-10-22",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "cybersecurity@parsons.com"
-    ],
-    "phones": [
-      "+17039888500"
-    ],
-    "emails_source": "parsons.com",
-    "about": "We deliver integrated program management solutions that turn complex initiatives into measurable results."
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Nova International General Contracting L.L.C",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687",
-    "description": "",
-    "published": "2026-10-08",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health and Safety Engineer",
-    "company": "WSP in the Middle East",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
-    "description": "",
-    "published": "2026-10-23",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety engineer",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Engineer",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669",
-    "description": "",
-    "published": "2026-10-06",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "ehs",
-      "ehs engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "gulftalent_uae",
-    "title": "Factory / Camp Boss – Interior Fit-Out & Joinery",
-    "company": "Trust Conso",
-    "location": "UAE",
-    "url": "https://www.gulftalent.com/uae/jobs/factory-camp-boss-interior-fit-out-joinery-650523",
-    "description": "Job description / Role Job Type Full Time Job Location UAE Nationality Any Nationality Salary Not Specified Gender Not Specified Arabic Fluency Not Specified Job Function Safety & Environment Company Industry Construction We are looking for a responsible and experienced Factory / Camp Boss with a NEBOSH certificate and 3–5 years of UAE experience to oversee factory housekeeping, safety, maintenance coordination, labor accommodation, and employee welfare. The ideal candidate should have experience in an interior fit-out company, joinery factory, or manufacturing environment, with a good understanding of workplace safety, camp management, and UAE health and safety requirements. ##### Requirements: Candidate Profile:Certification: NEBOSH certificate (mandatory)Experience: 3–5 years of relevant UAE experience in factory administration, camp management, or facilities managementIndustry Background: Experience in interior fit-out, joinery manufacturing, woodworking, or construction (preferred)Technical Knowledge:Strong understanding of factory housekeeping, fire safety, hazard identification, and employee welfareExperience managing labor accommodation and coordinating maintenance activitiesSkills:Basic computer skills (Microsoft Word and Excel)Good communication, coordination, and problem-solving abilitiesAbility to manage and supervise workers from diverse cultural backgrounds **Salary:** AED 5,000 per month inclusive of fixed allowances. #### About the Company Trust Conso is a multidisciplinary firm delivering end-to-end business and HR solutions. We partner with public and private entities to design, implement, and manage tailored strategies that strengthen people, streamline operations, and enable long-term performance. Our team acts as an extension of your organisation, aligning every solution with your culture, goals, and vision. By combining regional insight with international best practices, we deliver practical consulting support across HR & management, recruitment, outsourcing, learning and development, digital transformation, and business process optimisation. At Trust Conso, transformation begins with people — and continues through innovative systems, aligned processes, and measurable results. [Easy Apply](https://www.gulftalent.com/uae/jobs/factory-camp-boss-interior-fit-out-joinery-650523) [Explore Trust Conso careers](https://www.gulftalent.com/companies/trust-conso-careers)[Receive relevant jobs by Email](https://www.gulftalent.com/register/jobalert) Similar jobs you may be interested in [Camp Boss](https://www.gulftalent.com/uae/jobs/camp-boss-629874?path=similar-jobs-2-widget)![Image 4: Easy Apply](https://www.gulftalent.com/encore/img/send-check.efec5b61.svg) Naviyas UAE 7 Sep[![Image 5: See all jobs by Naviyas](https://www.gulftalent.com/images1/logos/listing/SE238-14292_logo-img-naviyas-careers-jobs.png)](https://www.gulftalent.com/companies/naviyas-careers) [Camp Boss](https://www.gulftalent.com/uae/jobs/camp-boss-625170?path=similar-jobs-2-widget)![Image 6: Easy Apply](https://www.gulftalent.com/encore/img/send-check.efec5b61.svg) Al Rawda Dubai 25 Aug[![Image 7: See all jobs by Al Rawda](https://www.gulftalent.com/images1/logos/listing/SE239-14293_logo-img-al-rawda-careers-jobs.png)](https://www.gulftalent.com/companies/al-rawda-careers) [Camp Supervisor - Female](https://www.gulftalent.com/uae/jobs/camp-supervisor-female-602558?path=similar-jobs-2-widget)![Image 8: Easy Apply](https://www.gulftalent.com/encore/img/send-check.efec5b61.svg) STS Group Dubai 29 Jun[![Image 9: See all jobs by STS Group](https://www.gulftalent.com/images1/logos/listing/SE034-12089_logo-img-sts-group-careers-jobs.png)](https://www.gulftalent.com/companies/sts-group-careers) [Senior Leadership roles in Qatar (SG_SL1)](https://www.gulftalent.com/qatar/jobs/senior-leadership-roles-in-qatar-sg_sl1-599553?path=similar-jobs-2-widget)![Image 10: Easy Apply](https://www.gulftalent.com/encore/img/send-check.efec5b61.svg) Step 2 Teaching Qatar 19 Jun[![Image 11: See all jobs by Step 2 Teaching](https://www.gulftalent.com/images1/logos/listing/SE192-12247_logo-img-step-2-teaching-step-2-recruitment-careers-jobs.png)](https://www.gulftalent.com/companies/step-2-teaching-step-2-recruitment-careers) ### Other jobs you might be interested in [Camp Manager Jobs in UAE](https://www.gulftalent.com/uae/jobs/title/camp-manager)[Catering Manager Jobs in UAE](https://www.gulftalent.com/uae/jobs/title/catering-manager)[Site Manager Jobs in UAE](https://www.gulftalent.com/uae/jobs/title/site-manager) [Camp Boss Jobs in Dubai](https://www.gulftalent.com/uae/jobs/dubai/title/camp-boss)[Camp Boss Jobs in Abu Dhabi](https://www.gulftalent.com/uae/jobs/abu-dhabi/title/camp-boss)[Camp Boss Jobs in Riyadh](https://www.gulftalent.com/saudi-arabia/jobs/riyadh/title/camp-boss) 1. [Home](https://www.gulftalent.com/) 2. [Jobs in UAE](https://www.gulftalent.com/uae/jobs) 3. [Camp Boss Jobs in UAE](https://www.gulftalent.com/uae/jobs/title/camp-boss) 4. Factory / Camp Boss – Interior Fit-Out & Joinery Job Search Support [Get a professional CV](https://www.gulftalent.com/resources/candidate-services/cv-writing-service) Jobs in related categories [Camp Boss Jobs in UAE (29)](https://www.gulftalent.com/uae/jobs/title/camp-boss)[Camp Boss Jobs (48)](https://www.gulftalent.com/jobs/title/camp-boss)[HSE Jobs in UAE (67)](https://www.gulftalent.com/uae/jobs/uae/category/hse)[Jobs in UAE (2288)](https://www.gulftalent.com/uae/jobs/city/uae)[Jobs in UAE (18532)](https://www.gulftalent.com/uae/jobs)[HSE Jobs (865)](https://www.gulftalent.com/jobs/category/hse)[![Image 12: Trust Conso careers & jobs](https://www.gulftalent.com/images1/logos/listing/SE072-14126_logo-img-trust-conso-careers-jobs.png) Trust Conso Jobs (2)](https://www.gulftalent.com/companies/trust-conso-careers)[Browse all jobs](https://www.gulftalent.com/jobs) Find Top Talent [Explore Our CV Database](https://www.gulftalent.com/recruitment-solutions/cv-search)[Post a Job Now]",
-    "published": "24 Oct",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 4,
-    "title_hits": [],
-    "desc_hits": [
-      "hse",
-      "health and safety",
-      "workplace safety",
-      "fire safety"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Lead",
     "company": "Wood",
     "location": "Kirkuk, Kirkuk Governorate, Iraq",
@@ -305,8 +179,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "info@wood.com"
+    ],
+    "phones": [],
+    "emails_source": "wood.com"
   },
   {
     "source": "linkedin",
@@ -474,9 +351,9 @@
     "title": "Manager - EHS",
     "company": "Larsen & Toubro",
     "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477171400",
+    "url": "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4482442348",
     "description": "",
-    "published": "2026-10-08",
+    "published": "2026-10-22",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -576,6 +453,121 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSEW Officer - Bridges Project",
+    "company": "AtkinsRéalis",
+    "location": "Riyadh Region",
+    "url": "https://sa.linkedin.com/jobs/view/hsew-officer-bridges-project-at-atkinsr%C3%A9alis-4482469785",
+    "description": "",
+    "published": "2026-10-22",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Lead",
+    "company": "Parsons Corporation",
+    "location": "Tabūk, Tabuk, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-lead-at-parsons-corporation-4479823260",
+    "description": "",
+    "published": "2026-10-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Manager",
+    "company": "Huntsman Corporation",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711",
+    "description": "",
+    "published": "2026-10-21",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "ehs"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Manager",
+    "company": "Penspen",
+    "location": "Khafji, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-penspen-4474829524",
+    "description": "",
+    "published": "2026-10-08",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Project EHS Manager",
+    "company": "Larsen & Toubro",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4476343987",
+    "description": "",
+    "published": "2026-10-06",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "ehs"
     ],
     "desc_hits": [],
     "gulf_onsite": true,

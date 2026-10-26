@@ -11081,6 +11081,102 @@
       "company": "ACTION International Services LLC",
       "source": "linkedin",
       "first_seen": "2026-10-26"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-engineer-650765": {
+      "title": "HSE Engineer",
+      "company": "Royal Classic",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-26"
+    },
+    "https://www.gulftalent.com/uae/jobs/consultant-hse-manager-650761": {
+      "title": "Consultant HSE Manager",
+      "company": "J10 Consulting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/151615-enterprise-account-executive-central": {
+      "title": "Enterprise Account Executive - Central",
+      "company": "Obsidian Security",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157071-security-operations-analyst-west-coast-shift": {
+      "title": "Security Operations Analyst - West Coast Shift",
+      "company": "Huntress",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157039-engineering-manager-notifications-platform": {
+      "title": "Engineering Manager, Notifications Platform",
+      "company": "Reddit",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/151541-ai-transformation-owner-product-design": {
+      "title": "AI Transformation Owner, Product & Design",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://weworkremotely.com/remote-jobs/ping-identity-director-global-alliances-accenture": {
+      "title": "Ping Identity: Director, Global Alliances – Accenture",
+      "company": "Ping Identity",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157081-product-marketing-manager-5": {
+      "title": "Product Marketing Manager",
+      "company": "LastPass",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157078-senior-enterprise-ai-account-executive-deasy-labs": {
+      "title": "Senior Enterprise AI Account Executive — Deasy Labs",
+      "company": "Collibra",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/151533-account-executive-enterprise-italian-and-or-spanish": {
+      "title": "Account Executive Enterprise (Italian and/or Spanish)",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/151605-principal-value-realization": {
+      "title": "Principal, Value Realization",
+      "company": "League",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157058-senior-security-operations-engineer-4": {
+      "title": "Senior Security Operations Engineer",
+      "company": "Tines",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157082-sr-devops-engineer": {
+      "title": "Sr. DevOps Engineer",
+      "company": "Cyware",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157069-account-executive-corporate-global-sales-us": {
+      "title": "Account Executive, Corporate Global Sales (US)",
+      "company": "AlphaSense",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/151614-strategic-account-executive-2": {
+      "title": "Strategic Account Executive",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/151592-senior-infrastructure-engineer": {
+      "title": "Senior Infrastructure Engineer",
+      "company": "Fieldguide",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
     }
   },
   "applied": {
@@ -12224,6 +12320,13 @@
       "to": "leaves@dish.com",
       "title": "Environmental Health & Safety Specialist - Fixed Facilities",
       "company": "Baker Hughes"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-engineer-650765::email": {
+      "date": "2026-10-26 10:27",
+      "via": "email",
+      "to": "insight@classic.com",
+      "title": "HSE Engineer",
+      "company": "Royal Classic"
     }
   },
   "sent": {
@@ -12926,6 +13029,11 @@
       "kind": "email",
       "to": "leaves@dish.com",
       "date": "2026-10-25 16:59"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-engineer-650765": {
+      "kind": "email",
+      "to": "insight@classic.com",
+      "date": "2026-10-26 10:27"
     }
   },
   "replies": []
