@@ -11315,6 +11315,54 @@
       "company": "GitLab",
       "source": "jobicy",
       "first_seen": "2026-10-26"
+    },
+    "https://www.gulftalent.com/saudi-arabia/jobs/hse-officer-saudization-650775": {
+      "title": "HSE Officer - Saudization",
+      "company": "RTC-1 Employment Services",
+      "source": "gulftalent_saudi-arabia",
+      "first_seen": "2026-10-26"
+    },
+    "https://iq.linkedin.com/jobs/view/risk-and-safety-section-head-at-wood-4480938674": {
+      "title": "Risk and Safety Section Head",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157228-security-engineer-4": {
+      "title": "Security Engineer",
+      "company": "Eight Sleep",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157246-sales-engineer-eastern-canada-strategic": {
+      "title": "Sales Engineer, Eastern Canada (Strategic)",
+      "company": "Cribl",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157244-senior-corporate-enterprise-platform-engineer-windows": {
+      "title": "Senior Corporate Enterprise Platform Engineer, Windows",
+      "company": "Dropbox",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157235-manager-software-engineering-developer-experience": {
+      "title": "Manager, Software Engineering - Developer Experience",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157222-clinical-ai-nurse-sme-part-time-contract": {
+      "title": "Clinical AI Nurse SME (Part time contract)",
+      "company": "PointClickCare",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
+    },
+    "https://jobicy.com/jobs/157214-major-account-executive-france": {
+      "title": "Major Account Executive, France",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-26"
     }
   },
   "applied": {
@@ -12465,6 +12513,13 @@
       "to": "insight@classic.com",
       "title": "HSE Engineer",
       "company": "Royal Classic"
+    },
+    "https://iq.linkedin.com/jobs/view/risk-and-safety-section-head-at-wood-4480938674::email": {
+      "date": "2026-10-26 21:20",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "Risk and Safety Section Head",
+      "company": "Wood"
     }
   },
   "sent": {
@@ -13172,6 +13227,11 @@
       "kind": "email",
       "to": "insight@classic.com",
       "date": "2026-10-26 10:27"
+    },
+    "https://iq.linkedin.com/jobs/view/risk-and-safety-section-head-at-wood-4480938674": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-10-26 21:20"
     }
   },
   "replies": []
