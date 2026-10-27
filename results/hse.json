@@ -1,6 +1,33 @@
 [
   {
     "source": "linkedin",
+    "title": "Head of Safety, Health & Environment",
+    "company": "Lonza",
+    "location": "Walkersville, MD",
+    "url": "https://www.linkedin.com/jobs/view/head-of-safety-health-environment-at-lonza-4447440155",
+    "description": "United States, Walkersville (Maryland) Head of Safety, Health & Environment Location: This position is currently remote. A future transition to an on-site location on the U.S. East-Coast/Mid-West is anticipated as the project progresses, with an expected timeline in 2027. This is a full-time role with a Monday–Friday schedule from 8:00 a.m. to 5:00 p.m. What You Will Get The full-time base annual salary for this position is expected to range between $155,700 to $181,650. In addition, below you will find a comprehensive summary of the benefits package we offer: Performance-related bonus. Medical, dental and vision insurance. 401(k) matching plan. Life insurance, as well as short-term and long-term disability insurance. Employee assistance programs. Paid time off (PTO). Compensation for this role will be determined by the candidate’s qualifications, skills, experience, and relevant knowledge. What Will You Do We are seeking a Head of Safety, Health & Environment to lead the EHSS strategy and readiness activities for Lonza's U.S. small molecule growth investment projects. This role will serve as the subject matter expert for Environmental, Health, Safety, Sustainability, and Security programs, ensuring compliance, process safety, operational readiness, and risk management throughout site selection, design, construction, start-up, and ongoing operations. Initially remote, this role will transition to the selected U.S. site location as the project advances. Lead the EHSS workstream for U.S. small molecule expansion projects, partnering with project leadership, Global Engineering, and EHSS stakeholders to support successful project execution Develop and implement EHSS, Sustainability, and Security programs that support regulatory compliance, operational excellence, and environmental stewardship Support site selection activities, growth initiatives, and potential M&A opportunities by providing EHSS risk assessments and strategic guidance Establish EHSS requirements and standards for facility design, construction, commissioning, qualification, and operational readiness activities Lead Process Safety Management (PSM) and EHS risk management activities for new operations, equipment, process changes, and capital projects, including PHA, HAZOP, MOC, and implementation of appropriate mitigation strategies to support safe operational readiness. Oversee sustainability programs and initiatives, driving performance improvements aligned with company objectives and regulatory expectations Coordinate and support internal inspections, corporate audits, customer audits, and regulatory inspections while ensuring timely resolution of findings Build and lead a culture of safety, compliance, and continuous improvement while providing strategic updates and recommendations to senior leadership What We Are Looking For Bachelor’s degree in environmental health & safety, Engineering, Life Sciences, or a related discipline; advanced degree preferred 10+ years of progressive EHSS leadership experience within pharmaceutical, API, biotechnology, chemical, life sciences, or other highly regulated manufacturing/Process Safety Management (PSM) environments Experience supporting major capital projects, facility start-ups, site expansions, greenfield developments, or large-scale transformation initiatives Strong knowledge of OSHA, EPA, environmental compliance, PSM, industrial hygiene, sustainability, and security programs Demonstrated experience implementing EHSS programs within API, HPAPI, or GMP-regulated chemical process manufacturing environments, preferably supporting small molecule drug substance manufacturing Experience supporting containment-intensive manufacturing environments (e.g., HPAPI containment, industrial hygiene, occupational exposure control) preferred. Experience conducting Process Hazard Analyses (PHA), HAZOPs, Layers of Protection Analysis (LOPA), and Management of Change (MOC) within process manufacturing environments is preferred. Experience supporting multi-product API manufacturing or CDMO environments is preferred. Proven ability to lead cross-functional teams and influence stakeholders across Engineering, Manufacturing, Quality, Operations, and Project Management organizations Strong analytical, risk assessment, project management, and problem-solving skills with the ability to drive strategic and operational improvements Excellent communication and leadership skills with experience engaging senior leadership, regulatory agencies, contractors, and external stakeholders Ability and willingness to transition to an East Coast or Midwest U.S. site location as project needs evolve Travel: Willingness and ability to travel to EMEA and NA at approximately 25-30% of the time to meet business objectives About Lonza At Lonza, our people are our greatest strength. With 30+ sites across five continents, our globally connected teams work together every day to manufacture the medicines of tomorrow. Our core values of Collaboration, Accountability, Excellence, Passion and Integrity reflect who we are and how we work together. Everyone’s ideas, big or small, have the potential to improve millions of lives, and that’s the kind of work we want you to be part of. Innovation thrives when people from all backgrounds bring their unique perspectives to the table. At Lonza, we offer equal employment opportunities to all qualified applicants regardless of race, religion, color, national origin, sex, sexual orientation, gender identity, age, disability, veteran status, or any other characteristic protected by law. If you’re ready to help turn our customers’ breakthrough ideas into viable therapies, we look forward to welcoming you on board. Ready to shape the future of life sciences? Apply now . Reference: R77586 Apply",
+    "published": "2026-10-05",
+    "remote": true,
+    "currency": null,
+    "salary_min": 155700,
+    "salary_max": 181650,
+    "score": 9,
+    "title_hits": [],
+    "desc_hits": [
+      "ehs",
+      "industrial hygiene",
+      "risk assessment",
+      "osha",
+      "environmental health"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$155,700-$181,650",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Risk and Safety Section Head",
     "company": "Wood",
     "location": "Al-Basra Governorate, Iraq",
@@ -32,6 +59,30 @@
   },
   {
     "source": "linkedin",
+    "title": "Environment, Health and Safety Manager",
+    "company": "Nawras Power Company",
+    "location": "Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-nawras-power-company-4472335870",
+    "description": "",
+    "published": "2026-09-30",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "safety manager",
+      "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Environmental Health & Safety Specialist - Fixed Facilities",
     "company": "Baker Hughes",
     "location": "Dammam, Eastern, Saudi Arabia",
@@ -57,6 +108,30 @@
     "phones": [],
     "emails_source": "hughes.com",
     "about": "Satellite Internet Managed Services In-Flight Connectivity Gov & Defense Satellite Systems Manufacturing ### Unlimited, High-speed Satellite Internet starting at $39.99/mo."
+  },
+  {
+    "source": "linkedin",
+    "title": "Junior HSE Engineer - Offshore SIte",
+    "company": "Worley",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/junior-hse-engineer-offshore-site-at-worley-4466796170",
+    "description": "",
+    "published": "2026-10-05",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -168,6 +243,78 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Sr. HSE Engineer - alfanar Electric",
+    "company": "alfanar",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4482959249",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health and Safety Engineer",
+    "company": "WSP in the Middle East",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
+    "description": "",
+    "published": "2026-10-23",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "safety engineer",
+      "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Engineer",
+    "company": "Larsen & Toubro",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669",
+    "description": "",
+    "published": "2026-10-06",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "ehs engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "gulftalent_uae",
     "title": "HSE Engineer",
     "company": "Royal Classic",
@@ -188,12 +335,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "insight@classic.com"
-    ],
-    "phones": [],
-    "emails_source": "classic.com",
-    "about": "It's free to track the value of any classic or exotic car on CLASSIC.COM."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -272,48 +415,23 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Airfield Safety Manager",
-    "company": "V2X Inc",
-    "location": "Balad, Saladin Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4481361747",
-    "description": "This position is physically located in Balad, Iraq Serves as Airfield Safety Officer for the Airfield and all Air Transport Services. Versatile, self-starting individual that works well on their own, with very little to no supervision, to develop/improve an Army airfield safety program. Work assignment will be managing the various elements of a regional airfield safety program as well as subcontracted aviation COCO and GOCO services and reporting their status to Senior Management Team; must have in-depth knowledge of Federal, Local, and Army methods, practices, principles and procedures to perform effectively; manages resources to promote a wide variety of training activities designed to achieve awareness of airfield safety and corresponding preventive procedures; manages resources to perform on a recurring basis an effective airfield [AAF] and heliport [AHP] management program in accordance with AR-95-2 and standard operating procedures established by the Senior Airfield Authority; to cite legal violations, recommend corrective actions, and insure that hazardous conditions are effectively controlled ensuring required programs are functioning effectively. This position description is subject to change at any time as needed to meet the requirements of the program or company. Establishes a contract-wide [regional] airfield [AAF] and heliport [AHP] management program in accordance with AR-95-2 and standard operating procedures established by the Senior Airfield Authority. To include, but not limited to the following— AAF/AHP pre-accident plan, Wildlife hazard management plan, Flight-line driving training program, Foreign object damage (FOD) prevention program, Risk management and analysis processes, Hazard tracking and log management, and Conducts AAF/AHP inspections and check. Communicates professionally, both orally and in writing, with other senior professionals as needed to relay information necessary for job success. This includes, but is not limited to, staff meetings, performance appraisals, job requirements, metrics, project plans, Quality Standard Procedures, and airfield Best Practices. Communicates with senior management team, area managers and regulators, preparers required corporate reports; ensures airfield data bases are current and accurate to report on the status a complete airfield management Program. Ensures work areas are evaluated for potential airfield safety non-compliance issues. Ensures findings are reported to workplace leaders with recommended abatement actions for identified deficiencies; ensures corrective actions are tracked to completion. Monitors compliance during area evaluations; documents and reports on non-compliant issues and inappropriate behavior traits observed during audits. Ensures resources required to effectively monitor programs to ensure they exceed basic regulatory compliance, identify needed resources (such as personal protective equipment) and budget for resources, identify required training for employees in various operations. Ensure an effective airfield safety [driving/entry] Training program is established. Sets a good example to the workforce by following all airfield safety regulations, policies, procedures and practices; keeps work area/equipment clean and orderly. Performs other duties as assigned. Education/Certifications: One year related experience may be substituted for one year of education, if degree is required. Bachelor’s degree in airfield management or Air Traffic Control or, combination associates degree with four-years of experience. Army CP-12 Certification preferred. Certificate of Management in Aviation Safety or similar preferred Must be Secret Clearance eligible and/or ability to obtain a Secret Clearance Experience: Minimum four years’ experience as Airfield safety manager with two years in a large regional program development role, with experience in managing airfield compliance, familiar with DOD, Army, EPA, and Federal regulations. Military background and training are beneficial. Skills Excellent communication and writing skills are required along with an excellent knowledge of computer operations to include spreadsheet, database, word processing, and presentation applications. Great organizational and management skills and a strong ability to work independently as a member of a robust team. Supervisory Responsibilities Supervise 2 airfield sites and subcontractor activities as well as multiple unmanned helipads. Working Conditions: Must be capable of working in an extreme weather conditions with temperatures exceeding 120 degrees Fahrenheit. Indoor and/or outdoor environment with very adverse and harsh conditions (i.e., hot, dry, dusty, desert environment with average temperatures of 30 degrees in the winter and 130 degrees in the summer months). Includes some industrial production environment conditions as well. The worker is subject to hazards. Includes a variety of physical conditions, such as proximity to moving mechanical parts, moving vehicles, electrical current, working on scaffolding and high places, exposure to high heat or exposure to chemicals. The worker is subject to noise. There is sufficient noise to cause the worker to shout in order to be heard above ambient noise level. Physical Requirements: Medium work. Exerting up to 50 pounds of force occasionally, and/or up to 30 pounds of force frequently, and/or up to 10 pounds of force constantly to move objects. Work may require heavy lifting, stooping, climbing, prolonged standing, prolonged sitting, and working with or in areas where a potential could exist for exposure to physical, chemical, or biological agents. Employee use of personal protective equipment (PPE) is required for some situations. PPE includes, but is not limited to, head, foot, torso, respiratory, vision, and hearing protective devices. Must comply with all Fire and Safety Regulations and post policies. At V2X, we are deeply committed to both equal employment opportunity, including ",
-    "published": "2026-10-22",
+    "source": "gulftalent_uae",
+    "title": "HSE Manager",
+    "company": "J10 Consulting",
+    "location": "Dubai",
+    "url": "https://www.gulftalent.com/uae/jobs/hse-manager-651183",
+    "description": "## Requirements: HSE Manager Experience: Bachelor Degree in Science/Engineering or equivalent with additional professional qualifications in HSE and Fire & Safety Management Systems. 10 or above years’ experience in Health, Safety and Environment NEBOSH Idip level 6 highly advantageous Working knowledge in Health, Safety and Environment Management Systems, Environmental Discharges, Incident Command System, Incident Investigation by using Tripod Beta Tool, HSE Auditing Techniques, HEMP, Radiological Safety, Previous villa, mansions and residential projects coupled with experience of large scale civil construction projects. Previous experience performing safety audits and presenting results to multiple operational teams. Previous experience working for a self-performing main contractor. Strong use of computers and corresponding programs - Word, Excel, PowerPoint and other database programs. Ability to learn other programs such as: Procore, Labor chart, etc. J10 Consulting are Construction Recruitment experts in the Middle East. We help businesses and careers grow by delivering Temporary Contract & Permanent Contingency hiring solutions within Construction & Engineering in the UAE, Saudi Arabia, Qatar, Oman, Bahrain & Kuwait J10 Consulting provide collaborative engagement and a deep understanding of both client and candidate requirements to cover temporary and permanent requirements across a number of vertical markets within Construction & Engineering.",
+    "published": "27 Oct",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 4,
     "title_hits": [
-      "safety manager"
+      "hse"
     ],
     "desc_hits": [
-      "safety officer"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Shift Operator",
-    "company": "Siemens Energy",
-    "location": "Erbil, Erbil Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/shift-operator-at-siemens-energy-4479969141",
-    "description": "A Snapshot of your day Your day involves monitoring and controlling gas turbine operations in real time through DCS systems, conducting routine equipment inspections, and ensuring safe, efficient, and reliable power generation across the Khormala Power Plant. You play a key role in minimizing downtime by responding to operational needs, adhering to strict HSE standards, and maintaining the continuous performance of critical plant equipment. How You’ll Make An Impact Monitor and control gas turbine generators, auxiliary systems, and plant equipment through DCS to ensure safe, reliable, and efficient operations. Respond to alarms, investigate system abnormalities, and take corrective or emergency actions to maintain operational continuity. Conduct routine equipment inspections, identify faults or abnormalities, and support troubleshooting and maintenance activities. Safely isolate equipment and implement Lockout/Tagout (LOTO) procedures while verifying plant readiness following maintenance work. Maintain full compliance with HSE standards and environmental regulations through safety inspections, hazard identification, incident reporting, and participation in safety programs. What You Bring Technical Diploma or bachelor’s degree in mechanical, Electrical, Control & Instrumentation Engineering, with 3-5 years of experience in power plant operations, preferably within gas turbine or combined cycle power plants. DCS Operator Certification and a recognized Health & Safety certification such as OSHA, NEBOSH, or equivalent. Strong expertise in Distributed Control Systems (DCS), gas turbine technology, auxiliary equipment, and Balance of Plant (BOP) systems. Proven knowledge of safety procedures including Lockout/Tagout (LOTO), hazard identification, risk assessment, and emergency response protocols. Excellent troubleshooting, root cause analysis, technical documentation, shift reporting, communication, and teamwork skills. About The Team Our Gas Services division offers Low-emission power generation through service and decarbonization. Zero or low emission power generation and all gas turbines under one roof, steam turbines and generators. Decarbonization opportunities through service offerings, modernization, and digitalization of the fleet. Who is Siemens Energy? At Siemens Energy, we are more than just an energy technology company. With ~100,000 dedicated employees in more than 90 countries, we develop energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation. Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation. Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo Our Commitment to Diversity Lucky for us, we are not all the same. Through diversity we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences. Rewards/Benefits Opportunities to work with a global team Opportunities to work on and lead a variety of innovative projects Access to a variety of employee resource groups Competitive Salary Package https://jobs.siemens-energy.com/jobs",
-    "published": "2026-10-19",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [],
-    "desc_hits": [
-      "hse",
-      "risk assessment",
-      "osha"
+      "incident investigation"
     ],
     "gulf_onsite": true,
     "salary_ok": false,
@@ -336,6 +454,29 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Airfield Safety Manager",
+    "company": "V2X Inc",
+    "location": "Balad, Saladin Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4481361747",
+    "description": "",
+    "published": "2026-10-22",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety manager"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -444,144 +585,6 @@
     "url": "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4482442348",
     "description": "",
     "published": "2026-10-22",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer",
-    "company": "Parsons Corporation",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-at-parsons-corporation-4481565494",
-    "description": "",
-    "published": "2026-10-20",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Officer (UAE National)",
-    "company": "Parsons Corporation",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-officer-uae-national-at-parsons-corporation-4481577035",
-    "description": "",
-    "published": "2026-10-21",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Sr. Engineer - HSE (Project)",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/sr-engineer-hse-project-at-penspen-4472918143",
-    "description": "",
-    "published": "2026-10-22",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "QHSE Manager",
-    "company": "Anton-OSS",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/qhse-manager-at-anton-oss-4472692907",
-    "description": "",
-    "published": "2026-10-01",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Manager-HSE",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/manager-hse-at-penspen-4411574523",
-    "description": "",
-    "published": "2026-10-11",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Manager",
-    "company": "Huntsman Corporation",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711",
-    "description": "",
-    "published": "2026-10-21",
     "remote": false,
     "currency": null,
     "salary_min": null,

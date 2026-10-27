@@ -11363,6 +11363,18 @@
       "company": "GitLab",
       "source": "jobicy",
       "first_seen": "2026-10-26"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-manager-651183": {
+      "title": "HSE Manager",
+      "company": "J10 Consulting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-27"
+    },
+    "https://sa.linkedin.com/jobs/view/ot-security-consultant-at-socium-teams-done-differently-4481473062": {
+      "title": "OT Security Consultant",
+      "company": "Socium - Teams Done Differently",
+      "source": "linkedin",
+      "first_seen": "2026-10-27"
     }
   },
   "applied": {
