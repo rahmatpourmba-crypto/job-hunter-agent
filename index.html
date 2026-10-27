@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
+  <link rel="icon" type="image/png" href="logo.png" />
+  <link rel="apple-touch-icon" href="logo.png" />
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
   <meta name="theme-color" content="#0B0F19" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <meta name="apple-mobile-web-app-title" content="رامان B2B" />
-  
-  <!-- High-Res Luxury PWA & Apple Icons -->
-  <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png" />
-  <link rel="icon" type="image/png" sizes="64x64" href="favicon.png" />
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-title" content="B2B & Career Hub" />
   <link rel="manifest" href="manifest.json" />
   <title>سامانه B2B رامان | Raman B2B Global Trade & Career Hub</title>
   
@@ -117,6 +114,79 @@
     .glow-linkedin {
       box-shadow: 0 0 25px -5px rgba(10, 102, 194, 0.4);
     }
+  
+    /* ================= MOBILE-FIRST RESPONSIVE PERFECTION ================= */
+    html {
+      font-size: 16px;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    @media (max-width: 640px) {
+      html {
+        font-size: 15px !important;
+      }
+      body {
+        padding: 0.25rem !important;
+        line-height: 1.55 !important;
+      }
+      .max-w-7xl {
+        padding-left: 0.5rem !important;
+        padding-right: 0.5rem !important;
+      }
+      /* Remove micro-fonts on mobile */
+      .text-\[10px\], .text-\[11px\] {
+        font-size: 12px !important;
+        line-height: 1.35 !important;
+      }
+      .text-xs {
+        font-size: 13px !important;
+        line-height: 1.4 !important;
+      }
+      .text-sm {
+        font-size: 14.5px !important;
+        line-height: 1.45 !important;
+      }
+      /* Comfortable inputs & touch targets */
+      input, select, textarea {
+        font-size: 14px !important;
+        min-height: 46px !important;
+        padding-top: 0.65rem !important;
+        padding-bottom: 0.65rem !important;
+        border-radius: 0.85rem !important;
+      }
+      button {
+        min-height: 44px !important;
+        font-size: 13.5px !important;
+      }
+      .glass-card {
+        padding: 1rem !important;
+        border-radius: 1.25rem !important;
+        margin-bottom: 0.75rem !important;
+      }
+      /* Horizontal smooth tab bar for mobile */
+      nav.flex-wrap {
+        display: flex !important;
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        -webkit-overflow-scrolling: touch !important;
+        scrollbar-width: none !important;
+        padding: 0.35rem !important;
+        gap: 0.4rem !important;
+      }
+      nav.flex-wrap::-webkit-scrollbar {
+        display: none !important;
+      }
+      nav.flex-wrap button {
+        flex-shrink: 0 !important;
+        padding: 0.55rem 0.9rem !important;
+        font-size: 13px !important;
+      }
+      /* Mobile header controls */
+      header .flex-wrap {
+        gap: 0.5rem !important;
+      }
+    }
+
   </style>
 </head>
 <body class="min-h-screen relative selection:bg-emerald-500 selection:text-white">
@@ -138,7 +208,7 @@
     }
   </script>
 
-  <!-- Pre-compiled Ultra-Fast Production React Engine (Zero Babel Delay) -->
+  <!-- Pre-compiled Mobile-Optimized Production React Engine -->
   <script>
 const {
   useState,
