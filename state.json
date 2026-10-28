@@ -11627,6 +11627,30 @@
       "company": "Kaseya",
       "source": "jobicy",
       "first_seen": "2026-10-28"
+    },
+    "https://www.gulftalent.com/uae/jobs/junior-hse-engineer-651614": {
+      "title": "Junior HSE Engineer",
+      "company": "Sembol Construction",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-28"
+    },
+    "https://jobicy.com/jobs/151699-enterprise-account-executive-marketplaces": {
+      "title": "Enterprise Account Executive, Marketplaces",
+      "company": "Branch",
+      "source": "jobicy",
+      "first_seen": "2026-10-28"
+    },
+    "https://jobicy.com/jobs/151909-founding-marketer": {
+      "title": "Founding Marketer",
+      "company": "Anagram",
+      "source": "jobicy",
+      "first_seen": "2026-10-28"
+    },
+    "https://jobicy.com/jobs/151895-service-desk-system-administrator": {
+      "title": "Service Desk/System Administrator",
+      "company": "Playson",
+      "source": "jobicy",
+      "first_seen": "2026-10-28"
     }
   },
   "applied": {
@@ -12784,6 +12808,13 @@
       "to": "info@wood.com",
       "title": "Risk and Safety Section Head",
       "company": "Wood"
+    },
+    "https://www.gulftalent.com/uae/jobs/junior-hse-engineer-651614::email": {
+      "date": "2026-10-28 06:36",
+      "via": "email",
+      "to": "Info.Dodge-India@construction.com",
+      "title": "Junior HSE Engineer",
+      "company": "Sembol Construction"
     }
   },
   "sent": {
@@ -13496,6 +13527,11 @@
       "kind": "email",
       "to": "info@wood.com",
       "date": "2026-10-26 21:20"
+    },
+    "https://www.gulftalent.com/uae/jobs/junior-hse-engineer-651614": {
+      "kind": "email",
+      "to": "Info.Dodge-India@construction.com",
+      "date": "2026-10-28 06:36"
     }
   },
   "replies": []
