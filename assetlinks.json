@@ -1,0 +1,28 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.rahmatpourmba_crypto.twa",
+      "sha256_cert_fingerprints": [
+        "32:59:AD:96:57:B0:3D:E9:37:73:3C:D6:A4:1A:A8:E3:32:CE:BA:FD:DB:F9:BA:A0:18:5E:09:3C:F5:AF:A1:16",
+        "1D:84:4F:CF:8D:CE:69:10:BB:D2:40:43:F5:4E:BC:68:29:74:31:90:99:33:87:C1:3F:48:81:44:A3:67:E5:49"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "cafebazaar_twa",
+      "package_name": "io.github.rahmatpourmba_crypto.twa",
+      "sha256_cert_fingerprints": [
+        "32:59:AD:96:57:B0:3D:E9:37:73:3C:D6:A4:1A:A8:E3:32:CE:BA:FD:DB:F9:BA:A0:18:5E:09:3C:F5:AF:A1:16",
+        "1D:84:4F:CF:8D:CE:69:10:BB:D2:40:43:F5:4E:BC:68:29:74:31:90:99:33:87:C1:3F:48:81:44:A3:67:E5:49"
+      ]
+    }
+  }
+]
