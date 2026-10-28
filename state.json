@@ -11651,6 +11651,30 @@
       "company": "Playson",
       "source": "jobicy",
       "first_seen": "2026-10-28"
+    },
+    "https://www.gulftalent.com/uae/jobs/senior-hse-manager-651633": {
+      "title": "Senior HSE Manager",
+      "company": "Sommerman Skinner Associates (SSA Limited",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-28"
+    },
+    "https://www.gulftalent.com/uae/jobs/hse-director-651626": {
+      "title": "HSE Director",
+      "company": "Sommerman Skinner Associates (SSA Limited",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-10-28"
+    },
+    "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer": {
+      "title": "Carrot: Sr. Data Engineer",
+      "company": "Carrot",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-28"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-internal-audit-at-set2recruit-4477377752": {
+      "title": "Head of Internal Audit",
+      "company": "Set2Recruit",
+      "source": "linkedin",
+      "first_seen": "2026-10-28"
     }
   },
   "applied": {
