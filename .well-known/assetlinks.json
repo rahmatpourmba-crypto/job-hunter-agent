@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.rahmatpourmba_crypto.twa",
+    "sha256_cert_fingerprints": ["1D:84:4F:CF:8D:CE:69:10:BB:D2:40:43:F5:4E:BC:68:29:74:31:90:99:33:87:C1:3F:48:81:44:A3:67:E5:49"]
+  }
+}]
