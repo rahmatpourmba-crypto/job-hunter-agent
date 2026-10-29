@@ -12065,6 +12065,120 @@
       "company": "Michael Page",
       "source": "gulftalent_uae",
       "first_seen": "2026-10-29"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-professional-at-siemens-energy-4483873335": {
+      "title": "EHS Professional",
+      "company": "Siemens Energy",
+      "source": "linkedin",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157887-principal-security-researcher": {
+      "title": "Principal Security Researcher",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157844-senior-vice-president-deputy-general-counsel-global-commercial-and-privacy": {
+      "title": "Senior Vice President, Deputy General Counsel, Global Commercial and Privacy",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157884-principal-engineer-duo-agent-platform": {
+      "title": "Principal Engineer, Duo Agent Platform",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157850-staff-platform-engineer-americas": {
+      "title": "Staff Platform Engineer - Americas",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157857-strategic-enterprise-customer-success-manager": {
+      "title": "Strategic Enterprise Customer Success Manager",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157912-sr-director-of-machine-learning": {
+      "title": "Sr. Director of Machine Learning",
+      "company": "hims &#038; hers",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157871-billing-analytics-software-engineer": {
+      "title": "Billing & Analytics Software Engineer",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157863-principal-data-engineer": {
+      "title": "Principal Data Engineer",
+      "company": "hims &#038; hers",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157911-manager-engineering-product": {
+      "title": "Manager, Engineering - Product",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157909-sr-manager-global-regulatory-affairs-ai-ml": {
+      "title": "Sr Manager, Global Regulatory Affairs (AI/ML)",
+      "company": "hims &#038; hers",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157907-senior-engineer-commissioning": {
+      "title": "Senior Engineer - Commissioning",
+      "company": "Cologix, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157902-senior-account-executive-12": {
+      "title": "Senior Account Executive",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157900-renewals-manager-emea": {
+      "title": "Renewals Manager EMEA",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157894-regional-director-public-sector-uk-i": {
+      "title": "Regional Director - Public Sector, UK/I",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157880-senior-director-professional-services": {
+      "title": "Senior Director, Professional Services",
+      "company": "Keyfactor, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157853-content-marketing-manager-6": {
+      "title": "Content Marketing Manager",
+      "company": "HackerOne",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157842-people-ai-automation-engineer": {
+      "title": "People AI & Automation Engineer",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
+    },
+    "https://jobicy.com/jobs/157841-enterprise-solutions-engineering-manager": {
+      "title": "Enterprise Solutions Engineering Manager",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-10-29"
     }
   },
   "applied": {
@@ -13229,6 +13343,13 @@
       "to": "Info.Dodge-India@construction.com",
       "title": "Junior HSE Engineer",
       "company": "Sembol Construction"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-technical-hse-engineer-at-target-engineering-construction-co-llc-4481881798::contact_form": {
+      "date": "2026-10-29 21:19",
+      "via": "contact_form",
+      "to": "https://www.target.com/contactus",
+      "title": "Senior Technical HSE Engineer",
+      "company": "Target Engineering Construction Co LLC"
     }
   },
   "sent": {
@@ -13946,6 +14067,11 @@
       "kind": "email",
       "to": "Info.Dodge-India@construction.com",
       "date": "2026-10-28 06:36"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-technical-hse-engineer-at-target-engineering-construction-co-llc-4481881798": {
+      "kind": "contact_form",
+      "to": "target.com",
+      "date": "2026-10-29 21:19"
     }
   },
   "replies": []
