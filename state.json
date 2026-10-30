@@ -12293,6 +12293,42 @@
       "company": "Jumio",
       "source": "weworkremotely",
       "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/158026-field-security-advisor": {
+      "title": "Field Security Advisor",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/158053-sales-specialist-data-ai-security": {
+      "title": "Sales Specialist - Data & AI Security",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/158050-director-engineering-care": {
+      "title": "Director, Engineering - Care",
+      "company": "hims &#038; hers",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/158022-sales-engineering-manager-core-mainland-europe": {
+      "title": "Sales Engineering Manager Core - Mainland Europe",
+      "company": "Samsara",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/158063-senior-backend-engineer-core-devops-container-registry": {
+      "title": "Senior Backend Engineer, Core DevOps: Container Registry",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/158061-senior-backend-engineer-core-devops": {
+      "title": "Senior Backend Engineer, Core DevOps",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
     }
   },
   "applied": {
@@ -13492,6 +13528,13 @@
       "to": "lh-events@labs.com",
       "title": "Senior Software Engineer, Security Assurance | UK | Remote",
       "company": "Grafana Labs"
+    },
+    "https://jobicy.com/jobs/158026-field-security-advisor::email": {
+      "date": "2026-10-30 19:37",
+      "via": "email",
+      "to": "support@antenna.dev",
+      "title": "Field Security Advisor",
+      "company": "Veeam Software"
     }
   },
   "sent": {
@@ -14234,6 +14277,11 @@
       "kind": "email",
       "to": "lh-events@labs.com",
       "date": "2026-10-30 07:31"
+    },
+    "https://jobicy.com/jobs/158026-field-security-advisor": {
+      "kind": "email",
+      "to": "support@antenna.dev",
+      "date": "2026-10-30 19:37"
     }
   },
   "replies": []
