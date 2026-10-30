@@ -12233,6 +12233,24 @@
       "company": "TerraStakes",
       "source": "linkedin",
       "first_seen": "2026-10-30"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-at-target-engineering-construction-co-llc-4483055635": {
+      "title": "Health Safety Environment Officer",
+      "company": "Target Engineering Construction Co LLC",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-target-engineering-construction-co-llc-4483068113": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Target Engineering Construction Co LLC",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/157102-senior-software-engineer-infrastructure-security-2": {
+      "title": "Senior Software Engineer - Infrastructure Security",
+      "company": "Quora",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
     }
   },
   "applied": {
@@ -13425,6 +13443,13 @@
       "to": "home-women-1@3x.webp",
       "title": "Senior Smart Contract Engineer",
       "company": "Jobgether"
+    },
+    "https://jobicy.com/jobs/157834-senior-software-engineer-security-assurance-uk-remote::email": {
+      "date": "2026-10-30 07:31",
+      "via": "email",
+      "to": "lh-events@labs.com",
+      "title": "Senior Software Engineer, Security Assurance | UK | Remote",
+      "company": "Grafana Labs"
     }
   },
   "sent": {
@@ -14162,6 +14187,11 @@
       "kind": "email",
       "to": "home-women-1@3x.webp",
       "date": "2026-10-30 01:16"
+    },
+    "https://jobicy.com/jobs/157834-senior-software-engineer-security-assurance-uk-remote": {
+      "kind": "email",
+      "to": "lh-events@labs.com",
+      "date": "2026-10-30 07:31"
     }
   },
   "replies": []
