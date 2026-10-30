@@ -12179,6 +12179,60 @@
       "company": "Ashby",
       "source": "jobicy",
       "first_seen": "2026-10-29"
+    },
+    "https://ae.linkedin.com/jobs/view/health-and-safety-officer-at-id-works-global-4483001507": {
+      "title": "Health And Safety Officer",
+      "company": "ID Works global",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
+    },
+    "https://iq.linkedin.com/jobs/view/site-safety-manager-at-txm-solutions-4483037389": {
+      "title": "Site Safety Manager",
+      "company": "TXM Solutions",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-confidential-careers-4483043683": {
+      "title": "Safety Officer",
+      "company": "Confidential Careers",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
+    },
+    "https://www.linkedin.com/jobs/view/senior-smart-contract-engineer-at-jobgether-4484166516": {
+      "title": "Senior Smart Contract Engineer",
+      "company": "Jobgether",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
+    },
+    "https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes": {
+      "title": "Bitovi: Backend / Platform Developer Consultant (Temporal & Kubernetes)",
+      "company": "Bitovi",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/157916-presales-architect": {
+      "title": "Presales Architect",
+      "company": "Twilio",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/157917-senior-pre-sales-solutions-engineer-singapore": {
+      "title": "Senior Pre-Sales Solutions Engineer (Singapore)",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-blockchain-ai-engineering-at-terrastakes-4483009623": {
+      "title": "Head of Blockchain & AI Engineering",
+      "company": "TerraStakes",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-information-security-at-terrastakes-4483001838": {
+      "title": "Head of Information Security",
+      "company": "TerraStakes",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
     }
   },
   "applied": {
@@ -13350,6 +13404,27 @@
       "to": "https://www.target.com/contactus",
       "title": "Senior Technical HSE Engineer",
       "company": "Target Engineering Construction Co LLC"
+    },
+    "https://ae.linkedin.com/jobs/view/health-and-safety-officer-at-id-works-global-4483001507::email": {
+      "date": "2026-10-30 01:16",
+      "via": "email",
+      "to": "amiller@hilcoglobal.com",
+      "title": "Health And Safety Officer",
+      "company": "ID Works global"
+    },
+    "https://iq.linkedin.com/jobs/view/site-safety-manager-at-txm-solutions-4483037389::email": {
+      "date": "2026-10-30 01:16",
+      "via": "email",
+      "to": "info@txm.com",
+      "title": "Site Safety Manager",
+      "company": "TXM Solutions"
+    },
+    "https://www.linkedin.com/jobs/view/senior-smart-contract-engineer-at-jobgether-4484166516::email": {
+      "date": "2026-10-30 01:16",
+      "via": "email",
+      "to": "home-women-1@3x.webp",
+      "title": "Senior Smart Contract Engineer",
+      "company": "Jobgether"
     }
   },
   "sent": {
@@ -14072,6 +14147,21 @@
       "kind": "contact_form",
       "to": "target.com",
       "date": "2026-10-29 21:19"
+    },
+    "https://ae.linkedin.com/jobs/view/health-and-safety-officer-at-id-works-global-4483001507": {
+      "kind": "email",
+      "to": "amiller@hilcoglobal.com",
+      "date": "2026-10-30 01:16"
+    },
+    "https://iq.linkedin.com/jobs/view/site-safety-manager-at-txm-solutions-4483037389": {
+      "kind": "email",
+      "to": "info@txm.com",
+      "date": "2026-10-30 01:16"
+    },
+    "https://www.linkedin.com/jobs/view/senior-smart-contract-engineer-at-jobgether-4484166516": {
+      "kind": "email",
+      "to": "home-women-1@3x.webp",
+      "date": "2026-10-30 01:16"
     }
   },
   "replies": []
