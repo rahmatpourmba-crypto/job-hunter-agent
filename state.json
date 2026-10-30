@@ -12251,6 +12251,48 @@
       "company": "Quora",
       "source": "jobicy",
       "first_seen": "2026-10-30"
+    },
+    "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4485306887": {
+      "title": "Project EHS Manager",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-30"
+    },
+    "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer": {
+      "title": "Anthropic: Autonomous Systems Security Engineer",
+      "company": "Anthropic",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-30"
+    },
+    "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer": {
+      "title": "Carrot: Sr. IT Systems Engineer",
+      "company": "Carrot",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-30"
+    },
+    "https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer": {
+      "title": "Wrike: CloudOps Engineer (Network Engineer)",
+      "company": "Wrike",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-30"
+    },
+    "https://jobicy.com/jobs/157930-security-engineer-incident-response-2": {
+      "title": "Security Engineer, Incident Response",
+      "company": "Twilio",
+      "source": "jobicy",
+      "first_seen": "2026-10-30"
+    },
+    "https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday": {
+      "title": "Keeper Security: Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
+      "company": "Keeper Security",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-30"
+    },
+    "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect": {
+      "title": "Jumio: Principal Enterprise Architect",
+      "company": "Jumio",
+      "source": "weworkremotely",
+      "first_seen": "2026-10-30"
     }
   },
   "applied": {
