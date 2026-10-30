@@ -87,30 +87,6 @@
   },
   {
     "source": "linkedin",
-    "title": "Environment, Health and Safety Manager",
-    "company": "Nawras Power Company",
-    "location": "Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-nawras-power-company-4472335870",
-    "description": "",
-    "published": "2026-09-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety manager",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Junior HSE Engineer - Offshore SIte",
     "company": "Worley",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -575,6 +551,29 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Lead",
+    "company": "Parsons Corporation",
+    "location": "Tabūk, Tabuk, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-lead-at-parsons-corporation-4479823260",
+    "description": "",
+    "published": "2026-10-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
