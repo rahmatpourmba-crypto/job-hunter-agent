@@ -12383,6 +12383,30 @@
       "company": "INTECH Automation & Intelligence",
       "source": "linkedin",
       "first_seen": "2026-10-31"
+    },
+    "https://jobicy.com/jobs/158169-director-global-government-affairs-sled-cybersecurity": {
+      "title": "Director, Global Government Affairs (SLED) - Cybersecurity",
+      "company": "Tenable",
+      "source": "jobicy",
+      "first_seen": "2026-10-31"
+    },
+    "https://jobicy.com/jobs/158158-senior-partner-manager-data-ai-security": {
+      "title": "Senior Partner Manager, Data & AI Security",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-10-31"
+    },
+    "https://jobicy.com/jobs/158162-associate-security-researcher": {
+      "title": "Associate Security Researcher",
+      "company": "Cobalt",
+      "source": "jobicy",
+      "first_seen": "2026-10-31"
+    },
+    "https://jobicy.com/jobs/158135-staff-security-operations-engineer-2": {
+      "title": "Staff Security Operations Engineer",
+      "company": "Pleo",
+      "source": "jobicy",
+      "first_seen": "2026-10-31"
     }
   },
   "applied": {
@@ -13589,6 +13613,13 @@
       "to": "support@antenna.dev",
       "title": "Field Security Advisor",
       "company": "Veeam Software"
+    },
+    "https://jobicy.com/jobs/157774-senior-software-engineer-security-assurance-ireland-remote::email": {
+      "date": "2026-10-31 15:29",
+      "via": "email",
+      "to": "lh-events@labs.com",
+      "title": "Senior Software Engineer, Security Assurance | Ireland | Remote",
+      "company": "Grafana Labs"
     }
   },
   "sent": {
@@ -14336,6 +14367,11 @@
       "kind": "email",
       "to": "support@antenna.dev",
       "date": "2026-10-30 19:37"
+    },
+    "https://jobicy.com/jobs/157774-senior-software-engineer-security-assurance-ireland-remote": {
+      "kind": "email",
+      "to": "lh-events@labs.com",
+      "date": "2026-10-31 15:29"
     }
   },
   "replies": []

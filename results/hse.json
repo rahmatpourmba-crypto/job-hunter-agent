@@ -235,29 +235,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Lead",
-    "company": "Wood",
-    "location": "Kirkuk, Kirkuk Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/hse-lead-at-wood-4467702634",
-    "description": "",
-    "published": "2026-10-27",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Supervisor (Water Injection Operations)",
     "company": "Anton-OSS",
     "location": "Al-Basra Governorate, Iraq",
@@ -317,6 +294,29 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Industrial Hygiene Specialist",
+    "company": "Wood",
+    "location": "Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/industrial-hygiene-specialist-at-wood-4478541292",
+    "description": "",
+    "published": "2026-10-12",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "industrial hygiene"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
