@@ -12419,6 +12419,24 @@
       "company": "Demandbase, Inc.",
       "source": "jobicy",
       "first_seen": "2026-10-31"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-officer-at-larsen-toubro-4476355398": {
+      "title": "EHS Officer",
+      "company": "Larsen & Toubro",
+      "source": "linkedin",
+      "first_seen": "2026-10-31"
+    },
+    "https://jobicy.com/jobs/158220-application-security-engineer-ii": {
+      "title": "Application Security Engineer II",
+      "company": "Thumbtack",
+      "source": "jobicy",
+      "first_seen": "2026-10-31"
+    },
+    "https://jobicy.com/jobs/158229-senior-security-solutions-architect": {
+      "title": "Senior Security Solutions Architect",
+      "company": "ExtraHop",
+      "source": "jobicy",
+      "first_seen": "2026-10-31"
     }
   },
   "applied": {
@@ -13632,6 +13650,20 @@
       "to": "lh-events@labs.com",
       "title": "Senior Software Engineer, Security Assurance | Ireland | Remote",
       "company": "Grafana Labs"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-supervisor-at-intech-automation-intelligence-4476190089::email": {
+      "date": "2026-10-31 22:44",
+      "via": "email",
+      "to": "advertise@isa.org",
+      "title": "HSE Supervisor",
+      "company": "INTECH Automation & Intelligence"
+    },
+    "https://iq.linkedin.com/jobs/view/industrial-hygiene-specialist-at-wood-4478541292::email": {
+      "date": "2026-10-31 22:44",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "Industrial Hygiene Specialist",
+      "company": "Wood"
     }
   },
   "sent": {
@@ -14384,6 +14416,16 @@
       "kind": "email",
       "to": "lh-events@labs.com",
       "date": "2026-10-31 15:29"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-supervisor-at-intech-automation-intelligence-4476190089": {
+      "kind": "email",
+      "to": "advertise@isa.org",
+      "date": "2026-10-31 22:44"
+    },
+    "https://iq.linkedin.com/jobs/view/industrial-hygiene-specialist-at-wood-4478541292": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-10-31 22:44"
     }
   },
   "replies": []
