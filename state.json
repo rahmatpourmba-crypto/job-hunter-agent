@@ -12449,6 +12449,18 @@
       "company": "ZoomInfo Technologies LLC",
       "source": "weworkremotely",
       "first_seen": "2026-11-01"
+    },
+    "https://iq.linkedin.com/jobs/view/service-manager-at-sardar-group-4485950753": {
+      "title": "Service Manager",
+      "company": "Sardar Group",
+      "source": "linkedin",
+      "first_seen": "2026-11-01"
+    },
+    "https://jobicy.com/jobs/158341-senior-backend-engineer-ruby-production-engineeringtenant-controls": {
+      "title": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-11-01"
     }
   },
   "applied": {
