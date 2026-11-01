@@ -12437,6 +12437,18 @@
       "company": "ExtraHop",
       "source": "jobicy",
       "first_seen": "2026-10-31"
+    },
+    "https://jobicy.com/jobs/158295-director-of-engineering-dedicated-infrastructure-platforms": {
+      "title": "Director of Engineering, Dedicated Infrastructure & Platforms",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-11-01"
+    },
+    "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth": {
+      "title": "ZoomInfo Technologies LLC: Principal Product Management, Growth",
+      "company": "ZoomInfo Technologies LLC",
+      "source": "weworkremotely",
+      "first_seen": "2026-11-01"
     }
   },
   "applied": {
@@ -13664,6 +13676,13 @@
       "to": "info@wood.com",
       "title": "Industrial Hygiene Specialist",
       "company": "Wood"
+    },
+    "https://jobicy.com/jobs/157770-senior-software-engineer-security-assurance-germany-remote::email": {
+      "date": "2026-11-01 08:39",
+      "via": "email",
+      "to": "lh-events@labs.com",
+      "title": "Senior Software Engineer, Security Assurance | Germany | Remote",
+      "company": "Grafana Labs"
     }
   },
   "sent": {
@@ -14426,6 +14445,11 @@
       "kind": "email",
       "to": "info@wood.com",
       "date": "2026-10-31 22:44"
+    },
+    "https://jobicy.com/jobs/157770-senior-software-engineer-security-assurance-germany-remote": {
+      "kind": "email",
+      "to": "lh-events@labs.com",
+      "date": "2026-11-01 08:39"
     }
   },
   "replies": []

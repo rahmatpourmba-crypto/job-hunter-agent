@@ -1,38 +1,5 @@
 [
   {
-    "source": "jobicy",
-    "title": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
-    "company": "CertiK",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/151470-blockchain-security-engineer-solidity-rust-golang",
-    "description": "About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects such as OKX, Tether, Ripple, and Pancakeswap. Our investors include top VCs like Tiger Global, Coatue Management, Shunwei Capital and Hillhouse Capital as well as industry leaders like Coinbase Ventures and Binance. About the Role We are seeking a Junior Blockchain Security Engineer with a strong security mindset and foundational technical expertise across smart contracts, blockchain nodes, and decentralized infrastructure. In this role, you will support Web3 projects by assisting in code audits, contributing to security tools, and conducting research under guidance. If you are eager to grow your career in blockchain security and passionate about securing decentralized technologies, we’d love to hear from you. Responsibilities Audit and review codebases for smart contracts, blockchain protocols, and decentralized applications (dApps) to identify and remediate vulnerabilities. Conduct guided security research, explore new attack vectors, and deliver actionable insights. Contribute to the design, development, and maintenance of internal security tools and frameworks. Support improvements to internal processes, methodologies, and service offerings, ensuring high-quality delivery for clients. Requirements Bachelor’s, Master’s, or PhD in Mathematics, Computer Science, or Information Security. At least 1 years of hands-on experience with blockchain technologies, including: Smart contracts (EVM chains, Solana, Move, etc.), Blockchain protocols (nodes, SDKs, Cosmos, etc.) Experience in threat modeling, risk assessment, and security analysis. Proficiency in one or more programming languages: Rust, Go, Solidity, Python, etc. Passion for Cryptocurrency, DeFi, and Blockchain technologies. Preferred Qualifications Solid academic or practical background in Mathematics, Cryptography, or Cybersecurity. Demonstrated experience conducting audits and collaborating with leading Web3 protocols. Recognized achievements such as published CVEs, or strong placements in Attackathons, Bug Bounties, or Audit Contests. Compensation Additional Information Compensation Target annual salary for this role performed in the US is $102,000 - $180,000. The exact compensation at which this job is filled will be determined by the skills and experience of qualified candidates. CertiK accepts applications for this position on an ongoing basis. CertiK is proud to offer medical, vision, and dental insurance, 401(k) plan with company matching, life and accidental death and dismemberment insurance, HSA (with high deductible plan), FSA, and other benefits to all full-time employees, along with flexible paid time off and holidays. CertiK also offers a variable commission program for business development sales roles. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. CertiK is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. CertiK will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements. https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf All CertiK employees are expected to actively support diversity on their teams, and in the Company. About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilities in blockchain code. Our clients include leading projects…",
-    "published": "2026-10-25",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 102000,
-    "salary_max": 557000,
-    "score": 20,
-    "title_hits": [
-      "solidity",
-      "blockchain",
-      "security"
-    ],
-    "desc_hits": [
-      "smart contract",
-      "web3",
-      "defi",
-      "crypto",
-      "audit",
-      "dapp",
-      "evm"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$102,000-$557,000",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "linkedin",
     "title": "Senior Smart Contract Engineer",
     "company": "Jobgether",
@@ -282,8 +249,15 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$104,797-$125,756",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "lh-events@labs.com",
+      "marketing@labs.com",
+      "media@labs.com",
+      "sales@labs.com"
+    ],
+    "phones": [],
+    "emails_source": "labs.com",
+    "about": "At the heart of the action Perfectly positioned ## Explore 9 beautifully designed locations from LABS, a design-led flexible office space provider in London, across our Camden and Holborn campuses."
   },
   {
     "source": "jobicy",
@@ -649,6 +623,31 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$227,940-$583,920",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Director of Engineering, Dedicated Infrastructure & Platforms",
+    "company": "GitLab",
+    "location": "Canada,  UK,  USA",
+    "url": "https://jobicy.com/jobs/158295-director-of-engineering-dedicated-infrastructure-platforms",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. An overview of this role As the Director of Dedicated Infrastructure Engineering & Platforms, you will lead the engineering organization responsible for GitLab Dedicated, GitLab's premium single-tenant SaaS offering for enterprise customers in regulated industries, and public sector. You will lead a high-performing organization of managers and engineers who own the entire lifecycle of dedicated and cellular platforms, from orchestration, integrations, resilience, and incident response to switchboard APIs, public sector compliance, and enterprise customer migrations. Your mission is to scale GitLab Dedicated from its current trajectory toward an aggressive growth target, ensuring enterprise customers experience full platform capabilities with dedicated infrastructure, compliance certifications, and enterprise-grade SLAs in an isolated environment. As a high-impact executive leader, you will define the strategy for single-tenant and public sector SaaS platforms, drive critical infrastructure investments, ensure FedRAMP/compliance operational readiness, and build the switchboard and migration capabilities that allow enterprise customers to seamlessly transition to and scale on Dedicated. You will succeed by cultivating a culture of operational excellence, closing key business and roadmap gaps, and leading distributed engineering teams to deliver high-availability, highly secure platform experiences. What you'll do Own the strategy and roadmap for GitLab Dedicated, and ensure the platform scales with customer growth and converges with GitLab's cellular architecture. Partner with Product and executive leadership to deliver on growth targets, with a focus on platform reliability, faster customer onboarding, infrastructure cost efficiency, and self-service administration. Lead the engineering teams that build and run the platform: tenant orchestration and integrations, resilience and incident response, the Switchboard control plane, public sector platforms and compliance, and enterprise migrations and import tooling. Uphold enterprise-grade SLAs across every tenant. Deliver GitLab Dedicated for Government: AWS GovCloud infrastructure, FedRAMP operations and audit readiness, air-gapped isolation, and public sector feature delivery. Make enterprise migrations to Dedicated predictable, repeatable, and low-disruption through self-service tooling and guided workflows. Hire, coach, and scale engineering managers across distributed teams, and bring practical AI-enabled workflows into how the organization works. Partner with Product, Security, and Customer Support to keep customer commitments, architecture, and investments aligned. What you'll bring You have led engineering organizations that run enterprise single or multi tenant SaaS infrastructure and cloud platforms at scale. You have measurably improved production reliability, reduced toil, or lowered infrastructure cost on a platform you owned. You have deep expertise in cloud-native and cellular architectures, Infrastructure as Code, and modular services that deploy and scale independently across cloud environments. You have delivered and operated enterprise offerings under strict compliance regimes such as FedRAMP and AWS GovCloud. You have led organizational changes, including adopting AI enabled workflows that raise engineering system efficiencies. You translate financial targets into engineering investments, headcount plans, and execution roadmaps. You lead with ownership, speed with quality, and a focus on customer outcomes. About the team The Dedicated Infrastructure & Platforms organization builds and runs GitLab Dedicated, our single-tenant enterprise SaaS offering, for GitLab's most strategic enterprise and public sector accounts. It is organized into five focus areas: Platform Orchestration & Integrations: orchestration, deployment, and environment automation for Dedicated tenants and cellular environments, plus integrations with external products. Core Features, Resilience & Response: compliance and operations driven features, disaster recovery, automated failover, rate limiting, and incident response automation. Switchboard & Control Plane: the APIs, tenant change automation, and operator and customer interfaces that make Dedicated self-service. Public Sector Platforms & Compliance: AWS GovCloud infrastructure, FedRAMP compliance operations, air-gapped isolation, and Geo replication for GitLab Dedicated for Government. Enterprise Migrations & Import Tooling: customer migration programs and playbooks, Geo-based migration tooling, Direct Transfer, and self-service guided import workflows. The base salary range for this role’s listed level is currently for residents of the United States only. This range is intended to reflect the role's base salary rate in locations throughout the US. Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, alignment with market data, and geographic location. The base salary range does not include any bonuses, equity, or benefits. See more information on our benefits and equity . Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary. United States Salary Range $212,000—$290,000 USD How GitLab Supports Full-Time Employees Benefits to support your health, finances, and well-being Flexible Paid Time Off Team Member Resource Groups Equity Compensation & Employee Stock Purchase Plan Growth and Development Fund Parental Leave Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from underrepresented groups are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application. Country Hiring Guidelines: GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process. Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us. GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law . If you have a disability or special need that requires accommodation , please let us know during the recruiting process . GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into…",
+    "published": "2026-11-01",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 212000,
+    "salary_max": 290000,
+    "score": 7,
+    "title_hits": [],
+    "desc_hits": [
+      "defi",
+      "audit",
+      "security"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$212,000-$290,000",
     "emails": [],
     "phones": []
   },
