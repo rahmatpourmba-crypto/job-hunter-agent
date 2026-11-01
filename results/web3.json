@@ -500,6 +500,31 @@
   },
   {
     "source": "jobicy",
+    "title": "Security Engineer - Detection and Response",
+    "company": "Spotify",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/158384-security-engineer-detection-and-response-2",
+    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. Security engineers at Spotify protect our platform, employees, creators, and more than 700 million users. We are looking for an experienced Security Engineer to join the Detection and Response organization and help identify, investigate, and respond to threats across Spotify's environment. You will work within our detection engineering squad where the team owns alert triage, security investigations, threat hunting, and the detection engineering lifecycle. You will turn threat intelligence, incident learnings, and analyst feedback into effective detections and investigation workflows. You will partner closely with the detection infrastructure squad, which builds and operates Detection and Response platforms and telemetry pipelines, and with teams across Spotify to make sure your squad has the signals and capabilities needed to detect and respond to threats at Spotify's scale. We are a distributed team that values curiosity, sound judgment, clear communication, and continuous learning. We teach and learn from one another, adapt as the threat landscape changes, and focus our effort according to business needs and risk. What You'll Do Identify detection opportunities, define clear telemetry requirements, and partner with the detection infrastructure squad and data owners to make the signals needed for detection and investigation available. Develop, test, tune, and maintain detections across endpoint, identity, cloud, SaaS, email, and other security-relevant environments. Investigate and prioritize alerts, determine their security impact, and participate in incident containment and remediation. Build repeatable investigation workflows and playbooks for alert triage, evidence collection, decision-making, escalation, containment, and response. Improve proactive threat-identification and threat-hunting capabilities using internal telemetry and external threat intelligence. Create cutting-edge AI workflows for Detection and Response that enrich alerts, gather and analyze evidence, guide investigations, and automate repetitive response work while preserving appropriate human judgment and oversight. Measure detection effectiveness, identify coverage gaps, and tune detections to balance security value, fidelity, and analyst workload. Use SIEM, EDR, SOAR, and related security platforms to research threats, develop detections, investigate alerts, and validate security outcomes. Share knowledge, document decisions, and communicate security findings clearly to technical and non-technical audiences. Who You Are You are curious, collaborative, and comfortable making progress in an ambiguous and rapidly changing environment. You have 3+ years of hands-on experience in security operations, incident response, threat detection, detection engineering, or closely related work. You understand how analysts triage and investigate alerts and how detection quality affects their decisions and workload. You know how to create and tune detections based on attacker behavior, available telemetry, and an expected investigation path. You are experienced with security platforms such as SIEM, EDR, SOAR, or comparable monitoring and response technologies. You can write code or use an automation platform to analyze security telemetry, enrich alerts, build investigation workflows, and remove repetitive work. Experience with Python or a similar language is valuable. You understand modern detection-as-code practices, including GitHub, peer review, CI/CD, testing, and safely managing production detection content. You have experience working with at least one major cloud platform, such as Google Cloud, AWS, or Azure. You understand common threats affecting SaaS-oriented corporate and production environments. You care about clear documentation, inclusive collaboration, and explaining security concepts to people with different backgrounds and levels of expertise. You are excited to create and critically evaluate cutting-edge AI workflows for detection development, alert triage, security investigations, and response, while applying sound security judgment and appropriate human oversight. Where You'll Be This role is based in New York We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home. Compensation Additional Information The United States base range for this position is $132,948–$189,927 USD, plus equity. The benefits available for this position include health insurance, six-month paid parental leave, 401(k) retirement plan, monthly meal allowance, 23 paid days off, paid flexible holidays, and paid sick leave. These ranges may be modified in the future. Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens. At Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can. The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. Security engineers at Spotify protect…",
+    "published": "2026-11-01",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 132948,
+    "salary_max": 189927,
+    "score": 8,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$132,948-$189,927",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
     "title": "Application Security Engineer II",
     "company": "Thumbtack",
     "location": "Canada",
@@ -648,29 +673,6 @@
     "gulf_onsite": false,
     "salary_ok": true,
     "salary_str": "$212,000-$290,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "weworkremotely",
-    "title": "Vercel: Security Engineer, Cloud",
-    "company": "Vercel",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
-    "description": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide. About the role: We're looking for a Security Engineer to join our Cloud Security Engineering team. In this role, you'll help strengthen the security of our platform by building and improving the controls that protect our infrastructure. You'll play a key role in making security a core part of how we build, deploy, and scale our systems, while helping the company grow securely and confidently. You'll report to the Security Operations Manager, and this is a hybrid or fully remote within the United States. If you're based within commuting distance of our SF or NY offices, the role includes in-office anchor days on Monday, Tuesday, and Friday. What you will do: Design and implement scalable security controls across our cloud-native platform. Harden infrastructure components using infrastructure-as-code, policy enforcement, and service isolation. Build secure by default infrastructure and code CI/CD pipelines. Collaborate with platform and infrastructure teams to integrate security best practices into architecture and workflows. Stay ahead of cloud security trends and adopt cutting-edge technologies to enhance platform resilience. Conduct threat modeling, risk analysis, and mitigation planning for critical systems. Drive improvements in monitoring, detection, and incident response at the platform level. Build, deploy and maintain relevant tooling. About you: 8+ years of experience in infrastructure or platform security roles. Deep understanding of secure cloud infrastructure (AWS/GCP), identity and access management, and system hardening. Proficient with tools like Terraform, CDK, Kubernetes, and CI/CD security. Skilled at balancing engineering realities with principled security practices. Proven track record of shipping secure, resilient systems at scale. Bonus if you: Have built or scaled security automation pipelines. Contributed to open-source security projects or tools. Hold certifications such as GCP Security Engineer, AWS certifications, CISSP, or OSCP. Hold a bachelors or masters degree in Cybersecurity or similar disciplines. Benefits & Compensation: Competitive compensation package, including equity. Inclusive Healthcare Package. Learn and Grow - we provide mentorship and send you to events that help you build your network and skills. Flexible Time Off. We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed. The San Francisco, CA base pay range for this role is $208,000.00 - $312,000.00. This salary range is an estimate. Actual salary will be based on job related skills, experience and location. Pay ranges outside San Francisco may be adjusted based on employee location. The total compensation package also includes benefits and equity-based compensation. Your recruiter can share more about the specific pay range for your location during the hiring process. Disclosures: Privacy: Please review our Job Applicant Privacy Policy for more information on how we handle your data. Equal Opportunity: Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description. To apply: https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
-    "published": "Sat, 03 Oct 2026",
-    "remote": true,
-    "currency": null,
-    "salary_min": 208000,
-    "salary_max": 312000,
-    "score": 7,
-    "title_hits": [
-      "security"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$208,000-$312,000",
     "emails": [],
     "phones": []
   }
