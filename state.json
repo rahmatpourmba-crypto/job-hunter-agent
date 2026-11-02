@@ -12503,6 +12503,24 @@
       "company": "Elite Talent",
       "source": "linkedin",
       "first_seen": "2026-11-02"
+    },
+    "https://jobicy.com/jobs/158551-staff-product-security-architect": {
+      "title": "Staff Product Security Architect",
+      "company": "GitLab",
+      "source": "jobicy",
+      "first_seen": "2026-11-02"
+    },
+    "https://jobicy.com/jobs/158484-staff-software-engineer-i-platform-engineering": {
+      "title": "Staff Software Engineer I, Platform Engineering",
+      "company": "Signifyd",
+      "source": "jobicy",
+      "first_seen": "2026-11-02"
+    },
+    "https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote": {
+      "title": "CrowdStrike: Regional Principal Analyst, Falcon Complete (Remote)",
+      "company": "CrowdStrike",
+      "source": "weworkremotely",
+      "first_seen": "2026-11-02"
     }
   },
   "applied": {
@@ -13751,6 +13769,13 @@
       "to": "lh-events@labs.com",
       "title": "Senior Software Engineer, Security Assurance | Spain | Remote",
       "company": "Grafana Labs"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476351702::email": {
+      "date": "2026-11-02 21:53",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "EHS Engineer",
+      "company": "Larsen & Toubro"
     }
   },
   "sent": {
@@ -14528,6 +14553,11 @@
       "kind": "email",
       "to": "lh-events@labs.com",
       "date": "2026-11-02 12:16"
+    },
+    "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476351702": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-11-02 21:53"
     }
   },
   "replies": []
