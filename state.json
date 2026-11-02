@@ -12467,6 +12467,42 @@
       "company": "Spotify",
       "source": "jobicy",
       "first_seen": "2026-11-01"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-director-corporate-engineering-at-parsons-corporation-4481556689": {
+      "title": "HSE Director - Corporate (Engineering)",
+      "company": "Parsons Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-11-02"
+    },
+    "https://www.gulftalent.com/uae/jobs/lifting-supervisor-653061": {
+      "title": "Lifting Supervisor",
+      "company": "Al Ashram Contracting",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-11-02"
+    },
+    "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure": {
+      "title": "Descript: Software Engineer, Infrastructure",
+      "company": "Descript",
+      "source": "weworkremotely",
+      "first_seen": "2026-11-02"
+    },
+    "https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria": {
+      "title": "Smartsheet: Principal Software Engineer (Remote Eligible in Bulgaria)",
+      "company": "Smartsheet",
+      "source": "weworkremotely",
+      "first_seen": "2026-11-02"
+    },
+    "https://ae.linkedin.com/jobs/view/head-of-quant-strategy-%E2%80%93-crypto-funding-arbitrage-at-axiom-recruit-4486137485": {
+      "title": "Head of Quant Strategy – Crypto Funding Arbitrage",
+      "company": "Axiom Recruit",
+      "source": "linkedin",
+      "first_seen": "2026-11-02"
+    },
+    "https://iq.linkedin.com/jobs/view/application-security-engineer-at-elite-talent-4486146580": {
+      "title": "Application Security Engineer",
+      "company": "Elite Talent",
+      "source": "linkedin",
+      "first_seen": "2026-11-02"
     }
   },
   "applied": {
@@ -13701,6 +13737,20 @@
       "to": "lh-events@labs.com",
       "title": "Senior Software Engineer, Security Assurance | Germany | Remote",
       "company": "Grafana Labs"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477171400::email": {
+      "date": "2026-11-02 12:16",
+      "via": "email",
+      "to": "infodesk@larsentoubro.com",
+      "title": "Manager - EHS",
+      "company": "Larsen & Toubro"
+    },
+    "https://jobicy.com/jobs/157824-senior-software-engineer-security-assurance-spain-remote::email": {
+      "date": "2026-11-02 12:16",
+      "via": "email",
+      "to": "lh-events@labs.com",
+      "title": "Senior Software Engineer, Security Assurance | Spain | Remote",
+      "company": "Grafana Labs"
     }
   },
   "sent": {
@@ -14468,6 +14518,16 @@
       "kind": "email",
       "to": "lh-events@labs.com",
       "date": "2026-11-01 08:39"
+    },
+    "https://ae.linkedin.com/jobs/view/manager-ehs-at-larsen-toubro-4477171400": {
+      "kind": "email",
+      "to": "infodesk@larsentoubro.com",
+      "date": "2026-11-02 12:16"
+    },
+    "https://jobicy.com/jobs/157824-senior-software-engineer-security-assurance-spain-remote": {
+      "kind": "email",
+      "to": "lh-events@labs.com",
+      "date": "2026-11-02 12:16"
     }
   },
   "replies": []
