@@ -1,34 +1,5 @@
 [
   {
-    "source": "linkedin",
-    "title": "Health And Safety Officer",
-    "company": "ID Works global",
-    "location": "Ras al-Khaimah, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/health-and-safety-officer-at-id-works-global-4483001507",
-    "description": "",
-    "published": "2026-11-01",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 9,
-    "title_hits": [
-      "safety officer",
-      "health and safety",
-      "health and safety officer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "amiller@hilcoglobal.com"
-    ],
-    "phones": [],
-    "emails_source": "id.com",
-    "about": "Please contact **[Andrew Miller](mailto:amiller@hilcoglobal.com)** for more information."
-  },
-  {
     "source": "jobicy",
     "title": "Field Security Advisor",
     "company": "Veeam Software",
@@ -95,6 +66,57 @@
     "url": "https://ae.linkedin.com/jobs/view/junior-hse-engineer-offshore-site-at-worley-4466796170",
     "description": "",
     "published": "2026-10-27",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
+    "description": "",
+    "published": "2026-10-18",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Nova International General Contracting L.L.C",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687",
+    "description": "",
+    "published": "2026-10-08",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -212,30 +234,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer - Site",
-    "company": "Egis",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-site-at-egis-4478535526",
-    "description": "",
-    "published": "2026-10-14",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "HSE Professional (Flexible Plant)",
     "company": "ALMUTAHIDA PACKAGING",
     "location": "Iraq",
@@ -295,6 +293,29 @@
     "score": 3,
     "title_hits": [
       "industrial hygiene"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Engineers | Inspectors | HSE Supervisors",
+    "company": "Progetti Europa & Global S.p.A",
+    "location": "Dhi Qar Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/engineers-inspectors-hse-supervisors-at-progetti-europa-global-s-p-a-4486839075",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -548,29 +569,6 @@
     "score": 3,
     "title_hits": [
       "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Penspen",
-    "location": "Khafji, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-penspen-4474829524",
-    "description": "",
-    "published": "2026-10-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,

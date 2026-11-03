@@ -12521,6 +12521,24 @@
       "company": "CrowdStrike",
       "source": "weworkremotely",
       "first_seen": "2026-11-02"
+    },
+    "https://iq.linkedin.com/jobs/view/engineers-inspectors-hse-supervisors-at-progetti-europa-global-s-p-a-4486839075": {
+      "title": "Engineers | Inspectors | HSE Supervisors",
+      "company": "Progetti Europa & Global S.p.A",
+      "source": "linkedin",
+      "first_seen": "2026-11-03"
+    },
+    "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-al-enjaz-company-4486805727": {
+      "title": "Health Safety Environment Engineer",
+      "company": "Al-Enjaz Company",
+      "source": "linkedin",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158601-senior-engineering-manager-3": {
+      "title": "Senior Engineering Manager",
+      "company": "Vonage",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
     }
   },
   "applied": {
