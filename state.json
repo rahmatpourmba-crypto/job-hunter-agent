@@ -12863,6 +12863,78 @@
       "company": "GitLab",
       "source": "jobicy",
       "first_seen": "2026-11-03"
+    },
+    "https://ae.linkedin.com/jobs/view/hseq-officer-at-enova-by-veolia-4484644322": {
+      "title": "HSEQ Officer",
+      "company": "Enova by Veolia",
+      "source": "linkedin",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158817-application-security-engineer-generative-ai": {
+      "title": "Application Security Engineer, Generative AI",
+      "company": "Liftoff",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158761-senior-engineer-application-security": {
+      "title": "Senior Engineer, Application Security",
+      "company": "Lightspeed Commerce",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158746-forward-deployed-engineer-managed-ai": {
+      "title": "Forward Deployed Engineer - Managed AI",
+      "company": "TITAN",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158783-security-analyst-governance-and-trust": {
+      "title": "Security Analyst (Governance and Trust)",
+      "company": "Chainguard",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158772-senior-regulatory-affairs-specialist": {
+      "title": "Senior Regulatory Affairs Specialist",
+      "company": "ŌURA",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158832-senior-digital-project-manager": {
+      "title": "Senior Digital Project Manager",
+      "company": "Wpromote",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158425-community-events-manager-apac": {
+      "title": "Community & Events Manager- APAC",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158775-account-executive-director-finserv": {
+      "title": "Account Executive Director, Finserv",
+      "company": "Socure",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158756-principal-product-manager-ai-workflows": {
+      "title": "Principal Product Manager, AI Workflows",
+      "company": "Mural",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://jobicy.com/jobs/158755-data-center-compute-openhouse-savannah-2026": {
+      "title": "Data Center Compute, OpenHouse Savannah 2026",
+      "company": "OpenAI",
+      "source": "jobicy",
+      "first_seen": "2026-11-03"
+    },
+    "https://www.gulftalent.com/uae/jobs/educate-streamer-crypto-us100-653436": {
+      "title": "Educate Streamer?Crypto US100?",
+      "company": "A Leading Company In The UAE",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-11-03"
     }
   },
   "applied": {
@@ -14118,6 +14190,13 @@
       "to": "infodesk@larsentoubro.com",
       "title": "EHS Engineer",
       "company": "Larsen & Toubro"
+    },
+    "https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security::email": {
+      "date": "2026-11-03 23:54",
+      "via": "email",
+      "to": "jobs@discordapp.com",
+      "title": "Discord: Engineering Manager, Platform Security",
+      "company": "Discord"
     }
   },
   "sent": {
@@ -14900,6 +14979,11 @@
       "kind": "email",
       "to": "infodesk@larsentoubro.com",
       "date": "2026-11-02 21:53"
+    },
+    "https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security": {
+      "kind": "email",
+      "to": "jobs@discordapp.com",
+      "date": "2026-11-03 23:54"
     }
   },
   "replies": []
