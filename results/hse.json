@@ -84,39 +84,12 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
+    "title": "Sr. HSE Engineer - alfanar Electric",
+    "company": "alfanar",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/sr-hse-engineer-alfanar-electric-at-alfanar-4482959249",
     "description": "",
-    "published": "2026-10-18",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [
-      "contact@penspen.com"
-    ],
-    "phones": [],
-    "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Nova International General Contracting L.L.C",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687",
-    "description": "",
-    "published": "2026-10-08",
+    "published": "2026-10-26",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -132,6 +105,112 @@
     "salary_str": "",
     "emails": [],
     "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health and Safety Engineer",
+    "company": "WSP in the Middle East",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/health-and-safety-engineer-at-wsp-in-the-middle-east-4453457692",
+    "description": "",
+    "published": "2026-10-23",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "safety engineer",
+      "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "EHS Engineer",
+    "company": "Larsen & Toubro",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669",
+    "description": "",
+    "published": "2026-10-28",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "ehs",
+      "ehs engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "infodesk@larsentoubro.com"
+    ],
+    "phones": [],
+    "emails_source": "larsentoubro.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "WSP in the Middle East",
+    "location": "Jeddah, Makkah, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-at-wsp-in-the-middle-east-4463967396",
+    "description": "",
+    "published": "2026-10-25",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Senior HSE Engineer - EXPO",
+    "company": "Bechtel Corporation",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/senior-hse-engineer-expo-at-bechtel-corporation-4487505132",
+    "description": "",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "acesstmt@bechtel.com",
+      "webmas@bechtel.com"
+    ],
+    "phones": [
+      "+15713926300"
+    ],
+    "emails_source": "bechtel.com",
+    "about": "We excel at fielding A-teams whose skills and expertise are tailored to each project’s specific demands."
   },
   {
     "source": "linkedin",
@@ -178,13 +257,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "jones@packaging.com",
-      "sales@packaging.com"
-    ],
-    "phones": [],
-    "emails_source": "packaging.com",
-    "about": "Anaheim, March 5-7, 2025 ![Image 15: Natural Products Expo West](https://www.packaging.com/wp-content/plugins/revslider/public/assets/assets/dummy.png)![Image 16: Aaron Thomas Logo](https://www.packaging.com/wp-content/u"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -206,16 +280,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "advertise@isa.org",
-      "information@automation.com",
-      "information@isa.org",
-      "materials@isa.org",
-      "press@isa.org"
-    ],
-    "phones": [],
-    "emails_source": "automation.com",
-    "about": "We enable automation professionals worldwide to solve problems and enhance their skills by bringing people together to create new technologies and share best practices with future automation professionals."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -508,75 +574,6 @@
     "score": 3,
     "title_hits": [
       "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Manager",
-    "company": "Huntsman Corporation",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711",
-    "description": "",
-    "published": "2026-10-21",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Penspen",
-    "location": "Khafji, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-penspen-4474829524",
-    "description": "",
-    "published": "2026-10-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Project EHS Manager",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4476343987",
-    "description": "",
-    "published": "2026-10-28",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
     ],
     "desc_hits": [],
     "gulf_onsite": true,

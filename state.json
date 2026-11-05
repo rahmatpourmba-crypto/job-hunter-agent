@@ -13097,6 +13097,42 @@
       "company": "Caylent",
       "source": "jobicy",
       "first_seen": "2026-11-04"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-hse-engineer-expo-at-bechtel-corporation-4487505132": {
+      "title": "Senior HSE Engineer - EXPO",
+      "company": "Bechtel Corporation",
+      "source": "linkedin",
+      "first_seen": "2026-11-05"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-director-chinese-speaking-at-cloud-nine-human-resources-consultancy-llc-4487275529": {
+      "title": "HSE Manager / Director (Chinese-speaking)",
+      "company": "Cloud Nine Human Resources Consultancy LLC",
+      "source": "linkedin",
+      "first_seen": "2026-11-05"
+    },
+    "https://jobicy.com/jobs/159017-medical-claims-auditor": {
+      "title": "Medical Claims Auditor",
+      "company": "Clover Health",
+      "source": "jobicy",
+      "first_seen": "2026-11-05"
+    },
+    "https://jobicy.com/jobs/159011-head-of-martech-growth": {
+      "title": "Head of MarTech & Growth",
+      "company": "Banyan Software",
+      "source": "jobicy",
+      "first_seen": "2026-11-05"
+    },
+    "https://jobicy.com/jobs/159008-staff-software-engineer-tech-lead-netbox-delivery": {
+      "title": "Staff Software Engineer, Tech Lead - NetBox Delivery",
+      "company": "NetBox Labs",
+      "source": "jobicy",
+      "first_seen": "2026-11-05"
+    },
+    "https://jobicy.com/jobs/159016-senior-product-designer-17": {
+      "title": "Senior Product Designer",
+      "company": "NetBox Labs",
+      "source": "jobicy",
+      "first_seen": "2026-11-05"
     }
   },
   "applied": {
@@ -14359,6 +14395,13 @@
       "to": "jobs@discordapp.com",
       "title": "Discord: Engineering Manager, Platform Security",
       "company": "Discord"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-hse-engineer-expo-at-bechtel-corporation-4487505132::email": {
+      "date": "2026-11-05 01:00",
+      "via": "email",
+      "to": "acesstmt@bechtel.com",
+      "title": "Senior HSE Engineer - EXPO",
+      "company": "Bechtel Corporation"
     }
   },
   "sent": {
@@ -15146,6 +15189,11 @@
       "kind": "email",
       "to": "jobs@discordapp.com",
       "date": "2026-11-03 23:54"
+    },
+    "https://sa.linkedin.com/jobs/view/senior-hse-engineer-expo-at-bechtel-corporation-4487505132": {
+      "kind": "email",
+      "to": "acesstmt@bechtel.com",
+      "date": "2026-11-05 01:00"
     }
   },
   "replies": []
