@@ -84,6 +84,57 @@
   },
   {
     "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
+    "description": "",
+    "published": "2026-10-18",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Nova International General Contracting L.L.C",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4471887687",
+    "description": "",
+    "published": "2026-10-08",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Sr. HSE Engineer - alfanar Electric",
     "company": "alfanar",
     "location": "Riyadh, Riyadh, Saudi Arabia",
@@ -202,15 +253,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "acesstmt@bechtel.com",
-      "webmas@bechtel.com"
-    ],
-    "phones": [
-      "+15713926300"
-    ],
-    "emails_source": "bechtel.com",
-    "about": "We excel at fielding A-teams whose skills and expertise are tailored to each project’s specific demands."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -528,52 +572,6 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Lead",
-    "company": "Parsons Corporation",
-    "location": "Tabūk, Tabuk, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-lead-at-parsons-corporation-4479823260",
-    "description": "",
-    "published": "2026-10-16",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Parsons Corporation",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4483387587",
-    "description": "",
-    "published": "2026-10-25",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
