@@ -13475,6 +13475,72 @@
       "company": "Alpaca",
       "source": "linkedin",
       "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159235-enterprise-account-executive-united-states": {
+      "title": "Enterprise Account Executive, United States",
+      "company": "Testlio",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159254-forward-deployed-engineer-fde-c-uas": {
+      "title": "Forward Deployed Engineer (FDE) C-UAS",
+      "company": "Defense Unicorns",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159264-mission-director-air-force": {
+      "title": "Mission Director - Air Force",
+      "company": "Defense Unicorns",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159244-compliance-lead-cmmc-nist-sp-800-171": {
+      "title": "Compliance Lead - CMMC (NIST SP 800-171)",
+      "company": "Defense Unicorns",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159233-senior-security-engineer-2": {
+      "title": "Senior Security Engineer",
+      "company": "Roofr",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159248-security-engineer-product-security": {
+      "title": "Security Engineer - Product Security",
+      "company": "Spotify",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159239-director-global-systems-integrators-gsis": {
+      "title": "Director, Global Systems Integrators (GSIs)",
+      "company": "Keyfactor, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159261-sr-principal-sales-training-manager": {
+      "title": "Sr. Principal Sales Training Manager",
+      "company": "Keyfactor, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159260-gcp-computer-system-validation-specialist-12-month-limited-term": {
+      "title": "GCP - Computer System Validation Specialist (12 month limited-term)",
+      "company": "Alimentiv",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159251-product-architect": {
+      "title": "Product Architect",
+      "company": "Keyfactor, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://www.gulftalent.com/uae/jobs/head-of-security-654678": {
+      "title": "Head of Security",
+      "company": "Big Fish Recruitment",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-11-06"
     }
   },
   "applied": {

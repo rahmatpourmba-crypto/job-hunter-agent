@@ -186,7 +186,7 @@
     "title": "EHS Engineer",
     "company": "Larsen & Toubro",
     "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476351702",
     "description": "",
     "published": "2026-10-28",
     "remote": false,
@@ -352,29 +352,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Team Leader (Onsite - Basra, South Iraq)",
-    "company": "EMP GoWIN Global",
-    "location": "Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/hse-team-leader-onsite-basra-south-iraq-at-emp-gowin-global-4487774315",
-    "description": "",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Airfield Safety Manager",
     "company": "V2X Inc",
     "location": "Balad, Saladin Governorate, Iraq",
@@ -403,7 +380,7 @@
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://ae.linkedin.com/jobs/view/hsew-officer-building-project-exposure-at-atkinsr%C3%A9alis-4487736258",
     "description": "",
-    "published": "",
+    "published": "2026-11-05",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -572,6 +549,29 @@
     "score": 3,
     "title_hits": [
       "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Engineer",
+    "company": "Target Engineering Construction Co LLC",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-target-engineering-construction-co-llc-4483068113",
+    "description": "",
+    "published": "2026-10-29",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
