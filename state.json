@@ -13541,6 +13541,36 @@
       "company": "Big Fish Recruitment",
       "source": "gulftalent_uae",
       "first_seen": "2026-11-06"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199": {
+      "title": "HSE Manager/Safety Manager",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-11-06"
+    },
+    "https://ae.linkedin.com/jobs/view/health-safety-environment-officer-4486237552": {
+      "title": "Health Safety Environment Officer",
+      "company": "Inkas Armored Vehicles",
+      "source": "linkedin",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159283-web3-business-development": {
+      "title": "Web3 Business Development",
+      "company": "CertiK",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159311-senior-product-analyst-data-scientist": {
+      "title": "Senior Product Analyst / Data Scientist",
+      "company": "Nebius",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://ae.linkedin.com/jobs/view/internal-audit-lead-at-bybit-4486752699": {
+      "title": "Internal Audit Lead",
+      "company": "Bybit",
+      "source": "linkedin",
+      "first_seen": "2026-11-06"
     }
   },
   "applied": {
@@ -14810,6 +14840,13 @@
       "to": "acesstmt@bechtel.com",
       "title": "Senior HSE Engineer - EXPO",
       "company": "Bechtel Corporation"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199::contact_form": {
+      "date": "2026-11-06 17:40",
+      "via": "contact_form",
+      "to": "https://www.kbr.com/contact-us",
+      "title": "HSE Manager/Safety Manager",
+      "company": "KBR, Inc."
     }
   },
   "sent": {
@@ -15602,6 +15639,11 @@
       "kind": "email",
       "to": "acesstmt@bechtel.com",
       "date": "2026-11-05 01:00"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199": {
+      "kind": "contact_form",
+      "to": "kbr.com",
+      "date": "2026-11-06 17:40"
     }
   },
   "replies": []

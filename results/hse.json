@@ -33,30 +33,27 @@
   },
   {
     "source": "linkedin",
-    "title": "Environment, Health and Safety Manager",
-    "company": "Confidentiel",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-confidentiel-4484925479",
+    "title": "HSE Manager/Safety Manager",
+    "company": "KBR, Inc.",
+    "location": "Jubail, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199",
     "description": "",
-    "published": "2026-10-29",
+    "published": "",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "safety manager",
-      "health and safety"
+      "hse",
+      "safety manager"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
-    "phones": [
-      "+17813736847"
-    ],
-    "about": "To purchase, call Afternic.com at +1 781-373-6847 or 855-201-2286."
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -81,6 +78,33 @@
     "salary_str": "",
     "emails": [],
     "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Environment, Health and Safety Manager",
+    "company": "Confidentiel",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-confidentiel-4484925479",
+    "description": "",
+    "published": "2026-10-29",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "safety manager",
+      "health and safety"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": [
+      "+17813736847"
+    ],
+    "about": "To purchase, call Afternic.com at +1 781-373-6847 or 855-201-2286."
   },
   {
     "source": "linkedin",
@@ -202,11 +226,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "infodesk@larsentoubro.com"
-    ],
-    "phones": [],
-    "emails_source": "larsentoubro.com"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -240,6 +261,30 @@
     "url": "https://sa.linkedin.com/jobs/view/senior-hse-engineer-expo-at-bechtel-corporation-4487505132",
     "description": "",
     "published": "2026-11-04",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer - Site",
+    "company": "Egis",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-engineer-site-at-egis-4478535526",
+    "description": "",
+    "published": "2026-10-14",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -526,52 +571,6 @@
     "score": 3,
     "title_hits": [
       "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Manager-HSE",
-    "company": "Penspen",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/manager-hse-at-penspen-4411574523",
-    "description": "",
-    "published": "2026-11-01",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Health Safety Environment Engineer",
-    "company": "Target Engineering Construction Co LLC",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-target-engineering-construction-co-llc-4483068113",
-    "description": "",
-    "published": "2026-10-29",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "health safety environment"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
