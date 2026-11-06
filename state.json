@@ -13433,6 +13433,48 @@
       "company": "BKN301",
       "source": "linkedin",
       "first_seen": "2026-11-05"
+    },
+    "https://jobicy.com/jobs/159210-senior-implementation-consultant-french": {
+      "title": "Senior Implementation Consultant (French)",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159190-security-architect": {
+      "title": "Security Architect",
+      "company": "NetBox Labs",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159199-system-administrator-digital-media-technology": {
+      "title": "System Administrator - Digital Media & Technology",
+      "company": "Truelogic",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159197-netsuite-developer-admin": {
+      "title": "NetSuite Developer / Admin",
+      "company": "EDB",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://jobicy.com/jobs/159195-staff-product-manager-network-observability": {
+      "title": "Staff Product Manager, Network Observability",
+      "company": "NetBox Labs",
+      "source": "jobicy",
+      "first_seen": "2026-11-06"
+    },
+    "https://iq.linkedin.com/jobs/view/security-coordinator-arabic-at-intech-automation-intelligence-4475943100": {
+      "title": "Security Coordinator (Arabic)",
+      "company": "INTECH Automation & Intelligence",
+      "source": "linkedin",
+      "first_seen": "2026-11-06"
+    },
+    "https://sa.linkedin.com/jobs/view/crypto-operations-associate-emea-coverage-at-alpaca-4487789687": {
+      "title": "Crypto Operations Associate - EMEA Coverage",
+      "company": "Alpaca",
+      "source": "linkedin",
+      "first_seen": "2026-11-06"
     }
   },
   "applied": {
