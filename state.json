@@ -13667,6 +13667,30 @@
       "company": "Manay CPA Inc.",
       "source": "jobicy",
       "first_seen": "2026-11-06"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4482471817": {
+      "title": "HSE Engineer",
+      "company": "Nova International General Contracting L.L.C",
+      "source": "linkedin",
+      "first_seen": "2026-11-07"
+    },
+    "https://sa.linkedin.com/jobs/view/hse-specialist-at-nov-4481443514": {
+      "title": "HSE Specialist",
+      "company": "NOV",
+      "source": "linkedin",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159470-lead-data-engineer": {
+      "title": "Lead Data Engineer",
+      "company": "Oddball",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159465-staff-backend-graph-engineer": {
+      "title": "Staff Backend Graph Engineer",
+      "company": "Socure",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
     }
   },
   "applied": {
@@ -14943,6 +14967,13 @@
       "to": "https://www.kbr.com/contact-us",
       "title": "HSE Manager/Safety Manager",
       "company": "KBR, Inc."
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4482471817::contact_form": {
+      "date": "2026-11-07 09:34",
+      "via": "contact_form",
+      "to": "https://www.nova.com",
+      "title": "HSE Engineer",
+      "company": "Nova International General Contracting L.L.C"
     }
   },
   "sent": {
@@ -15740,6 +15771,11 @@
       "kind": "contact_form",
       "to": "kbr.com",
       "date": "2026-11-06 17:40"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4482471817": {
+      "kind": "contact_form",
+      "to": "nova.com",
+      "date": "2026-11-07 09:34"
     }
   },
   "replies": []
