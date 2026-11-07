@@ -13691,6 +13691,108 @@
       "company": "Socure",
       "source": "jobicy",
       "first_seen": "2026-11-07"
+    },
+    "https://ae.linkedin.com/jobs/view/pmc-senior-site-hse-engineer-at-wood-4484043323": {
+      "title": "PMC Senior Site HSE Engineer",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-11-07"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-renewables-at-wsp-in-the-middle-east-4480011508": {
+      "title": "HSE Manager-Renewables",
+      "company": "WSP in the Middle East",
+      "source": "linkedin",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159516-sr-staff-security-software-engineer-agentic-security-engineering": {
+      "title": "Sr. Staff Security Software Engineer - Agentic Security Engineering",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159505-sr-manager-security-continuous-monitoring-v-2-0": {
+      "title": "Sr. Manager, Security — Continuous Monitoring v 2.0",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159508-sr-security-engineer-enterprise-security": {
+      "title": "Sr. Security Engineer, Enterprise Security",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159491-manager-software-engineering-2": {
+      "title": "Manager, Software Engineering",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159496-senior-product-manager-data-infrastructure": {
+      "title": "Senior Product Manager, Data Infrastructure",
+      "company": "ANGI",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159519-head-of-platform-infrastructure-engineering": {
+      "title": "Head of Platform & Infrastructure Engineering",
+      "company": "Ashby",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159499-technical-support-engineer-6": {
+      "title": "Technical Support Engineer",
+      "company": "NetDocuments",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159527-head-of-eea-legal-deputy-general-counsel": {
+      "title": "Head of EEA Legal, Deputy General Counsel",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159521-associate-general-counsel-2": {
+      "title": "Associate General Counsel",
+      "company": "OKX",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159529-enterprise-account-executive-36": {
+      "title": "Enterprise Account Executive",
+      "company": "Chainguard",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159517-strategic-account-executive-federal-civilian": {
+      "title": "Strategic Account Executive (Federal Civilian)",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159515-federal-partner-manager": {
+      "title": "Federal Partner Manager",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159511-staff-product-manager-agentic-experiences-former-engineer": {
+      "title": "Staff Product Manager, Agentic Experiences (Former Engineer)",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159509-senior-product-manager-enterprise": {
+      "title": "Senior Product Manager, Enterprise",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
+    },
+    "https://jobicy.com/jobs/159493-applied-ml-engineer-edge-devices": {
+      "title": "Applied ML Engineer - Edge Devices",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-11-07"
     }
   },
   "applied": {
@@ -14974,6 +15076,13 @@
       "to": "https://www.nova.com",
       "title": "HSE Engineer",
       "company": "Nova International General Contracting L.L.C"
+    },
+    "https://ae.linkedin.com/jobs/view/pmc-senior-site-hse-engineer-at-wood-4484043323::email": {
+      "date": "2026-11-07 16:05",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "PMC Senior Site HSE Engineer",
+      "company": "Wood"
     }
   },
   "sent": {
@@ -15776,6 +15885,11 @@
       "kind": "contact_form",
       "to": "nova.com",
       "date": "2026-11-07 09:34"
+    },
+    "https://ae.linkedin.com/jobs/view/pmc-senior-site-hse-engineer-at-wood-4484043323": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-11-07 16:05"
     }
   },
   "replies": []

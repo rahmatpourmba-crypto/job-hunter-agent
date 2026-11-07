@@ -38,7 +38,7 @@
     "location": "Jubail, Eastern, Saudi Arabia",
     "url": "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199",
     "description": "",
-    "published": "",
+    "published": "2026-11-06",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -81,39 +81,12 @@
   },
   {
     "source": "linkedin",
-    "title": "Environment, Health and Safety Manager",
-    "company": "Confidentiel",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-confidentiel-4484925479",
-    "description": "",
-    "published": "2026-10-29",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety manager",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": [
-      "+17813736847"
-    ],
-    "about": "To purchase, call Afternic.com at +1 781-373-6847 or 855-201-2286."
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Penspen",
+    "title": "PMC Senior Site HSE Engineer",
+    "company": "Wood",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
+    "url": "https://ae.linkedin.com/jobs/view/pmc-senior-site-hse-engineer-at-wood-4484043323",
     "description": "",
-    "published": "2026-10-18",
+    "published": "2026-10-27",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -128,34 +101,10 @@
     "salary_ok": false,
     "salary_str": "",
     "emails": [
-      "contact@penspen.com"
+      "info@wood.com"
     ],
     "phones": [],
-    "emails_source": "penspen.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Engineer",
-    "company": "Nova International General Contracting L.L.C",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4482471817",
-    "description": "",
-    "published": "2026-10-23",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "hse engineer"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails_source": "wood.com"
   },
   {
     "source": "linkedin",
@@ -226,8 +175,11 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
+    "emails": [
+      "infodesk@larsentoubro.com"
+    ],
+    "phones": [],
+    "emails_source": "larsentoubro.com"
   },
   {
     "source": "linkedin",
@@ -420,29 +372,6 @@
   },
   {
     "source": "linkedin",
-    "title": "HSEW Officer- Building project exposure",
-    "company": "AtkinsRéalis",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hsew-officer-building-project-exposure-at-atkinsr%C3%A9alis-4487736258",
-    "description": "",
-    "published": "2026-11-05",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Manager - EHS",
     "company": "Larsen & Toubro",
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
@@ -564,6 +493,75 @@
     "url": "https://ae.linkedin.com/jobs/view/hse-director-engineering-at-parsons-corporation-4481556689",
     "description": "",
     "published": "2026-10-21",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Manager-HSE",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/manager-hse-at-penspen-4411574523",
+    "description": "",
+    "published": "2026-11-01",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Health Safety Environment Engineer",
+    "company": "Target Engineering Construction Co LLC",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/health-safety-environment-engineer-at-target-engineering-construction-co-llc-4483068113",
+    "description": "",
+    "published": "2026-10-29",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Vice President HSEQ Segment International People",
+    "company": "Bilfinger Middle East",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/vice-president-hseq-segment-international-people-at-bilfinger-middle-east-4476404544",
+    "description": "",
+    "published": "2026-11-03",
     "remote": false,
     "currency": null,
     "salary_min": null,
