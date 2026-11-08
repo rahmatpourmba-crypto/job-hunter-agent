@@ -1,6 +1,30 @@
 [
   {
     "source": "linkedin",
+    "title": "HSE Manager/Safety Manager",
+    "company": "KBR, Inc.",
+    "location": "Jubail, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199",
+    "description": "",
+    "published": "2026-11-06",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "safety manager"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
     "title": "Site Safety Manager",
     "company": "TXM Solutions",
     "location": "Kirkuk, Kirkuk Governorate, Iraq",
@@ -33,12 +57,12 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Manager/Safety Manager",
-    "company": "KBR, Inc.",
-    "location": "Jubail, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199",
+    "title": "Junior HSE Engineer - Offshore SIte",
+    "company": "Worley",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/junior-hse-engineer-offshore-site-at-worley-4466796170",
     "description": "",
-    "published": "2026-11-06",
+    "published": "2026-10-27",
     "remote": false,
     "currency": null,
     "salary_min": null,
@@ -46,7 +70,7 @@
     "score": 6,
     "title_hits": [
       "hse",
-      "safety manager"
+      "hse engineer"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
@@ -54,6 +78,33 @@
     "salary_str": "",
     "emails": [],
     "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "PMC Senior Site HSE Engineer",
+    "company": "Wood",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/pmc-senior-site-hse-engineer-at-wood-4484043323",
+    "description": "",
+    "published": "2026-10-27",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "info@wood.com"
+    ],
+    "phones": [],
+    "emails_source": "wood.com"
   },
   {
     "source": "linkedin",
@@ -175,11 +226,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "infodesk@larsentoubro.com"
-    ],
-    "phones": [],
-    "emails_source": "larsentoubro.com"
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -254,30 +302,6 @@
     "phones": []
   },
   {
-    "source": "gulftalent_saudi-arabia",
-    "title": "Director Medical Services - Remote Clinics",
-    "company": "Michael Page",
-    "location": "Saudi Arabia",
-    "url": "https://www.gulftalent.com/saudi-arabia/jobs/director-medical-services-remote-clinics-651641",
-    "description": "## Requirements: A successful 'Director Medical Services' should have: * Proven capability in directing medical services in remote clinic settings. * Experience overseeing ambulatory and other emergency response services. * Strong communication skills in both Arabic and English * Experience overseeing medical service delivery in a highly complex organization. * Strong knowledge of occupational health standards, including fitness-for-work assessments, return-to-work evaluations, and workplace health and safety requirements. * Demonstrated expertise in fitness-for-work determination, occupational health management, and compliance with health and safety regulations. * Comprehensive understanding of occupational health and safety principles, including fit-for-work/non-fit-for-work assessments and employee health risk management. * Experience applying occupational health and safety standards, including conducting fit-for-work evaluations and managing workplace health compliance. Michael Page is one of the world's leading professional recruitment consultancies, specializing in the placement of candidates in permanent, contract, temporary and interim positions with clients around the world. The Group has operations in the UK, Continental Europe, Asia-Pacific and the Americas. In the Middle East we focus on the areas of: Finance & Accounting Banking & Financial Services Procurement Property & Construction Engineering & Supply Chain Oil & Gas Technical and Engineering Human Resources Sales Marketing Technology Secretarial Executive Search Legal The Group operates through 161 offices in 33 countries and employs over 5,000 employees worldwide.",
-    "published": "28 Oct",
-    "remote": true,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 4,
-    "title_hits": [],
-    "desc_hits": [
-      "occupational health",
-      "health and safety"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "linkedin",
     "title": "Service Manager",
     "company": "Sardar Group",
@@ -296,98 +320,6 @@
       "risk assessment",
       "safety compliance"
     ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Professional (Flexible Plant)",
-    "company": "ALMUTAHIDA PACKAGING",
-    "location": "Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/hse-professional-flexible-plant-at-almutahida-packaging-4478229337",
-    "description": "",
-    "published": "2026-10-18",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Industrial Hygiene Specialist",
-    "company": "Wood",
-    "location": "Al-Basra Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/industrial-hygiene-specialist-at-wood-4478541292",
-    "description": "",
-    "published": "2026-10-12",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "industrial hygiene"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Engineers | Inspectors | HSE Supervisors",
-    "company": "Progetti Europa & Global S.p.A",
-    "location": "Dhi Qar Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/engineers-inspectors-hse-supervisors-at-progetti-europa-global-s-p-a-4486839075",
-    "description": "",
-    "published": "2026-11-03",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Airfield Safety Manager",
-    "company": "V2X Inc",
-    "location": "Balad, Saladin Governorate, Iraq",
-    "url": "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4481361747",
-    "description": "",
-    "published": "2026-10-22",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "safety manager"
-    ],
-    "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
@@ -570,6 +502,75 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Vice President HSEQ Segment International People",
+    "company": "Bilfinger Middle East",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/vice-president-hseq-segment-international-people-at-bilfinger-middle-east-4476404544",
+    "description": "",
+    "published": "2026-11-03",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Manager-Renewables",
+    "company": "WSP in the Middle East",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-manager-renewables-at-wsp-in-the-middle-east-4480011508",
+    "description": "",
+    "published": "2026-10-22",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Lead",
+    "company": "Parsons Corporation",
+    "location": "Tabūk, Tabuk, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-lead-at-parsons-corporation-4479823260",
+    "description": "",
+    "published": "2026-10-16",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
