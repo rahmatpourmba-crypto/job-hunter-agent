@@ -13955,6 +13955,120 @@
       "company": "Nextiva",
       "source": "jobicy",
       "first_seen": "2026-11-08"
+    },
+    "https://sa.linkedin.com/jobs/view/lead-process-safety-engineer-offshore-at-kbr-inc-4486238499": {
+      "title": "Lead Process Safety Engineer (Offshore)",
+      "company": "KBR, Inc.",
+      "source": "linkedin",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159756-senior-staff-product-manager-device-security": {
+      "title": "Senior Staff Product Manager, Device Security",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159770-senior-staff-technical-go-to-market-gtm-product-marketing-manager-access-security": {
+      "title": "Senior Staff Technical Go-to-Market (GTM) Product Marketing Manager, Access Security",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159740-cloud-ai-engineer-legal-compliance": {
+      "title": "Cloud AI Engineer (Legal & Compliance)",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159760-staff-product-manager-saas-manager": {
+      "title": "Staff Product Manager, SaaS Manager",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159762-senior-staff-technical-go-to-market-gtm-product-marketing-manager-portfolio-and-expansion": {
+      "title": "Senior Staff Technical Go-to-Market (GTM) Product Marketing Manager, Portfolio and Expansion",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159746-staff-data-analyst-marketing": {
+      "title": "Staff Data Analyst, Marketing",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159766-staff-it-engineer": {
+      "title": "Staff IT Engineer",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159786-lead-ai-architect-data-platform": {
+      "title": "Lead AI Architect - Data Platform",
+      "company": "Banyan Software",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159794-senior-staff-platform-engineer": {
+      "title": "Senior Staff Platform Engineer",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159750-senior-developer-advocate": {
+      "title": "Senior Developer Advocate",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159768-senior-enterprise-systems-engineer": {
+      "title": "Senior Enterprise Systems Engineer",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159829-seo-aeo-manager": {
+      "title": "SEO & AEO Manager",
+      "company": "Juniper Square",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159758-senior-technical-account-manager-5": {
+      "title": "Senior Technical Account Manager",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159753-senior-it-engineer-identity-and-access-management": {
+      "title": "Senior IT Engineer, Identity and Access Management",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159742-senior-commercial-account-executive-san-francisco-bay-area": {
+      "title": "Senior Commercial Account Executive (San Francisco/Bay Area)",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159804-veeam-kasten-sales-specialist-remote-us-phoenix-or-atlanta-preferred": {
+      "title": "Veeam Kasten, Sales Specialist (Remote US - Phoenix or Atlanta preferred)",
+      "company": "Veeam Software",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159748-marketing-lead": {
+      "title": "Marketing Lead",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159781-senior-life-sciences-product-manager": {
+      "title": "Senior Life Sciences Product Manager",
+      "company": "Welo Global",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
     }
   },
   "applied": {
@@ -15245,6 +15359,13 @@
       "to": "info@wood.com",
       "title": "PMC Senior Site HSE Engineer",
       "company": "Wood"
+    },
+    "https://jobicy.com/jobs/159756-senior-staff-product-manager-device-security::email": {
+      "date": "2026-11-08 17:12",
+      "via": "email",
+      "to": "nextbit@agilebits.com",
+      "title": "Senior Staff Product Manager, Device Security",
+      "company": "1Password"
     }
   },
   "sent": {
@@ -16052,6 +16173,11 @@
       "kind": "email",
       "to": "info@wood.com",
       "date": "2026-11-07 16:05"
+    },
+    "https://jobicy.com/jobs/159756-senior-staff-product-manager-device-security": {
+      "kind": "email",
+      "to": "nextbit@agilebits.com",
+      "date": "2026-11-08 17:12"
     }
   },
   "replies": []
