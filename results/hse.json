@@ -1,30 +1,6 @@
 [
   {
     "source": "linkedin",
-    "title": "HSE Manager/Safety Manager",
-    "company": "KBR, Inc.",
-    "location": "Jubail, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199",
-    "description": "",
-    "published": "2026-11-06",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "hse",
-      "safety manager"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
     "title": "Site Safety Manager",
     "company": "TXM Solutions",
     "location": "Kirkuk, Kirkuk Governorate, Iraq",
@@ -54,6 +30,81 @@
     ],
     "emails_source": "txm.com",
     "about": "Achieving Operational Excellence with Innovative Lean Thinking."
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Manager/Safety Manager",
+    "company": "KBR, Inc.",
+    "location": "Jubail, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199",
+    "description": "",
+    "published": "2026-11-06",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "safety manager"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-penspen-4416135679",
+    "description": "",
+    "published": "2026-10-18",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [
+      "contact@penspen.com"
+    ],
+    "phones": [],
+    "emails_source": "penspen.com"
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Engineer",
+    "company": "Nova International General Contracting L.L.C",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/hse-engineer-at-nova-international-general-contracting-l-l-c-4482471817",
+    "description": "",
+    "published": "2026-10-23",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 6,
+    "title_hits": [
+      "hse",
+      "hse engineer"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -108,7 +159,7 @@
     "title": "EHS Engineer",
     "company": "Larsen & Toubro",
     "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476354669",
+    "url": "https://sa.linkedin.com/jobs/view/ehs-engineer-at-larsen-toubro-4476351702",
     "description": "",
     "published": "2026-10-28",
     "remote": false,
@@ -175,15 +226,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "acesstmt@bechtel.com",
-      "webmas@bechtel.com"
-    ],
-    "phones": [
-      "+15713926300"
-    ],
-    "emails_source": "bechtel.com",
-    "about": "We excel at fielding A-teams whose skills and expertise are tailored to each project’s specific demands."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "linkedin",
@@ -206,12 +250,8 @@
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [
-      "enquiries@egis.com"
-    ],
-    "phones": [],
-    "emails_source": "egis.com",
-    "about": "Your name * Email * Describe your issue [Send message](javascript:;) We'll get back to you as soon as possible."
+    "emails": [],
+    "phones": []
   },
   {
     "source": "gulftalent_saudi-arabia",
@@ -256,6 +296,98 @@
       "risk assessment",
       "safety compliance"
     ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "HSE Professional (Flexible Plant)",
+    "company": "ALMUTAHIDA PACKAGING",
+    "location": "Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/hse-professional-flexible-plant-at-almutahida-packaging-4478229337",
+    "description": "",
+    "published": "2026-10-18",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Industrial Hygiene Specialist",
+    "company": "Wood",
+    "location": "Al-Basra Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/industrial-hygiene-specialist-at-wood-4478541292",
+    "description": "",
+    "published": "2026-10-12",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "industrial hygiene"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Engineers | Inspectors | HSE Supervisors",
+    "company": "Progetti Europa & Global S.p.A",
+    "location": "Dhi Qar Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/engineers-inspectors-hse-supervisors-at-progetti-europa-global-s-p-a-4486839075",
+    "description": "",
+    "published": "2026-11-03",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Airfield Safety Manager",
+    "company": "V2X Inc",
+    "location": "Balad, Saladin Governorate, Iraq",
+    "url": "https://iq.linkedin.com/jobs/view/airfield-safety-manager-at-v2x-inc-4481361747",
+    "description": "",
+    "published": "2026-10-22",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "safety manager"
+    ],
+    "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
@@ -438,144 +570,6 @@
     "score": 3,
     "title_hits": [
       "health safety environment"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Vice President HSEQ Segment International People",
-    "company": "Bilfinger Middle East",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/vice-president-hseq-segment-international-people-at-bilfinger-middle-east-4476404544",
-    "description": "",
-    "published": "2026-11-03",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager-Renewables",
-    "company": "WSP in the Middle East",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/hse-manager-renewables-at-wsp-in-the-middle-east-4480011508",
-    "description": "",
-    "published": "2026-10-22",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Lead",
-    "company": "Parsons Corporation",
-    "location": "Tabūk, Tabuk, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-lead-at-parsons-corporation-4479823260",
-    "description": "",
-    "published": "2026-10-16",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "EHS Manager",
-    "company": "Huntsman Corporation",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/ehs-manager-at-huntsman-corporation-4464346711",
-    "description": "",
-    "published": "2026-10-21",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "HSE Manager",
-    "company": "Penspen",
-    "location": "Khafji, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-at-penspen-4474829524",
-    "description": "",
-    "published": "2026-10-30",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "hse"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "linkedin",
-    "title": "Project EHS Manager",
-    "company": "Larsen & Toubro",
-    "location": "Riyadh, Riyadh, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/project-ehs-manager-at-larsen-toubro-4476353635",
-    "description": "",
-    "published": "2026-10-28",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 3,
-    "title_hits": [
-      "ehs"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
