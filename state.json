@@ -14069,6 +14069,30 @@
       "company": "Welo Global",
       "source": "jobicy",
       "first_seen": "2026-11-08"
+    },
+    "https://sa.linkedin.com/jobs/view/health-and-safety-associate-at-americana-restaurants-4483909036": {
+      "title": "Health and Safety Associate",
+      "company": "Americana Restaurants",
+      "source": "linkedin",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159859-staff-enterprise-security-engineer": {
+      "title": "Staff Enterprise Security Engineer",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159843-director-data-science-engineering-finance": {
+      "title": "Director, Data Science & Engineering, Finance",
+      "company": "Dropbox",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
+    },
+    "https://jobicy.com/jobs/159856-director-sales-engineering-3": {
+      "title": "Director, Sales Engineering",
+      "company": "Mattermost",
+      "source": "jobicy",
+      "first_seen": "2026-11-08"
     }
   },
   "applied": {

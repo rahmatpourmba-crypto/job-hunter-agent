@@ -33,6 +33,39 @@
     "phones": []
   },
   {
+    "source": "linkedin",
+    "title": "Senior Blockchain Engineer – Smart Contracts & Custody Infrastructure",
+    "company": "Fam Investment",
+    "location": "Sharjah, Sharjah Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/senior-blockchain-engineer-%E2%80%93-smart-contracts-custody-infrastructure-at-fam-investment-4486689131",
+    "description": "Job Overview We are seeking a highly experienced Senior Blockchain Engineer with proven expertise in smart contract development, cryptocurrency token creation, Ethereum infrastructure, and custody-to-wallet transaction execution. The successful candidate will be responsible for developing and deploying blockchain solutions, auditing and optimizing smart contracts, and troubleshooting complex cryptocurrency transfer operations. The candidate must have strong hands-on experience with existing proprietary custody systems, smart contract integrations, and Ethereum Mainnet transaction execution. Location: Dubai, UAE Experience: 5+ Years Employment Type: Full-Time / Contract Industry: Blockchain, Web3 & Digital Assets Key Responsibilities: 1. Smart Contract Development & Management · Design, develop, deploy, and maintain smart contracts using Solidity. · Develop secure and optimized smart contracts on Ethereum and other EVM-compatible networks. · Debug, test, upgrade, and optimize existing smart contracts. · Implement access controls, multi signature authorization, and secure contract execution. · Investigate smart contract execution failures and transaction reverts. · Integrate smart contracts with custody platforms, wallets, and backend systems. 2. Token Creation & Deployment · Design, develop, and deploy ERC-20 tokens and other applicable token standards. · Implement token minting, burning, transfers, vesting, and distribution mechanisms. · Develop token management and administration systems. · Configure token permissions, ownership, and supply controls. · Integrate tokens with MetaMask, Phantom, and other compatible wallets. · Deploy and verify token contracts on Ethereum Mainnet and supported EVM networks. · Perform token security testing and smart contract verification. 3. Custody Infrastructure & Wallet Transfers · Analyze and troubleshoot existing proprietary cryptocurrency custody infrastructure. · Execute authorized cryptocurrency transfers from custody systems to external wallets. · Diagnose transaction signing, broadcasting, confirmation, and execution issues. · Investigate transaction hashes, RPC errors, nonce conflicts, gas issues, and failed transfers. · Troubleshoot VPS servers, blockchain nodes, APIs, and smart contract integrations. · Ensure successful and verifiable on-chain transaction execution. 4. Blockchain Infrastructure & Backend Integration · Configure and manage Ethereum RPC connections and blockchain node integrations. · Maintain Linux/VPS environments supporting blockchain operations. · Develop backend integrations using Node.js, TypeScript, Python, ethers.js, and web3.py. · Implement secure transaction monitoring and blockchain event tracking. · Optimize transaction processing, reliability, and system performance. 5. Blockchain Security · Apply secure smart contract development practices. · Conduct vulnerability assessments and coordinate smart contract audits. · Implement secure transaction signing and wallet authorization procedures. · Understand MPC, multigeniture wallets, hardware security modules (HSM), and private-key management. · Protect digital assets through appropriate access controls and transaction approval procedures. Required Qualifications: · 5 +years of relevant blockchain experience. · Advanced proficiency in Solidity and Ethereum Virtual Machine (EVM). · Proven experience creating and deploying ERC-20 tokens. · Strong knowledge of smart contract architecture, testing, and security. · Demonstrated experience with custody infrastructure and wallet transaction execution. · Advanced knowledge of Ethereum Mainnet, RPC, transaction lifecycle, and blockchain explorers. · Proficiency in JavaScript/TypeScript, Node.js, Python, ethers.js, and web3.py. · Experience with Hardhat, Foundry, and OpenZeppelin. · Strong Linux/VPS and API troubleshooting skills. · Ability to independently diagnose and resolve complex blockchain infrastructure issues. Candidate Evaluation Applicants should provide: 1. Examples of deployed smart contracts 2. Verified contract addresses on public blockchain explorers. 3. Details of previous custody-to-wallet transfer projects. 4. Examples of complex Ethereum transaction issues successfully resolved. 5. Relevant GitHub repositories, technical portfolios, or professional references. Very competitive salary with attractive bonuses",
+    "published": "",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 16,
+    "title_hits": [
+      "smart contract",
+      "blockchain"
+    ],
+    "desc_hits": [
+      "solidity",
+      "web3",
+      "ethereum",
+      "crypto",
+      "token",
+      "audit",
+      "security",
+      "hardhat"
+    ],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
     "source": "jobicy",
     "title": "Blockchain Security Expert - AI Track",
     "company": "CertiK",
@@ -121,6 +154,33 @@
     "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Staff Enterprise Security Engineer",
+    "company": "Databricks",
+    "location": "USA",
+    "url": "https://jobicy.com/jobs/159859-staff-enterprise-security-engineer",
+    "description": "RDQ227R1176 While candidates in the listed location(s) are encouraged for this role, candidates in other locations (US based) will be considered. Mission Databricks is hiring an L6 Staff Enterprise Security Engineer to expand Enterprise Security coverage across a rapidly evolving enterprise and product environment. This role will focus on securing enterprise applications, cross-system integrations, data flows, and emerging AI-adjacent use cases. The scope includes partnership with the Data team on corporate production development within the Databricks platform, through security reviews of implementation designs, hardening, configuration oversight, and broader enterprise data-security discussions, as well as modern access patterns such as MCP, integration, and trust boundary security, security automation, and broader security engineering support across enterprise platforms and services. This engineer will help identify risk, define practical security requirements, and improve security outcomes through strong technical judgment, hands-on engineering, and cross-functional partnership. Opportunity This role sits at the intersection of enterprise architecture, security engineering, product security partnership, and business enablement. Corporate production development within the Databricks platform remains owned by the Data team; EntSec defines how we engage, reviewing implementation designs, configurations, and data flows as capabilities are built, alongside ongoing enterprise application and integration reviews. The engineer will assess new technologies, integrations, and workflows with an emphasis on secure design, authentication and authorization, data handling, logging, third-party connectivity, API and token security, and operational resilience. The role partners closely with Product Engineering, IT, Legal Privacy, and business stakeholders to surface risk early, set clear requirements, and build automation that scales security coverage. This is a strong opportunity to help shape how Enterprise Security supports Databricks product development, enterprise data security, SaaS, and internal platforms, automation, and AI-connected systems as the environment continues to grow in complexity. Requirements 8+ years of experience in security engineering, enterprise security, application security, cloud security, or a related field. Experience conducting security design or architecture reviews for product features, enterprise applications, SaaS platforms, integrations, or internally developed systems. Hands-on familiarity with the Databricks platform or comparable data/AI platforms (Unity Catalog, workspace governance, service principals, data access patterns). Strong understanding of authentication, authorization, SSO, federation, SCIM, API security, token handling, secrets management, and least privilege design. Experience assessing data flows, third-party integrations, trust boundaries, logging and monitoring, and security controls across interconnected systems. Proven track record building security automation in production: monitoring, posture checks, review workflows, or tooling (Python, SQL, Terraform, or similar). Ability to evaluate risk in modern enterprise environments, including automation platforms, AI-adjacent workflows, and emerging integration patterns such as MCP. Strong written and verbal communication skills, including the ability to translate technical risk into clear requirements and actionable guidance. Experience driving security outcomes through engineering judgment, influence, and scalable process improvement. Familiarity with cloud platforms, enterprise identity systems, and core control domains such as audit logging, encryption, access control, data retention, and incident response. Outcomes OUTCOME 1: Establish a consistent EntSec engagement model with the Data team on corporate production development within the Databricks platform: security review of implementation designs, hardening guidance, configuration oversight, and tracked remediation, while Data retains ownership of product development and delivery. OUTCOME 2: Strengthen security practices across enterprise applications, integration, and data-security reviews by identifying key risks early, improving requirement quality, and helping teams address security issues earlier in the lifecycle, including AI-adjacent workflows, data flows, and integration patterns. OUTCOME 3: Build automation and agent capabilities, including SSPM-style controls and Security AI Personas, that help secure systems from the start, reduce dependency on manual review, and embed security guidance earlier in product and integration lifecycles. Competencies COMPETENCY 1: Product and Design Security Partnership. Partners effectively with product and engineering teams to review implementation designs, surface risk early, and drive practical security requirements without owning product delivery. COMPETENCY 2: Data Security and Technical Judgment. Applies strong security judgment to data flows, platform configurations, access patterns, and enterprise data-security decisions on and across the Databricks platform. COMPETENCY 3: Security Automation and Scalable Engineering. Builds durable automation, monitoring, and tooling that scales EntSec coverage and reduces repeated manual work. Pay Range Transparency Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected base salary range for non-commissionable roles or on-target earnings for commissionable roles. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipated utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . Zone 1 Pay Range $194,800—$267,850 USD Zone 2 Pay Range $175,400—$241,100 USD Zone 3 Pay Range $165,600—$227,700 USD Zone 4 Pay Range $155,800—$214,300 USD About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. Compliance If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone. RDQ227R1176 While candidates in the listed location(s) are encouraged for this role, candidates in other locations (US based) will be considered. Mission Databricks is hiring an L6 Staff Enterprise Security Engineer to expand Enterprise Security coverage across a rapidly evolving enterprise and product environment. This role will focus on securing enterprise applications, cross-system integrations, data…",
+    "published": "2026-11-08",
+    "remote": true,
+    "currency": "USD",
+    "salary_min": 155800,
+    "salary_max": 267850,
+    "score": 10,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi",
+      "token",
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$155,800-$267,850",
     "emails": [],
     "phones": []
   },
@@ -236,8 +296,7 @@
     "emails": [
       "nextbit@agilebits.com"
     ],
-    "phones": [],
-    "about": " ## Secure access for every human and AI agent Visibility and control for humans and AI agents, built on the most trusted vault for identities, credentials, and secrets. ![Image 1](https://images.ctfassets.net/2h488pz7kg"
+    "phones": []
   },
   {
     "source": "jobicy",
@@ -614,56 +673,6 @@
     "gulf_onsite": false,
     "salary_ok": false,
     "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Director, Engineering (Platform)",
-    "company": "Juniper Square",
-    "location": "Canada,  USA",
-    "url": "https://jobicy.com/jobs/159720-director-engineering-platform-2",
-    "description": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platform that helps GPs move faster, make better decisions, and scale with precision. With $300B+ under administration and 700,000+ LPs on platform, we’ve built the scale to match our ambition. And with JunieAI, our purpose-built AI platform, we’re reimagining how private markets operate, embedding intelligence across every workflow. Founder-led since 2014, backed by $350M+ in funding, and now 1,000+ employees strong, we’re building a company designed to shape the future of private markets for decades to come. Our culture is built for people who want to do ambitious, meaningful work alongside exceptionally talented teammates. We think like owners, move with urgency, and take pride in solving hard problems that truly matter to our customers and the future of private markets. We believe the best ideas come from open debate, deep collaboration, and diverse perspectives, which is why we believe transparency is the default and feedback makes us stronger. If you’re energized by high standards, rapid growth, and the opportunity to help define a category at a pivotal moment, come join us! Juniper Square offers employees a variety of ways to work, ranging from a fully remote experience to working full-time in one of our physical offices. We invest heavily in digital-first operations, allowing our teams to collaborate effectively across 27 U.S. states, 2 Canadian Provinces, India, Luxembourg, and England. We also have physical offices in San Francisco, New York City, Mumbai and Bangalore for employees who prefer to work in an office some or all of the time. About your role As the Director, Engineering you will lead the vision and execution for the foundational systems that power our entire engineering organization. Your mandate spans four critical pillars: architecting the modularization of our core Python/FastAPI monolith, accelerating our transition to an AI-native engineering culture, empowering product teams with tools to build AI-enabled features, and establishing a robust Application Security (AppSec) posture. You will manage a group of engineering managers and staff engineers. You will act as a strategic multiplier for the company, treating our internal platform as a top-tier product. Your ultimate goal is to create secure, high-velocity \"paved paths\" that make our product teams incredibly fast, while systematically reducing technical debt and security risks. What you'll do Direct the Monolith Evolution: Own the multi-year technical strategy to safely decouple our legacy Python/Jinja monolith into a modern, modular FastAPI architecture using Domain-Driven Design and zero-downtime database migration tactics. Drive the AI-Native SDLC: Champion the rollout and adoption of AI-assisted coding tools and AI-augmented workflows across the entire engineering organization, systematically measuring and improving developer productivity. Enable AI Feature Development: Treat the internal platform as a product. Guide the development of intuitive SDKs, data pipelines, and internal tools that reduce cognitive load and allow product engineers to easily integrate LLMs and build AI-powered features. Lead Application Security (AppSec): Champion a \"shift-left\" security culture. Embed secure coding practices, automated vulnerability scanning, and threat modeling directly into developer workflows, ensuring our core platform is resilient against modern threats. Oversee Core Shared Services: Drive the scale, security, and reliability of enterprise-critical systems, including Identity (AuthN/AuthZ, OAuth2, RBAC), Audit Logs, and high-throughput API & MCP Gateways. Navigate Org-Wide Boundaries: Negotiate complex refactoring timelines with Product leaders and collaborate seamlessly with other Engineering teams and DevOps to align our platform capabilities with infrastructure. Build a World-Class Organization: Recruit, mentor, and grow a high-performing organization of engineering managers and staff/principal engineers, fostering a culture of architectural pragmatism and deep developer empathy. Qualifications 15+ years of software engineering experience, with at least 5+ years in engineering leadership, including explicitly managing managers and leading multiple teams. High AI Fluency: Proven experience architecting systems that support AI features (LLMs, RAG, tool calling) and a track record of driving AI-assisted development tools (AI SDLC) across engineering teams. An executive track record of successfully guiding massive monolith-to-modular migrations and decoupling shared database schemas in high-traffic, business-critical environments. Deep strategic understanding of Application Security principles, Identity/Access Management (OAuth 2.0, OIDC), and modern API traffic management. Strong technical fluency in Python and FastAPI ecosystems, with the ability to guide Staff-level engineers through complex architectural decisions involving both modern APIs and legacy applications. Exceptional executive communication skills, with the ability to translate complex technical, security, and AI trade-offs into business value. Compensation Compensation for this position includes a base salary, bonus, equity and a variety of benefits. The U.S. base salary range is $230,000 - $285,000 USD. Actual base salaries will be based on candidate-specific factors, including experience, skillset, and location, and local minimum pay requirements as applicable. Benefits include: Health, dental, and vision care for you and your family Life insurance Mental wellness coverage Fertility and growing family support Flex Time Off in addition to company-paid holidays Paid family leave, medical leave, and bereavement leave policies Retirement saving plans Allowance to customize your work and technology setup at home Annual professional development stipend Your recruiter can provide additional details about compensation and benefits. About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platform that helps GPs move faster, make…",
-    "published": "2026-11-08",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 230000,
-    "salary_max": 350000,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "defi",
-      "audit",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$230,000-$350,000",
-    "emails": [],
-    "phones": []
-  },
-  {
-    "source": "jobicy",
-    "title": "Cloud AI Engineer (Legal & Compliance)",
-    "company": "Binance",
-    "location": "USA",
-    "url": "https://jobicy.com/jobs/159740-cloud-ai-engineer-legal-compliance",
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. About The Role This role works on Americas business hours, with a schedule that overlaps with our Legal, Compliance, and MLRO teams. Legal and Compliance is building AI tools to support our regulatory work, helping the team review policies, track launch requirements, and manage complex legal documents more efficiently. In this role, you’ll design and evaluate the LLM and retrieval systems that support these tasks, with all outputs reviewed by our Legal and Compliance professionals. You’ll have room to experiment, prototype quickly, and help shape how the team uses these tools. What You’ll Do Work closely with Legal, Compliance, and the MLRO to support internal compliance policy reviews, files delivery, remediation tracking, and technical support. Track compliance-related requirements for new product and service launches, and coordinate action items with relevant stakeholders. Partner with Legal and Compliance teams to identify, design, and implement AI-driven solutions that improve the efficiency and scalability of compliance and legal operations. Use the enhance intelligent systems leveraging LLMs, RAG, agentic workflows, long-term memory, tool use, subagents, and multi-agent architectures for handling law files. Develop benchmark frameworks and evaluation methodologies for legal and compliance AI systems, including benchmark dataset construction, annotation strategy design, and performance measurement. Continuously evaluate and improve systems across retrieval quality, latency, groundedness, factuality, and task success metrics. Conduct independent research and rapidly prototype new ideas to solve ambiguous legal and compliance workflow challenges. Support related administrative and operational activities in accordance with company compliance requirements. What We’re Looking For Solid experience in compliance technology, legal technology, regulatory technology, or software/application development supporting compliance or legal functions. Strong understanding of relevant compliance rules, regulations, and day-to-day compliance operations. Bachelor’s degree in relevant field is require, i.e AI, Computer Science. Hands-on experience building production RAG systems, including embeddings, vector databases, hybrid search, reranking, chunking strategies, text preprocessing, and multimodal parsing. Strong understanding of LLM and agent fundamentals, including prompt engineering, context engineering, memory, planning, tool use, MCP, and multi-agent systems. Demonstrated ability to conduct independent research, solve ambiguous problems, and rapidly prototype practical solutions. Strong written and verbal communication skills. Nice to Haves You have experience working in a legal/compliance related firm or domain Experience implementing advanced Agentic RAG approaches such as Self-RAG, Corrective RAG, adaptive retrieval, and multi-hop reasoning workflows. Bilingual English/Mandarin is a nice to have, so you will be able to coordinate with overseas partners and stakeholders. Annual Base Salary $186,300—$347,300 USD Why Binance Shape the future of finance Collaborate with world-class talent in a user-centric global organization with a flat structure Tackle challenging projects in a fast-paced and innovative enviornment with autonomy Thrive in a results-driven workplace with opportunities for career growth and continuous learning Competitive salary and company benefits Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you acknowledge that you have read our Candidate Privacy Notice . We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance…",
-    "published": "2026-11-08",
-    "remote": true,
-    "currency": "USD",
-    "salary_min": 186300,
-    "salary_max": 347300,
-    "score": 7,
-    "title_hits": [],
-    "desc_hits": [
-      "blockchain",
-      "crypto",
-      "security"
-    ],
-    "gulf_onsite": false,
-    "salary_ok": true,
-    "salary_str": "$186,300-$347,300",
     "emails": [],
     "phones": []
   }

@@ -33,27 +33,30 @@
   },
   {
     "source": "linkedin",
-    "title": "HSE Manager/Safety Manager",
-    "company": "KBR, Inc.",
-    "location": "Jubail, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/hse-manager-safety-manager-at-kbr-inc-4486247199",
+    "title": "Environment, Health and Safety Manager",
+    "company": "Confidentiel",
+    "location": "Dammam, Eastern, Saudi Arabia",
+    "url": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-confidentiel-4484925479",
     "description": "",
-    "published": "2026-11-06",
+    "published": "2026-10-29",
     "remote": false,
     "currency": null,
     "salary_min": null,
     "salary_max": null,
     "score": 6,
     "title_hits": [
-      "hse",
-      "safety manager"
+      "safety manager",
+      "health and safety"
     ],
     "desc_hits": [],
     "gulf_onsite": true,
     "salary_ok": false,
     "salary_str": "",
     "emails": [],
-    "phones": []
+    "phones": [
+      "+17813736847"
+    ],
+    "about": "To purchase, call Afternic.com at +1 781-373-6847 or 855-201-2286."
   },
   {
     "source": "linkedin",
@@ -105,33 +108,6 @@
     ],
     "phones": [],
     "emails_source": "wood.com"
-  },
-  {
-    "source": "linkedin",
-    "title": "Environment, Health and Safety Manager",
-    "company": "Confidentiel",
-    "location": "Dammam, Eastern, Saudi Arabia",
-    "url": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-confidentiel-4484925479",
-    "description": "",
-    "published": "2026-10-29",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 6,
-    "title_hits": [
-      "safety manager",
-      "health and safety"
-    ],
-    "desc_hits": [],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": [
-      "+17813736847"
-    ],
-    "about": "To purchase, call Afternic.com at +1 781-373-6847 or 855-201-2286."
   },
   {
     "source": "linkedin",
@@ -568,6 +544,29 @@
     "url": "https://ae.linkedin.com/jobs/view/hse-director-engineering-at-parsons-corporation-4481556689",
     "description": "",
     "published": "2026-10-21",
+    "remote": false,
+    "currency": null,
+    "salary_min": null,
+    "salary_max": null,
+    "score": 3,
+    "title_hits": [
+      "hse"
+    ],
+    "desc_hits": [],
+    "gulf_onsite": true,
+    "salary_ok": false,
+    "salary_str": "",
+    "emails": [],
+    "phones": []
+  },
+  {
+    "source": "linkedin",
+    "title": "Manager-HSE",
+    "company": "Penspen",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://ae.linkedin.com/jobs/view/manager-hse-at-penspen-4411574523",
+    "description": "",
+    "published": "2026-11-01",
     "remote": false,
     "currency": null,
     "salary_min": null,
