@@ -33,39 +33,6 @@
     "phones": []
   },
   {
-    "source": "linkedin",
-    "title": "Senior Blockchain Engineer – Smart Contracts & Custody Infrastructure",
-    "company": "Fam Investment",
-    "location": "Sharjah, Sharjah Emirate, United Arab Emirates",
-    "url": "https://ae.linkedin.com/jobs/view/senior-blockchain-engineer-%E2%80%93-smart-contracts-custody-infrastructure-at-fam-investment-4486689131",
-    "description": "Job Overview We are seeking a highly experienced Senior Blockchain Engineer with proven expertise in smart contract development, cryptocurrency token creation, Ethereum infrastructure, and custody-to-wallet transaction execution. The successful candidate will be responsible for developing and deploying blockchain solutions, auditing and optimizing smart contracts, and troubleshooting complex cryptocurrency transfer operations. The candidate must have strong hands-on experience with existing proprietary custody systems, smart contract integrations, and Ethereum Mainnet transaction execution. Location: Dubai, UAE Experience: 5+ Years Employment Type: Full-Time / Contract Industry: Blockchain, Web3 & Digital Assets Key Responsibilities: 1. Smart Contract Development & Management · Design, develop, deploy, and maintain smart contracts using Solidity. · Develop secure and optimized smart contracts on Ethereum and other EVM-compatible networks. · Debug, test, upgrade, and optimize existing smart contracts. · Implement access controls, multi signature authorization, and secure contract execution. · Investigate smart contract execution failures and transaction reverts. · Integrate smart contracts with custody platforms, wallets, and backend systems. 2. Token Creation & Deployment · Design, develop, and deploy ERC-20 tokens and other applicable token standards. · Implement token minting, burning, transfers, vesting, and distribution mechanisms. · Develop token management and administration systems. · Configure token permissions, ownership, and supply controls. · Integrate tokens with MetaMask, Phantom, and other compatible wallets. · Deploy and verify token contracts on Ethereum Mainnet and supported EVM networks. · Perform token security testing and smart contract verification. 3. Custody Infrastructure & Wallet Transfers · Analyze and troubleshoot existing proprietary cryptocurrency custody infrastructure. · Execute authorized cryptocurrency transfers from custody systems to external wallets. · Diagnose transaction signing, broadcasting, confirmation, and execution issues. · Investigate transaction hashes, RPC errors, nonce conflicts, gas issues, and failed transfers. · Troubleshoot VPS servers, blockchain nodes, APIs, and smart contract integrations. · Ensure successful and verifiable on-chain transaction execution. 4. Blockchain Infrastructure & Backend Integration · Configure and manage Ethereum RPC connections and blockchain node integrations. · Maintain Linux/VPS environments supporting blockchain operations. · Develop backend integrations using Node.js, TypeScript, Python, ethers.js, and web3.py. · Implement secure transaction monitoring and blockchain event tracking. · Optimize transaction processing, reliability, and system performance. 5. Blockchain Security · Apply secure smart contract development practices. · Conduct vulnerability assessments and coordinate smart contract audits. · Implement secure transaction signing and wallet authorization procedures. · Understand MPC, multigeniture wallets, hardware security modules (HSM), and private-key management. · Protect digital assets through appropriate access controls and transaction approval procedures. Required Qualifications: · 5 +years of relevant blockchain experience. · Advanced proficiency in Solidity and Ethereum Virtual Machine (EVM). · Proven experience creating and deploying ERC-20 tokens. · Strong knowledge of smart contract architecture, testing, and security. · Demonstrated experience with custody infrastructure and wallet transaction execution. · Advanced knowledge of Ethereum Mainnet, RPC, transaction lifecycle, and blockchain explorers. · Proficiency in JavaScript/TypeScript, Node.js, Python, ethers.js, and web3.py. · Experience with Hardhat, Foundry, and OpenZeppelin. · Strong Linux/VPS and API troubleshooting skills. · Ability to independently diagnose and resolve complex blockchain infrastructure issues. Candidate Evaluation Applicants should provide: 1. Examples of deployed smart contracts 2. Verified contract addresses on public blockchain explorers. 3. Details of previous custody-to-wallet transfer projects. 4. Examples of complex Ethereum transaction issues successfully resolved. 5. Relevant GitHub repositories, technical portfolios, or professional references. Very competitive salary with attractive bonuses",
-    "published": "",
-    "remote": false,
-    "currency": null,
-    "salary_min": null,
-    "salary_max": null,
-    "score": 16,
-    "title_hits": [
-      "smart contract",
-      "blockchain"
-    ],
-    "desc_hits": [
-      "solidity",
-      "web3",
-      "ethereum",
-      "crypto",
-      "token",
-      "audit",
-      "security",
-      "hardhat"
-    ],
-    "gulf_onsite": true,
-    "salary_ok": false,
-    "salary_str": "",
-    "emails": [],
-    "phones": []
-  },
-  {
     "source": "jobicy",
     "title": "Blockchain Security Expert - AI Track",
     "company": "CertiK",
@@ -323,6 +290,35 @@
     "salary_str": "$152,000-$500,000",
     "emails": [
       "nextbit@agilebits.com"
+    ],
+    "phones": []
+  },
+  {
+    "source": "jobicy",
+    "title": "Security Engineer",
+    "company": "Caylent",
+    "location": "Argentina",
+    "url": "https://jobicy.com/jobs/159882-security-engineer-5",
+    "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production. Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first. We are a fully remote global company with employees in Canada, the United States and Latin America. We celebrate the culture of each of our team members and foster a community of technological curiosity. Come talk to us to learn more about what it means to be a Caylien! The Mission We are seeking a talented Security Engineer to join our growing Security team. The right candidate is someone who has a mix of AWS skills, networking familiarity, curiosity in emerging AI technologies, and a knack for tying it all together securely. ... Your mission will be helping improve Caylent’s security and compliance posture across AWS and various SaaS environments, improving our vulnerability management processes, and keeping Caylent safe against an onslaught of ever-evolving actors and tactics. Your Assignment Review or conduct regular security and vulnerability assessments leveraging automated and non-automated methods on cloud-based and mobile workloads. Periodically monitor/audit implementations and ensure they are functioning properly. Identify and advise on technical security requirements, review and approve security architecture and control implementations Research security standards/tools Develop, update, and/or review Security Assessment Reports Develop and tune automated tests and rules, and monitor alerts and alarms for deviations from security standards, particularly using AWS tools such as Inspector, CloudTrail, CloudWatch, GuardDuty, Lambda, and Security Hub. Identifying, engineering, and building/updating/integrating new and existing security tooling, including cloud-native services Advise project teams on current and projected technical security risks, and recommend mitigation strategies to control risk. Assist internal development teams in defining and updating application threat models and in interpreting security policies, standards, and control requirements. Design vulnerability scans of cloud-based and mobile applications and infrastructure to identify weaknesses, coordinate with app teams to confirm validity of findings, and recommend and assist with mitigations as needed. Work with the security governance team to develop and interpret security standards, and build automated and self-service capabilities that validate application security and compliance status against these standards Research and identify best practices to harden and secure cloud workloads including cloud native, containers, and Kubernetes clusters at scale Coordinate the work of junior team members performing routine and non-routine tasks within the security program. Develop and perform developer-focused training in support of security program goals Support the SecOps on call team for incident response Your Qualifications Bachelor's Degree or 2-4 years experience in IT / security roles 3+ years of experience in AWS or other public cloud environments Security+ and/or some other security certifications Experience with IAC languages such as YAML, Terraform, and/or CDK. Experience with scripting languages and tools (bash, powershell, etc) Experience using a modern programming language such as Python, Node.js (preferredD) Others (optional): Typescript, GoLang, Java, C#, Rust, etc Experience working with software and app teams throughout the full Software Development Lifecycle (SDLC) Experience with code-defined infrastructure, configuration management tools, and CI/CD AWS security tooling for scanning, monitoring and alerting tools (Inspector, CloudTrail, CloudWatch, GuardDuty, Lambda, Security Hub) A thorough understanding of operational best practices for security in the cloud Familiarity with containerization patterns with services like ECS, EKS, Fargate, Kubernetes, etc. Proven experience building security reference architecture for all-in AWS cloud deployments A solid understanding of network and web-related protocols (e.g., TCP/IP, UDP, IPSEC, SSL, HTTP, HTTPS, routing protocols) You are comfortable working independently as well as in a collaborative team environment as situation demands Effective verbal and written communication skills Experience with Cloud Native patterns with services like AWS Lambda, API Gateway, etc. Familiarity with and day-to-day knowledge of AI tooling such as Claude and Chatgpt. Preferred Qualifications AWS Security Specialty or Professional Level Certification and/or an Anthropic certification. Ability to explain/showcase how AI has transformed workloads / processes for you. Experience in a consultative, client-facing consulting role Strong sense of ownership, urgency, and drive Experience and a familiarity of application frameworks such as (RMF, FedRAMP, DoD CC SRG, NIST 800-53, NIST 800-171) Previous experience providing training in RMF or explaining cyber security concepts to others in a training like environment Datadog experience Experience with being on-call / part of an on-call rotation Benefits Pay in USD 100% remote work Generous holidays and flexible PTO Competitive phantom equity Paid for exams and certifications Peer bonus awards State of the art laptop and tools Equipment & Office Stipend Individual professional development plan Annual stipend for Learning and Development Work with an amazing worldwide team and in an incredible corporate culture NOTE: This position requires current legal authorization to work in the country where this position is located. Caylent is not able to sponsor visa or work permit applications at this time. At Caylent, we are committed to fair, transparent, and inclusive hiring practices. As part of our recruitment process, we may use artificial intelligence (AI) tools or automated systems to assist with the screening and evaluation of applications to help match candidate qualifications with job requirements. These tools are designed to support — not replace — human decision-making. Final hiring decisions are always made by our trained recruitment professionals. If an AI or automated tool is used during your application process, it will only be in accordance with applicable laws and regulations, and your information will be handled in a secure and confidential manner. If you have any questions, please contact talent@caylent.com Caylent is a place where everyone belongs. We celebrate diversity and are committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at Caylent. We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at hr@caylent.com. Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and…",
+    "published": "2026-11-08",
+    "remote": true,
+    "currency": "usd",
+    "salary_min": 100000,
+    "salary_max": 100000,
+    "score": 9,
+    "title_hits": [
+      "security"
+    ],
+    "desc_hits": [
+      "defi",
+      "audit"
+    ],
+    "gulf_onsite": false,
+    "salary_ok": true,
+    "salary_str": "$100,000-$100,000",
+    "emails": [
+      "talent@caylent.com",
+      "hr@caylent.com"
     ],
     "phones": []
   },
