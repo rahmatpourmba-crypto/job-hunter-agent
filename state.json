@@ -15396,6 +15396,13 @@
       "to": "nextbit@agilebits.com",
       "title": "Senior Staff Product Manager, Device Security",
       "company": "1Password"
+    },
+    "https://jobicy.com/jobs/159882-security-engineer-5::email": {
+      "date": "2026-11-09 08:23",
+      "via": "email",
+      "to": "talent@caylent.com",
+      "title": "Security Engineer",
+      "company": "Caylent"
     }
   },
   "sent": {
@@ -16208,6 +16215,11 @@
       "kind": "email",
       "to": "nextbit@agilebits.com",
       "date": "2026-11-08 17:12"
+    },
+    "https://jobicy.com/jobs/159882-security-engineer-5": {
+      "kind": "email",
+      "to": "talent@caylent.com",
+      "date": "2026-11-09 08:23"
     }
   },
   "replies": []
