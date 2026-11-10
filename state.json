@@ -14525,6 +14525,102 @@
       "company": "Caylent",
       "source": "jobicy",
       "first_seen": "2026-11-10"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4489439916": {
+      "title": "HSE Engineer (Chinese Speaker )",
+      "company": "Wood",
+      "source": "linkedin",
+      "first_seen": "2026-11-10"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-datacentre-exposure-at-atkinsr%C3%A9alis-4489451070": {
+      "title": "HSE Manager - Datacentre exposure",
+      "company": "AtkinsRéalis",
+      "source": "linkedin",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161054-director-industry-practice-lead-corporate-enterprise": {
+      "title": "Director, Industry Practice Lead - Corporate Enterprise",
+      "company": "Panopto",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161033-senior-threat-intelligence-analyst": {
+      "title": "Senior Threat Intelligence Analyst",
+      "company": "Recorded Future, Inc.",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161048-account-manager-americas": {
+      "title": "Account Manager, Americas",
+      "company": "Panopto",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161035-senior-cloud-architect": {
+      "title": "Senior Cloud Architect",
+      "company": "Caylent",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161022-site-reliability-engineer-6": {
+      "title": "Site Reliability Engineer",
+      "company": "Orkes",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161030-content-communications-intern": {
+      "title": "Content & Communications Intern",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161109-staff-corporate-it-engineer": {
+      "title": "Staff Corporate IT Engineer",
+      "company": "Wellhub",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161063-senior-software-engineer-ai-native-engineering-xtm-foundation": {
+      "title": "Senior Software Engineer — AI-Native Engineering (XTM Foundation)",
+      "company": "Filigran",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160997-developer-marketing-manager-blocks-network": {
+      "title": "Developer Marketing Manager, Blocks Network",
+      "company": "PubNub",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161147-senior-reliability-engineer": {
+      "title": "Senior Reliability Engineer",
+      "company": "Halter",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161072-customer-success-specialist-i-spanish-bilingual": {
+      "title": "Customer Success Specialist I (Spanish Bilingual)",
+      "company": "Palmetto Clean Technology",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161047-staff-web-engineer-marketing": {
+      "title": "Staff Web Engineer, Marketing",
+      "company": "Deepgram",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161041-senior-forward-deployed-engineer-3": {
+      "title": "Senior Forward Deployed Engineer",
+      "company": "Caylent",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://sa.linkedin.com/jobs/view/business-development-manager-%E2%80%93-real-estate-tokenization-at-bkn301-4487485541": {
+      "title": "Business Development Manager – Real Estate Tokenization",
+      "company": "BKN301",
+      "source": "linkedin",
+      "first_seen": "2026-11-10"
     }
   },
   "applied": {
@@ -15857,6 +15953,13 @@
       "to": "https://www.big.com/contact",
       "title": "HSEQ Officer - Healthcare Facilities Management",
       "company": "Big Fish Recruitment"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4489439916::email": {
+      "date": "2026-11-10 17:14",
+      "via": "email",
+      "to": "info@wood.com",
+      "title": "HSE Engineer (Chinese Speaker )",
+      "company": "Wood"
     }
   },
   "sent": {
@@ -16694,6 +16797,11 @@
       "kind": "contact_form",
       "to": "big.com",
       "date": "2026-11-10 09:20"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-engineer-chinese-speaker-at-wood-4489439916": {
+      "kind": "email",
+      "to": "info@wood.com",
+      "date": "2026-11-10 17:14"
     }
   },
   "replies": []
