@@ -14465,6 +14465,66 @@
       "company": "Quest Analytics",
       "source": "jobicy",
       "first_seen": "2026-11-10"
+    },
+    "https://sa.linkedin.com/jobs/view/safety-officer-at-multilink-management-consultants-4489430828": {
+      "title": "Safety Officer",
+      "company": "Multilink Management Consultants",
+      "source": "linkedin",
+      "first_seen": "2026-11-10"
+    },
+    "https://www.gulftalent.com/uae/jobs/hseq-officer-healthcare-facilities-management-655749": {
+      "title": "HSEQ Officer - Healthcare Facilities Management",
+      "company": "Big Fish Recruitment",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-11-10"
+    },
+    "https://www.gulftalent.com/uae/jobs/fire-systems-engineer-healthcare-facilities-management-655753": {
+      "title": "Fire Systems Engineer - Healthcare Facilities Management",
+      "company": "Big Fish Recruitment",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160797-internal-audit-latam": {
+      "title": "Internal Audit- Latam",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160792-senior-software-engineer-23": {
+      "title": "Senior Software Engineer",
+      "company": "Cloudbeds",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160799-operations-manager-brazil": {
+      "title": "Operations Manager, Brazil",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160791-customer-service-representative-spanish-english": {
+      "title": "Customer Service Representative ( Spanish / English)",
+      "company": "Binance",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160794-software-engineer-console": {
+      "title": "Software Engineer - Console",
+      "company": "XBOW",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160721-senior-software-engineer-operations-tools-al-enablement": {
+      "title": "Senior Software Engineer, Operations Tools & Al Enablement",
+      "company": "Serve Robotics",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160802-senior-engineer": {
+      "title": "Senior Engineer",
+      "company": "Caylent",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
     }
   },
   "applied": {
@@ -15790,6 +15850,13 @@
       "to": "nextbit@agilebits.com",
       "title": "Senior Product Marketing Manager, Agentic Identity Security (Apono)",
       "company": "1Password"
+    },
+    "https://www.gulftalent.com/uae/jobs/hseq-officer-healthcare-facilities-management-655749::contact_form": {
+      "date": "2026-11-10 09:20",
+      "via": "contact_form",
+      "to": "https://www.big.com/contact",
+      "title": "HSEQ Officer - Healthcare Facilities Management",
+      "company": "Big Fish Recruitment"
     }
   },
   "sent": {
@@ -16622,6 +16689,11 @@
       "kind": "email",
       "to": "nextbit@agilebits.com",
       "date": "2026-11-10 02:00"
+    },
+    "https://www.gulftalent.com/uae/jobs/hseq-officer-healthcare-facilities-management-655749": {
+      "kind": "contact_form",
+      "to": "big.com",
+      "date": "2026-11-10 09:20"
     }
   },
   "replies": []
