@@ -14621,6 +14621,36 @@
       "company": "BKN301",
       "source": "linkedin",
       "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161168-senior-software-engineer-full-stack-2": {
+      "title": "Senior Software Engineer, Full Stack",
+      "company": "Osano",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161160-sales-manager-7": {
+      "title": "Sales Manager",
+      "company": "Osano",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161171-qa-engineer-6": {
+      "title": "QA Engineer",
+      "company": "Neuroscale AI",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161189-sales-development-representative-spanish-portuguese-speaker": {
+      "title": "Sales Development Representative (Spanish & Portuguese Speaker)",
+      "company": "Canonical",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/161188-sales-development-representative-16": {
+      "title": "Sales Development Representative",
+      "company": "Canonical",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
     }
   },
   "applied": {
@@ -15960,6 +15990,20 @@
       "to": "info@wood.com",
       "title": "HSE Engineer (Chinese Speaker )",
       "company": "Wood"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4489112684::email": {
+      "date": "2026-11-10 22:29",
+      "via": "email",
+      "to": "cybersecurity@parsons.com",
+      "title": "HSE Manager",
+      "company": "Parsons Corporation"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-supervisor-at-eni-4489136210::email": {
+      "date": "2026-11-10 22:29",
+      "via": "email",
+      "to": "apolloni_selezione@eni.com",
+      "title": "HSE Supervisor",
+      "company": "Eni"
     }
   },
   "sent": {
@@ -16802,6 +16846,16 @@
       "kind": "email",
       "to": "info@wood.com",
       "date": "2026-11-10 17:14"
+    },
+    "https://ae.linkedin.com/jobs/view/hse-manager-at-parsons-corporation-4489112684": {
+      "kind": "email",
+      "to": "cybersecurity@parsons.com",
+      "date": "2026-11-10 22:29"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-supervisor-at-eni-4489136210": {
+      "kind": "email",
+      "to": "apolloni_selezione@eni.com",
+      "date": "2026-11-10 22:29"
     }
   },
   "replies": []
