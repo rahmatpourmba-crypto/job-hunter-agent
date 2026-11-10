@@ -14303,6 +14303,168 @@
       "company": "Quickex",
       "source": "linkedin",
       "first_seen": "2026-11-09"
+    },
+    "https://iq.linkedin.com/jobs/view/hse-supervisor-at-eni-4489136210": {
+      "title": "HSE Supervisor",
+      "company": "Eni",
+      "source": "linkedin",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160301-staff-security-engineer-security-incident-response": {
+      "title": "Staff Security Engineer, Security Incident Response",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160326-senior-product-marketing-manager-agentic-identity-security-apono": {
+      "title": "Senior Product Marketing Manager, Agentic Identity Security (Apono)",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160312-principal-security-field-engineer-2": {
+      "title": "Principal Security Field Engineer",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160303-staff-platform-engineer-3": {
+      "title": "Staff Platform Engineer",
+      "company": "Redox",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160699-senior-project-manager-emea-or-usa": {
+      "title": "Senior Project Manager (EMEA or USA)",
+      "company": "Panopto",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160309-senior-sales-engineer-enterprise-west-2": {
+      "title": "Senior Sales Engineer - Enterprise (West)",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160313-senior-security-engineer-infrastructure-security": {
+      "title": "Senior Security Engineer, Infrastructure Security",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160300-senior-security-engineer-dfir": {
+      "title": "Senior Security Engineer, DFIR",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160320-senior-director-corporate-counsel": {
+      "title": "Senior Director, Corporate Counsel",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160306-manager-field-engineering-global-telecommunications-2": {
+      "title": "Manager, Field Engineering - Global Telecommunications",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160319-staff-product-manager-us-public-sector": {
+      "title": "Staff Product Manager, US Public Sector",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160314-senior-communications-manager": {
+      "title": "Senior Communications Manager",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160293-developer-enterprise-tenants-and-policies": {
+      "title": "Developer, Enterprise Tenants and Policies",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160323-senior-digital-customer-success-campaign-manager": {
+      "title": "Senior Digital Customer Success Campaign Manager",
+      "company": "1Password",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160322-staff-security-assurance-engineer": {
+      "title": "Staff Security Assurance Engineer",
+      "company": "Databricks",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160308-senior-ai-developer": {
+      "title": "Senior AI Developer",
+      "company": "ClickUp",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160705-integrations-engineer": {
+      "title": "Integrations Engineer",
+      "company": "Cloudbeds",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160703-key-account-executive": {
+      "title": "Key Account Executive",
+      "company": "Geotab",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160696-senior-competitive-intelligence-analyst": {
+      "title": "Senior Competitive Intelligence Analyst",
+      "company": "Filigran",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160693-commercial-counsel-5": {
+      "title": "Commercial Counsel",
+      "company": "Notabene",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160688-rd-global-director": {
+      "title": "R&D Global Director",
+      "company": "FreeBalance",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160686-senior-software-engineer-opencrq": {
+      "title": "Senior Software Engineer - OpenCRQ",
+      "company": "Filigran",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160307-product-manager-senior-regulatory": {
+      "title": "Product Manager, Senior - Regulatory",
+      "company": "Quest Analytics",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160679-customer-success-manager-elai-uk-eu-or-the-americas": {
+      "title": "Customer Success Manager, Elai (UK, EU, or the Americas)",
+      "company": "Panopto",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160678-finance-operations-automation-analyst-billing": {
+      "title": "Finance Operations & Automation Analyst (Billing)",
+      "company": "Swap",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
+    },
+    "https://jobicy.com/jobs/160291-platform-product-manager-healthcare-saas": {
+      "title": "Platform Product Manager - Healthcare SaaS",
+      "company": "Quest Analytics",
+      "source": "jobicy",
+      "first_seen": "2026-11-10"
     }
   },
   "applied": {
@@ -15614,6 +15776,20 @@
       "to": "cybersecurity@parsons.com",
       "title": "HSE Engineer",
       "company": "Parsons Corporation"
+    },
+    "https://jobicy.com/jobs/160301-staff-security-engineer-security-incident-response::email": {
+      "date": "2026-11-10 02:00",
+      "via": "email",
+      "to": "nextbit@agilebits.com",
+      "title": "Staff Security Engineer, Security Incident Response",
+      "company": "1Password"
+    },
+    "https://jobicy.com/jobs/160326-senior-product-marketing-manager-agentic-identity-security-apono::email": {
+      "date": "2026-11-10 02:00",
+      "via": "email",
+      "to": "nextbit@agilebits.com",
+      "title": "Senior Product Marketing Manager, Agentic Identity Security (Apono)",
+      "company": "1Password"
     }
   },
   "sent": {
@@ -16436,6 +16612,16 @@
       "kind": "email",
       "to": "cybersecurity@parsons.com",
       "date": "2026-11-09 19:01"
+    },
+    "https://jobicy.com/jobs/160301-staff-security-engineer-security-incident-response": {
+      "kind": "email",
+      "to": "nextbit@agilebits.com",
+      "date": "2026-11-10 02:00"
+    },
+    "https://jobicy.com/jobs/160326-senior-product-marketing-manager-agentic-identity-security-apono": {
+      "kind": "email",
+      "to": "nextbit@agilebits.com",
+      "date": "2026-11-10 02:00"
     }
   },
   "replies": []
