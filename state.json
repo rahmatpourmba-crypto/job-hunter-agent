@@ -14657,6 +14657,18 @@
       "company": "Knack",
       "source": "weworkremotely",
       "first_seen": "2026-11-11"
+    },
+    "https://www.gulftalent.com/uae/jobs/qa-qc-engineer-and-hse-engineer-infrastructure-dubai-656248": {
+      "title": "QA/QC Engineer and HSE Engineer – Infrastructure, Dubai",
+      "company": "Guildhall",
+      "source": "gulftalent_uae",
+      "first_seen": "2026-11-11"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-smart-contract-engineer-at-conveyor-finance-4487823500": {
+      "title": "Senior Smart Contract Engineer",
+      "company": "Conveyor Finance",
+      "source": "linkedin",
+      "first_seen": "2026-11-11"
     }
   },
   "applied": {
@@ -16010,6 +16022,13 @@
       "to": "apolloni_selezione@eni.com",
       "title": "HSE Supervisor",
       "company": "Eni"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-smart-contract-engineer-at-conveyor-finance-4487823500::email": {
+      "date": "2026-11-11 09:43",
+      "via": "email",
+      "to": "info@conveyor.com",
+      "title": "Senior Smart Contract Engineer",
+      "company": "Conveyor Finance"
     }
   },
   "sent": {
@@ -16862,6 +16881,11 @@
       "kind": "email",
       "to": "apolloni_selezione@eni.com",
       "date": "2026-11-10 22:29"
+    },
+    "https://ae.linkedin.com/jobs/view/senior-smart-contract-engineer-at-conveyor-finance-4487823500": {
+      "kind": "email",
+      "to": "info@conveyor.com",
+      "date": "2026-11-11 09:43"
     }
   },
   "replies": []
